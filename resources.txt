@@ -1,0 +1,105 @@
+key: bishop
+title: Pattern Recognition and Machine Learning
+location: http://research.microsoft.com/en-us/um/people/cmbishop/prml/
+resource_type: textbook
+free: 0
+
+key: gelman
+title: Bayesian Data Analysis
+location: http://www.stat.columbia.edu/~gelman/book/
+resource_type: textbook
+free: 0
+
+key: coursera_hinton
+title: Coursera: Neural Networks for Machine Learning
+location: https://www.coursera.org/course/neuralnets
+resource_type: online lectures
+free: 1
+note: course must be in session
+
+key: barber
+title: Bayesian Reasoning and Machine Learning
+location: http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
+resource_type: online textbook
+free: 1
+
+key: murphy
+title: Machine Learning: a Probabilistic Perspective
+location: http://www.cs.ubc.ca/~murphyk/MLbook/index.html
+resource_type: textbook
+free: 0
+
+key: pgm
+title: Probabilistic Graphical Models: Principles and Techniques
+location: http://pgm.stanford.edu/
+resource_type: textbook
+free: 0
+
+key: esl
+title: The Elements of Statistical Learning
+location: http://www-stat.stanford.edu/~tibs/ElemStatLearn/
+resource_type: online textbook
+free: 1
+
+key: cs229
+title: Stanford's Machine Learning lecture notes
+location: http://cs229.stanford.edu/materials.html
+resource_type: lecture notes
+free: 1
+
+key: wikipedia
+title: Wikipedia
+location: http://www.wikipedia.org/
+resource_type: wiki
+free: 1
+
+key: rice
+title: Mathematical Statistics and Data Analysis
+location: http://www.cengage.com/search/productOverview.do?Ntt=9780534399429&Ntk=P_Isbn13&Ns=P_CopyRight_Year|1&N=+16+4294922455+4294922413+4294966842
+resource_type: textbook
+free: 0
+
+key: aima
+title: Artificial Intelligence: a Modern Approach
+location: http://aima.cs.berkeley.edu/
+resource_type: textbook
+free: 0
+
+key: mackay
+title: Information Theory, Inference, and Learning Algorithms
+location: http://www.inference.phy.cam.ac.uk/itprnn/book.html
+resource_type: online textbook
+free: 1
+
+key: coursera_ng
+title: Coursera: Machine Leaning
+location: https://www.coursera.org/course/ml
+resource_type: online course
+free: 1
+note: course must be in session
+
+key: khan
+title: Khan Academy
+location: https://www.khanacademy.org/
+resource_type: video tutorials
+free: 1
+
+key: wolfram
+title: Wolfram MathWorld
+location: http://mathworld.wolfram.com
+resource_type: online compendium
+free: 1
+
+key: mathmonk
+title: MathematicalMonk Tutorials
+location: http://www.youtube.com/user/mathematicalmonk
+resource_type: youtube videos
+free: 1
+
+key: optmodels
+title: Optimization Models and Applications
+location: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
+resource_type: online textbook
+free: 1
+
+
