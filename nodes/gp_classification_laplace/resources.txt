@@ -12,6 +12,6 @@ location: Section 3.4, pages 41-48
 mark: star
 
 source: barber
-section: 1-online
+edition: 1-online
 location: Section 19.5, pages 394-398
 

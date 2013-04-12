@@ -5,7 +5,7 @@ mark: star
 
 source: esl
 edition: 1
-location Section 11.3, pages 350-354
+location: Section 11.3, pages 350-354
 
 source: aima
 edition: 2
