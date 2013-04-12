@@ -1,0 +1,5 @@
+tag: binary-linear-classifiers
+reason: The SVM is a kind of binary linear classifier.
+
+tag: convex-optimization
+reason: The SVM is formulated as a convex optimization problem.
