@@ -5,5 +5,3 @@ reason: Reasoning about representational power requires the conditional independ
 
 tag: markov-random-fields
 
-tag: hammersley-clifford
-reason: Reasoning about representational power requires the conditional independence interpretation.
