@@ -102,4 +102,10 @@ location: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
 resource_type: online textbook
 free: 1
 
+key: coursera_koller
+title: Coursera: Probabilistic Graphical Models
+location: https://class.coursera.org/pgm
+resource_type: online lectures
+free: 1
+note: course must be in session
 

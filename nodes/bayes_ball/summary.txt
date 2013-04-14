@@ -1,0 +1,1 @@
+D-separation gives a way of determining conditional independence properties of a Bayes net from the graphical representation, but unfortunately the definition itself doesn't give a practical algorithm. Bayes ball is an efficient algorithm for computing d-separation by passing simple messages between nodes of the graph.
