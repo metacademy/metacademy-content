@@ -1,2 +1,5 @@
 tag: probabilistic-models
 reason: MRFs are a kind of probabilistic model.
+
+tag: conditional-independence
+reason: MRFs can be characterized in terms of conditional independence properties.

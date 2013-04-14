@@ -1,0 +1,14 @@
+source: murphy
+edition: 1
+location: Section 19.3.2, page 667
+
+source: pgm
+edition: 1
+location: Section 4.4.1.2 and boxes 4.C and 4.D, pages 124-128
+mark: star
+
+source: coursera_koller
+location: Lectures "Log-linear models" and "Shared features in log-linear models"
+dependencies: conditional_random_fields
+mark: star
+

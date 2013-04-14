@@ -1,0 +1,1 @@
+Markov random fields often can't reflect the full conditional independence structure of a probabilistic model. For instance, they can't encode whether the variables in a clique have a fully general interaction, or merely pairwise interactions. Factor graphs are a more fine-grained representation of Boltzmann distributions where the factors are shown explicitly in the graph.
