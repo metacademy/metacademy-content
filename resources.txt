@@ -102,4 +102,10 @@ location: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
 resource_type: online textbook
 free: 1
 
+key: griffiths_ibp
+title: The Indian Buffet Process: An Introduction and Review
+location: http://mlg.eng.cam.ac.uk/pub/pdf/GriGha11.pdf
+resource_type: paper
+free: 1
+
 

@@ -1,0 +1,2 @@
+How can feature models be viewed as a generalization of unsupervised clustering?
+Why is the "left-order form" equivalence class necessary to specify the IBP prior?

@@ -1,0 +1,10 @@
+The Indian Buffet Process (IBP) is a generative model for random "feature allocations" (a "feature allocation" is analogous to a cluster allocation except a given datum can belong to more than one cluster). So while the Chinese Restaurant Process describes a generative model for dividing N integers (customers) into K partitions (table assignments), the IBP describes a generative model for dividing N integers into K subsets, where each integer can occur in an arbitrary number of subsets. These subsets are known as "feature allocations."
+
+The culinary metaphor for the IBP generative process is as follows:
+-The first customer enters the buffet and chooses Poisson(y) number of dishes to eat, where y > 0 is called the "mass parameter"
+-Recursively, the nth customer chooses which dishes to eat in two parts: (1) sample the previously chosen dishes with probability proportional to the number of people that have already chosen the dish (2) choose Poisson(y/n) new dishes to try.
+
+If K distinct dishes are chosen from all N people, then we can form a feature allocation by placing person n in subset k if person n chose dish k. 
+From this generative model we can find the probability of observing a particular feature allocation, which we can then use as a prior for feature models.
+
+Note: the IBP has a more formal definition in probability theory where it is known as the marginalized distribution of a Beta process.
