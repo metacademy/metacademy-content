@@ -15,7 +15,7 @@ title: Coursera: Neural Networks for Machine Learning
 location: https://www.coursera.org/course/neuralnets
 resource_type: online lectures
 free: 1
-note: course must be in session
+note: Click on "Preview" to see the videos.
 
 key: barber
 title: Bayesian Reasoning and Machine Learning
@@ -76,7 +76,7 @@ title: Coursera: Machine Leaning
 location: https://www.coursera.org/course/ml
 resource_type: online course
 free: 1
-note: course must be in session
+note: Click on "Preview" to see the videos.
 
 key: khan
 title: Khan Academy
@@ -107,5 +107,5 @@ title: Coursera: Probabilistic Graphical Models
 location: https://class.coursera.org/pgm
 resource_type: online lectures
 free: 1
-note: course must be in session
+note: Click on "Preview" to see the videos.
 
