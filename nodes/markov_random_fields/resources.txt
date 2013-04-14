@@ -1,0 +1,17 @@
+source: bishop
+edition: 1
+location: Sections 8.3-8.3.3, pages 383-390
+mark: star
+
+source: murphy
+edition: 1
+location: Sections 19.1-19.2.1 (pages 661-663) and 19.3-19.4.3 (pages 665-672)
+
+source: pgm
+edition: 1
+location: Sections 4.1-4.3.1, pages 103-117
+mark: star
+
+source: coursera_koller
+location: Lectures "Pairwise Markov networks," "General Gibbs distribution," and "Independencies in Markov networks," under heading "Markov network fundamentals."
+mark: star

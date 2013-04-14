@@ -1,0 +1,1 @@
+Often, when we use MRFs, we want to assign a particular functional form to the cliques. A common choice is a log-linear representation, where the potentials are log-linear functions of the model parameters. Boltzmann machines and Gaussian MRFs are probably the most common examples.

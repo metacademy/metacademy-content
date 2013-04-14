@@ -1,0 +1,1 @@
+D-separation gives a way of determining conditional independence properties in Bayes nets in terms of the graph structure. It captures an intuitive notion of the "flow" of probabilistic influence through the graph.

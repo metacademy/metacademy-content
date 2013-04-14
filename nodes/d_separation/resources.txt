@@ -1,0 +1,14 @@
+source: bishop
+edition: 1
+location: Section 8.2, pages 372-383
+mark: star
+
+source: pgm
+edition: 1
+location: Sections 3.3-3.3.2, pages 68-74
+mark: star
+
+source: coursera_koller
+location: Lectures "Flow of probabilistic influence," "Conditional independence," and "Independencies in Bayesian networks" under "Bayesian network fundamentals"
+mark: star
+

@@ -1,0 +1,9 @@
+source: pgm
+edition: 1
+location: Section 4.4.1.1, pages 123-124
+
+source: bishop
+edition: 1
+location: Section 8.4.3, pages 399-402
+dependencies: bayesian_networks
+mark: star

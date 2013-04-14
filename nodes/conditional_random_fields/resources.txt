@@ -1,0 +1,8 @@
+source: pgm
+edition: 1
+location: Section 4.6.1.1 (pages 142-144), Box 4.E (pages 145-148), and Box 4.B (pages 112-114)
+mark: star
+
+source: coursera_koller
+location: Lecture "Conditional random fields"
+mark: star

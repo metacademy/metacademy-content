@@ -1,3 +1,8 @@
 tag: probabilistic-models
 reason: Bayes nets are a kind of probabilistic model.
 
+tag: conditional-independence
+reason: Bayes nets can be viewed as encoding a set of conditional independence assumptions. 
+
+tag: multinomial-distribution
+reason: In the most basic setup, the conditional probability distributions are multinomial distributions.
