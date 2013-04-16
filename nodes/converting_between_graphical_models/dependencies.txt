@@ -1,2 +1,6 @@
-tag: bayes-nets-vs-mrfs-representation
-reason: Converting between Bayes nets and MRFs requires analyzing their representational power.
+tag: bayesian-networks
+
+tag: d-separation
+reason: Reasoning about representational power requires the conditional independence interpretation.
+
+tag: markov-random-fields

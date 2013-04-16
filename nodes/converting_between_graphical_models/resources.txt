@@ -1,0 +1,12 @@
+source: pgm
+edition: 1
+location: Sections 3.2.3 (pages 60-64), Section 3.4-3.4.2 (pages 78-83), and Section 4.5 (pages 134-142)
+
+source: bishop
+edition: 1
+location: Section 8.3.4, pages 390-393
+mark: star
+
+source: coursera_koller
+location: Lecture "I-maps and perfect maps"
+mark: star
