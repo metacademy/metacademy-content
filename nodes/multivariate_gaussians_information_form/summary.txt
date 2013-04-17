@@ -1,0 +1,1 @@
+While we normally represent multivariate Gaussians in terms of their mean and covariance, information form is often a useful alternative. The distribution is represented in terms of a quadratic "energy function." This representation is convenient for conditioning, and is the basis for Gaussian Markov random fields.

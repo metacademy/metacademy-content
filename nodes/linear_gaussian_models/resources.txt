@@ -1,0 +1,8 @@
+source: pgm
+edition: 1
+location: Section 7.2, pages 251-254
+dependencies: multivariate_gaussians_information_form
+
+source: bishop
+edition: 1
+location: Section 8.1.4, pages 370-371

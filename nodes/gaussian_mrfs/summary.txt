@@ -1,0 +1,1 @@
+Gaussian Markov random fields (MRFs) are MRFs where the variables are all jointly Gaussian. The graph structure is reflected in the sparsity pattern of the precision matrix.

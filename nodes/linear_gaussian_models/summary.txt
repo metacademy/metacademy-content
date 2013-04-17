@@ -1,0 +1,2 @@
+A linear-Gaussian model is a Bayes net where all the variables are Gaussian, and each variable's mean is linear in the values of its parents. They are widely used because they support efficient inference. Linear dynamical systems are an important special case.
+ 
