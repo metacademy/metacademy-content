@@ -1,0 +1,1 @@
+Why do we want to keep the scaling constant K as small as possible for the proposal distribution?

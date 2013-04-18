@@ -1,0 +1,10 @@
+source: bishop
+edition: 1
+location: Section 11.1.2
+mark: star
+
+source: mathmonk
+location: http://www.youtube.com/watch?v=7VwIGwWFu1M&list=PLD0F06AA0D2E8FFBA&index=137
+
+source:barber
+location: Section 27.1.2
