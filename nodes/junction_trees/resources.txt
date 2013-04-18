@@ -1,0 +1,14 @@
+source: pgm
+edition: 1
+location: Chapter 10, pages 345-377
+dependencies: variable-elimination
+
+source: coursera_koller
+location: Lectures "Belief propagation," "Properties of cluster graphs," "Properties of belief propagation," "Clique tree algorithm -- correctness,"  "Clique tree algorithm -- computation," "Clique trees and independence," and "Clique trees and VE"
+dependencies: variable-elimination
+mark: star
+
+source: murphy
+edition: 1
+location: Section 20.4, pages 720-726
+mark: star

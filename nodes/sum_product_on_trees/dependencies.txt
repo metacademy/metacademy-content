@@ -1,3 +1,6 @@
+tag: inference-in-mrfs
+reason: Sum-product can be thought of as an MRF inference algorithm.
+
 tag: factor-graphs
 reason: The sum-product algorithm is typically defined on factor graphs.
 

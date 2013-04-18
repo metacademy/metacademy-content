@@ -1,0 +1,1 @@
+Variable elimination is a simple algorithm for marginalization and partition function computation in graphical models. It is based on interchanging sums and products in the definitions of marginals or partition functions. While it produces exact answers, the complexity blows up exponentially in the worst case. 

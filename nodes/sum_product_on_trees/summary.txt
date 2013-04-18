@@ -1,0 +1,2 @@
+Sum-product is an algorithm for marginalization and partition function computation in graphical models. It is based on dynamic programming, and has the advantage that it reuses computations to compute marginals for all nodes in the graph. It is a generalization of the forward-backward algorithm for hidden Markov models.
+

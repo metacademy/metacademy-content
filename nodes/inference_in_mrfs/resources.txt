@@ -1,0 +1,3 @@
+source: coursera_koller
+location: Lectures "Overview: conditional probability queries" and "Overview: MAP inference"
+mark: star

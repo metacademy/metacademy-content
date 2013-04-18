@@ -1,0 +1,1 @@
+The major inference problems for graphical models (marginalization, MAP assignment, and partition function) are all intractable in the worst case. In particular, marginalization and partition function computation are both #P-complete, and MAP inference is NP-complete.

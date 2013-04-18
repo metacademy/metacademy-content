@@ -1,4 +1,7 @@
+tag: inference-in-mrfs
+reason: Max-product can be thought of as an MRF inference algorithm.
+
 tag: factor-graphs
-reason: The sum-product algorithm is typically defined on factor graphs.
+reason: The max-product algorithm is typically defined on factor graphs.
 
 
