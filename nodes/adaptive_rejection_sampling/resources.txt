@@ -1,0 +1,8 @@
+source:bishop
+mark:star
+location: section 11.1.3
+
+source: wikipedia
+link: http://en.wikipedia.org/wiki/Rejection_sampling#Adaptive_rejection_sampling
+mark:star
+

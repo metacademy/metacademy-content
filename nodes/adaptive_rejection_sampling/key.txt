@@ -1,0 +1,3 @@
+Why is adaptive rejection sampling typically more effient than standard rejection sampling?
+
+Why must a distribution be log concave for adaptive rejection sampling to work?

@@ -1,1 +1,2 @@
-
+*Adaptive Metropolis rejection sampling is a generalization of ARS that is applicable when the distribution is not log-concave [adaptive-metropolis-rejection-sampling]
+* ARS can be performed by computing secants (rather than tangents) and thus a can be accomplished without computing the derivative of the log density; see Gilks, W. R. (1992) Derivative-free adaptive rejection sampling for Gibbs sampling. Bayesian Statistics 4,
