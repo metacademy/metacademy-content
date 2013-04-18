@@ -2,4 +2,6 @@ tag: forward-backward-algorithm
 
 tag: viterbi-algorithm
 
-tag: belief-propagation-on-trees
+tag: sum-product-on-trees
+
+tag: max-product-on-trees

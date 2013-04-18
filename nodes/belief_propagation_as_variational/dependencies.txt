@@ -1,3 +1,4 @@
 tag: variational-inference
 
-tag: belief-propagation-on-trees
+tag: sum-product-on-trees
+
