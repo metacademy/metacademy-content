@@ -1,0 +1,9 @@
+source: bishop
+edition: 1
+location: Sections 2.3.1-2.3.1, pages 85-90
+mark: star
+
+source: murphy
+edition: 1
+location: Sections 4.3.1-4.3.2, pages 111-115
+mark: star

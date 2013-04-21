@@ -1,0 +1,2 @@
+Marginalization in Gaussian MRFs can be performed in cubic time by inverting a matrix, but this is too slow for some applications. If the model is tree-structured, belief propagation can compute the means and single-node variances in linear time. Unlike in general MRFs, it turns out that the loopy version yields the correct means.
+

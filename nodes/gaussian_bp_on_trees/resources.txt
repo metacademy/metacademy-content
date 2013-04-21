@@ -1,0 +1,22 @@
+source: pgm
+edition: 1
+location: Section 14.2-14.2.2, pages 608-615
+
+source: murphy
+edition: 1
+location: Section 23.2.3, pages 710-712
+
+source: thesis
+authors: Danny Bickson
+title: Gaussian Belief Propagation: Theory and Application
+location: Section 2, pages 8-16
+open: 1
+link: http://arxiv.org/pdf/0811.2518.pdf
+
+source: paper
+authors: Dmitry M. Malioutov and Jason K. Johnson and Alan S. Willsky
+title: Walk-sums and belief propagation in Gaussian graphical models
+location: Section 2.2, up to "Loopy belief propagation"
+open: 1
+link: http://ssg.mit.edu/~willsky/publ_pdfs/185_pub_MLR.pdf
+

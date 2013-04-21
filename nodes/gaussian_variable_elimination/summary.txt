@@ -1,0 +1,1 @@
+Marginalization in Gaussian MRFs can be performed in cubic time by inverting a matrix, but this is too slow for some applications. If the model has the right structure, variable elimination can result in a big speedup.

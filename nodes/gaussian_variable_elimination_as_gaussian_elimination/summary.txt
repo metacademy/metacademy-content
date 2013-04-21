@@ -1,0 +1,1 @@
+The computations involved in Gaussian variable elimination are the same as those used to compute the Cholesky decomposition of the covariance matrix.

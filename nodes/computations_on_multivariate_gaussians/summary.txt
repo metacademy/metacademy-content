@@ -1,0 +1,1 @@
+Multivariate Gaussians are widely used in computational sciences because many useful operations can be performed efficiently. Marginalization is easy: we simply pull the relevant rows and columns of the mean and covariance. Conditioning can be done with a matrix inversion.
