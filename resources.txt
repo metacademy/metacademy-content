@@ -115,4 +115,11 @@ resource_type: online lectures
 free: 1
 note: Click on "Preview" to see the videos.
 
+key: wainwright_jordan_tutorial
+title: Graphical models, exponential families, and variational inference
+resource_type: paper
+free: 1
+location: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
+
+
 

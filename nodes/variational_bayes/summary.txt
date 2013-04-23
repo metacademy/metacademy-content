@@ -1,0 +1,1 @@
+Bayesian parameter estimation often results in an intractable posterior over model parameters. Variational Bayes is an application of variational inference (in particular, mean field) to approximating the marginals over parameters as well as the marginal likelihood.

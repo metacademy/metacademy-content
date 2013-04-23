@@ -1,0 +1,7 @@
+tag: mean_field
+
+tag: inference_in_mrfs
+reason: Structured mean field is a graphical model inference algorithm.
+
+tag: sum_product_on_trees
+reason: Structured mean field uses exact inference algorithms for graphical models, most commonly sum-product.

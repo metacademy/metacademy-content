@@ -1,0 +1,11 @@
+tag: variational_inference
+reason: Mean field is an instance of variational inference.
+
+tag: independent_random_variables
+reason: Mean field makes the approximation that certain random variables, or sets of random variables, are independent.
+
+tag: lagrange_multipliers
+reason: Lagrange multipliers are used to derive the mean field updates.
+
+tag: coordinate_ascent
+reason: Mean field is an instance of coordinate ascent.

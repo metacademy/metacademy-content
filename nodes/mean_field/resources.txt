@@ -1,0 +1,20 @@
+source: bishop
+edition: 1
+location: Section 10.1-10.1.3
+dependencies: bayesian_parameter_estimation_gaussian
+
+source: pgm
+edition: 1
+location: Sections 11.5-11.5.1, pages 448-456
+dependencies: markov_random_fields
+
+source: murphy
+edition: 1
+location: Section 21.3, pages 735-739
+dependencies: markov_random_fields
+mark: star
+
+source: wainwright_jordan_tutorial
+location: Sections 5.1-5.4, pages 127-142
+dependencies: convex_duality, mrfs_as_exponential_families, gaussian_mrfs, convex_optimization
+

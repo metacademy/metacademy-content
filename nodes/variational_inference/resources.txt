@@ -1,0 +1,15 @@
+source: pgm
+edition: 1
+location: Sections 8.5-8.5.1 and 11.1
+dependencies: junction_trees
+
+source: bishop
+edition: 1
+location: Sections 10.1-10.1.2
+dependencies: multivariate_gaussian_distribution
+mark: star
+
+source: murphy
+edition: 1
+location: Sections 21.1-21.2
+mark: star

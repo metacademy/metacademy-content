@@ -1,5 +1,8 @@
+tag: bayesian-parameter-estimation
+reason: Variational Bayes is a way of approximating Bayesian parameter estimation.
+
 tag: bayesian-model-comparison
 reason: Variational Bayes is a way of approximating Bayesian model comparison.
 
-tag: variational-inference
-reason: Variational Bayes is an application of variational inference techniques.
+tag: mean-field
+reason: Variational Bayes is an application of the mean field approximation.

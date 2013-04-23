@@ -1,8 +1,11 @@
+tag: marginalization
+reason: Marginalization is the operation we most often want to perform using variational inference. 
+
 tag: kl-divergence
 reason: KL divergence is part of the variational objective function.
 
 tag: entropy
 reason: Entropy is part of the variational objective function.
 
-tag: inference-in-probabilistic-models
-
+tag: lagrange-multipliers
+reason: Lagrange multipliers are necessary for analyzing variational inference algorithms.

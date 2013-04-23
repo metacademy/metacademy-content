@@ -1,0 +1,2 @@
+The naive mean field approximation assumes a fully factorized approximating distribution, which can be inaccurate if variables are tightly coupled. Structured mean field instead assumes the distribution factorizes into a product of tractable distributions, such as trees or chains.
+
