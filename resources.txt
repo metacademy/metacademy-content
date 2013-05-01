@@ -121,5 +121,11 @@ resource_type: paper
 free: 1
 location: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
 
+key: gpml
+title: Gaussian Processes for Machine Learning
+resource_type: textbook
+free: 1
+location: http://www.gaussianprocess.org/gpml/
+
 
 

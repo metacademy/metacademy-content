@@ -1,0 +1,22 @@
+source: bishop
+edition: 1
+location: Section 10.7, pages 505-517
+dependencies: lagrange_multipliers, gaussian_distribution
+mark: star
+
+source: pgm
+edition: 1
+location: Sections 11.4-11.4.4, pages 430-445
+dependencies: mrfs_as_exponential_families
+extra: This explains EP in the context of a more general framework for approximate BP messages.
+
+source: murphy
+edition: 1
+location: Sections 22.5-22.5.3, pages 787-793
+dependencies: lagrange_multipliers, gaussian_distribution
+
+source: gpml
+edition: 1
+location: Section 3.6, pages 52-60
+dependencies: gaussian_process_classification
+extra: This gives the special case of EP for Gaussian process classification.

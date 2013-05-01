@@ -1,0 +1,11 @@
+source: murphy
+edition: 1
+location: Sections 22.1-22.2.5, pages 767-774
+mark: star
+
+source: pgm
+edition: 1
+location: Sections 11.3-11.3.3 (pages 391-401) and boxes 11.B and 11.C (pages 407-411)
+dependencies: junction-trees
+extra: This uses the cluster graph formalism, which is more general than the factor graph version, but has more cumbersome notation.
+

@@ -4,3 +4,6 @@ reason: EP is an approximation to loopy BP.
 tag: variational-inference
 reason: EP is a variational inference algorithm.
 
+tag: exponential-families
+reason: EP requires that the approximating distribution be an exponential family.
+

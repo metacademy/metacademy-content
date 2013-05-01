@@ -1,0 +1,1 @@
+In some graphical models, it is intractable even to compute the messages in loopy belief propagation. Expectation propagation is a way of approximating these messages in terms of expectations of sufficient statistics. It can be viewed as a variational inference algorithm, and often gives much more accurate results than mean field based approximations.
