@@ -1,0 +1,15 @@
+source: murphy
+edition: 1
+location: Sections 22.3-22.3.5, pages 776-782
+dependencies: exponential_families, mean_field
+
+source: pgm
+edition: 1
+location: Sections 11.2 (pages 386-390), 11.3.5 (pages 404-407) and 11.3.6 (pages 411-414)
+dependencies: junction_trees
+
+source: wainwright_jordan_tutorial
+location: Sections 4.1-4.1.4, pages 76-91
+dependencies: mrfs_as_exponential_families
+mark: star
+
