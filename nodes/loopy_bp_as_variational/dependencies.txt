@@ -1,4 +1,6 @@
 tag: loopy-belief-propagation
 
-tag: belief-propagation-as-variational
+tag: variational-inference
 
+tag: lagrange-multipliers
+reason: Lagrange multipliers are needed to derive the update rules.

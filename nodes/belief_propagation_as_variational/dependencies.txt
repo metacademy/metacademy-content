@@ -1,4 +1,0 @@
-tag: variational-inference
-
-tag: sum-product-on-trees
-
