@@ -5,8 +5,8 @@ location: Section 3.3.3, pages 74-76
 source: paper
 authors: Ross Shachter
 title: Bayes-ball: rational pastime (for determining irrelevance and requisite information in belief networks and influence diagrams)
-link: http://arxiv.org/pdf/1301.7412.pdf
-open: true
+url: http://arxiv.org/pdf/1301.7412.pdf
+free: 1
 location: Sections 1-3
 mark: star
 

@@ -13,8 +13,8 @@ mark: star
 source: paper
 authors: Yann LeCun and Leon Bottou and Yoshua Bengio and Patrick Haffner
 title: Gradient-based learning applied to document recognition
-link: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
-open: true
+url: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+free: 1
 mark: star
 
 
