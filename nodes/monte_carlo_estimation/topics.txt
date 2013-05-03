@@ -1,0 +1,3 @@
+* that we estimate an expectation by sampling from a distribution and averaging the values
+* a few representative examples (mean, variance, etc.)
+* why the estimate converges to the expectation

@@ -1,0 +1,3 @@
+* statement of the algorithm
+* justification of correctness
+* why it's impractical for high-dimensional problems

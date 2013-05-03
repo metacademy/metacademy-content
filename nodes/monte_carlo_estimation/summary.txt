@@ -1,0 +1,1 @@
+One way to answer queries about a probability distribution is to simulate from the distribution, a procedure known as Monte Carlo estimation. In particular, we estimate the expected value of some function f with respect to a distribution p by generating samples from p and averaging the values of f over those samples.

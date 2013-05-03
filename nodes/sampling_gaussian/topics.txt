@@ -1,0 +1,1 @@
+* the Box-Muller trick, and why it works

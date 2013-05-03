@@ -1,0 +1,4 @@
+* statement of normalized and unnormalized versions
+* why unnormalized is unbiased, but normalized isn't
+* why it fails when applied naively (large, possibly infinite, variance)
+* notion of effective sample size

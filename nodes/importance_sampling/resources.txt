@@ -1,0 +1,19 @@
+source: murphy
+edition: 1
+location: Sections 23.4-23.4.3
+dependencies: bayesian_networks
+
+source: pgm
+edition: 1
+location: Sections 12.2-12.2.2, pages 494-498
+mark: star
+
+source: bishop
+edition: 1
+location: Section 11.1.4, pages 532-534
+
+source: mackay
+edition: 1
+location: Section 29.2, pages 361-364
+dependencies: multivariate_gaussian_distribution
+mark: star

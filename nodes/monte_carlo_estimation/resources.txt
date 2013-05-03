@@ -1,0 +1,15 @@
+source: bishop
+edition: 1
+location: Chapter 11 intro, pages 523-526
+
+source: murphy
+edition: 1
+location: Section 2.7, pages 52-56
+mark: star
+
+source: coursera_koller
+location: Lecture "Simple sampling"
+
+source: mackay
+location: Section 29.1, pages 357-361
+mark: star

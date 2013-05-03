@@ -1,0 +1,1 @@
+Importance sampling is a way of estimating expectations under an intractable distribution p by sampling from a tractable distribution q and reweighting the samples according to the ratio of the probabilities. While importance sampling has unreasonably large variance when applied naively, it forms the basis for some very effective Monte Carlo estimators.

@@ -8,3 +8,14 @@ location: http://www.youtube.com/watch?v=7VwIGwWFu1M&list=PLD0F06AA0D2E8FFBA&ind
 
 source:barber
 location: Section 27.1.2
+
+source: murphy
+edition: 1
+location: Sections 23.3-23.3.3, pages 817-819
+mark: star
+
+source: mackay
+edition: 1
+location: Section 29.3, pages 364-365
+dependencies: multivariate_gaussian_distribution
+mark: star

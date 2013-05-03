@@ -1,1 +1,4 @@
 tag: rejection-sampling
+
+tag: exponential_distribution
+reason: The proposal distribution is piecewise exponential.

@@ -1,1 +1,1 @@
-Sampling methods
+Monte Carlo estimation

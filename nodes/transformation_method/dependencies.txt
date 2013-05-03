@@ -1,1 +1,7 @@
 tag: monte_carlo_estimation
+
+tag: cumulative_distribution_function
+reason: The transformation method involves inverting the CDF.
+
+# TODO: add dependency to transformations of random variables
+
