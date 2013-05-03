@@ -2,7 +2,7 @@ source: pgm
 edition: 1
 location: Section 3.3.3, pages 74-76
 
-source: paper
+resource_type: paper
 authors: Ross Shachter
 title: Bayes-ball: rational pastime (for determining irrelevance and requisite information in belief networks and influence diagrams)
 url: http://arxiv.org/pdf/1301.7412.pdf

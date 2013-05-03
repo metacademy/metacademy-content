@@ -6,14 +6,14 @@ source: murphy
 edition: 1
 location: Section 23.2.3, pages 710-712
 
-source: thesis
+resource_type: thesis
 authors: Danny Bickson
 title: Gaussian Belief Propagation: Theory and Application
 location: Section 2, pages 8-16
 free: 1
 url: http://arxiv.org/pdf/0811.2518.pdf
 
-source: paper
+resource_type: paper
 authors: Dmitry M. Malioutov and Jason K. Johnson and Alan S. Willsky
 title: Walk-sums and belief propagation in Gaussian graphical models
 location: Section 2.2, up to "Loopy belief propagation"

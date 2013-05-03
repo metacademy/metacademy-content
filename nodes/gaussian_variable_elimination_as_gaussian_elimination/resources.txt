@@ -1,4 +1,4 @@
-source: paper
+resource_type: paper
 authors: Dmitry M. Malioutov and Jason K. Johnson and Alan S. Willsky
 title: Walk-sums and belief propagation in Gaussian graphical models
 location: Section 2.2, up to "Loopy belief propagation"
