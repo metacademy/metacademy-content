@@ -1,5 +1,8 @@
 tag: sequences-of-random-variables
 reason: Markov chains are sequences of random variables.
 
-tag: conditional-independence
-reason: Markov chains are defined in terms of a conditional independence property.
+tag: conditional-distributions
+reason: Markov chains are defined in terms of conditional distributions.
+
+tag: matrices
+reason: The transition operator is conveniently represented in terms of matrix multiplication.

@@ -1,2 +1,4 @@
 tag: monte_carlo_estimation
 
+tag: conditional_distributions
+reason: Importance sampling is commonly used to estimate conditional expectations.

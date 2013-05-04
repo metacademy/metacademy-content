@@ -1,5 +1,5 @@
-tag: inference-in-probabilistic-models
-reason: Sampling methods are a strategy for inference in probabilistic models.
+tag: expected_value
+reason: Monte Carlo methods are a way of estimating expectations.
 
 tag: weak-law-of-large-numbers
 reason: The weak law of large numbers justifies the use of sampling estimators.

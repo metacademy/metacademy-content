@@ -1,2 +1,8 @@
 tag: markov-chain-monte-carlo
 reason: Gibbs sampling is an MCMC algorithm.
+
+tag: conditional_distributions
+reason: Gibbs sampling is defined in terms of conditional distributions.
+
+tag: markov-random-fields
+reason: The structure of a graphical model shows why the Gibbs updates can be computed efficiently.
