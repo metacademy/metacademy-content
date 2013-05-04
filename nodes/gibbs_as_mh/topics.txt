@@ -1,0 +1,1 @@
+* derivation of Gibbs sampling as a special case of M-H

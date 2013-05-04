@@ -1,0 +1,4 @@
+tag: markov_chain_monte_carlo
+
+tag: covariance
+reason: The accuracy of MCMC depends on the covariance of the function at different steps.

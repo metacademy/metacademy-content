@@ -1,0 +1,26 @@
+source: coursera_koller
+location: Lecture "Metropolis Hastings algorithm"
+mark: star
+
+source: pgm
+edition: 1
+location: Section 12.3.4, pages 515-518
+
+source: bishop
+edition: 1
+location: Section 11.2, pages 537-542
+mark: star
+
+source: murphy
+edition: 1
+location: Section 24.3-24.3.6, pages 848-855
+mark: star
+
+source: mackay
+edition: 1
+location: Section 29.4, pages 365-370
+mark: star
+
+source: barber
+edition: 1-online
+location: Section 27.4, pages 550-553

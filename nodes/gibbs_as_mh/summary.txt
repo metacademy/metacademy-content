@@ -1,0 +1,1 @@
+Gibbs sampling can be seen as a special case of the Metropolis-Hastings algorithm where the transition operators are chosen such that the acceptance probability is 1.

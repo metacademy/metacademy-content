@@ -1,0 +1,30 @@
+source: bishop
+edition: 1
+location: Section 11.3, pages 542-546
+dependencies: multivariate_gaussian_distribution
+mark: star
+
+source: murphy
+edition: 1
+location: Section 24.2-24.2.2, pages 838-839
+
+source: pgm
+edition: 1
+location: Sections 12.3.1 (pages 505-507) and 12.3.3 (pages 512-515)
+dependencies: bayesian_networks
+mark: star
+
+source: coursera_koller
+location: Lecture "Gibbs sampling"
+dependencies: bayesian_networks
+mark: star
+
+source: mackay
+location: Section 29.5, pages 370-371
+dependencies: metropolis_hastings
+
+source: barber
+edition: 1-online
+location: Section 27.3-27.3.2 (pages 547-548) and 27.3.3 (pages 549-550)
+dependencies: bayesian_networks, multivariate_gaussian_distribution
+mark: star

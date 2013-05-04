@@ -1,4 +1,7 @@
 tag: monte_carlo_estimation
 reason: MCMC is a kind of sampling method.
 
+tag: conditional_distributions
+reason: MCMC is often used to sample from conditional distributions.
+
 tag: markov-chains

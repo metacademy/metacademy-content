@@ -1,0 +1,1 @@
+Markov Chain Monte Carlo (MCMC) is a set of techniques for approximately sampling from a probability distribution p by running a Markov chain which has p as its stationary distribution. Gibbs sampling and Metropolis-Hastings are the most common examples.

@@ -1,0 +1,13 @@
+source: murphy
+edition: 1
+location: Section 24.4, pages 856-862
+mark: star
+
+source: pgm
+edition: 1
+location: Section 12.3.5, pages 518-526
+mark: star
+
+source: coursera_koller
+location: Lecture "Using a Markov chain"
+mark: star

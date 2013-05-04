@@ -1,0 +1,8 @@
+source: bishop
+edition: 1
+location: page 544 of section 11.3
+
+source: murphy
+edition: 1
+location: section 24.3.2, pages 849-850
+

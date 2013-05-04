@@ -1,0 +1,4 @@
+* detailed balance conditions
+* Metropolis-Hastings algorithm
+* why the algorithm satisfies detailed balance
+* ways in which it can fail (slow mixing, low acceptance probability)

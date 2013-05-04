@@ -1,0 +1,5 @@
+* the notion of mixing time
+* why burn-in is needed
+* that independence is unnecessary for estimating expectations
+* that estimating the accuracy depends on estimating the autocorrelation
+* practical convergence diagnostics

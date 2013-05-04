@@ -1,0 +1,26 @@
+source: motwani_randomized_algorithms
+edition: 1
+location: Section 6.2, pages 129-132
+
+source: bishop
+edition: 1
+location: Section 11.2.1, pages 539-541
+
+source: murphy
+edition: 1
+location: Sections 17.2-17.2.1 (pages 589-590) and 17.2.3 (pages 596-600)
+dependencies: eigenvalues
+ 
+source: pgm
+edition: 1
+location: Section 12.3.2, pages 507-512
+mark: star
+
+source: coursera_koller
+location: Lecture "Markov Chain Monte Carlo"
+mark: star
+
+source: mackay
+edition: 1
+location: Section 29.6, pages 372-374
+mark: star

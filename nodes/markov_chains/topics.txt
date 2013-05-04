@@ -1,0 +1,4 @@
+* the definition of a Markov chain
+* the notion of a stationary distribution
+* a simple condition for convergence to a unique stationary distribution (e.g. ergodicity)
+

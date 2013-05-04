@@ -143,5 +143,12 @@ resource_type: textbook
 free: 1
 url: http://www.gaussianprocess.org/gpml/
 
+key: motwani_randomized_algorithms
+title: Randomized Algorithms
+authors: Rajeev Motwani and Prabhakar Raghavan
+resource_type: textbook
+free: 0
+url: http://www.cambridge.org/gb/knowledge/isbn/item1146626/?site_locale=en_GB
+
 
 

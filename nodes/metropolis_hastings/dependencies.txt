@@ -1,2 +1,5 @@
 tag: markov-chain-monte-carlo
 reason: M-H is an example of an MCMC algorithm.
+
+tag: multivariate_gaussian_distribution
+reason: Gaussian proposals are a canonical example of an M-H proposal distribution.
