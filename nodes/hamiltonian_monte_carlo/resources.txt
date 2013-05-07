@@ -1,0 +1,12 @@
+source: bishop
+edition: 1
+location: Section 11.5, pages 548-554
+
+source: mackay
+edition: 1
+location: Section 30.1, pages 387-390
+
+source: barber
+edition: 1-online
+location: Section 27.5.1, pages 553-555
+dependencies: taylor_approximation

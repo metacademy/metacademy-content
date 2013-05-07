@@ -1,1 +1,7 @@
 tag: gibbs-sampling
+
+tag: mcmc-convergence
+reason: Collapsed sampling is a way of improving mixing.
+
+tag: marginalization
+reason: Collapsed Gibbs sampling involves marginalizing out some of the variables.

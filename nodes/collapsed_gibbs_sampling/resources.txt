@@ -1,0 +1,9 @@
+source: murphy
+edition: 1
+location: Section 24.2.4, pages 841-844
+dependencies: bayesian_mixture_of_gaussians
+
+source: pgm
+edition: 1
+location: Section 12.4, pages 526-532
+dependencies: importance_sampling, bayesian_networks

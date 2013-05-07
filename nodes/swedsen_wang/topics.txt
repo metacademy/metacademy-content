@@ -1,0 +1,2 @@
+* justification of algorithm in terms of MCMC in an auxiliary variable model
+* how it improves on naive Gibbs sampling when variables are tightly coupled

@@ -1,2 +1,5 @@
 tag: gibbs-sampling
 reason: Slice sampling is a special case of Gibbs sampling
+
+tag: metropolis-hastings
+reason: When it's intractable to sample exactly from a slice, we need to use a more general M-H update.

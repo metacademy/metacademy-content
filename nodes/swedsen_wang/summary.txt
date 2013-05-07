@@ -1,0 +1,1 @@
+The Swedsen-Wang algorithm is an MCMC algorithm for sampling from Ising models. It is an auxiliary variable model, where we define a set of "bond" variables which determine which states are coupled, and we alternate between sampling the states and the bond variables. It mixes much faster than Gibbs sampling in models where the variables are tightly coupled. 

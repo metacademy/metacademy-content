@@ -1,0 +1,1 @@
+Slice sampling is a method for sampling from a one-dimensional probability distribution by doing Gibbs sampling in an auxiliary variable model. A major virtue is that it doesn't require specifying a step size. For this reason, it's a useful tool for constructing MCMC samplers which don't require tuning step size parameters.

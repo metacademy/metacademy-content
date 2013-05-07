@@ -1,0 +1,5 @@
+* definition of the algorithm
+* example where it avoids random walk behavior of generic M-H
+* why it preserves phase space volume, and why that's important
+* leapfrog discretization
+* that the acceptance probability increases as the step size decreases

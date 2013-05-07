@@ -1,0 +1,17 @@
+source: murphy
+edition: 1
+location: Section 24.5.2, pages 864-866
+
+source: bishop
+edition: 1
+location: Section 11.4, pages 546-548
+
+source: mackay
+edition: 1
+location: Section 29.7, pages 374-378
+mark: star
+
+source: barber
+edition: 1-online
+location: Section 27.5.3, pages 557-558
+ 

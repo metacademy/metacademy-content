@@ -1,0 +1,1 @@
+Hamiltonian Monte Carlo (HMC) is an MCMC algorithm which makes use of gradient information in order to avoid random walks and move more quickly toward regions of high probability. It is based on a discretization of Hamiltonian dynamics, with a Metropolis-Hastings accept/reject step to ensure that it has the right stationary distribution. 

@@ -1,0 +1,1 @@
+MCMC samplers can often be improved by marginalizing out a subset of the variables in closed form and performing MCMC over the remaining variables. This is more statistically efficient since each particle can cover a larger part of the distribution, and it can also improve mixing by allowing larger jumps.

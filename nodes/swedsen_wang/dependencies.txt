@@ -1,0 +1,7 @@
+tag: markov_random_fields
+reason: Swedson-Wang is a method for sampling from MRFs.
+
+tag: gibbs_sampling
+reason: Swedson-Wang is a special case of Gibbs sampling.
+
+# TODO: Ising model dependency?

@@ -1,0 +1,3 @@
+* definition in terms of Gibbs sampling in an augmented space
+* how to sample uniformly from an interval
+* motivation in terms of not having to specify a step size

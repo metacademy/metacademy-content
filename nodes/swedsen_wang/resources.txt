@@ -1,0 +1,8 @@
+source: barber
+edition: 1-online
+location: Section 27.5.2, pages 555-557
+
+source: murphy
+edition: 1
+location: Section 24.5.3, pages 866-888
+mark: star
