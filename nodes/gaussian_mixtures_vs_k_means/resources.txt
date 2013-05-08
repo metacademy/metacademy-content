@@ -1,0 +1,11 @@
+source: murphy
+edition: 1
+location: Section 11.4.2.5-11.4.2.7, pages 352-355
+
+source: bishop
+edition: 1
+location: Section 9.3.2, pages 443-444
+
+source: barber
+edition: 1-online
+location: Section 20.3.5, page 413

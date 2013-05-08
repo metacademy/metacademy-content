@@ -1,7 +1,11 @@
 tag: expectation-maximization
 
+tag: maximum_likelihood
+reason: We analyze EM as an algorithm for maximizing the likelihood.
+
 tag: kl-divergence
 reason: KL divergence is part of the objective function in variational EM.
 
-tag: entropy
-reason: Entropy is part of the objective function in variational EM.
+tag: jensens_inequality
+reason: Jensen's inequality is used to show that EM improves a lower bound on the likelihood.
+

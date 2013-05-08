@@ -1,0 +1,3 @@
+* proof that EM increases a lower bound on the likelihood
+* why the bound is tight after the E step in a mixture model
+

@@ -1,0 +1,18 @@
+source: bishop
+edition: 1
+location: Sections 9.2.1-9.3.1, pages 432-443
+mark: star
+
+source: murphy
+edition: 1
+location: Sections 11.3-11.4.2.4, pages 345-352
+mark: star
+
+source: aima
+edition: 1
+location: Section 20.3, subsections "Unsupervised clustering: learning mixtures of Gaussians" (pages 725-727) and "The general form of the EM algorithm" (pages 731-732)
+
+source: barber
+edition: 1-online
+location: Sections 20.2-20.3.1, pages 402-409
+dependencies: kl_divergence, lagrange_multipliers

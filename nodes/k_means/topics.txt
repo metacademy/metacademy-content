@@ -1,0 +1,3 @@
+* statement of algorithm
+* cost function
+* random restarts

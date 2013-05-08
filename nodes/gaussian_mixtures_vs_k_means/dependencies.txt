@@ -1,3 +1,6 @@
 tag: mixture-of-gaussians
 
 tag: k-means
+
+tag: expectation_maximization
+reason: K-means is analogous to the EM algorithm for fitting Gaussian mixtures.

@@ -1,0 +1,14 @@
+source: bishop
+edition: 1
+location: Section 9.2, up to 9.2.1, pages 430-432
+mark: star
+
+source: murphy
+edition: 1
+location: Section 11.2, pages 337-342
+mark: star
+
+source: barber
+edition: 1-online
+location: Sections 20.1 (pages 401-402) and 20.3, up to 20.3.1 (page 407)
+dependencies: bayesian_networks

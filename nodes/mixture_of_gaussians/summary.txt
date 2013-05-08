@@ -1,0 +1,1 @@
+Mixture of Gaussians is a probabilistic model commonly used for clustering: partitioning a set of data points into a set of clusters, where data points within a cluster are similar to one another. 

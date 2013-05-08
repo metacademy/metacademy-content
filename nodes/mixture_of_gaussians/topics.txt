@@ -1,0 +1,2 @@
+* definition of the model
+* motivation in terms of clustering

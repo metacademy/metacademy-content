@@ -1,0 +1,4 @@
+* interpretation of k-means in terms of EM in a GMM (hard-assignment w/ isotropic variance, or limit as sigma goes to 0)
+* difference in motivations: density modeling vs. vector quantization
+* use of k-means as an initialization for GMM
+ 

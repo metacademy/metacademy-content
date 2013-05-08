@@ -1,0 +1,6 @@
+* optimization landscape for maximum likelihood in a mixture model
+** nonconvex
+** symmetries
+** singularities
+* special case of Gaussian mixture model
+* general formulation (compute expectations of terms in log likelihood)
