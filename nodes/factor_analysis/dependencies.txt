@@ -6,3 +6,6 @@ reason: We can use EM to learn the parameters.
 
 tag: computations-on-multivariate-gaussians
 reason: Factor analysis requires manipulating multivariate Gaussians.
+
+tag: maximum_likelihood_multivariate_gaussians
+reason: The M step involves maximum likelihood for multivariate Gaussians.

@@ -3,4 +3,7 @@ tag: expectation-maximization
 tag: probabilistic-pca
 reason: EM is a way of fitting the probabilistic PCA model.
 
+tag: maximum_likelihood_multivariate_gaussians
+reason: The M step involves maximum likelihood for multivariate Gaussians.
+
 # TODO: computational complexity of matrix multiplication
