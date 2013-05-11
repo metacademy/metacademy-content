@@ -1,0 +1,1 @@
+The proof that principal component analysis (PCA) finds the subspace maximizing the variance and minimizing the reconstruction error.

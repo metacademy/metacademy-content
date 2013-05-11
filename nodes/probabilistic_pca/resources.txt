@@ -1,0 +1,14 @@
+source: murphy
+edition: 1
+location: Section 12.2.4, pages 395-396
+
+source: bishop
+edition: 1
+location: Sections 12.2-12.2.1, pages 570-577
+mark: star
+
+source: barber
+edition: 1-online
+location: Section 21.4, page 436
+dependencies: factor_analysis
+

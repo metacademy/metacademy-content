@@ -1,0 +1,1 @@
+* proof that PCA maximizes the variance and minimizes the reconstruction error

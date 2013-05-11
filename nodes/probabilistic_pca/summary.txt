@@ -1,0 +1,1 @@
+Probabilistic principal component analysis (PCA) is a formulation of PCA as a latent variable model. Each data point is assumed to be generated as a linear function of Gaussian latent variables, plus noise. Like PCA, it has a closed form solution in terms of the truncated SVD of the covariance matrix.

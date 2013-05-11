@@ -1,3 +1,4 @@
+* Mathematical justification of PCA [pca_proof]
 * Some ways PCA is commonly used:
 ** to visualize datasets by projecting into a low-dimensional space [pca-visualization]
 ** as a preprocessing step for supervised learning; the idea is to improve generalization or computational efficiency by reducing the dimensionality of the inputs [pca-preprocessing]

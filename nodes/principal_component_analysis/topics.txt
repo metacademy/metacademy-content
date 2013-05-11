@@ -1,0 +1,5 @@
+* motivations
+** compression
+** visualization
+* problem formulations: subspace of maximum variance and minimum reconstruction error
+* statement of algorithm as SVD and/or spectral decomposition

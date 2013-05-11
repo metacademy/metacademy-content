@@ -10,3 +10,5 @@ reason: The evidence approximation can be used to select the dimensionality.
 tag: bayes-param-multivariate-gaussian
 reason: The same ideas are required for modeling the variance parameters.
 
+tag: laplace_approximation
+reason: The Laplace approximation can be used to integrate out the parameter matrix.

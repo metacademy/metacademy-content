@@ -1,0 +1,1 @@
+By formulating PCA as a Bayesian model, we can auotmatically choose a latent dimensionality by maximizing the (approximate) marginal likelihood of the model.

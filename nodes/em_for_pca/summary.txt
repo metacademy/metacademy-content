@@ -1,0 +1,1 @@
+While probabilistic PCA has a closed-form solution, it is infeasible to compute for large and high-dimensional datasets. The expectation-maximization (EM) algorithm provides an alternative. Despite its iterative nature, it can be far more computationally efficient.

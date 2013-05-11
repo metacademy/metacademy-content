@@ -1,0 +1,5 @@
+tag: principal_component_analysis
+
+tag: variational_characterization_of_eigenvalues
+reason: Justifying PCA depends on the formulation of eigenvalues as an optimization problem.
+

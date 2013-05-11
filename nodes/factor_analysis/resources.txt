@@ -1,0 +1,14 @@
+source: murphy
+edition: 1
+location: Section 12.1, pages 381-387
+mark: star
+
+source: bishop
+edition: 1
+location: Section 12.2.4, pages 583-586
+dependencies: probabilistic_pca
+
+source: barber
+edition: 1
+location: Sections 21.1-21.2, pages 427-433
+mark: star

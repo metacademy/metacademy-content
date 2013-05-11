@@ -1,0 +1,4 @@
+* formulation of probabilistic model
+* posterior inference
+* closed form maximum likelihood solution
+* finding the optimal noise

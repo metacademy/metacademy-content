@@ -1,0 +1,5 @@
+* use in visualization
+* model definition
+* posterior inference
+* why the solution is not identifiable without further constraints
+* finding the maximum likelihood solution using EM
