@@ -1,0 +1,9 @@
+source: murphy
+edition: 1
+location: Sections 17.2-17.2.2.1, pages 589-593
+
+source: bishop
+edition: 1
+location: Section 13.1, pages 607-610
+dependencies: d_separation
+

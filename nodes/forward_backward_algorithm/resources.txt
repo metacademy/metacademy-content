@@ -1,0 +1,18 @@
+source: murphy
+edition: 1
+location: Sections 17.4-17.4.3, pages 606-612
+mark: star
+
+source: bishop
+edition: 1
+location: Sections 13.2.2 (pages 618-625) and 13.2.4 (pages 627-629)
+dependencies: d_separation
+
+source: aima
+edition: 2
+location: Sections 15.2, up to "Finding the most likely sequence" (pages 541-547) and 15.3 (pages 549-551)
+mark: star
+
+source: barber
+edition: 1-online
+location: Sections 23.2-23.2.4, pages 458-462

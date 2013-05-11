@@ -1,0 +1,5 @@
+* Markov assumption
+* meaning of homogeneity
+* representation in terms of transition matrix
+* representation in terms of transition diagram
+* how to represent higher-order Markov models as first-order Markov models

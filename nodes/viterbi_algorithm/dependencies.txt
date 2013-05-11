@@ -1,2 +1,6 @@
 tag: hidden-markov-models
 reason: The Viterbi algorithm is an algorithm for HMM inference.
+
+tag: forward_backward_algorithm
+reason: The Viterbi algorithm is closely based on the forward-backward algorithm.
+

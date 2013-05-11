@@ -1,0 +1,10 @@
+source: bishop
+edition: 1
+location: Section 13.2.5, pages 629-631
+mark: star
+
+source: murphy
+edition: 1
+location: Section 17.4.4, pages 612-616
+mark: star
+

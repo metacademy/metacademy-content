@@ -1,0 +1,5 @@
+* what is meant by filtering and smoothing
+* statement of the algorithm
+* proof of correctness
+* trellis representation
+* computational complexity

@@ -1,0 +1,8 @@
+* model definition
+* homogeneity assumption
+* why HMMs are not Markov chains (over observed variables)
+* how to represent higher order HMMs in terms of standard HMMs
+* how to represent as:
+** transition matrices
+** state transition diagrams
+** Bayes net

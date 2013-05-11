@@ -1,0 +1,1 @@
+Markov models are a kind of probabilistic model often used in language modeling. The observations are assumed to follow a Markov chain, where each observation is independent of all past observations given the previous one.

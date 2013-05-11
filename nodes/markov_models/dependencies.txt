@@ -1,2 +1,14 @@
+tag: markov_chains
+reason: Markov models are based on Markov chains.
+
 tag: probabilistic-models
 reason: Markov models are a kind of probabilistic model.
+
+tag: matrices
+reason: Markov models can be conveniently represented using transition matrices.
+
+tag: conditional_distributions
+reason: Markov models are defined in terms of the transition distribution, which is a conditional distribution.
+
+tag: conditional_independence
+reason: Markov models can be defined in terms of a conditional independence property.

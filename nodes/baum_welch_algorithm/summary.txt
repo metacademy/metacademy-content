@@ -1,0 +1,1 @@
+The Baum-Welch algorithm is an algorithm for maximum likelihood learning in hidden Markov models (HMMs). It is a special case of expectation-maximization (EM), and alternates between inferring the posterior marginals and maximizing the expected log-likelihood given those posterior marginals.

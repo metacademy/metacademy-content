@@ -1,0 +1,2 @@
+The forward-backward algorithm is an algorithm for computing posterior marginals in a hidden Markov model (HMM). It is based on dynamic programming, and has linear complexity in the length of the sequence. It is used as a component of several other algorithms, such as the Baum_Welch algorithm and block Gibbs sampling in factorial HMMs.
+ 

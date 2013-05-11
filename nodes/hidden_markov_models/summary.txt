@@ -1,0 +1,1 @@
+Hidden Markov models (HMMs) are a kind of probabilistic model widely used in speech and language processing. There is a discrete latent state which evolves over time as a Markov chain, and the current observations depend stochastically on the current latent state. HMMs are popular because they support efficient exact inference algorithms.

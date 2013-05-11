@@ -1,2 +1,17 @@
-tag: markov-models
-reason: Markov models are a component of HMMs.
+tag: markov_chains
+reason: HMMs are based on Markov chains.
+
+tag: probabilistic-models
+reason: HMMs are a kind of probabilistic model.
+
+tag: matrices
+reason: HMMs can be conveniently represented using transition matrices.
+
+tag: conditional_distributions
+reason: HMMs are defined in terms of the transition distribution, which is a conditional distribution.
+
+tag: conditional_independence
+reason: HMMs can be defined in terms of a conditional independence property.
+
+tag: bayesian_networks
+reason: An HMM can be represented in terms of a Bayes net.

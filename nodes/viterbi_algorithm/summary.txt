@@ -1,0 +1,1 @@
+The Viterbi algorithm is an algorithm for finding the most likely state sequence in the posterior for an HMM. It is based on dynamic programming and has linear time complexity in the length of the sequence. 

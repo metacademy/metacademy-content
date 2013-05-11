@@ -1,0 +1,5 @@
+* statement of algorithm
+* proof of correctness
+* trellis representation
+* computational complexity
+* comparison of marginals and MAP estimates

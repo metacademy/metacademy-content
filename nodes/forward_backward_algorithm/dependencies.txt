@@ -1,2 +1,10 @@
 tag: hidden-markov-models
 reason: Forward-backward is an algorithm for inference in HMMs.
+
+tag: marginalization
+reason: The forward-backward algorithm is an algorithm for marginalization.
+
+tag: conditional_independence
+reason: The justification of the algorithm uses the conditional independence properties.
+
+# TODO: computational complexity of matrix multiplication?

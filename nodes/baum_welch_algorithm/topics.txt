@@ -1,0 +1,1 @@
+* derivation of the algorithm as a special case of EM
