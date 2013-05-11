@@ -150,5 +150,11 @@ resource_type: textbook
 free: 0
 url: http://www.cambridge.org/gb/knowledge/isbn/item1146626/?site_locale=en_GB
 
+key: probabilistic_robotics
+title: Probabilistic Robotics
+authors: Sebastian Thrun and Wolfram Burgard and Dieter Fox
+resource_type: textbook
+free: 0
+url: http://www.probabilistic-robotics.org/
 
 

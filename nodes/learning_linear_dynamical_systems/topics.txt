@@ -1,0 +1,4 @@
+* derivation of the EM algorithm
+* pitfalls of maximum likelihood estimation
+** non-identifiability
+** instability of the system

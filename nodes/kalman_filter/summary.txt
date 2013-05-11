@@ -1,0 +1,1 @@
+The Kalman filter is an algorithm for inference in linear dynamical systems. Specifically, the task is to infer the posterior over the current latent state given past observations. It forms the basis for approximate inference algorithms in more general state space models.

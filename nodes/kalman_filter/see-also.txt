@@ -1,0 +1,3 @@
+* Mathematical derivation of the Kalman filter [kalman_filter_derivation]
+* The Kalman smoother can be used to infer the posterior marginals over the whole sequence, not just the current state. [kalman_smoother]
+* Kalman smoothing can be regarded as a speical case of the forward-backward algorithm for HMMs. [kalman_as_forward_backward]

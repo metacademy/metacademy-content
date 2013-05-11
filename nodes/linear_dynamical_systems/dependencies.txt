@@ -1,0 +1,8 @@
+tag: multivariate_gaussian_distribution
+reason: Linear dynamical systems are defined in terms of multivariate Gaussians.
+
+tag: conditional_distributions
+reason: Linear dynamical systems are defined in terms of conditional distributions.
+
+tag: conditional_independence
+reason: We can characterize linear dynamical systems in terms of conditional independence properties.

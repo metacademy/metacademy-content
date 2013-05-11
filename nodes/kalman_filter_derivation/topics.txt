@@ -1,0 +1,3 @@
+* derivation of the Kalman filter algorithm
+* note: this node represents the derivation from first principles. The interpretation in terms of the forward-backward algorithm is in a separate node, "Kalman smoothing as forward-backward." The reason for having two separate nodes is that this interpretation leads more naturally to some extensions of the Kalman filter.
+

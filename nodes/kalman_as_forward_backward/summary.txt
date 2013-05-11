@@ -1,0 +1,1 @@
+Kalman smoothing can be seen as a special case of the forward-backward algorithm for inference in HMMs. This leads to a simpler derivation than the classical one.

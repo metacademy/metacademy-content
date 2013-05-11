@@ -1,0 +1,1 @@
+* demonstration that the Kalman smoothing update rules are a special case of forward-backward

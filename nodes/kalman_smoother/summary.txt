@@ -1,0 +1,1 @@
+Kalman smoothing is a posterior inference algorithm for linear dynamical systems (LDSs). It computes posterior marginals for all time steps conditioned on all of the observations. It is used in parameter learning for LDSs.

@@ -1,0 +1,1 @@
+We can perform maximum likelihood estimation for the parameters of a linear dynamical system using the EM algorithm. The E step involves running a Kalman smoother, and the M step involves maximum likelihood inference in multivariate Gaussians.

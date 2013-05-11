@@ -1,0 +1,6 @@
+tag: kalman_filter
+
+tag: computations_on_multivariate_gaussians
+reason: The derivation involves computations on multivariate Gaussians.
+
+# TODO: matrix inversion lemma?

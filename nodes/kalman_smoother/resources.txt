@@ -1,0 +1,8 @@
+source: bishop
+edition: 1
+location: Section 13.3.1, pages 638-641
+dependencies: forward_backward_algorithm
+
+source: murphy
+edition: 1
+location: Section 18.3.2-18.3.2.1, pages 643-644

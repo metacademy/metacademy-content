@@ -1,0 +1,10 @@
+tag: linear_dynamical_systems
+
+tag: expectation_maximization
+reason: We use the EM algorithm to learn the parameters.
+
+tag: kalman_smoother
+reason: the E step requires computing marginals using a Kalman smoother.
+
+tag: maximum_likelihood_multivariate_gaussians
+reason: The M step involves maximum likelihood estimation of multivariate Gaussians.

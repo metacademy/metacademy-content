@@ -1,0 +1,18 @@
+source: bishop
+edition: 1
+location: Section 13.3.1, pages 638-641
+dependencies: forward_backward_algorithm
+
+source: murphy
+edition: 1
+location: Section 18.3.1-18.3.1.5, pages 640-642
+
+source: probabilistic_robotics
+edition: 1
+location: Section 3.2.2-3.2.3, pages 43-45
+
+source: aima
+edition: 2
+location: Sections 15.2, up to "Smoothing" (pages 541-544) and 15.4 (pages 551-558)
+mark: star
+ 
