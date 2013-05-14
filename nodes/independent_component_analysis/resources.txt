@@ -1,0 +1,22 @@
+source: murphy
+edition: 1
+location: Sections 12.6-12.6.1, pages 407-411
+mark: star
+
+source: bishop
+edition: 1
+location: Section 12.4.1, pages 591-592
+
+source: esl
+edition: 1
+location: Section 14.6.2, pages 496-499
+dependencies: differential_entropy
+
+source: cs229
+location: Lecture notes 11: Independent Components Analysis
+mark: star
+
+source: mackay
+edition: 1
+location: Sections 34.1-34.2, pages 437-440
+mark: star

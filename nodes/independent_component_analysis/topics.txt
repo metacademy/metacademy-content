@@ -1,0 +1,5 @@
+* formulation as latent variable model
+* maximum likelihood objective function
+* why the latent variables must be non-Gaussian
+* PCA preprocessing
+* source separation example

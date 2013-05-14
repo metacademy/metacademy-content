@@ -1,0 +1,9 @@
+tag: map_parameter_estimation
+reason: Sparse coding is often fit using MAP estimation.
+
+tag: matrices
+reason: Sparse coding is a kind of matrix factorization.
+
+tag: heavy_tailed_distributions
+reason: Sparse coding uses heavy-tailed distributions for the coefficients.
+

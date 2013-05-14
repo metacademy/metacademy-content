@@ -1,0 +1,1 @@
+Independent component analysis (ICA) is a latent variable model where the observations are modeled as linear combinations of latent variables which are usually drawn from a heavy-tailed distribution. Common uses include source separation and sparse dictionary learning.

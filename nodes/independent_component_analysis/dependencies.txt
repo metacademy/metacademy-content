@@ -1,8 +1,19 @@
-tag: probabilistic-models
-reason: ICA is a probabilisitic model.
+tag: maximum_likelihood
+reason: ICA is usually fit using maximum likelihood.
 
-tag: covariance-matrices
-reason: ICA requires rescaling the covariance matrix as a preprocessing step.
-
-tag: heavy-tailed-distributions
+tag: heavy_tailed_distributions
 reason: ICA typically involves fitting heavy-tailed distributions.
+
+tag: principal_component_analysis
+reason: PCA is often used as a preprocessing step, and it's useful to compare ICA with PCA.
+
+tag: determinant
+reason: The maximum likelihood objective function includes a determinant.
+
+tag: orthogonal_matrices
+reason: Standard ICA has an orthogonality constraint.
+
+tag: multivariate_gaussian_distribution
+reason: ICA requires that the component distributions be non-Gaussian.
+
+# TODO: linear transformations of densities
