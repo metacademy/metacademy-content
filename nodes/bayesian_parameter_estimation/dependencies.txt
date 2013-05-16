@@ -9,3 +9,6 @@ reason: In Bayesian parameter estimation, we need to reason with the conditional
 
 tag: marginalization
 reason: In Bayesian parameter estimation, we need to marginalize out the parameters in order to make predictions.
+
+tag: expected_value
+reason: A common use of the predictive distribution is computing expectations.

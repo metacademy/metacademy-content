@@ -1,0 +1,3 @@
+* conjugate priors for unknown mean, unknown variance, and unknown mean and variance
+* posterior distributions for these cases
+* predictive distributions for unknown mean and for unknown variance

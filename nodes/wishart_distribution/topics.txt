@@ -1,0 +1,3 @@
+* form of the distribution
+* expectation
+* visualization of the distribution (e.g. samples)

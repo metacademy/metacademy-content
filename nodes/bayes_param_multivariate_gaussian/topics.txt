@@ -1,0 +1,2 @@
+* conjugate priors for cases of unknown mean, unknown covariance, and unknown mean and covariance
+* posterior distributions for these cases

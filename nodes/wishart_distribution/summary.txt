@@ -1,0 +1,1 @@
+The Wishart distribution is a distribution over positive semidefinite matrices. It is most often used as the conjugate prior for the precision matrix of a multivariate Gaussian.

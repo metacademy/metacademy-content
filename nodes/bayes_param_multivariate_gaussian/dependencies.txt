@@ -1,8 +1,5 @@
 tag: bayesian-parameter-estimation
 
-tag: maximum-likelihood-multivariate-gaussian
-reason: Bayesian parameter estimation for multivariate Gaussians has a similar form to the maximum likelihood estimator.
-
 tag: multivariate-gaussians-information-form
 reason: The prior over covariance is easiest to express in information form.
 

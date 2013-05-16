@@ -1,0 +1,1 @@
+Exponential families are convenient for Bayesian parameter estimation because the conjugate priors often have a convenient form, and there is a simple form for the posterior.

@@ -4,8 +4,11 @@ reason: The Wishart distribution is a multivariate generalization of the gamma d
 tag: positive-semidefinite-matrices
 reason: The Wishart distribution is a distribution over semidefinite matrices.
 
-tag: multivariate-gaussian-distribution
-reason: The Wishart distribution is normally used as a conjugate prior for the precision matrix of a multivariate Gaussian.
+tag: expected_value
+reason: We would like to derive the mean of the distribution.
 
-tag: conjugate-priors
-reason: The Wishart distribution is normally used as a conjugate prior for the precision matrix of a multivariate Gaussian.
+tag: determinant
+reason: The probability density function includes a determinant.
+
+tag: systems_of_linear_equations
+reason: The probability density function includes a matrix inverse.

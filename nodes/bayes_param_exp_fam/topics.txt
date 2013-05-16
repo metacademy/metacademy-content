@@ -1,0 +1,2 @@
+* how to derive the form of the conjugate prior
+* general form of posterior (convex combination of prior and sufficient statistics)
