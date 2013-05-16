@@ -1,9 +1,9 @@
+tag: bayesian_parameter_estimation
+
 tag: ridge-regression
 reason: Ridge regression is an instructive example.
 
-tag: bayes-rule
-reason: Bayes' rule allows us to determine the posterior distribution over parameters.
 
-tag: map-parameter-estimation
+
 
 

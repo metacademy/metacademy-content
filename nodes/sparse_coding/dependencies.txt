@@ -1,5 +1,5 @@
-tag: map_parameter_estimation
-reason: Sparse coding is often fit using MAP estimation.
+tag: maximum_likelihood
+# TODO: dependency for MAP estimation instead?
 
 tag: matrices
 reason: Sparse coding is a kind of matrix factorization.

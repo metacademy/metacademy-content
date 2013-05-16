@@ -1,6 +1,3 @@
-tag: map-parameter-estimation
-reason: The Laplace approximation is defined in terms of the MAP estimate.
-
 tag: asymptotics-of-maximum-likelihood
 reason: The Laplace approximation is justified in terms of the asymptotic behavior of maximum likelihood.
 

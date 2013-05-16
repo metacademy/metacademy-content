@@ -7,5 +7,3 @@ reason: The gamma function is part of the definition of the Dirichlet distributi
 tag: multinomial-distribution
 reason: The Dirichlet distribution is most commonly used as the conjugate prior for the multinomial distribution.
 
-tag: conjugate-priors
-reason: The Dirichlet distribution is most commonly used as the conjugate prior for the multinomial distribution.
