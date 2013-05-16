@@ -3,3 +3,5 @@ reason: MAP estimation is an approximation to Bayesian parameter estimation.
 
 tag: unconstrained_optimization_problems
 reason: Map estimation is an optimization problem.
+
+# TODO: transformations of random variables (to show it's not invariant to reparameterization)
