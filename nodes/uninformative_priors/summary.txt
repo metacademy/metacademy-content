@@ -1,0 +1,1 @@
+In Bayesian parameter estimation, uninformative priors are a way of making minimal assumptions about the model. They are commonly chosen to be invariant to certain transformations, such as translation or scaling. While uninformative priors are often improper, they can still lead to proper posterior distributions, and thereby be usable in posterior inference.

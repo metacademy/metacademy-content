@@ -1,9 +1,4 @@
-tag: bayesian_parameter_estimation
+tag: map_parameter_estimation
 
 tag: ridge-regression
 reason: Ridge regression is an instructive example.
-
-
-
-
-

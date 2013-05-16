@@ -8,3 +8,7 @@ edition: 1
 location: Sections 2.5.4 (pages 47-49) and 3.4, (pages 78-82)
 dependencies: lagrange_multipliers
 mark: star
+
+source: coursera_koller
+location: Lectures "Bayesian estimation" and "Bayesian prediction"
+dependencies: maximum_likelihood, bayesian_networks

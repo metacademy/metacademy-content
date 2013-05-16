@@ -1,0 +1,2 @@
+The Jeffreys prior is a kind of uninformative prior defined in terms of Fisher information, and motivated in terms of transformation invariance.
+

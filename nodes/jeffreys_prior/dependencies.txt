@@ -1,0 +1,10 @@
+tag: bayesian_parameter_estimation
+reason: The Jeffreys prior can be used in Bayesian parameter estimation.
+
+tag: uninformative_priors
+reason: The Jeffreys prior is a kind of uninformative prior.
+
+tag: fisher_information
+reason: The Jeffreys prior is defined in terms of Fisher information.
+
+# TODO: transformations of random variables

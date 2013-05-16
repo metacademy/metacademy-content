@@ -24,6 +24,7 @@ edition: 1-online
 location: Section 9.1, pgs. 189-193
 mark: star
 
-
-
-
+source: coursera_koller
+location: Lectures "Bayesian estimation" and "Bayesian prediction"
+dependencies: maximum_likelihood, bayesian_networks, multinomial_distribution
+mark: star

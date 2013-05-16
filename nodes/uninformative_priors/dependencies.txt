@@ -7,3 +7,4 @@ reason: The Gaussian distribution is an instructive example.
 tag: gamma-distribution
 reason: A degenerate gamma distribution often serves as an uninformative prior.
 
+# TODO: transformations of random variables

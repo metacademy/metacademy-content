@@ -1,0 +1,9 @@
+source: murphy
+edition: 1
+location: Sections 5.7-5.7.1, pages 176-180
+mark: star
+
+source: bishop
+edition: 1
+location: Section 1.5, pages 38-48
+dependencies: linear_regression

@@ -1,2 +1,5 @@
 tag: bayesian-parameter-estimation
 reason: We use Bayesian parameter estimation to get the posterior on which we base our decisions.
+
+tag: expected_value
+reason: The goal of Bayesian decision theory is to minimize expected loss under the posterior.

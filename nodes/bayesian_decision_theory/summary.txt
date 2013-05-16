@@ -1,0 +1,1 @@
+When we use Bayesian parameter estimation techniques, often it's because we want to make a decision. In Bayesian decision theory, we make the choice which minimizes the expected loss under the posterior. When we compute a statistic like the mode or the mean of the predictive distribution, this can be interpreted as the decision theoretic solution under a particular loss function.

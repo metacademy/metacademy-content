@@ -1,0 +1,3 @@
+* heuristic of invariance to transformations
+* improper priors, and how they often lead to proper posteriors
+* examples of location parameters and scale parameters
