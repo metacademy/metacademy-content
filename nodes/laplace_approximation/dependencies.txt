@@ -1,8 +1,5 @@
-tag: asymptotics-of-maximum-likelihood
-reason: The Laplace approximation is justified in terms of the asymptotic behavior of maximum likelihood.
-
 tag: bayesian-parameter-estimation
-reason: The Laplace approximation is an approximation to Bayesian likelihood estimation.
+reason: The Laplace approximation is an approximation to Bayesian parameter estimation.
 
 tag: bayesian-model-comparison
 reason: The Laplace approximation is a method for Bayesian model comparison.
@@ -12,3 +9,6 @@ reason: The Laplace approximation is a second-order Taylor expansion around the 
 
 tag: taylor_approximations
 reason: The Laplace approximation is a second-order Taylor expansion around the MAP estimate.
+
+tag: multivariate_gaussian_distribution
+reason: The posterior distribution is approximated with a multivariate Gaussian.

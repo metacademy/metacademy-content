@@ -1,5 +1,5 @@
-tag: maximum-likelihood
-reason: The BIC is often used to regularize maximum likelihood estimation.
+tag: bayesian_model_comparison
+reason: The BIC is an approximation to Bayesian model comparison.
 
-tag: generalization
-reason: The BIC is a way of improving generalization.
+tag: laplace_approximation
+reason: The Laplace approximation is a way of justifying the BIC.

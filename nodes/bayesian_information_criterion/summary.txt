@@ -1,0 +1,1 @@
+The Bayesian information criterion (BIC) is a rough approximation to the marginal likelihood, based on the asymptotic behavior of the Laplace approximation as more data is observed.

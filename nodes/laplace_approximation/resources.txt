@@ -1,0 +1,13 @@
+source: bishop
+edition: 1
+location: Section 4.4, pages 213-217
+mark: star
+
+source: murphy
+edition: 1
+location: Section 8.4.1, page 255
+
+source: mackay
+edition: 1
+location: Chapter 27, pages 341-342
+mark: star

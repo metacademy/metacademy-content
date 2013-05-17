@@ -1,0 +1,1 @@
+The framework of Bayesian model comparison evaluates probabilistic models based on the marginal likelihood, or the probability they assign a dataset with all the parameters marginalized out. The marginalization of model parameters implements a sort of "Occam's razor" effect. Marginal likelihoods can also be used to compute a posterior over model classes using Bayes' rule.

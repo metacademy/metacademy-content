@@ -1,0 +1,2 @@
+* definition of the approximation
+* justification that with only a small number of hyperparameters, we're unlikely to overfit by maximizing

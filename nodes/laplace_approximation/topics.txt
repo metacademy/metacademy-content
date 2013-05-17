@@ -1,0 +1,2 @@
+* formula for the approximation
+* derivation in terms of Taylor approximation to log-posterior

@@ -1,0 +1,11 @@
+source: murphy
+edition: 1
+location: Section 5.6, pages 172-176
+dependencies: bayesian_parameter_estimation_gaussian
+mark: star
+
+source: bishop
+edition: 1
+location: Sections 3.5-3.5.2, pages 165-169
+dependencies: bayesian_linear_regression
+
