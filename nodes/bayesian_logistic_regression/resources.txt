@@ -1,0 +1,10 @@
+source: bishop
+edition: 1
+location: Section 4.5, pages 217-220
+dependencies: probit_regression
+
+source: murphy
+edition: 1
+location: Section 8.4, pages 254-261
+dependencies: probit_regression, monte_carlo_estimation
+mark: star

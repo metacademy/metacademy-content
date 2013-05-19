@@ -1,0 +1,1 @@
+By interpreting linear regression as a Bayesian model, we can automatically infer the prior variance and the noise variance, and make calibrated predictions. Bayesian linear regression is a useful component in fancier probabilistic models.

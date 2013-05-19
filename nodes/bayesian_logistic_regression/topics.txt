@@ -1,0 +1,3 @@
+* form of the model
+* a strategy for estimating parameters (e.g. Laplace approximation or EP)
+* a strategy for approximating the predictive distribution (e.g. sampling or probit approximation)

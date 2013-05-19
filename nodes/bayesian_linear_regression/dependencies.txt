@@ -1,14 +1,12 @@
-tag: ridge-regression
-reason: Bayesian linear regression has a similar form to ridge regression.
-
-tag: regularization-as-map-estimation
-reason: This makes clear the relationship with ridge regression.
+tag: linear_regression_as_maximum_likelihood
+reason: Bayesian linear regression is based on the probabilistic interpretation of linear regression.
 
 tag: bayesian-parameter-estimation
 reason: This is an example of Bayesian parameter estimation.
 
+tag: bayes_param_multivariate_gaussian
+reason: Bayesian linear regression uses some of the same computations as Bayesian inference for multivariate Gaussians.
+
 tag: computations-on-multivariate-gaussians
 reason: Bayesian linear regression requires conditioning and marginalizing multivariate Gaussians.
 
-tag: bayesian-decision-theory
-reason: Bayesian decision theory tells us how to make predictions in Bayesian linear regression.

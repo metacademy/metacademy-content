@@ -12,3 +12,5 @@ reason: The same ideas are required for modeling the variance parameters.
 
 tag: laplace_approximation
 reason: The Laplace approximation can be used to integrate out the parameter matrix.
+
+# TODO: automatic relevance determination

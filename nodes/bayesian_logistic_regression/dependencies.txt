@@ -1,5 +1,7 @@
 tag: logistic-regression
 
+tag: bayesian_parameter_estimation
+
 tag: bayesian-linear-regression
 reason: Many of the ideas from Bayesian linear regression transfer to Bayesian logistic regression.
 
@@ -12,3 +14,5 @@ reason: The evidence approximation is a simple way to choose hyperparameters in 
 tag: bayesian-decision-theory
 reason: Decision theory tells us how to make predictions from Bayesian parameter estimation.
  
+tag: probit_regression
+reason: The posterior predictive distribution is often approximated using probit regression.

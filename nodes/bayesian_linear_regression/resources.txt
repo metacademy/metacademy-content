@@ -1,0 +1,9 @@
+source: bishop
+edition: 1
+location: Section 3.3, pages 152-161
+dependencies: evidence_approximation
+mark: star
+
+source: murphy
+edition: 1
+location: Sections 7.6-7.6.2, pages 231-234
