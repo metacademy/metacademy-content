@@ -2,3 +2,6 @@ tag: logistic-regression
 
 tag: newton-rhapson
 reason: IRLS for logistic regression is a special case of the Newton-Rhapson method.
+
+tag: linear_regression_closed_form
+reason: The IRLS updates have the same form as the linear regression solution, but with reweighted data points.

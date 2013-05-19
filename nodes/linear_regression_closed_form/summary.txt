@@ -1,0 +1,1 @@
+Linear regression has a closed-form solution in terms of basic linear algebra operations. This makes it a useful starting point for understanding many other statistical learning algorithms.

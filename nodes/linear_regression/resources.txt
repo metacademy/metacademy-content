@@ -1,5 +1,5 @@
 source: cs229
-location: Chapter 1, sections 1 and 2, pgs. 1-11
+location: Chapter 1, section 1, pages 1-7
 mark: star
 
 source: esl
@@ -15,7 +15,7 @@ source: coursera_hinton
 location: Lectures "Learning the weight of a linear neuron" and "The error surface of a linear neuron"
 
 source: coursera_ng
-location: Lecture sequences "Linear regression with one variable" and "Linear regression with multiple variables"
+location: Lecture sequences: all of "Linear regression with one variable," and "Linear regression with multiple variables": "Multiple features" up through "Features and polynomial regression"
 mark: star
 
 source: barber

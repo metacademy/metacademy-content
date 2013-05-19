@@ -1,0 +1,3 @@
+* objective function
+* visualization
+* a method for solving (e.g. gradient descent)

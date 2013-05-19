@@ -1,0 +1,3 @@
+* derivation of optimal gradient descent solution using normal equations
+* why the matrix might not be invertible
+* pseudoinverse

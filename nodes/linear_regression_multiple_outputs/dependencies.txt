@@ -1,2 +1,5 @@
 tag: linear-regression-as-maximum-likelihood
 reason: The maximum likelihood interpretation of linear regression tells us how to generalize it to multiple outputs.
+
+tag: linear_regression_closed_form
+reason: The closed-form solution to linear regression generalizes to the multiple output case.

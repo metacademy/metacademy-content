@@ -1,5 +1,8 @@
-tag: linear-regression
+tag: linear_regression
 reason: The bias-variance decomposition holds exactly in the case of linear regression.
+
+tag: linear_regression_closed_form
+reason: The bias-variance decomposition can be derived from the closed-form solution to linear regression.
 
 tag: generalization
 reason: The bias-variance decomposition is a way of analyzing generalization error.

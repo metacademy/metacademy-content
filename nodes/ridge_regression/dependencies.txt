@@ -1,6 +1,9 @@
 tag: linear-regression
 reason: Ridge regression is a variant on linear regression.
 
+tag: linear_regression_closed_form
+reason: The closed-form solution to linear regression extends to ridge regression.
+
 tag: generalization
 reason: Ridge regression is a way of improving generalization.
 
