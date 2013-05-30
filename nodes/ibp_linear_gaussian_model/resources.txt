@@ -1,0 +1,15 @@
+resource_type: paper
+authors: Tom Griffiths and Zoubin Ghahramani
+key: griffiths_ibp
+url:http://cocosci.berkeley.edu/tom/papers/ibpbs.pdf
+location: section 5.1
+free: 1
+mark: star
+
+resource_type: paper
+authors: Finale Doshi-Velez
+title: The Indian Buffet Process: Scalable Inference and Extensions
+url: http://people.csail.mit.edu/finale/papers/finale_msc.pdf
+location: appendix A.1
+free: 1
+mark: star
