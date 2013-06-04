@@ -157,4 +157,9 @@ resource_type: textbook
 free: 0
 url: http://www.probabilistic-robotics.org/
 
-
+key: sudderth_thesis
+title: Graphical Models for Visual Object Recognition and Tracking
+authors: Erik Sudderth
+resource_type: thesis
+free: 1
+url: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf

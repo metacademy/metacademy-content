@@ -1,6 +1,5 @@
 resource_type: paper
 authors: Tom Griffiths and Zoubin Ghahramani
-key: griffiths_ibp
 url:http://cocosci.berkeley.edu/tom/papers/ibpbs.pdf
 location: section 5.1
 free: 1
