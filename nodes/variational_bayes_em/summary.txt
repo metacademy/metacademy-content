@@ -1,0 +1,1 @@
+Variational Bayes EM is the application of variational Bayes to latent variable models. In the approximating distribution, the latent variables and parameters are independent, and often there are additional variational approximations within either the latent variables or the parameters.

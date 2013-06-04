@@ -1,0 +1,4 @@
+* objective function
+* update rules for parameters and latent variables
+* lower bound on the marginal likelihood
+* a worked-through example (e.g. mixture of Gaussians)

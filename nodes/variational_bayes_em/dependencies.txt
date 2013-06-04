@@ -1,0 +1,5 @@
+tag: variational_bayes
+
+tag: expectation_maximization
+
+tag: em_variational_interpretation

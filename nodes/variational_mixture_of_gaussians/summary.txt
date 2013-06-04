@@ -1,0 +1,1 @@
+Variational Bayes EM can be applied to fitting a mixture of Gaussians model. Unlike standard mixture of Gaussians fit with EM, the variational algorithm automatically controls the model complexity and yields a lower bound on the marginal likelihood.

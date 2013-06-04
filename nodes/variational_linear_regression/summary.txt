@@ -1,0 +1,2 @@
+Variational linear regression is an illustrative example of variational Bayes.
+

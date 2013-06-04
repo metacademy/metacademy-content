@@ -1,0 +1,3 @@
+* derivation of update rules and marginal likelihood lower bound
+* why it fits a reasonable number of components, even if the number allowed in the model is very large
+* why the marginal likelihood is underestimated by K!

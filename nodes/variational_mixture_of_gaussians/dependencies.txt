@@ -3,4 +3,7 @@ tag: variational-bayes
 tag: mixture-of-gaussians
 
 tag: bayes-param-multivariate-gaussian
-reason: The posterior over parameters for a multivariate Gaussian is part of the mean field update rule for this model.
+reason: The posterior over parameters for a multivariate Gaussian is part of the update rule for this model.
+
+tag: bayesian_parameter_estimation_multinomial
+reason: The posterior over the mixture probabilities is part of the update rule for this model.
