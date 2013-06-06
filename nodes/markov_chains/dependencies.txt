@@ -4,5 +4,5 @@ reason: Markov chains are sequences of random variables.
 tag: conditional-distributions
 reason: Markov chains are defined in terms of conditional distributions.
 
-tag: matrices
+tag: matrix_multiplication
 reason: The transition operator is conveniently represented in terms of matrix multiplication.

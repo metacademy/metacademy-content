@@ -1,1 +1,2 @@
-tag: symmetric-matrices
+tag: matrix_transpose
+reason: PSD matrices are usually assumed to be symmetric.

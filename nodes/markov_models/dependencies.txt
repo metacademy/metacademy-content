@@ -4,7 +4,7 @@ reason: Markov models are based on Markov chains.
 tag: probabilistic-models
 reason: Markov models are a kind of probabilistic model.
 
-tag: matrices
+tag: matrix_multiplication
 reason: Markov models can be conveniently represented using transition matrices.
 
 tag: conditional_distributions

@@ -1,5 +1,6 @@
 tag: higher-order-partial-derivatives
 reason: Second-order Taylor approximations involve second derivatives.
 
-tag: symmetric-matrices
+tag: matrix_transpose
 reason: The matrix of second derivatives is symmetric.
+# TODO: replace with quadratic forms node?

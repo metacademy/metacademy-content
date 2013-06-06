@@ -1,0 +1,5 @@
+tag: linear_systems_as_matrices
+reason: The matrix inverse is defined in terms of systems of linear equations.
+
+tag: matrix_multiplication
+reason: The inverse of a product is the product of the inverses, reversed.

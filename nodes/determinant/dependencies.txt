@@ -1,1 +1,5 @@
-tag: matrices
+tag: matrix_multiplication
+reason: The determinant of a product is the product of the determinants.
+
+tag: matrix_inverse
+reason: The determinant of the inverse is the inverse of the determinant.

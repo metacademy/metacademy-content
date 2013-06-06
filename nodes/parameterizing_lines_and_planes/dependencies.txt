@@ -4,5 +4,5 @@ reason: The cross product is needed to satisfy orthogonality constraints.
 tag: dot_product
 reason: The dot product is used to define orthogonality constraints.
 
-tag: systems_of_linear_equations
+tag: linear_systems_as_matrices
 reason: Lines and planes can be represented in terms of linear systems.

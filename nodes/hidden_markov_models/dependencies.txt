@@ -4,7 +4,7 @@ reason: HMMs are based on Markov chains.
 tag: probabilistic-models
 reason: HMMs are a kind of probabilistic model.
 
-tag: matrices
+tag: matrix_multiplication
 reason: HMMs can be conveniently represented using transition matrices.
 
 tag: conditional_distributions

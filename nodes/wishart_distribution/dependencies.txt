@@ -10,5 +10,5 @@ reason: We would like to derive the mean of the distribution.
 tag: determinant
 reason: The probability density function includes a determinant.
 
-tag: systems_of_linear_equations
+tag: matrix_inverse
 reason: The probability density function includes a matrix inverse.

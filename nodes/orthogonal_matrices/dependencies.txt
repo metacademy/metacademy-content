@@ -1,1 +1,6 @@
-tag: matrices
+tag: matrix_multiplication
+
+tag: matrix_inverse
+
+tag: matrix_transpose
+

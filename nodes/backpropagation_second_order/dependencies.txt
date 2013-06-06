@@ -2,7 +2,7 @@ tag: backpropagation
 
 tag: newton-rhapson
 
-tag: systems-of-linear-equations
+tag: matrix_inverse
 reason: We often want to approximate the inverse Hessian rather than the Hessian itself.
 
 tag: big-o-notation
