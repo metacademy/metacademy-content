@@ -1,0 +1,8 @@
+* definition of dot product
+* length of a vector
+* unit vectors
+* rescaling a vector to unit length
+* perpendicular vectors
+* cosine formula
+* Cauchy-Schwartz inequality
+* triangle inequality

@@ -163,3 +163,30 @@ authors: Erik Sudderth
 resource_type: thesis
 free: 1
 url: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf
+
+key: strang
+resource_type: textbook
+title: Introduction to Linear Algebra
+authors: Gilbert Strang
+free: 0
+url: http://math.mit.edu/linearalgebra/
+
+key: ocw_strang
+resource_type: online lectures
+title: MIT Open Courseware: Linear Algebra
+authors: Gilbert Strang
+free: 1
+url: http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+
+key: khan_academy_linear_algebra
+resource_type: online lectures
+title: Khan Academy: Linear Algebra
+free: 1
+url: https://www.khanacademy.org/math/linear-algebra
+
+key: beezer
+resource_type: textbook
+title: A First Course in Linear Algebra
+authors: Robert A. Beezer
+free: 1
+url: http://linear.ups.edu/

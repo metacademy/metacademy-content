@@ -1,0 +1,1 @@
+The dot product is an operation on vectors. It is used to define notions such as vector length, perpendicular vectors, and angles between vectors.

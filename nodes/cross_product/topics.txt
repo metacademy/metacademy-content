@@ -1,0 +1,5 @@
+* definition of cross product
+* basic properties
+* right-hand rule
+* sin formula
+* formula for volume in terms of triple product

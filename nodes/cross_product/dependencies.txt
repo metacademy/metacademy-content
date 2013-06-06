@@ -1,2 +1,6 @@
-tag: determinant
-reason: The determinant explains the relationship between cross products, dot products, and volume.
+tag: vectors
+reason: The cross product is an operation on vectors.
+
+tag: dot_product
+reason: The cross product is often used in conjunction with the dot product.
+

@@ -1,0 +1,10 @@
+source: strang
+edition: 4
+location: Section 1.2, pages 11-17
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lectures "Vector dot product and vector length," "Proving vector dot product properties," "Proof of the Cauchy-Schwartz inequality," "Vector triangle inequality," and "Defining the angle between vectors"
+mark: star
+
+

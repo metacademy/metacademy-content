@@ -1,0 +1,8 @@
+source: khan_academy_linear_algebra
+location: Lectures "Cross product introduction," "Proof: relationship between cross product and sin of angle," "Dot and cross product comparison/intuition," and "Vector triple product expansion"
+mark: star
+
+source: strang
+edition: 4
+location: Section 5.3, subsection "The cross product," pages 275-277
+dependencies: determinant

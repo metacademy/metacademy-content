@@ -1,0 +1,4 @@
+source: khan_academy_linear_algebra
+location: Lectures "Defining a plane in R3 with a point and a normal vector," "Normal vector from plane equation," "Point distance to plane," and "Distance between planes"
+mark: star
+

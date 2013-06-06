@@ -1,6 +1,20 @@
 source: wolfram
-location: http://mathworld.wolfram.com/Vector.html      
+url: http://mathworld.wolfram.com/Vector.html      
 
-source: khan
-location: https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/vectors/v/linear-algebra--introduction-to-vectors
+source: khan_academy_linear_algebra
+location: Lecture sequences "Vectors" and "Linear combinations and spans"
 mark: star
+
+source: strang
+edition: 4
+location: Section 1.1, pages 2-6
+mark: star
+
+source: beezer
+edition: 3
+location: Sections "Vector operations," "Linear combinations," and "Spanning sets"
+dependencies: linear_systems_as_matrices
+
+source: ocw_strang
+location: Lectures "The geometry of linear equations" and "An overview of key ideas"
+

@@ -1,0 +1,1 @@
+The cross product is an operation which takes to vectors and returns another vector orthogonal to both. It is commonly used to answer geometric questions involving points, lines, and planes, and to compute volumes.

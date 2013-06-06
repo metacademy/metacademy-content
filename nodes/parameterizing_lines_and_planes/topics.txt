@@ -1,0 +1,3 @@
+* representing lines and planes as spans of vectors, or as solutions to linear systems
+* converting between the two representations
+* computing distances between points, lines, and planes

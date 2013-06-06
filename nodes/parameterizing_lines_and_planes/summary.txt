@@ -1,0 +1,1 @@
+Lines and planes can be defined either as spans of vectors or as solutions to systems of linear equations. Vector operations (in particular, dot products and cross products) allow us to convert between these representations. These tools also let us compute distances between points, lines, and planes.
