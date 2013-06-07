@@ -1,0 +1,1 @@
+We can represent systems of linear equations in terms of matrices and vectors. This allows us to analyze and solve them using the tools of linear algebra.

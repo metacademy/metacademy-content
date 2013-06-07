@@ -1,0 +1,1 @@
+Matrix multiplication is an operator on matrices which satisfies many of the properties of multiplication, although not commutativity. 

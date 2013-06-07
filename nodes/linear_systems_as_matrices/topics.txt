@@ -1,0 +1,3 @@
+* representing linear systems in terms of matrix-vector multiplication
+* examples of overdetermined and underdetermined systems, and systems with a unique solution
+

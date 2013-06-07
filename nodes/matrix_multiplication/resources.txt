@@ -1,0 +1,17 @@
+source: strang
+edition: 4
+location: Section 2.4, up to "Block matrices and block multiplication," pages 67-70
+mark: star
+
+source: ocw_strang
+location: Lecture "Multiplication and inverse matrices"
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequences "Functions and linear transformations" and "Transformations and matrix multiplication"
+mark: star
+
+source: beezer
+edition: 3
+location: Sections "Matrix operations" and "Matrix multiplication"
+

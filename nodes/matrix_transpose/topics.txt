@@ -1,0 +1,6 @@
+* definition of transpose
+* transpose of product
+* transpose of inverse
+* representing dot products and outer products in terms of transposes
+* definition of symmetric matrix
+

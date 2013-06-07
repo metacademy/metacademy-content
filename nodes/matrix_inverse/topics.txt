@@ -1,0 +1,6 @@
+* definition of the inverse
+* viewing the inverse in terms of solutions to linear systems
+* equivalence between left and right inverses
+* reasons the inverse may not exist
+* the inverse of a product
+* uniqueness

@@ -1,0 +1,16 @@
+source: strang
+edition: 4
+location: Section 2.5, up to "Calculating A^-1 by Gauss-Jordan elimination", pages 81-83
+
+source: ocw_strang
+location: Lecture "Multiplication and inverse matrices," up to the part about computing inverses
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequences "Functions and linear transformations" and "Inverse functions and transformations"
+mark: star
+
+source: beezer
+edition: 3
+location: Section "Matrix inverses and systems of linear equations"
+
