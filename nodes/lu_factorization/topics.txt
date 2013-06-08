@@ -1,0 +1,4 @@
+* representing row operations as matrix multiplications
+* why elimination without row exchanges gives the LU factorization
+* how to represent elimination with row exchanges with an additional permutation matrix
+* why the decomposition is unique

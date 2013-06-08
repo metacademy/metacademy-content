@@ -1,0 +1,13 @@
+source: strang
+edition: 4
+location: Sections 2.6, "Elimination = factorization: A = LU", and 2.7, "Transposes and permutations," pages 95-113
+mark: star
+
+source: ocw_strang
+location: Lecture "Factorization into A = LU"
+mark: star
+
+source: beezer
+location: Section "Triangular decomposition"
+mark: star
+

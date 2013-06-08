@@ -1,0 +1,12 @@
+source: strang
+edition: 4
+location: Section 2.5, "Inverse matrices," starting from "Calculating A^{-1} by Gauss-Jordan elimination," pages 83-87
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lectures "Deriving a method for determining inverses," "Example of finding a matrix inverse," and "Formula for a 2x2 inverse"
+mark: star
+
+source: beezer
+location: Section "Matrix inverses and systems of linear equations," subsection "Computing the inverse of a matrix"
+mark: star

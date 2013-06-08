@@ -1,0 +1,1 @@
+The LU factorization is a factorization of a matrix into a lower triangular and an upper triangular matrix. It can be computed by recording the row operations used in Gaussian elimination. It can be a more efficient and numerically stable method of solving linear systems compared to matrix inverses.

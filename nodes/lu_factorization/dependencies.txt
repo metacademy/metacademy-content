@@ -1,2 +1,11 @@
 tag: gaussian-elimination
 reason: Gaussian elimination is used to compute the LU factorization.
+
+tag: matrix_multiplication
+reason: The matrix is factorized into a product of two matrices.
+
+tag: matrix_inverse
+reason: Matrix inverses are needed in deriving the factorization.
+
+tag: matrix_transpose
+reason: Matrix transposes are needed in deriving the factorization.

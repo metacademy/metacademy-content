@@ -1,0 +1,1 @@
+Gaussian elimination is an algorithm for solving systems of linear equations, computing matrix inverses, and computing the LU factorization of a matrix.

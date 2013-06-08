@@ -1,0 +1,16 @@
+source: strang
+edition: 4
+location: Sections 2.2, "The idea of elimination," and 2.3, "Elimination using matrices," pages 45-61
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequence "Matrices for solving systems by elimination"
+mark: star
+
+source: ocw_strang
+location: Lecture "Elimination with matrices"
+mark: star
+
+source: beezer
+location: Sections "Solving systems of linear equations" and "Reduced row-echelon form"
+mark: star

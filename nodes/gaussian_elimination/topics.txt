@@ -1,0 +1,3 @@
+* which row operations are allowed
+* Gaussian elimination algorithm
+* what happens when there is one solution, no solutions, many solutions
