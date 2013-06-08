@@ -1,5 +1,3 @@
 tag: matrix_multiplication
 reason: The transpose of a product is the product of transposes, reversed.
 
-tag: matrix_inverse
-reason: The inverse of a transpose is the transpose of the inverse.
