@@ -9,3 +9,7 @@ location: Lecture sequence "Matrices for solving systems by elimination"
 source: ocw_strang
 location: Lecture "The geometry of linear equations"
 mark: star
+
+source: shifrin
+edition: 1
+location: Section 4.1, "Gaussian elimination and the theory of linear systems," pages 127-142

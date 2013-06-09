@@ -14,3 +14,9 @@ mark: star
 source: beezer
 location: Sections "Solving systems of linear equations" and "Reduced row-echelon form"
 mark: star
+
+source: shifrin
+edition: 1
+location: Section 4.1, "Gaussian elimination and the theory of linear systems"
+mark: star
+

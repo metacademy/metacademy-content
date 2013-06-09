@@ -18,3 +18,7 @@ dependencies: linear_systems_as_matrices
 source: ocw_strang
 location: Lectures "The geometry of linear equations" and "An overview of key ideas"
 
+source: shifrin
+edition: 1
+location: Section 1.1, "Vectors in R^n", pages 1-6
+mark: star

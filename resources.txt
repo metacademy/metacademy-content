@@ -190,3 +190,11 @@ title: A First Course in Linear Algebra
 authors: Robert A. Beezer
 free: 1
 url: http://linear.ups.edu/
+
+key: shifrin
+resource_type: textbook
+title: Multivariable Mathematics
+authors: Theodore Shifrin
+free: 0
+url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000815.html
+

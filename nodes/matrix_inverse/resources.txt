@@ -14,3 +14,7 @@ source: beezer
 edition: 3
 location: Section "Matrix inverses and systems of linear equations"
 
+source: shifrin
+edition: 1
+location: Section 1.4.1, "Algebra of linear functions," from pages 34-36
+

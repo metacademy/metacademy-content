@@ -15,3 +15,8 @@ source: beezer
 edition: 3
 location: Sections "Matrix operations" and "Matrix multiplication"
 
+source: shifrin
+edition: 1
+location: Section 1.4, "Linear transformations and matrix algebra," up to subsection 4.2, "The transpose," pages 23-36
+mark: star
+

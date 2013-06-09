@@ -10,3 +10,9 @@ mark: star
 source: beezer
 location: Section "Matrix inverses and systems of linear equations," subsection "Computing the inverse of a matrix"
 mark: star
+
+source: shifrin
+edition: 1
+location: Section 4.2, "Elementary matrices and calculating inverse matrices," pages 147-155
+mark: star
+
