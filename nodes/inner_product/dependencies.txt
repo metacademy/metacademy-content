@@ -1,0 +1,5 @@
+tag: vector_spaces
+reason: An inner product is an operation defined on a vector space.
+
+tag: dot_product
+reason: The Euclidean dot product is the canonical example of an inner product.

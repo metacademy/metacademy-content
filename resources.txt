@@ -198,3 +198,9 @@ authors: Theodore Shifrin
 free: 0
 url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000815.html
 
+key: axler
+resource_type: textbook
+title: Linear Algebra Done Right
+authors: Sheldon Axler
+free: 0
+url: http://linear.axler.net/

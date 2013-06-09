@@ -1,0 +1,1 @@
+Vector spaces are spaces which are closed under addition and scalar multiplication. Examples include vectors, matrices, polynomials, and functions. Many core concepts of linear algebra, such as linear independence, bases, and dimension, are defined for general vector spaces.

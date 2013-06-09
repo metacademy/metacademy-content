@@ -1,0 +1,17 @@
+source: beezer
+edition: 3
+location: Section "Vector spaces" of chapter "Vector spaces"
+mark: star
+
+source: strang
+edition: 4
+location: Section 3.1, "Spaces of vectors," up to "Subspaces," pages 120-121
+
+source: ocw_strang
+location: Lecture "Transposes, permutations, vector spaces," starting from 20:00
+
+source: axler
+edition: 2
+location: Chapter 1, "Vector spaces," subsections "Definition of vector space" and "Properties of vector space," pages 4-12
+mark: star
+

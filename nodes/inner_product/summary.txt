@@ -1,0 +1,1 @@
+An inner product is a kind of mathematical operator defined on a vector space which generalizes the dot product. It can be used to generalize notions like length, orthogonality, and angles to vector spaces other than the Euclidean one. 

@@ -1,0 +1,5 @@
+* definition of inner product
+* using the inner product to construct a norm
+* orthogonality
+* Cauchy-Schwartz inequality
+* triangle inequality

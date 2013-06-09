@@ -1,0 +1,2 @@
+tag: vectors
+reason: Vectors in R^n are the prototypical example of a vector space.

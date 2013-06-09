@@ -1,0 +1,3 @@
+* vector space axioms
+* examples (e.g. vectors, matrices, polynomials, functions)
+* unique additive identity, additive inverses
