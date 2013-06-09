@@ -1,0 +1,5 @@
+* definition and examples of linear independence
+* definition and examples of basis
+* motivation: bases as coordinate systems
+* all bases for a given space have the same number of elements
+* definition of dimension

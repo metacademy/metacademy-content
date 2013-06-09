@@ -1,0 +1,28 @@
+source: beezer
+edition: 3
+location: Section "Subspaces," pages 334-346
+dependencies: vector_spaces, gaussian_elimination, complex_vectors_and_matrices
+
+source: strang
+edition: 4
+location: Section 3.1, "Spaces of vectors," subsection "Subspaces," pages 121-123
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 1.3, "Subspaces of R^n," pages 16-22
+dependencies: dot_product
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lectures "Linear combinations and span" and "Linear subspaces"
+mark: star
+
+source: ocw_strang
+location: Lecture "Transposes, permutations, and vector spaces," starting from 20:00
+mark: star
+
+source: axler
+edition: 2
+location: Chapter 1, "Vector spaces," section "Subspaces," pages 13-14
+

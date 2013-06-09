@@ -1,0 +1,29 @@
+source: shifrin
+edition: 1
+location: Section 4.3, "Linear independence, basis, and dimension," pages 156-168
+dependencies: linear_systems_as_matrices
+mark: star
+
+source: strang
+edition: 4
+location: Section 3.5, "Independence, basis, and dimension," pages 168-176
+dependencies: gaussian_elimination
+
+source: axler
+edition: 2
+location: Chapter 2, "Finite-dimensional vector spaces," pages 21-34
+dependencies: vector_spaces
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequence "Linear dependence and independence," lecture "Basis of a subspace," and lecture "Proof: any subspace basis has the same number of elements"
+mark: star
+
+source: ocw_strang
+location: Lecture "Independence, basis, and dimension"
+dependencies: column_space_and_nullspace, gaussian_elimination
+
+source: beezer
+edition: 3
+location: Sections "Linear independence and spanning sets"; section "Bases," subsections "Bases" and "Bases for spans of column vectors"; and section "Dimension," subsections "Dimension" and "Dimension of vector spaces"
+dependencies: gaussian_elimination, complex_vectors_and_matrices

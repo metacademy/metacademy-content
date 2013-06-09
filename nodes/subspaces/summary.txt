@@ -1,0 +1,1 @@
+A subspace is a subset of a vector space which is itself a vector space. Examples include spans of sets of vectors and solution sets to linear equations of the form Ax = 0.

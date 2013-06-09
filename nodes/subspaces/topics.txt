@@ -1,0 +1,3 @@
+* definition of a subspace
+* examples of subspaces and spaces that aren't subspaces
+* constructing a subspace as the span of a set of vectors
