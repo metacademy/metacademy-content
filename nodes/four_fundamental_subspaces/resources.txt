@@ -1,0 +1,15 @@
+source: strang
+location: Section 3.6, "Dimensions of the four subspaces," pages 184-189
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lectures "Null space and column space basis," "Visualizing a column space as a plane in R^3," "Dimension of the null space or nullity," "Dimension of the column space or rank," "Showing relation between basis cols and pivot cols," and "Showing that the candidate basis does span C(A)"
+mark: star
+
+source: ocw_strang
+location: Lecture "The four fundamental subspaces"
+mark: star
+
+source: shifrin
+location: Section 4.4, "The four fundamental subspaces," pages 171-183
+mark: star

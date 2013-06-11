@@ -1,0 +1,4 @@
+* definitions of the four subspaces (column space, nullspace, row space, left nullspace)
+* finding bases for all four spaces
+* relationships between the dimensions of all four spaces
+* definition of matrix rank

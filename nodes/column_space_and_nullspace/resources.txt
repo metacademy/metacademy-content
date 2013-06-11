@@ -1,0 +1,21 @@
+source: khan_academy_linear_algebra
+location: Lectures "Introduction to the null space of a matrix" and "Column space of a matrix"
+mark: star
+
+source: strang
+location: Section 3.1, "Spaces of vectors," subsection "The column space of A," pages 123-126; and Section 3.2, "The nullspace of A: solving Ax = 0," pages 132-138
+dependencies: gaussian_elimination
+
+source: axler
+location: Chapter 3, "Linear maps," section "Null spaces and ranges," pages 41-47
+dependencies: bases, vector_spaces, linear_transformations_as_matrices
+
+source: shifrin
+location: Section 4.4, "The four fundamental subspaces," pages 171-183
+dependencies: gaussian_elimination, bases
+
+source: ocw_strang
+location: Lecture "Column space and nullspace"
+mark: star
+
+

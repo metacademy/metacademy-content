@@ -1,0 +1,1 @@
+The four fundamental subspaces of a matrix A are the column space, nullspace, row space, and left nullspace. The bases of all four spaces can be obtained using Gaussian elimination, and certain of them are orthogonal to one another. There are close relationships between the dimensions of all four spaces, and the dimensions of the row and column spaces both equal the rank of A.

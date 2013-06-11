@@ -1,0 +1,9 @@
+source: strang
+edition: 4
+location: Section 3.4, "The complete solution to Ax = b," pages 155-160
+dependencies: gaussian_elimination, computing_the_nullspace
+
+source: ocw_strang
+location: Lecture "Solving Ax = b: row reduced form R," up to 24:12
+mark: star
+

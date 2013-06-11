@@ -1,0 +1,6 @@
+tag: subspaces
+reason: The column space and nullspace are subspaces.
+
+tag: linear_systems_as_matrices
+reason: The column space and nullspace have to do with the solutions to linear systems.
+

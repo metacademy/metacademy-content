@@ -1,0 +1,2 @@
+The column space is the subspace spanned by the columns of a matrix A. The nullspace is the set of solutions to Ax = 0. Both subspaces are useful for characterizing the sets of solutions to linear systems.
+

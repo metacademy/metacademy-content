@@ -1,4 +1,14 @@
-tag: matrix_multiplication
+tag: column_space_and_nullspace
+reason: The column space and nullspace are two of the fundamental subspaces.
 
 tag: subspaces
 reason: The rank is defined in terms of the dimension of a certain subspace.
+
+tag: bases
+reason: Analyzing the dimensions of the subspaces requires determining bases for them.
+
+tag: gaussian_elimination
+reason: Gaussian elimination is used to compute bases for the subspaces.
+
+tag: matrix_transpose
+reason: Different subspaces are related by matrix transposes.

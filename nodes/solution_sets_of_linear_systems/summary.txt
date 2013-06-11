@@ -1,0 +1,1 @@
+The set of solutions to Ax = b can be characterized in terms of the column space and nullspace of A. If b is in the column space of A, then a solution exists, otherwise not. The full set of solutions is given by any particular solution x0, plus the nullspace of A.

@@ -1,0 +1,1 @@
+* that the complete solution space is given by a single solution (if it exists) and the nullspace

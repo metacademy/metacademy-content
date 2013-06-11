@@ -1,0 +1,4 @@
+tag: column_space_and_nullspace
+
+tag: gaussian_elimination
+reason: Gaussian elimination is used to compute the nullspace.

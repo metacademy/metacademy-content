@@ -1,0 +1,4 @@
+tag: linear_systems_as_matrices
+
+tag: column_space_and_nullspace
+reason: The column space and nullspace help determine the solution set.
