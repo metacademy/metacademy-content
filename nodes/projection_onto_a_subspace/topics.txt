@@ -1,0 +1,6 @@
+* definition of projection onto a subspace
+* why projection is a linear transformation
+* formula for the projection matrix, and condition for invertability
+* why the error in projection is perpendicular to the subspace
+* why the projection is the closest point within the subspace
+

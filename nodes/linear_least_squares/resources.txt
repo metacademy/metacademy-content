@@ -1,0 +1,19 @@
+source: strang
+edition: 4
+location: Section 4.3, "Least squares approximation," pages 218-225
+mark: star
+
+source: ocw_strang
+location: Lectures "Projections onto subspaces," starting from 42:00, and "Projection matrices and least squares"
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lectures "Least squares approximation," "Least squares examples," and "Another least squares example"
+mark: star
+
+source: shifrin
+location: Section 5.5, "Projections, least squares, and inner product spaces," up to "Orthogonal bases," pages 225-232
+dependencies: lagrange_multipliers
+mark: star
+
+

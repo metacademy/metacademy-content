@@ -1,0 +1,1 @@
+Linear least squares gives a value of x which minimizes the norm of Ax - b. It is well defined even in cases where Ax = b has no solution. It is the basis of linear regression, one of the most widely used methods in statistics.

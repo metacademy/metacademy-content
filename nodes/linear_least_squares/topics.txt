@@ -1,0 +1,4 @@
+* motivation, in terms of cases where Ax = b has no solution
+* normal equations
+* use in line fitting
+* relationship with projection

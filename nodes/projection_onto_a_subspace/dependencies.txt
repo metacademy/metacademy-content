@@ -1,0 +1,15 @@
+tag: projection
+reason: The projection is onto a subspace.
+
+tag: bases
+reason: Applying the projection formula requires finding a basis.
+
+tag: orthogonal_subspaces
+reason: The error vector is perpendicular to the subspace.
+
+tag: matrix_transpose
+reason: The matrix transpose is used in the formula for the projection matrix.
+
+tag: matrix_inverse
+reason: The matrix inverse is used in the formula for the projection matrix.
+

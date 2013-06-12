@@ -1,0 +1,16 @@
+source: strang
+edition: 4
+location: Section 4.1, "Orthogonality of the four subspaces," pages 195-200
+mark: star
+
+source: ocw_strang
+location: Lecture "Orthogonal vectors and subspaces"
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequence "Orthogonal complements"
+mark: star
+
+source: shifrin
+location: Section 4.4, "The four fundamental subspaces," pages 171-183
+

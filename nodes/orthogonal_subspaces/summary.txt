@@ -1,0 +1,1 @@
+Two subspaces X and Y are orthogonal if any vector in X is orthogonal to any vector in Y. Canonical examples include the row space and nullspace, and the column space and left nullspace. Orthogonality is used to analyze projections and least squares approximation.

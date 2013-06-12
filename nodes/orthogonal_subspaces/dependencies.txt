@@ -1,0 +1,7 @@
+tag: subspaces
+
+tag: dot_product
+reason: The dot product is used to define orthogonality
+
+tag: four_fundamental_subspaces
+reason: The four fundamental subspaces include the canonical examples of pairs of orthogonal subspaces.

@@ -1,5 +1,14 @@
-tag: orthogonal-matrices
-reason: Orthogonal matrices are part of the QR decomposition, one solution technique.
-
 tag: linear_systems_as_matrices
 reason: Linear least squares generalizes solving systems of linear equations.
+
+tag: projection_onto_a_subspace
+reason: Projection is used in the solution.
+
+tag: matrix_transpose
+reason: The matrix transpose is used in the normal equations.
+
+tag: partial_derivatives
+reason: The solution can be derived using partial derivatives.
+
+tag: four_fundamental_subspaces
+reason: The solution can be derived geometrically in terms of column spaces and nullspaces.

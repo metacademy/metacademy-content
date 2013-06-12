@@ -1,0 +1,4 @@
+* definition of orthogonal subspaces
+* definition of orthogonal complement
+* that the row space is the orthogonal complement of the nullspace and the column space is the orthogonal complement of the left nullspace
+* that the orthogonal complement of the orthogonal complement is the original subspace
