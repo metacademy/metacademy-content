@@ -1,7 +1,7 @@
 tag: matrix_transpose
 reason: The spectral decomposition applies to symmetric matrices.
 
-tag: orthogonal-matrices
+tag: orthonormal_bases
 reason: The spectral decomposition includes orthogonal factors.
 
 tag: change-of-basis

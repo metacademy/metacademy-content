@@ -10,7 +10,7 @@ reason: PCA is often used as a preprocessing step, and it's useful to compare IC
 tag: determinant
 reason: The maximum likelihood objective function includes a determinant.
 
-tag: orthogonal_matrices
+tag: orthonormal_bases
 reason: Standard ICA has an orthogonality constraint.
 
 tag: multivariate_gaussian_distribution
