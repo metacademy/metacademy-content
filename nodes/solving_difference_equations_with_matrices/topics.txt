@@ -1,0 +1,2 @@
+* representing difference equations as matrix powers
+* Computing solutions from the eigenvectors and eigenvalues in the case where the matrix is diagonalizable.

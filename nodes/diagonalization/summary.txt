@@ -1,0 +1,1 @@
+Diagonalization refers to factorizing a matrix as A = SDS^-1, where D is a diagonal matrix. The entries of D correspond to the eigenvalues of A, and the columns of S correspond to the eigenvectors. The diagonal representation is useful for computing powers of matrices. Unfortunately, not all matrices are diagonalizable.

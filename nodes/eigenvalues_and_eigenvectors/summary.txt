@@ -1,0 +1,1 @@
+If A is a square matrix, the eigenvalues are the scalar values u satisfying Ax = ux, and the eigenvectors are the values of x. Eigenvectors and eigenvalues give a convenient representation of matrices for computing powers of matrices and for solving differential equations. An important special case is the spectral decomposition of symmetric matrices.

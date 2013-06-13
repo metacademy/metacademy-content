@@ -1,0 +1,21 @@
+source: strang
+edition: 4
+location: Section 6.2, "Diagonalizing a matrix"
+mark: star
+
+source: shifrin
+location: Section 9.2, "Eigenvalues, eigenvectors, and applications," subsection 9.2.2, "Diagonalizability"
+dependencies: linear_transformations_as_matrices
+mark: star
+
+source: ocw_strang
+location: Lecture "Diagonalization and powers of A"
+mark: star
+
+source: beezer
+edition: 3
+location: Section "Similarity and diagonalization"
+dependencies: complex_vectors_and_matrices, multiplicities_of_eigenvalues
+mark: star
+
+

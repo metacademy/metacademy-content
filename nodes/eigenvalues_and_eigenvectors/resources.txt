@@ -1,0 +1,23 @@
+source: strang
+edition: 4
+location: Section 6.1, "Introduction to eigenvalues," pages 283-291
+mark: star
+
+source: ocw_strang
+location: Lecture "Eigenvalues and eigenvectors"
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequence "Eigen-everything"
+
+source: beezer
+edition: 3
+location: Sections "Eigenvalues and eigenvectors" and "Properties of eigenvalues and eigenvectors"
+dependencies: complex_vectors_and_matrices
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 9.2, "Eigenvalues, eigenvectors, and applications," up to "Diagonalizability," pages 422-429
+dependencies: change_of_basis
+mark: star

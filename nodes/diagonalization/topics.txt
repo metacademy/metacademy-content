@@ -1,0 +1,3 @@
+* definition of diagonalization
+* any matrix with no repeated eigenvalues can be diagonalized
+* using diagonalization to compute powers of a matrix

@@ -1,0 +1,8 @@
+* definition of eigenvalues and eigenvectors
+* why eigenvectors for a given eigenvalue form a subspace
+* finding eigenvalues and eigenvectors in terms of the roots of the characteristic polynomial
+* the sum of the eigenvalues equals the trace
+* the product of the eigenvalues equals the determinant
+* the eigenvalues and eigenvectors may be complex valued
+* the complex eigenvalues of a real matrix come in conjugate pairs
+* eigenvectors corresponding to distinct eigenvalues are linearly independent

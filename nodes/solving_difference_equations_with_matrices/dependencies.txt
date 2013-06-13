@@ -1,0 +1,2 @@
+tag: diagonalization
+reason: Diagonalization is used to solve the difference equation.

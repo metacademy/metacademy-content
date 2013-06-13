@@ -6,3 +6,6 @@ reason: The diagonalized representation includes an inverse.
 
 tag: eigenvalues_and_eigenvectors
 reason: The matrices in the factorization represent the eigenvalues and eigenvectors of the matrix.
+
+tag: bases
+reason: Diagonalization gives a basis for the space in terms of the eigenvectors.

@@ -1,0 +1,4 @@
+tag: eigenvalues_and_eigenvectors
+
+tag: roots_of_polynomials
+reason: The Fundamental Theorem of Algebra implies the sum of the algebraic multiplicities is the dimension of the space.

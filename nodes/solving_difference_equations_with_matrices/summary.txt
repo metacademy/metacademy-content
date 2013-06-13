@@ -1,0 +1,1 @@
+Difference equations, such as the recurrence formula for the Fibonacci sequence, can be represented as powers of a matrix. If that matrix is diagonalizable, the eigenvalues and eigenvectors yield a closed form solution to the difference equation.

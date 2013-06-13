@@ -1,0 +1,1 @@
+The characteristic polynomial of a matrix may have repeated roots. If this is the case, the geometric multiplicity of a given eigenvalue (the dimension of the corresponding eigenspace) may be less than the algebraic multiplicity. This property determines whether a matrix is diagonalizable, and it is relevant to the solutions of differential equations.

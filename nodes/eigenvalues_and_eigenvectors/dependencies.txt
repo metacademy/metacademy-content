@@ -6,3 +6,9 @@ reason: Eigenspaces can be viewed as nullspaces of a particular matrix.
 
 tag: determinant
 reason: The characteristic polynomial, used for computing eigenvalues analytically, is given in terms of a determinant.
+
+tag: roots_of_polynomials
+reason: The eigenvalues can be computed as roots of a polynomial.
+
+tag: complex_numbers
+reason: The eigenvalues and eigenvectors may be complex valued.
