@@ -1,0 +1,1 @@
+Cramer's rule is an explicit formula for the inverse of a matrix in terms of determinants of submatrices. While it is inefficient for large matrices, it is useful for analyzing inverses of small matrices algebraically.

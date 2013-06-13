@@ -1,0 +1,17 @@
+source: strang
+edition: 4
+location: Sections 5.1, "The properties of determinants," and 5.2, "Permutations and cofactors," pages 244-263
+mark: star
+
+source: shifrin
+edition: 1
+location: Sections 1.5, "Introduction to determinants and the cross product," pages 43-50, and 7.5, "Determinants and n-dimensional volume," pages 309-321
+mark: star
+
+source: ocw_strang
+location: Lectures "Properties of determinants" and "Determinant formulas and cofactors"
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequences "Finding inverses and determinants," starting from "3x3 Determinant," and "More determinant depth," up to "Determinant and area of a parallelogram"
+mark: star

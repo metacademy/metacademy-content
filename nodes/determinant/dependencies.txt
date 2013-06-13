@@ -3,3 +3,10 @@ reason: The determinant of a product is the product of the determinants.
 
 tag: matrix_inverse
 reason: The determinant of the inverse is the inverse of the determinant.
+
+tag: matrix_transpose
+reason: the matrix transpose preserves the determinant
+
+tag: gaussian_elimination
+reason: The Gaussian elimination operations do nice things to the determinant.
+

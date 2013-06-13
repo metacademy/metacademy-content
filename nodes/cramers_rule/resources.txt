@@ -1,0 +1,13 @@
+source: strang
+edition: 4
+location: Section 5.3, "Cramer's rule, inverses, and volumes," up to "Area of a triangle," pages 269-271
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 7.5, "Determinants and n-dimensional volume," from pages 318-320
+mark: star
+
+source: ocw_strang
+location: Lecture "Cramer's rule, inverse matrix, and volume," up to 28:07
+mark: star

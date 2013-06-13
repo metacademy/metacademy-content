@@ -1,0 +1,13 @@
+source: strang
+edition: 4
+location: Section 5.3, "Cramer's rule, inverses, and volumes," subsection "Area of a triangle," pages 271-274
+mark: star
+
+source: ocw_strang
+location: Lecture "Cramer's rule, inverse matrix, and volume," starting from 28:07
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lectures "Determinant and area of a parallelogram" and "Determinant as scaling factor"
+mark: star
+

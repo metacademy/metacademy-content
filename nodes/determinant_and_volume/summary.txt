@@ -1,0 +1,1 @@
+The volume of a box in n dimensions is given by the determinant of the matrix whose columns are the sides of the box. When a matrix is used as a linear transformation, it scales the volume of a set by its determinant.

@@ -1,0 +1,1 @@
+* why the determinant of a square matrix gives the volume of a box whose sides are given by the columns

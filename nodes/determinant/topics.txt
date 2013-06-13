@@ -1,0 +1,8 @@
+* definition of determinant as a sum over column permutations
+* computing recursively in terms of cofactors
+* what the Gaussian elimination operations do to the determinant
+* the determinant of a product is the product of the detminants
+* a matrix is invertible iff the determinant is nonzero
+* the determinant of the inverse is the inverse of the determinant
+* transpose preserves the determinant
+* the determinant of a triangular matrix is the product of the diagonals

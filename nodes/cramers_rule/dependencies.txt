@@ -1,0 +1,8 @@
+tag: linear_systems_as_matrices
+reason: Cramer's rule is an explicit solution to linear systems.
+
+tag: matrix_inverse
+reason: Cramer's rule is an explicit formula for matrix inverses.
+
+tag: determinant
+reason: Cramer's rule involves determinants.
