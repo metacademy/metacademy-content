@@ -1,8 +1,8 @@
 tag: gamma-distribution
 reason: The Wishart distribution is a multivariate generalization of the gamma distribution.
 
-tag: positive-semidefinite-matrices
-reason: The Wishart distribution is a distribution over semidefinite matrices.
+tag: positive-definite-matrices
+reason: The Wishart distribution is a distribution over positive definite matrices.
 
 tag: expected_value
 reason: We would like to derive the mean of the distribution.

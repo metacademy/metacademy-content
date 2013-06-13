@@ -1,4 +1,4 @@
-tag: positive-semidefinite-matrices
+tag: positive-definite-matrices
 
 tag: determinant
 reason: One characterization of PSD matrices involves determinants of the sub-matrices.
