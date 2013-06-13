@@ -1,0 +1,6 @@
+* definitions of orthonormal basis and orthogonal matrix
+* that the inverse of an orthogonal matrix is the transpose
+* that the transpose of an orthogonal matrix is orthogonal
+* using orthonormal bases for projection
+* that orthogonal matrices preserve dot products (and therefore angles and Euclidean norms)
+* finding orthonormal bases using Gram-Schmidt

@@ -1,0 +1,2 @@
+An orthonormal basis is a basis such that each vector has unit length and each pair of vectors is orthogonal. An orthonormal basis for the full space can be represented as an orthogonal matrix. Such matrices have nice algebraic properties and are useful for representing projections and least squares solutions.
+

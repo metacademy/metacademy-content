@@ -1,0 +1,15 @@
+source: strang
+edition: 4
+location: Section 4.4, "Orthogonal bases and Gram-Schmidt," pages 234-238
+mark: star
+
+source: ocw_strang
+location: Lecture "Orthogonal matrices and Gram-Schmidt"
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequence "Orthonormal bases and the Gram-Schmidt procedure"
+mark: star
+
+source: shifrin
+location: Section 5.5.2, "Orthogonal bases," pages 232-238

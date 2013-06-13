@@ -1,0 +1,8 @@
+source: strang
+edition: 4
+location: Section 4.4, "Orthogonal bases and Gram-Schmidt," subsection "The factorization A = QR," pages 235-238
+mark: star
+
+source: ocw_strang
+location: Lecture "Orthogonal matrices and Gram-Schmidt," starting from 49:20
+mark: star

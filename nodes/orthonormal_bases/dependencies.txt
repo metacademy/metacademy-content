@@ -1,6 +1,16 @@
+tag: bases
+
+tag: dot_product
+reason: The dot product is needed to define orthogonality and unit vectors.
+
 tag: matrix_multiplication
+reason: A key property of orthogonal matrices is that the inverse equals the transpose.
 
 tag: matrix_inverse
+reason: A key property of orthogonal matrices is that the inverse equals the transpose.
 
 tag: matrix_transpose
+reason: A key property of orthogonal matrices is that the inverse equals the transpose.
 
+tag: projection_onto_a_subspace
+reason: Orthogonal matrices are convenient for projection.

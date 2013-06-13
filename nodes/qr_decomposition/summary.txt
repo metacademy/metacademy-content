@@ -1,0 +1,1 @@
+The operations of the Gram-Schmidt procedure can be represented as a factorization of a matrix into an orthogonal matrix Q and an upper triangular matrix R. This is a useful representation for solving linear least squares problems.
