@@ -6,5 +6,5 @@ reason: One characterization of PSD matrices involves determinants of the sub-ma
 tag: spectral-decomposition
 reason: One characterization of PSD matrices involves the spectral decomposition.
 
-tag: eigenvalues
+tag: eigenvalues_and_eigenvectors
 reason: One characterization of PSD matrices involves the spectral decomposition (or equivalently, eigenvalues).

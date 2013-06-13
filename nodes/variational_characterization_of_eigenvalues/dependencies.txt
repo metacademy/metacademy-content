@@ -1,6 +1,6 @@
 tag: spectral-decomposition
 
-tag: eigenvalues
+tag: eigenvalues_and_eigenvectors
 
 tag: lagrange-multipliers
 reason: Lagrange multipliers are needed for finding the solutions to the optimization problem.
