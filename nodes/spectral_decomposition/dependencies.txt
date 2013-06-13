@@ -9,3 +9,9 @@ reason: The spectral decomposition can be viewed as a change of basis.
 
 tag: matrix_inverse
 reason: The spectral decomposition gives insight into the inverse of a symmetric matrix.
+
+tag: eigenvalues_and_eigenvectors
+reason: The spectral decomposition gives the eigenvectors and eigenvalues.
+
+tag: diagonalization
+reason: The spectral decomposition is a form of diagonalization.

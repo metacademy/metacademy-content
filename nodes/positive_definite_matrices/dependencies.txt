@@ -1,2 +1,8 @@
 tag: matrix_transpose
 reason: PSD matrices are usually assumed to be symmetric.
+
+tag: eigenvalues_and_eigenvectors
+reason: A symmetric matrix is positive definite iff the eigenvalues are all positive.
+
+tag: spectral_decomposition
+reason: A symmetric matrix is positive definite iff the eigenvalues are all positive.

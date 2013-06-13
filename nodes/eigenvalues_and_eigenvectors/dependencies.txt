@@ -1,2 +1,8 @@
 tag: linear_systems_as_matrices
 reason: Eigenvalues are defined as solutions to a system of linear equations.
+
+tag: column_space_and_nullspace
+reason: Eigenspaces can be viewed as nullspaces of a particular matrix.
+
+tag: determinant
+reason: The characteristic polynomial, used for computing eigenvalues analytically, is given in terms of a determinant.

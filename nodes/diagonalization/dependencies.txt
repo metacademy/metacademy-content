@@ -1,0 +1,8 @@
+tag: matrix_multiplication
+reason: Diagonalization is a kind of matrix factorization.
+
+tag: matrix_inverse
+reason: The diagonalized representation includes an inverse.
+
+tag: eigenvalues_and_eigenvectors
+reason: The matrices in the factorization represent the eigenvalues and eigenvectors of the matrix.
