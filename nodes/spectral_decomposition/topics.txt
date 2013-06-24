@@ -1,0 +1,2 @@
+* spectral theorem for symmetric matrices
+* proof of spectral theorem (at least when all eigenvalues are distinct)

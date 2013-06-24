@@ -1,0 +1,11 @@
+source: strang
+edition: 4
+location: Section 6.5, "Positive definite matrices," pages 342-347
+dependencies: gaussian_elimination
+mark: star
+
+source: ocw_strang
+location: Lecture "Symmetric matrices and positive definiteness," from 28:30, and "Positive definite matrices and minima"
+dependencies: gaussian_elimination
+mark: star
+

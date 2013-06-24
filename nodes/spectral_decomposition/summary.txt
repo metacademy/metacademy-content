@@ -1,0 +1,1 @@
+A matrix A is symmetric if A = A^T. Symmetric matrices are important because they have a full set of real eigenvalues, and there exists an orthonormal set of eigenvectors. In particular, all symmetric matrices are diagonalizable.

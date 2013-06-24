@@ -1,0 +1,16 @@
+source: strang
+edition: 4
+location: Section 6.4, "Symmetric matrices," pages 330-335
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 9.4, "The Spectral Theorem," pages 455-463
+dependencies: lagrange_multipliers
+mark: star
+
+source: ocw_strang
+location: Lecture "Symmetric matrices and positive semidefiniteness," up to 28:30
+mark: star
+
+

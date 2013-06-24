@@ -1,0 +1,2 @@
+* definition of positive definite matrix, in terms of the quadratic form being positive away from zero
+* equivalent characterization in terms of positive eigenvalues
