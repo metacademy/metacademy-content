@@ -1,0 +1,2 @@
+The singular value decomposition is a factorization of a matrix A into three matrices UDV^T, where D is diagonal and U and V have orthonormal columns. It's closely related to the eigenvalues and eigenvectors of A^T A and A A^T. It gives a way of analyzing general matrices (not necessarily square) in terms of things somewhat analogous to eigenvalues. Common applications include latent semantic analysis (LSA) and principal component analysis (PCA), a dimensionality reduction algorithm. 
+

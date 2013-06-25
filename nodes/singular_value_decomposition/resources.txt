@@ -1,0 +1,9 @@
+source: strang
+edition: 4
+location: Section 6.7, "Singular value decomposition (SVD)," pages 363-369
+mark: star
+
+source: ocw_strang
+location: Lecture "Singular value decomposition"
+mark: star
+

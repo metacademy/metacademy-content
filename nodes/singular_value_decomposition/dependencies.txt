@@ -1,5 +1,18 @@
+tag: orthonormal_bases
+reason: The SVD includes orthonormal bases for the row and column spaces.
+
+tag: matrix_multiplication
+reason: The SVD is a matrix factorization.
+
+tag: matrix_transpose
+reason: The SVD includes a transpose.
+
 tag: spectral-decomposition
 reason: The SVD is equivalent to the spectral decomposition of a particular PSD matrix.
 
 tag: positive-definite-matrices
 reason: The SVD is equivalent to the spectral decomposition of a particular PSD matrix.
+
+tag: four_fundamental_subspaces
+reason: The SVD gives orthonormal bases for the four fundamental subspaces.
+
