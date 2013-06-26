@@ -1,0 +1,18 @@
+source: strang
+edition: 4
+location: Section 7.2, "The matrix of a linear transformation," pages 384-393, and Section 7.3, "Diagonalization and the pseudoinverse," subsection "Similar matrices," pages 399-401
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 9.1, "Linear transformations and change of basis," pages 413-420
+mark: star
+
+source: khan_academy_linear_algebra
+location: Lecture sequence "Change of basis"
+mark: star
+
+source: ocw_strang
+location: Lecture "Change of basis; image compression"
+dependencies: discrete_fourier_transform
+

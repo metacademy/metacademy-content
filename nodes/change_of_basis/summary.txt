@@ -1,0 +1,1 @@
+Sometimes it's convenient to perform computations in a basis other than the standard one. Change of basis matrices can be used to convert vectors and matrices from one basis to another.

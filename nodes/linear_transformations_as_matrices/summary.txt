@@ -1,0 +1,1 @@
+Linear transformations from one vector space to another can be represented as matrices if a basis is given for each space. Common examples include projections, reflections, rotations, and scaling. Linear combinations, compositions and inverses of transformations can be analyzed in terms of matrix operations.

@@ -1,0 +1,24 @@
+source: khan_academy_linear_algebra
+location: Lecture sequences "Functions and linear transformations" and "Linear transformation examples"
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 1.4, "Linear transformations and matrix algebra," pages 23-38
+mark: star
+
+source: strang
+edition: 4
+location: Section 7.1, "The idea of a linear transformation," pages 375-379, and Section 7.2, "The matrix of a linear transformation," up to "The identity transformation and the change of basis matrix," pages 384-390
+dependencies: bases, matrix_multiplication, matrix_inverse, vector_spaces
+
+source: ocw_strang
+location: Lecture "Linear transformations and their matrices"
+dependencies: bases, vector_spaces
+mark: star
+
+source: beezer
+edition: 2
+location: Section "Linear transformations"
+dependencies: complex_vectors_and_matrices, bases, vector_spaces
+

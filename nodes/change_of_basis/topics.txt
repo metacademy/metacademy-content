@@ -1,0 +1,4 @@
+* representing linear transformations as matrices using bases other than the standard one
+* what change of basis means
+* determining the change of basis matrix for a transformation
+* converting a linear transformation matrix from one basis to another

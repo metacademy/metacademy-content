@@ -1,0 +1,5 @@
+* definition of linear transformation
+* why matrix vector products are linear
+* how to recover the matrix for a linear transformation, in the standard basis for R^n
+* linear combinations of linear transformations = linear combinations of matrices
+* examples of transformations represented as matrices (e.g. reflection, rotation, scaling)

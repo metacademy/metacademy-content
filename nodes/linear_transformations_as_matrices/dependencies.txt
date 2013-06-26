@@ -1,0 +1,2 @@
+tag: dot_product
+reason: Linear transformations are represented with matrix-vector products.
