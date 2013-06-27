@@ -1,0 +1,11 @@
+source: khan_academy_algebra
+location: Lecture sequence "Imaginary and complex numbers"
+mark: star
+
+source: strang
+edition: 4
+location: Section 10.1, "Complex numbers," pages 493-498
+
+source: road_to_reality
+location: Chapter 4, "Magical complex numbers"
+mark: star

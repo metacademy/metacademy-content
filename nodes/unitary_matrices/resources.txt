@@ -1,0 +1,6 @@
+source: strang
+edition: 4
+location: Section 10.2, "Hermitian and unitary matrices," subsection "Unitary matrices," pages 504-506
+
+source: ocw_strang
+location: Lecture "Complex matrices: fast Fourier transform," from 12:00 to 16:30

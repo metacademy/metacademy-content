@@ -1,0 +1,1 @@
+Complex numbers are numbers expressible as a + bi, where i^2 = -1. They are often more convenient to work with than real numbers, because all complex (and hence all real) polynomials of degree n have n complex roots. Many trigonometric identities can be derived more simply using complex numbers.

@@ -1,0 +1,3 @@
+* statement of Euler's formula
+* derivation using Taylor series
+* using it to derive trig identities

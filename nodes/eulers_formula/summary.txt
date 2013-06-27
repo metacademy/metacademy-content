@@ -1,0 +1,1 @@
+Euler's formula gives a way of raising numbers to complex powers. It gives a more compact way of representing and deriving trigonometric identities.

@@ -1,0 +1,7 @@
+tag: complex_numbers
+
+tag: dot_product
+reason: The Hermitian operator is used to define the complex analogue of the dot product.
+
+tag: matrix_transpose
+reason: The Hermitian operator is the complex analogue of the matrix transpose.

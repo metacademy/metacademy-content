@@ -1,0 +1,2 @@
+source: khan_academy_calculus
+location: Lecture "Euler's formula and Euler's identity" under "Sequences, series, and function approximation"

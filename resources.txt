@@ -204,3 +204,21 @@ title: Linear Algebra Done Right
 authors: Sheldon Axler
 free: 0
 url: http://linear.axler.net/
+
+key: khan_academy_algebra
+resource_type: online lectures
+title: Khan Academy: Algebra
+free: 1
+url: https://www.khanacademy.org/math/algebra
+
+key: khan_academy_calculus
+resource_type: online lectures
+title: Khan Academy: Calculus
+free: 1
+url: https://www.khanacademy.org/math/calculus
+
+key: road_to_reality
+resource_type: book
+title: The Road to Reality
+free: 0
+url: http://www.amazon.com/The-Road-Reality-Complete-Universe/dp/0679776311

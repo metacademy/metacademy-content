@@ -1,0 +1,8 @@
+tag: complex_vectors_and_matrices
+reason: Unitary matrices are a kind of complex matrix.
+
+tag: orthonormal_bases
+reason: Unitary matrices are the complex analogue of orthogonal matrices.
+
+tag: eigenvalues_and_eigenvectors
+reason: Unitary matrices are characterized in terms of the eigenvalues having unit norm.

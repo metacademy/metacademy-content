@@ -1,0 +1,3 @@
+* definition of unitary matrix
+* that it preserves the norm of a vector
+* characterization in terms of eigendecomposition

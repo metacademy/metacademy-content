@@ -1,0 +1,1 @@
+We can define complex vectors and matrices with properties closely analogous to their real-valued analogues. Complex matrices come up when dealing with eigendecompositions of non-symmetric matrices. They are also used in computing the fast Fourier transform.
