@@ -1,0 +1,2 @@
+* statement of the chain rule (in matrix form)
+* justification in terms of linear approximation

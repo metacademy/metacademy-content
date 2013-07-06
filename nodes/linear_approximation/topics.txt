@@ -1,0 +1,5 @@
+* definition of differentiability (existence of the linear approximation)
+* that the linear approximation is given in terms of the partial derivatives
+* that differentiability implies continuity
+* that continuous partial derivatives implies differentiability
+* interpretation in terms of tangent plane

@@ -8,3 +8,16 @@ extra: work through the examples section
 
 source: wolfram
 location: http://mathworld.wolfram.com/PartialDerivative.html
+
+source: edwards_penney
+location: Section 13.4, "Partial derivatives," pages 868-875
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 3.1, "Partial derivatives and directional derivatives," pages 81-85
+mark: star
+
+source: ocw_auroux
+location: Lecture "Partial derivatives"
+mark: star

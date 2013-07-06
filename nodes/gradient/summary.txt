@@ -1,0 +1,2 @@
+The gradient of a function gives the direction of maximum increase. Its entries are given by the partial derivatives of the function. It is widely used in optimization.
+

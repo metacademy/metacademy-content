@@ -1,0 +1,1 @@
+A function is differentiable at a point x if it can be approximated by a linear function around x. The linear approximation can be computed in terms of the partial derivatives at x.

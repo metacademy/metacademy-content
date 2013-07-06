@@ -1,0 +1,8 @@
+tag: partial_derivatives
+reason: The linear approximation is computed from partial derivatives.
+
+tag: dot_product
+reason: The linear approximation is given in terms of a dot product.
+
+tag: limits_and_continuity_in_rn
+reason: Differentiability requires continuous partial derivatives.

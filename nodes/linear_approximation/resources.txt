@@ -1,0 +1,13 @@
+source: shifrin
+edition: 1
+location: Section 3.2, "Differentiability," pages 87-95
+mark: star
+
+source: edwards_penney
+edition: 6
+location: Section 13.6, "Increments and linear approximation," pages 889-895
+mark: star
+
+source: ocw_auroux
+location: Lecture 27, "Approximation formula"
+

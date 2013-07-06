@@ -1,0 +1,4 @@
+* definition of the gradient
+* using the gradient to compute directional derivatives
+* why the gradient gives the direction of maximum increase
+* why the gradient is perpendicular to level surfaces

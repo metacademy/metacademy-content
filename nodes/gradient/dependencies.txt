@@ -1,2 +1,8 @@
-tag: jacobian
-reason: The gradient is a special case of the Jacobian.
+tag: linear_approximation
+reason: The gradient gives another way to represent the linear approximation to a function.
+
+tag: partial_derivatives
+reason: The gradient is computed in terms of partial derivatives.
+
+tag: dot_product
+reason: The linear approximation is given in terms of a dot product with the gradient.

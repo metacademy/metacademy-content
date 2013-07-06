@@ -1,0 +1,14 @@
+source: shifrin
+edition: 1
+location: Section 3.3, "Differentiation rules," pages 97-102
+dependencies: jacobian
+mark: star
+
+source: edwards_penney
+edition: 6
+location: Section 13.7, "The multivariable chain rule," pages 896-904
+mark: star
+
+source: ocw_auroux
+location: Lectures 32, "Total derivatives and the chain rule," 33, "Examples," and 34, "The chain rule with more variables"
+mark: star

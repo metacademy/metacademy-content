@@ -1,0 +1,17 @@
+source: shifrin
+edition: 1
+location: Section 3.4, "The gradient," pages 104-106
+mark: star
+extra: See section 3.1 for the definition of directional derivatives.
+
+source: edwards_penney
+edition: 6
+location: Section 13.8, "Directional derivatives and the gradient vector," up to "The gradient vector as normal vector," pages 907-913
+mark: star
+
+source: ocw_auroux
+location: Lectures 35, "Gradient: definition, perpendicular to level curves," 36, "Proof," 37, "Example," and 38, "Directional derivatives"
+mark: star
+
+source: khan_academy_calculus
+location: Lecture sequence "Gradient"

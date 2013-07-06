@@ -1,0 +1,8 @@
+tag: partial_derivatives
+reason: The chain rule is a way of computing partial derivatives.
+
+tag: linear_approximation
+reason: The idea of linear approximation explains why the chain rule works.
+
+tag: matrix_multiplication
+reason: The chain rule formula involves a matrix multiplication.
