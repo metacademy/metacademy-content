@@ -1,0 +1,1 @@
+A common trick for computing double integrals is to transform them into a polar coordinate representation. Canonical examples include integrating a Gaussian and computing moments of inertia.

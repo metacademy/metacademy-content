@@ -1,0 +1,1 @@
+The Riemann integral is a mathematically precise formulation of multiple integrals as sums over increasingly fine rectangular regions. Fubini's theorem shows it is equivalent to the iterated integral, which often gives a convenient way to compute it.

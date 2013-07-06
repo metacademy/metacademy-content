@@ -1,0 +1,1 @@
+A useful trick for computing multiple integrals is to find a simpler parameterization of the region and apply the change of variables formula.

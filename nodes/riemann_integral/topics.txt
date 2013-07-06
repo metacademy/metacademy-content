@@ -1,0 +1,6 @@
+* definition of Riemann integral
+* proof that it exists
+* linearity of the integral
+* notion of a volume zero set
+* the integral over a set of volume zero is zero
+* Fubini's theorem (i.e. the Riemann integral is equivalent to the iterated integral)

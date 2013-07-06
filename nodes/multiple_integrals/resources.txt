@@ -1,6 +1,20 @@
-source: khan
-location: https://www.khanacademy.org/math/calculus/double_triple_integrals
+source: khan_academy_calculus
+location: Lecture sequences "Double integrals" and "Triple integrals"
 mark: star
 
 source: wolfram
 location: http://mathworld.wolfram.com/MultipleIntegral.html
+
+source: edwards_penney
+edition: 6
+location: Section 14.1, "Double integrals," pages 940-945; Section 14.2, "Double integrals over more general regions," pages 947-952; Section 14.3, "Area and volume by double integration," pages 954-958; and Section 14.6, "Triple integrals," pages 979-985
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 7.1, "Multiple integrals," pages 267-273; and Section 7.2, "Iterated integrals and Fubini's theorem," pages 276-284
+extra: This presents the Riemann integral, a precise formulation of the intuitive notion of multiple integrals, but which unfortunately has some awkward notation.
+
+source: ocw_auroux
+location: Lecture 47, "Definition of double integration"; Lecture 48, "Examples of double integration"; and Lecture 49, "Exchanging the order of integration"
+mark: star

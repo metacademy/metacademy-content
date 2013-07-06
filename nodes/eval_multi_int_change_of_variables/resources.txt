@@ -1,0 +1,14 @@
+source: edwards_penney
+edition: 6
+location: Section 14.9, "Change of variables in multiple integrals," pages 1001-1007
+mark: star
+
+source: ocw_auroux
+location: Lecture 53, "Change of variables"
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 7.6, "Change of Variables Theorem," pages 324-331
+mark: star
+extra: You can skip the proofs as far as this node is concerned.
