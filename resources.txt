@@ -228,3 +228,15 @@ resource_type: paper
 title: A tutorial on Bayesian nonparametric models
 free: 1
 url: http://web.mit.edu/sjgershm/www/GershmanBlei12.pdf
+
+key: edwards_penney
+resource_type: textbook
+title: Multivariable Calculus
+free: 0
+url: http://www.amazon.com/Multivariable-Calculus-Edition-Henry-Edwards/dp/0130339679
+
+key: ocw_auroux
+resource_type: online lectures
+title: MIT Open Courseware: Multivariable Caclulus
+free: 1
+url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm

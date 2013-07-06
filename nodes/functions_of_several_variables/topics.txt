@@ -1,0 +1,3 @@
+* notion of independent and dependent variables
+* representing in terms of a graph
+* representing in terms of level curves

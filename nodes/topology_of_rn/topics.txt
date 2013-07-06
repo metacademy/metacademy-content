@@ -1,0 +1,7 @@
+* definitions
+** ball
+** open and closed intervals
+** convergent sequence
+** open and closed sets
+** closure
+* a complement of an open set is closed, and vice versa

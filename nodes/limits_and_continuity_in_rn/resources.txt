@@ -1,0 +1,10 @@
+source: edwards_penney
+edition: 6
+location: Section 13.3, "Limits and continuity," pages 860-866
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 2.3, "Limits and continuity," pages 72-78
+dependencies: topology_of_rn
+mark: star

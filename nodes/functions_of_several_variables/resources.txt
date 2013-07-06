@@ -1,0 +1,13 @@
+source: edwards_penney
+edition: 6
+location: Section 13.2, "Functions of several variables," pages 850-857
+mark: star
+
+source: shifrin
+edition: 1
+location: Section 2.1, "Scalar- and vector-valued functions," pages 53-61
+mark: star
+
+source: ocw_auroux
+location: Lectures "Functions of two variables" and "Level curves and contour plots"
+mark: star

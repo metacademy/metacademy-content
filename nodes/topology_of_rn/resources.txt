@@ -1,0 +1,5 @@
+source: shifrin
+edition: 1
+location: Section 2.2, "A bit of topology in R^n," pages 64-70
+mark: star
+

@@ -1,0 +1,6 @@
+* definition of a limit in R^n
+* the limit of a sum/product is the sum/product of the limits
+* definition of a continuous function
+* example where the limit does not exist, even though there is a limit coming from any direction
+
+

@@ -1,0 +1,1 @@
+This node covers basic concepts of point set topology, such as limit points and open and closed sets.

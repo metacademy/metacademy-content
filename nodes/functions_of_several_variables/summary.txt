@@ -1,0 +1,1 @@
+Multivariable calculus deals with functions of multiple variables. For two dimensions, we can visualize these with graphs or with level sets.
