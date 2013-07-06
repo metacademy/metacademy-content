@@ -1,0 +1,21 @@
+source: bishop
+edition: 1
+location: Appendix D (Calculus of Variations)
+note: Good, quick review of functional calculus
+
+source: shifrin
+edition: 1
+location: Section 5.2, "Maximum/minimum problems," pages 202-207
+dependencies: linear_approximation
+mark: star
+extra: See Section 5.1 for the statement of the Maximum Value Theorem.
+
+source: edwards_penney
+edition: 6
+location: Section 13.5, "Multivariable optimization problems," pages 878-886
+mark: star
+
+source: ocw_auroux
+location: Lectures 28, "Optimization problems" and 29, "Least squares"
+mark: star
+

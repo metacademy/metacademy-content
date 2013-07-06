@@ -1,4 +1,4 @@
-tag: unconstrained-optimization-problems
+tag: optimization-problems
 
 tag: gradient
 

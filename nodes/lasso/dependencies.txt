@@ -1,7 +1,7 @@
 tag: linear-regression
 reason: LASSO is a regularized form of linear regression.
 
-tag: unconstrained-optimization-problems
+tag: optimization-problems
 reason: LASSO is formulated as an optimization problem.
 
 tag: ridge-regression

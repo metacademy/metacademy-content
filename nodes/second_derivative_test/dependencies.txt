@@ -1,0 +1,7 @@
+tag: optimization_problems
+
+tag: higher_order_partial_derivatives
+reason: The test involves second derivatives.
+
+tag: positive_definite_matrices
+reason: If the matrix is positive definite, then the point is a local minimum.

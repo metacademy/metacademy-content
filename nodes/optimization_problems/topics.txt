@@ -1,0 +1,3 @@
+* the notion of local and global extrema
+* criteria for points possibly being extrema (on boundary, not differentiable, partial derivatives all zero)
+* why a point with zero partial derivatives may be a saddle point rather than an extremum

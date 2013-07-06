@@ -1,0 +1,9 @@
+source: shifrin
+edition: 1
+location: Section 3.6, "Higher-order partial derivatives," pages 120-124
+mark: star
+
+source: edwards_penney
+edition: 6
+location: Section 13.4, "Partial derivatives," subsection "Higher-order partial derivatives," pages 874-875
+

@@ -1,0 +1,1 @@
+In an optimization problem, a critical point (where the partial derivatives are zero) may be a local minimum or maximum, or a saddle point. The second derivative test is a way of testing optimality: a point is a (local) minimum if the Hessian matrix is positive definite.

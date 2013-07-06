@@ -1,0 +1,11 @@
+source: shifrin
+edition: 1
+location: Section 5.3, "Quadratic forms and the second derivative test," pages 208-215
+mark: star
+
+source: edwards_penney
+edition: 6
+location: Section 13.10, "Critical points of functions of two variables," pages 927-933
+
+source: ocw_auroux
+location: Lectures 30, "Second derivative test," and 31, "Example"

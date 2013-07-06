@@ -1,0 +1,3 @@
+* characterizing the solutions to optimization problems with one or more equality constraints in terms of Lagrange multipliers
+* using this to check for boundary solutions to optimization problems with inequality constraints
+* note: the proof of Lagrange multipliers is not included here, since that requires more background.

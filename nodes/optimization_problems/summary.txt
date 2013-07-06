@@ -1,0 +1,1 @@
+In an optimization problem, one is interested in minimizing or maximizing a function, possibly subject to equality or inequality constraints. The extrema must occur on the boundary of the set, at points which are not differentiable, or at points where the partial derivatives are zero. 

@@ -1,0 +1,1 @@
+Lagrange multipliers are a tool for solving optimization problems with equality or inequality constraints. In particular, some linear combination of the gradients of the constraints must match the gradient of the function. Lagrange multipliers are a key idea behind Lagrange duality, a central concept in convex optimization.

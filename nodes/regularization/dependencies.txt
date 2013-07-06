@@ -7,7 +7,7 @@ reason: LASSO is an instructive example of regularization.
 tag: lp-norms
 reason: $L_p$ norms are commonly used as regularizers.
 
-tag: unconstrained-optimization-problems
+tag: optimization-problems
 reason: Regularized learning algorithms are usually formulated as optimization problems.
 
 tag: generalization

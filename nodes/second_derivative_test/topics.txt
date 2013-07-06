@@ -1,0 +1,3 @@
+* the definition of the Hessian matrix
+* that if the Hessian is positive definite, the point is a local minimum
+* why it's not sufficient for the Hessian to be positive semidefinite

@@ -1,1 +1,4 @@
 tag: partial-derivatives
+
+tag: linear_approximation
+reason: The differentiability condition is necessary for the mixed partials to be symmetric.
