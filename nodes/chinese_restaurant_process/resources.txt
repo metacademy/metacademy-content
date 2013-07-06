@@ -1,0 +1,7 @@
+source: bnp_tutorial_elsevier
+location: S 2.2
+mark: star
+
+source: sudderth_thesis
+location: S.2.5.2,  p. 102
+note: best read after learning about the Dirichlet Process

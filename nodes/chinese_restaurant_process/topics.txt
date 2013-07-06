@@ -1,0 +1,3 @@
+* formal description of the Chinese Restaurant Process
+* basic relationship to the Dirichlet process
+* basic motivation for bayesian nonparametrics
