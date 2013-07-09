@@ -240,3 +240,42 @@ resource_type: online lectures
 title: MIT Open Courseware: Multivariable Caclulus
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
+
+key: ross
+resource_type: textbook
+title: A First Course in Probability
+free: 0
+url: http://www.amazon.com/First-Course-Probability-8th-Edition/dp/013603313X
+
+key: feller
+resource_type: textbook
+title: An Introduction to Probability Theory and its Applications
+free: 0
+url: http://www.amazon.com/Introduction-Probability-Theory-Applications-Edition/dp/0471257087
+
+key: degroot
+resource_type: textbook
+title: Probability and Statistics
+free: 0
+url: http://www.amazon.com/Probability-Statistics-Edition-Morris-DeGroot/dp/0321500466
+
+key: khan_academy_probability
+resource_type: online lectures
+title: Khan Academy: Probability and Statistics
+free: 1
+url: https://www.khanacademy.org/math/probability
+
+key: bamberg
+resource_type: online lectures
+title: Sets, Counting, and Probability
+free: 1
+url: http://www.extension.harvard.edu/open-learning-initiative/sets-counting-probability
+
+key: edx_probability
+resource_type: online lectures
+title: BerkeleyX: Introduction to Statistics: Probability
+free: 1
+url: https://courses.edx.org/courses/BerkeleyX/Stat2.2x/2013_April/courseware
+
+
+

@@ -1,0 +1,1 @@
+Multinomial coefficients are a generalization of binomial coefficients. They give the total number of ways that n objects can be partitioned into some number of categories, when the counts for each category are given.

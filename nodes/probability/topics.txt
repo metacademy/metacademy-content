@@ -1,0 +1,4 @@
+* sample space and events
+* axioms of probability
+* finite probability spaces
+* notions of probability: subjective beliefs, long-run averages

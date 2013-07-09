@@ -1,0 +1,2 @@
+* the formula (and derivation) for the number of ways to partition n different things into groups of specified sizes
+
