@@ -2,3 +2,5 @@ source:griffiths_ibp
 mark:star
 location:sections 3-4, though other sections provide useful background
 
+source:teh_bnp_mlss
+location: Part 2 from 38:50

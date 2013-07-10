@@ -1,0 +1,9 @@
+key: thibaux_tech_talk
+location: 12:10 - 33:00
+mark: star
+
+key: teh_bnp_mlss
+location: part 2 from 50:00 onwards
+
+key: jordan_crm
+location: Sections 2-3

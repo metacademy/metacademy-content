@@ -1,0 +1,3 @@
+* Beta process from a completely random measure (jordan) and levy process (thibaux) perspectiv
+* Beta process connection to the IBP
+*Beta process uses and applications

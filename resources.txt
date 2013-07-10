@@ -240,3 +240,24 @@ resource_type: online lectures
 title: MIT Open Courseware: Multivariable Caclulus
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
+
+key: teh_bnp_mlss
+resource_type: video lecture
+title: Nonparametric Bayesian Models
+free: 1
+url: http://videolectures.net/mlss09uk_teh_nbm/
+authors: Yee Whye Teh
+
+key: jordan_crm
+resource_type: survey paper
+title: Hierarchical Models, Nested Models and Completely Random Measures
+free: 1
+url:http://www.cs.berkeley.edu/~jordan/papers/berger-festschrift.pdf
+authors: Michael I. Jordan
+
+key: thibaux_tech_talk
+resource_type: video lecture
+title: Levy Processes and Applications to Machine Learning
+free: 1
+url: http://www.youtube.com/watch?v=SIOYjfVEEFk
+authors: Romain Thibaux
