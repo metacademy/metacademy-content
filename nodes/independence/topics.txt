@@ -1,3 +1,0 @@
-* definition of independent events
-* if A is independent of B, then A is also independent of its complement
-* what it means for multiple events to be independent, and why this is stronger than pairwise independence
