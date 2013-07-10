@@ -1,0 +1,1 @@
+Bayes' rule is a formula for combining prior beliefs with observed evidence to obtain a "posterior" distribution. It is central to Bayesian statistics, where one infers a posterior over the parameters of a statistical model given the observed data.

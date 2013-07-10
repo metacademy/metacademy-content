@@ -1,0 +1,1 @@
+Sometimes probability calculations involve large numbers of outcomes with equal probabilities. In this case, we can compute probabilities by counting the number of outcomes, using formulas for permutations and combinations.

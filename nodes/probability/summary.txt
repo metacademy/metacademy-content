@@ -1,0 +1,1 @@
+Probability theory is a set of mathematical techniques for reasoning about uncertainty. Intuitively, probabilities can be thought of as describing long-run frequencies or subjective beliefs. Mathematically, a probability measure is a function on subsets of a sample space which satisfy certain axioms.

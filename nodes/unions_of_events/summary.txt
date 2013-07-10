@@ -1,0 +1,1 @@
+It is possible to compute or bound the probability of a union of two events in terms of the probabilities of each one separately and of their intersection. The formula can be generalized to unions of more than two events.

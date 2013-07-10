@@ -1,0 +1,4 @@
+* statement of Bayes' Rule
+* derivation from the definition of conditional probability
+* terminology: prior, posterior
+* interpretation in terms of odds ratios
