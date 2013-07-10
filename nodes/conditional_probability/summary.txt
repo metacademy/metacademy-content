@@ -1,0 +1,1 @@
+The conditional probability of an event A given another event B is the probability that A occurs if it's known that B occurs. Conditional probability is fundamental to probabilistic modeling, since it gives a way of accounting for observed evidence.

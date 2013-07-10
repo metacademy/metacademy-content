@@ -1,2 +1,5 @@
 tag: probability
 reason: Independence is a property of events in a probability space.
+
+tag: conditional_probability
+reason: The definition of independence can be thought of in terms of conditional probability.

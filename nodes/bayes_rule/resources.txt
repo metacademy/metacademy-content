@@ -1,0 +1,13 @@
+source: degroot
+edition: 3
+location: Section 2.3, "Bayes' Theorem," pages 66-77
+mark: star
+
+source: ross
+edition: 7
+location: Section 3.3, "Bayes' Formula," pages 72-87
+mark: star
+
+source: edx_probability
+location: Lecture 1.6, "Bayes' Rule"
+
