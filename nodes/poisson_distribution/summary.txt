@@ -1,0 +1,1 @@
+The Poisson distribution is a discrete probability distribution for the counts of independent random events in a given time interval, e.g. babies born in a hospital in 1 month or lightening strikes in Mexico in 1 week. It is one of the most common discrete distributions used in virtually every scientific and financial field.

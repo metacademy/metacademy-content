@@ -257,6 +257,7 @@ key: degroot
 resource_type: textbook
 title: Probability and Statistics
 free: 0
+authors: Morris H. DeGroot and Mark J. Schervish
 url: http://www.amazon.com/Probability-Statistics-Edition-Morris-DeGroot/dp/0321500466
 
 key: khan_academy_probability
@@ -297,3 +298,10 @@ title: Levy Processes and Applications to Machine Learning
 free: 1
 url: http://www.youtube.com/watch?v=SIOYjfVEEFk
 authors: Romain Thibaux 
+
+key: boas_mm
+resource_type: textbook
+title: Mathematical Methods in the Physical Sciences
+free: 0
+url: http://www.amazon.com/Mathematical-Methods-Physical-Sciences-Mary/dp/0471198269
+authors: Mary Boas

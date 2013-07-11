@@ -1,0 +1,19 @@
+source: boas_mm
+mark: star
+location:Ch 13.9 (p 728)
+edition:  2
+
+source: khan_academy_probability
+location: lecture sequence "poisson processes" under Random Variables and Probability Distributions
+mark: star
+
+source: degroot
+location: 5.4 (p 287)
+edition: 4
+mark: star
+
+source: wikipedia
+url: https://en.wikipedia.org/wiki/Poisson_distribution
+
+source: wolfram
+url: http://mathworld.wolfram.com/PoissonDistribution.html

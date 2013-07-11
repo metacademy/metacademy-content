@@ -1,0 +1,3 @@
+* basic definition of poisson distribution
+* several examples of its application
+* connection to binomial distribution
