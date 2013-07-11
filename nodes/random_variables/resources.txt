@@ -1,0 +1,22 @@
+source: ross
+edition: 7
+location: Section 4.1, "Random variables," pages 132-138; Section 4.2, "Discrete random variables," pages 138-140; Section 5.1, "Introduction," pages 205-209
+mark: star
+
+source: degroot
+edition: 3
+location: Section 3.1, "Random variables and discrete distributions," pages 97-102; Section 3.2, "Continuous distributions," pages 103-108
+mark: star
+
+source: feller
+edition: 2
+location: Section 9.1, "Random variables," pages 199-207
+dependencies: conditional_probability
+
+source: khan_academy_probability
+location: Lectures "Random variables," "Discrete and continuous random variables," and "Probability density functions," under "Random variables and probability distributions"
+mark: star
+
+source: bamberg
+location: Lecture "Random variables"
+

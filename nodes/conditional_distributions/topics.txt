@@ -1,0 +1,4 @@
+* definitions of conditional distribution for discrete and continuous random variables
+* why it's not mathematically rigorous to condition on an event of probability zero
+* constructing the joint distribution as a product of conditional distributions
+

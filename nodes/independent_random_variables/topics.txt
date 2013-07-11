@@ -1,0 +1,2 @@
+* definition of independent random variables in terms of probabilities of events
+* equivalent conditions in terms of the joint PDF, PMF, and CDF.

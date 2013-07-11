@@ -1,0 +1,12 @@
+source: ross
+edition: 7
+location: Section 6.2, "Independent random variables," pages 267-279
+mark: star
+
+source: degroot
+edition: 3
+location: Section 3.5, "Marginal distributions," subsection "Independent random variables," pages 131-135
+mark: star
+
+source: bamberg
+location: Lecture "Variables"

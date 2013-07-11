@@ -1,0 +1,9 @@
+tag: random_variables
+
+tag: multivariate_distributions
+
+tag: determinant
+reason: The formula for the PDF of the function involves a determinant.
+
+tag: linear_approximation
+reason: The formula for the PDF of the function involves the partial derivatives of the function.

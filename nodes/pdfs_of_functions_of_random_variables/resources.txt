@@ -1,0 +1,10 @@
+source: ross
+edition: 7
+location: Section 5.7, "The distribution of a function of a random variable," pages 242-244; Section 6.7, "Joint probability distribution of functions of random variables," pages 300-308
+mark: star
+
+source: degroot
+edition: 3
+location: Section 3.8, "Functions of a random variable," pages 158-164; Section 3.9, "Functions of two or more random variables," pages 165-175
+mark: star
+

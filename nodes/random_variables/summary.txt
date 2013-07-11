@@ -1,0 +1,1 @@
+Random variables are the central object of probability theory. As their name implies, can be thought of as variables whose values are randomly determined. Mathematically, they are represented as functions on a sample space. 

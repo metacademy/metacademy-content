@@ -1,0 +1,5 @@
+* representation in terms of joint PMFs and PDFs
+* representation in terms of joint CDF
+* recovering the joint PDF from the joint CDF
+* computing the probability that the random variables lie within a given set
+* definition of marginal distribution, and how to compute it

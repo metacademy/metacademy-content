@@ -1,0 +1,11 @@
+tag: random_variables
+reason: Multivariate distributions are a way of representing dependencies between random variables.
+
+tag: multiple_integrals
+reason: Multiple integrals are needed to compute probabilities associated with continuous multivariate distributions.
+
+tag: cumulative_distribution_function
+reason: Joint distributions can be represented in terms of the joint CDF.
+
+tag: higher_order_partial_derivatives
+reason: Higher order partial derivatives are used to recover the joint PDF from the joint CDF.

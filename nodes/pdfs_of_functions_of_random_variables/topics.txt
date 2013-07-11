@@ -1,0 +1,2 @@
+* The formula for the PDF of a function of continuous random variables
+* Derivation in the univarate case in terms of the CDF

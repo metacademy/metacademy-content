@@ -1,0 +1,1 @@
+Multivariate distributions are a way of representing the dependencies between multiple random variables.

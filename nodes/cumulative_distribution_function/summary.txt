@@ -1,0 +1,1 @@
+The cumulative distribution function (CDF) of a random variable X is the function F, where F(a) is the probability that X <= a. CDFs are a convenient representation because they apply to both discrete and continuous random variables, and they can simplify many calculations.

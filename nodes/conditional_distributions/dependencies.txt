@@ -1,6 +1,6 @@
 tag: random-variables
 
+tag: multivariate_distributions
+
 tag: conditional-probability
 
-tag: independent-random-variables
-reason: Independent random variables are an important special case.

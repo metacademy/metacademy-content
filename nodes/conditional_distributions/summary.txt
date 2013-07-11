@@ -1,0 +1,1 @@
+The conditional distribution of a random variable X given another random variable Y is the distribution of X when Y is observed to take some vaule. While the precise mathematical definition is involved, for discrete and continuous variables, it amounts to dividing the joint PDF or PMF of X and Y by the PDF or PMF of Y.

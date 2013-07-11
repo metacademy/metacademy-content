@@ -1,0 +1,5 @@
+* definition of random variable as function on the sample space
+* definition of the distribution of a random variable
+* discrete and continuous random variables
+* probability mass functions and probability density functions
+
