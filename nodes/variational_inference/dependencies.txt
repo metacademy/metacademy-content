@@ -1,4 +1,4 @@
-tag: marginalization
+tag: multivariate_distributions
 reason: Marginalization is the operation we most often want to perform using variational inference. 
 
 tag: kl-divergence

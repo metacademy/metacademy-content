@@ -1,7 +1,7 @@
 tag: hidden-markov-models
 reason: Forward-backward is an algorithm for inference in HMMs.
 
-tag: marginalization
+tag: multivariate_distributions
 reason: The forward-backward algorithm is an algorithm for marginalization.
 
 tag: conditional_independence

@@ -1,4 +1,4 @@
-tag: marginalization
+tag: multivariate_distributions
 reason: Marginalization is an operation we commonly want to perform in probabilistic models.
 
 tag: expected-value

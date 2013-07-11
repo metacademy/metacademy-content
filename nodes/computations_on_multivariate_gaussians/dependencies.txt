@@ -3,7 +3,7 @@ tag: multivariate-gaussian-distribution
 tag: conditional_distributions
 reason: Conditioning is one operation we commonly need to perform.
 
-tag: marginalization
+tag: multivariate_distributions
 reason: Marginalization is one operation we commonly need to perform.
 
 

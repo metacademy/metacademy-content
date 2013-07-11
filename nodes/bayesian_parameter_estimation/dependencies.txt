@@ -7,7 +7,7 @@ reason: The beta-Bernoulli distribution is an instructive example of Bayesian pa
 tag: conditional-distributions
 reason: In Bayesian parameter estimation, we need to reason with the conditional distributions over parameters.
 
-tag: marginalization
+tag: multivariate_distributions
 reason: In Bayesian parameter estimation, we need to marginalize out the parameters in order to make predictions.
 
 tag: expected_value

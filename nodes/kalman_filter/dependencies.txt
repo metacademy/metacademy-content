@@ -1,7 +1,7 @@
 tag: linear_dynamical_systems
 reason: The Kalman filter is an inference algorithm for linear dynamical systems.
 
-tag: marginalization
+tag: multivariate_distributions
 reason: The Kalman filter is an algorithm for marginalization.
 
 tag: conditional_distribution
