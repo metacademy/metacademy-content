@@ -5,6 +5,7 @@ mark: star
 resource_type: tutorial paper
 url: http://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf
 authors: Yee Whye Teh
+title: Dirichlet Process
 note: assumes some familiarity with measure theory
 free: 1
 
