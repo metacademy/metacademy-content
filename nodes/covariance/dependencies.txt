@@ -1,5 +1,8 @@
-tag: variance
+tag: expectation_and_variance
 reason: Covariance is a generalization of variance.
+
+tag: multivariate_distributions
+reason: Covariance is defined in terms of a multivariate PMF or PDF.
 
 tag: independent-random-variables
 reason: Independent random variables have zero covariance.

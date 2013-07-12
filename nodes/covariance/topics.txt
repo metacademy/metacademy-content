@@ -1,0 +1,8 @@
+* definition of covariance
+* writing covariance as a difference of moments
+* definition of correlation
+* Cauchy-Schwartz for covariance (bounding covariance in terms of the variances)
+* covariance of a linear function of a random variable
+* independent random variables have zero covariance
+* formula for the variance of a sum of random variables
+* variances add for independent random variables

@@ -1,11 +1,8 @@
 tag: gaussian-distribution
 reason: The statement of the theorem involves Gaussian distributions.
 
-tag: expected-value
-reason: The statement of the theorem involves expected value.
-
-tag: variance
-reason: The statement of the theorem involves variances.
+tag: expectation_and_variance
+reason: The statement of the theorem involves expected value and variances.
 
 tag: convergence-in-distribution
 reason: The statement of the theorem invovles convergence in distribution.

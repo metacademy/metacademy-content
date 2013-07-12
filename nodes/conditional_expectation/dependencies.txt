@@ -1,4 +1,4 @@
-tag: expected-value
+tag: expectation_and_variance
 
 tag: conditional-distributions
 reason: Iterated expectation involves taking expectations under conditional distributions.

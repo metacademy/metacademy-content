@@ -1,0 +1,22 @@
+source: degroot
+edition: 3
+location: Section 4.1, "The expectation of a random variable," pages 181-188; Section 4.2, "Properties of expectations," pages 189-196; Section 4.3, "Variance," pages 197-202
+mark: star
+extra: Don't worry about the proofs as far as this node is concerned.
+
+source: ross
+edition: 7
+location: Section 4.3, "Expected value," pages 140-143; Section 4.4, "Expectation of a function of a random varible," pages 144-148; Section 4.5, "Variance," pages 148-150; Section 5.2, "Expectation and variance of continuous random variables," pages 209-214; Section 7.1, "Introduction," pages 327-328; Section 7.2, "Expectation of sums of random variables," not counting 7.2.1 and 7.2.2, pages 328-342
+mark: star
+extra: Don't worry about the proofs as far as this node is concerned. See also Proposition 4.1 of Section 7.4, which says that expectations multiply for independent random variables.
+
+source: feller
+edition: 2
+location: Section 9.2, "Expectations," pages 207-209; Section 9.3, "Examples and applications," pages 209-213; Section 9.4, "The variance," pages 213-215
+mark: star
+extra: This reference only talks about discrete random variables. All the theorems hold for continuous variables as well. For the definitions, just replace sums with integrals.
+
+source: bamberg
+location: Lecture "Expectation I"
+mark: star
+

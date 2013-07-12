@@ -1,2 +1,2 @@
-tag: expected-value
+tag: expectation_and_variance
 reason: Markov's inequality involves an expected value.

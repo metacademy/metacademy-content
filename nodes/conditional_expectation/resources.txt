@@ -1,0 +1,10 @@
+source: degroot
+edition: 3
+location: Section 4.7, "Conditional expectation," pages 222-228
+mark: star
+
+source: ross
+edition: 7
+location: Section 7.5, "Conditional expectation," pages 365-382
+mark: star
+

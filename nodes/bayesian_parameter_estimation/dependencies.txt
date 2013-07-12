@@ -10,5 +10,5 @@ reason: In Bayesian parameter estimation, we need to reason with the conditional
 tag: multivariate_distributions
 reason: In Bayesian parameter estimation, we need to marginalize out the parameters in order to make predictions.
 
-tag: expected_value
+tag: expectation_and_variance
 reason: A common use of the predictive distribution is computing expectations.

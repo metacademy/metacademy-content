@@ -10,6 +10,6 @@ reason: The Gaussian distribution is an important example of an exponential fami
 tag: poisson-distribution
 reason: The Poisson distribution is an important example of an exponential family distribution.
 
-tag: expected-value
+tag: expectation_and_variance
 reason: Expected value is needed to motivate the notion of sufficient statistics.
 

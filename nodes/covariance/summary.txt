@@ -1,0 +1,1 @@
+The covariance of two random variables is a measure of their relatedness. It is closely related to the correlation coefficient, but is more commonly used in probability theory because it has nice mathematical properties.

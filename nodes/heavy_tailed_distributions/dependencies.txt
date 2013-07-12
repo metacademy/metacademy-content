@@ -4,5 +4,5 @@ reason: The Gaussian distribution is a canonical example of a distribution that'
 tag: student-t-distribution
 reason: The student-t distribution is a canonical example of a heavy-tailed distribution.
 
-tag: variance
+tag: expectation_and_variance
 reason: For some heavy-tailed distributions, the variance does not exist.
