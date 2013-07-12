@@ -1,4 +1,4 @@
-tag: variance
+tag: expectation_and_variance
 reason: Covariance is a generalization of variance.
 
 tag: independent-random-variables

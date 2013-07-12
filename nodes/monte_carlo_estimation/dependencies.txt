@@ -1,4 +1,4 @@
-tag: expected_value
+tag: expectation_and_variance
 reason: Monte Carlo methods are a way of estimating expectations.
 
 tag: weak-law-of-large-numbers

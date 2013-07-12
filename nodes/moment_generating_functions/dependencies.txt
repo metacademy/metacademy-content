@@ -1,4 +1,4 @@
-tag: variance
+tag: expectation_and_variance
 reason: The MGF is closely related to moments of a distribution.
 
 tag: independent-random-variables

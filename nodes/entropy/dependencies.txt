@@ -1,2 +1,2 @@
-tag: expected-value
+tag: expectation_and_variance
 reason: Entropy is defined in terms of an expectation.
