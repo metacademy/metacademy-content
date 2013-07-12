@@ -1,0 +1,14 @@
+source: degroot
+edition: 3
+location: Section 4.6, "Covariance and correlation," pages 214-221
+mark: star
+
+source: ross
+edition: 7
+location: Section 7.4, "Covariance, variance of sums, and correlations," pages 355-364
+mark: star
+
+source: feller
+edition: 2
+location: Section 9.5, "Covariance; variance of a sum," pages 215-219
+mark: star

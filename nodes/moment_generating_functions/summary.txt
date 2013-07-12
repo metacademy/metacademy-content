@@ -1,0 +1,1 @@
+The moment generating function (MGF) is a function which characterizes the distribution of a random variable. MGFs are useful for analyzing sums of independent random variables. In particular, they are used in the proof of the Central Limit Theorem and in deriving the Chernoff bounds, which bound the probability that a sum of independent random variables takes on extreme values.

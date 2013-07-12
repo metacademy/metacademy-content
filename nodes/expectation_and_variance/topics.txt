@@ -1,0 +1,5 @@
+* definitions of expectation and variance for discrete and continuous random variables
+* computing the expectation of a function of a random variable
+* the expectation lies between the minimum and maximum possible values of a random variable
+* the expectation of a sum is the sum of the expectations
+* expectations multiply for independent random variables

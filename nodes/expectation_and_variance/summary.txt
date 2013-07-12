@@ -1,0 +1,1 @@
+The expectation of a random variable is the value that it takes "on average," and the variance is a measure of how much the random variable deviates from that value "on average." Expectation and variance have several convenient properties that often allow one to abstract away the underlying PDFs or PMFs.

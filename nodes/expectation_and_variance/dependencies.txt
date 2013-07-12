@@ -1,2 +1,4 @@
 tag: random-variables
 reason: Expected value is a property of random variables.
+
+# TODO: dependency on independent random variables?  Multivariate distributions?

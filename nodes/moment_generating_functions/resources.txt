@@ -1,0 +1,10 @@
+source: ross
+edition: 7
+location: Section 7.7. "Moment generating functions," not counting 7.7.1, pages 387-397
+mark: star
+
+source: degroot
+edition: 3
+location: Section 4.4, "Moments," pages 203-208
+mark: star
+

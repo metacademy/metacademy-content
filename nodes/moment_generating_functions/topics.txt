@@ -1,0 +1,4 @@
+* definition of the MGF
+* obtaining moments from the derivatives of the MGF at 0
+* the MGF of a sum of independent random variables is the product of the MGFs
+* the MGF determines the distribution
