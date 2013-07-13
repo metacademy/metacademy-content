@@ -1,0 +1,1 @@
+The Chernoff bounds are a way of bounding the probability that a sum of independent random variables takes on extreme values. Compared with Chebyshev's inequality, it requires a stronger assumption (independence), but is a far tighter bound. They are commonly used to analyze randomized algorithms and PAC-learning methods.

@@ -1,0 +1,1 @@
+Roughly, the laws of large numbers state that the average of a large number of draws of a random variable approaches the expectation. The strong law states that the probability that the average of the sequence fails to converge to the expectation is zero. This is a strictly stronger statement than the weak law, but requires stronger assumptions.

@@ -1,0 +1,3 @@
+* definition of convergence in probability
+* statement and proof of the weak law of large numbers
+* motivation in terms of averages of repeated experiments

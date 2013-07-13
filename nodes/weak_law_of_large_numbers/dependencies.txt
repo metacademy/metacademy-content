@@ -1,2 +1,8 @@
-tag: convergence-in-probability
-reason: The statement of the theorem is about convergence in probability.
+tag: independent_random_variables
+reason: The weak law of large numbers is a statement about independent random variables.
+
+tag: expectation_and_variance
+reason: The weak law of large numbers is about convergence to an expectation.
+
+tag: markov_and_chebyshev_inequalities
+reason: Chebyshev's inequality is used in the proof.

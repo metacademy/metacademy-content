@@ -1,2 +1,5 @@
+tag: random_variables
+reason: The inequalities bound the probabilities of random variables taking on extreme values.
+
 tag: expectation_and_variance
-reason: Chebyshev's inequality involves a variance term.
+reason: The inequalities involve expectations and variances.

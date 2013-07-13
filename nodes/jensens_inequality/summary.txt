@@ -1,0 +1,1 @@
+Jensen's Inequality states that the expectation of a convex function is larger than the function of the expectation. It is used to prove the Rao-Blackwell theorem in statistics, and is the basis behind many algorithms for probabilistic inference, including Expectation-Maximization (EM) and variational inference.

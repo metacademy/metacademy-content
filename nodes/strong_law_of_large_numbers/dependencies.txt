@@ -1,0 +1,7 @@
+tag: independent_random_variables
+reason: The strong law is a statement about independent random variables.
+
+tag: expectation_and_covariance
+reason: The strong law is about convergence to an expectation.
+
+tag: weak_law_of_large_numbers

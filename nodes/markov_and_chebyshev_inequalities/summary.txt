@@ -1,0 +1,1 @@
+Markov's inequality and Chebyshev's inequality are tools for bounding the probability of a random variable taking on extreme values. While the bounds are weak, they apply under very general conditions. One use of Chebyshev's inequality is to prove the weak law of large numbers.

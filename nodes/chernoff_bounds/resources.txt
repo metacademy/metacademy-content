@@ -1,0 +1,4 @@
+source: ross
+edition: 7
+location: Section 8.5, "Other inequalities," from pages 450 to 453
+

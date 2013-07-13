@@ -1,0 +1,9 @@
+source: ross
+edition: 7
+location: Section 8.2, "Chebyshev's inequality and the weak law of large numbers," from pages 430 to 433
+mark: star
+
+source: degroot
+edition: 3
+location: Section 4.8, "The sample mean," from pages 229 to 231
+mark: star

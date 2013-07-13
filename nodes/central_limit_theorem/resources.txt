@@ -1,0 +1,12 @@
+source: ross
+edition: 7
+location: Section 8.3, "The Central Limit Theorem," pages 434-443
+mark: star
+
+source: degroot
+edition: 3
+location: Section 5.7, "The Central Limit Theorem," pages 282-290
+mark: star
+
+source: mathmonk_probability
+location: Lecture 5.5, "Law of large numbers and Central Limit Theorem"

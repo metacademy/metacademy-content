@@ -1,9 +1,12 @@
 tag: gaussian-distribution
 reason: The statement of the theorem involves Gaussian distributions.
 
+tag: independent_random_variables
+reason: The theorem is a statement about independent random variables.
+
 tag: expectation_and_variance
 reason: The statement of the theorem involves expected value and variances.
 
-tag: convergence-in-distribution
-reason: The statement of the theorem invovles convergence in distribution.
+tag: moment_generating_functions
+reason: Moment generating functions are used to prove the theorem.
 

@@ -1,0 +1,4 @@
+* statement of the Chernoff bounds in terms of moment generating functions
+* proof of the bounds using Markov's inequality
+* using the bounds to bound probabilities of extreme values
+* comparison with Chebyshev bounds

@@ -1,0 +1,3 @@
+source: ross
+edition: 7
+location: Section 8.5, "Other inequalities," page 453
