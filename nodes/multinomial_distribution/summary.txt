@@ -1,0 +1,1 @@
+The multinomial distribution is a generalization of the binomial distribution to the case where each of the events may take on more than two possible values.

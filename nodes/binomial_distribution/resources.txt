@@ -1,0 +1,19 @@
+source: ross
+edition: 7
+location: Section 4.6, "The Bernoulli and binomial random variables," pages 150-160
+mark: star
+
+source: degroot
+edition: 3
+location: Section 5.2, "The Bernoulli and binomial distributions," pages 247-250
+extra: You can skip the MGF as far as this node is concerned.
+
+source: feller
+edition: 2
+location: Section 6.1, "Bernoulli trials," pages 135-136; Section 6.2, "The binomial distribution," pages 136-139; Section 6.3, "The central term and the tails," pages 139-141
+mark: star
+
+source: khan_academy_probability
+location: Lecture sequence "Binomial distribution" under "Random variables and probability distributions"
+mark: star
+

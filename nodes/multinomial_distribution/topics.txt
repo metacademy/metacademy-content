@@ -1,0 +1,4 @@
+* PMF of the distribution
+* motivation in terms of counts
+* the marginal over one of the counts is a binomial distribution
+

@@ -1,4 +1,7 @@
 tag: random-variables
 
-tag: multinomial-coefficients
-reason: Binomial coefficients are used to define the binomial distribution.
+tag: independent_events
+reason: The binomial distribution is motivated in terms of independent coin flips.
+
+tag: expectation_and_variance
+reason: The binomial distribution is parameterized in terms of its mean.

@@ -1,0 +1,1 @@
+The binomial distribution describes the number of successes in a fixed number of independent trials, each with the same success probability. When the number of trials is large, the distribution is approximately bell-shaped.
