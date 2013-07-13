@@ -23,3 +23,5 @@ edition: 7
 location: Section 4.7, "The poisson random variable," pages 160-173
 mark: star
 
+source: mathmonk_probability
+location: Lecture "Expectation of a Poisson random variable"

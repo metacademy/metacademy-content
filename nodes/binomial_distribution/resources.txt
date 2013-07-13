@@ -17,3 +17,5 @@ source: khan_academy_probability
 location: Lecture sequence "Binomial distribution" under "Random variables and probability distributions"
 mark: star
 
+source: mathmonk_probability
+location: Lectures "Expectation of a binomial random variable"

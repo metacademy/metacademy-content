@@ -19,3 +19,7 @@ location: Lecture 1.3, "Multiplication rule"; Lecture 1.5, "Conditional or uncon
 source: bamberg
 location: Lecture "Conditional probability"
 
+source: mathmonk_probability
+location: Lecture 2.1, "Conditional probability"; Lecture 2.5, "Partition rule, conditional measure"
+mark: star
+extra: This uses the measure theoretic notion of probability, but should still be accessible without that background. Refer to Lecture 1.S for unfamiliar terms.

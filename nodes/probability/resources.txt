@@ -22,3 +22,8 @@ location: Lecture 1.1, "What is probability?"; Lecture 1.2, "Addition rule"
 source: khan_academy_probability
 location: Lecture sequences "Basic probability" and "Venn diagrams and adding probabilities" under "Independent and dependent events"
 
+source: mathmonk_probability
+location: Lecture sequence 1
+mark: star
+extra: This presents the measure theoretic approach to probability, but should still be accessible without significant math background.
+

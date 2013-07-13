@@ -305,3 +305,10 @@ title: Mathematical Methods in the Physical Sciences
 free: 0
 url: http://www.amazon.com/Mathematical-Methods-Physical-Sciences-Mary/dp/0471198269
 authors: Mary Boas
+
+key: mathmonk_probability
+resource_type: online lectures
+title: Mathematical Monk: Probability Primer
+free: 1
+url: http://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
+

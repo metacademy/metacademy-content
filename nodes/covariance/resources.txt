@@ -12,3 +12,9 @@ source: feller
 edition: 2
 location: Section 9.5, "Covariance; variance of a sum," pages 215-219
 mark: star
+
+source: mathmonk_probability
+location: Lecture 5.4, "Independence, covariance, and correlation"
+mark: star
+extra: This uses the measure theoretic notion of probability, but should still be accessible without that background. Refer to Lecture 1.S for unfamiliar terms.
+
