@@ -1,4 +1,0 @@
-tag: weak-law-of-large-numbers
-
-tag: markov_and_chebyshev_inequalities
-reason: The theorem follows almost directly from Chebyshev's inequality.
