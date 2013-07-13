@@ -1,0 +1,2 @@
+tag: expectation_and_variance
+reason: Chebyshev's inequality involves a variance term.
