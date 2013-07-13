@@ -1,0 +1,3 @@
+* PDF of the exponential distribution
+* the distribution is memoryless
+* motivation in terms of waiting times

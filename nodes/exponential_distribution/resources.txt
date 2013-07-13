@@ -1,0 +1,9 @@
+source: ross
+edition: 7
+location: Section 5.5, "Exponential random variables," pages 230-236
+mark: star
+
+source: degroot
+edition: 3
+location: Section 5.9, "The gamma distribution," starting with "The exponential distribution," pages 298-301
+mark: star

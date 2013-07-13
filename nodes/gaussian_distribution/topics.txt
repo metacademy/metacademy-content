@@ -1,0 +1,6 @@
+* PDF of the Gaussian distribution
+* bell shape
+* linear functions of Gaussians are Gaussians
+* showing that mu and sigma represent the mean and variance
+* motivation in terms of the sum of a large number of i.i.d. random variables
+* the sum of independent Gaussan random variables is Gaussian

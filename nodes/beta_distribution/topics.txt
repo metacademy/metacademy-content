@@ -1,0 +1,3 @@
+* PDF of the beta distribution
+* computing the moments
+* that the uniform distribution is a special case

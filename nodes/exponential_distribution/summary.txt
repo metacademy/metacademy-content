@@ -1,0 +1,1 @@
+The exponential distribution is a continuous distribution whose PDF decays exponentially. It is most commonly used to model the waiting time until an event occurs, where that event is equally likely to happen at any point in time.

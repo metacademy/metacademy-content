@@ -1,0 +1,10 @@
+source: ross
+edition: 7
+location: Section 5.6.4, "The beta distribution," pages 240-241
+
+source: degroot
+edition: 3
+location: Section 5.10, "The beta distribution," pages 303-308
+dependencies: binomial_distribution
+mark: star
+extra: The proof of the identity about products of gamma functions is optional.

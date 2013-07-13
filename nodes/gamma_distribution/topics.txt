@@ -1,0 +1,4 @@
+* PDF of the Gamma distribution
+* that the distribution is closed under sums
+* tricks for computing moments
+* motivation in terms of waiting time for n events to occur

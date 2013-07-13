@@ -1,0 +1,1 @@
+The gamma distribution is a continuous distribution which gives the waiting time for n events to occur, when each event is equally likely to happen at any point in time. It is also commonly used in Bayesian statistics as a prior for scale variables.
