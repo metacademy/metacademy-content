@@ -1,3 +1,0 @@
-tag: gamma-distribution
-
-tag: expectation_and_variance
