@@ -1,5 +1,0 @@
-tag: sequences-of-random-variables
-reason: Convergence in probability is a property of sequences of random variables.
-
-tag: expectation_and_variance
-reason: The limit is given by an expectation.

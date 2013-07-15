@@ -1,6 +1,0 @@
-tag: partial-derivatives
-reason: The Jacobian is defined in terms of partial derivatives.
-
-tag: matrix_multiplication
-reason: The Jacobian is a matrix.
-
