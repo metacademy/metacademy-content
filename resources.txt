@@ -312,3 +312,8 @@ title: Mathematical Monk: Probability Primer
 free: 1
 url: http://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 
+key: mathmonk_ml
+resource_type: online lectures
+title: Mathematical Monk: Machine Learning
+free: 1
+url: http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
