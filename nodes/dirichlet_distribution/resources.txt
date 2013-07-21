@@ -4,7 +4,7 @@ mark: star
 
 title: Introduction to the Dirichlet Distribution and Related Processes
 location: Ch 1 provides core information while Ch 2 focuses on sampling
-url: www.ee.washington.edu/research/guptalab/publications/UWEETR-2010-0006.pdf
+url: http://www.ee.washington.edu/research/guptalab/publications/UWEETR-2010-0006.pdf
 mark: star
 free: 1
 

@@ -1,0 +1,3 @@
+* Definition of gamma function
+* Relationship to factorial function
+* Use with the Gamma distribution (degroot)
