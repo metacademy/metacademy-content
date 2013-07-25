@@ -5,3 +5,4 @@ reason: The Fisher information matrix is defined in terms of covariance.
 
 tag: positive-definite-matrices
 reason: The Fisher information matrix is PSD.
+shortcut: 1

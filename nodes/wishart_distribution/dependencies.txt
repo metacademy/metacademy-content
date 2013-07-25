@@ -3,6 +3,7 @@ reason: The Wishart distribution is a multivariate generalization of the gamma d
 
 tag: positive-definite-matrices
 reason: The Wishart distribution is a distribution over positive definite matrices.
+shortcut: 1
 
 tag: expectation_and_variance
 reason: We would like to derive the mean of the distribution.

@@ -1,0 +1,5 @@
+tag: matrix_multiplication
+reason: PD matrices are defined in terms of matrix-vector multiplications.
+
+tag: matrix_inverse
+reason: PD matrices are closed under matrix inverses.

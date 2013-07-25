@@ -1,8 +1,14 @@
 tag: matrix_transpose
-reason: PSD matrices are usually assumed to be symmetric.
+reason: PD matrices are usually assumed to be symmetric.
+
+tag: matrix_multiplication
+reason: PD matrices are defined in terms of matrix-vector multiplications.
 
 tag: eigenvalues_and_eigenvectors
 reason: A symmetric matrix is positive definite iff the eigenvalues are all positive.
 
 tag: spectral_decomposition
 reason: A symmetric matrix is positive definite iff the eigenvalues are all positive.
+
+tag: matrix_inverse
+reason: PD matrices are closed under matrix inverses.

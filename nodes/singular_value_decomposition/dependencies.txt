@@ -12,6 +12,7 @@ reason: The SVD is equivalent to the spectral decomposition of a particular PSD 
 
 tag: positive-definite-matrices
 reason: The SVD is equivalent to the spectral decomposition of a particular PSD matrix.
+shortcut: 1
 
 tag: four_fundamental_subspaces
 reason: The SVD gives orthonormal bases for the four fundamental subspaces.
