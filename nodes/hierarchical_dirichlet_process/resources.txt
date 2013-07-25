@@ -1,0 +1,6 @@
+title: Hierarchical Dirichlet Processes
+free: 1
+url: http://www.cs.berkeley.edu/~jordan/papers/hdp.pdf
+authors: Yee Whye Teh and Michael I Jordan and Matthew J Beal and David M Blei
+resource_type: technical report
+mark: star
