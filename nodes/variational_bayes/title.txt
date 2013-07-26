@@ -1,1 +1,1 @@
-Variational Bayes
+variational Bayes

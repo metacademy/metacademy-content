@@ -1,1 +1,1 @@
-Linear systems as matrices
+linear systems as matrices

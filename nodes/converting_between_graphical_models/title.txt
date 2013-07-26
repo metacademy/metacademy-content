@@ -1,1 +1,1 @@
-Converting between graphical models
+converting between graphical models

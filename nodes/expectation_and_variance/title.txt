@@ -1,1 +1,1 @@
-Expectation and variance
+expectation and variance

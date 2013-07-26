@@ -1,1 +1,1 @@
-Generative vs. discriminative models
+generative vs. discriminative models

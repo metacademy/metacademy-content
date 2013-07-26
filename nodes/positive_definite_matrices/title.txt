@@ -1,1 +1,1 @@
-Positive definite matrices
+positive definite matrices

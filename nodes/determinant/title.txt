@@ -1,1 +1,1 @@
-Determinant
+determinant

@@ -1,1 +1,1 @@
-Entropy (probability)
+entropy (probability)

@@ -1,1 +1,1 @@
-Binomial distribution
+binomial distribution

@@ -1,1 +1,1 @@
-Variational characterization of eigenvalues
+variational characterization of eigenvalues

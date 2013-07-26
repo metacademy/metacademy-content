@@ -1,1 +1,1 @@
-Inference in MRFs
+inference in MRFs

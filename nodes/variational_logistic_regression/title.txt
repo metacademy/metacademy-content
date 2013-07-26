@@ -1,1 +1,1 @@
-Variational logistic regression
+variational logistic regression

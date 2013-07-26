@@ -1,1 +1,1 @@
-Expectation propagation
+expectation propagation

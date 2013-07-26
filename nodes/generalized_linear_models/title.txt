@@ -1,1 +1,1 @@
-Generalized linear models
+generalized linear models

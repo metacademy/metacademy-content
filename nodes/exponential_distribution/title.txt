@@ -1,1 +1,1 @@
-Exponential distribution
+exponential distribution

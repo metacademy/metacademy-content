@@ -1,1 +1,1 @@
-Determinant and volume
+determinant and volume

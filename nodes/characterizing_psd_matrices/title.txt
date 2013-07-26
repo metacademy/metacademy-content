@@ -1,1 +1,1 @@
-Characterizing PSD matrices
+characterizing PSD matrices

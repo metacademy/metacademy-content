@@ -1,1 +1,1 @@
-Interpreting regularization as MAP estimation
+interpreting regularization as MAP estimation

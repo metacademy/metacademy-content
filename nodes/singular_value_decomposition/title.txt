@@ -1,1 +1,1 @@
-Singular value decomposition
+singular value decomposition

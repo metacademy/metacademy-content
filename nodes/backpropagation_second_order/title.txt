@@ -1,1 +1,1 @@
-Backpropagation for second-order methods
+backpropagation for second-order methods

@@ -1,1 +1,1 @@
-Fitting logistic regression with iterative reweighted least squares
+fitting logistic regression with iterative reweighted least squares

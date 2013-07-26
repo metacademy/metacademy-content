@@ -1,1 +1,1 @@
-Linear transformations as matrices
+linear transformations as matrices

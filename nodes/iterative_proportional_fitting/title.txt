@@ -1,1 +1,1 @@
-Iterative proportional fitting
+iterative proportional fitting

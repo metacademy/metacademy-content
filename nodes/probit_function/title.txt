@@ -1,1 +1,1 @@
-Probit function
+probit function

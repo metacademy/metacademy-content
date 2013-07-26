@@ -1,1 +1,1 @@
-Multivariate distributions
+multivariate distributions

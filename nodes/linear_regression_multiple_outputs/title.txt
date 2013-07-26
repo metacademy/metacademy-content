@@ -1,1 +1,1 @@
-Linear regression with multiple outputs
+linear regression with multiple outputs

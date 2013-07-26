@@ -1,1 +1,1 @@
-Maximum likelihood: multivariate Gaussians
+maximum likelihood: multivariate Gaussians

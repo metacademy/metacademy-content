@@ -1,1 +1,1 @@
-Ridge regression as SVD
+ridge regression as SVD

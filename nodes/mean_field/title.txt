@@ -1,1 +1,1 @@
-Mean field approximation
+mean field approximation

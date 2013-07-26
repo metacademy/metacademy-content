@@ -1,1 +1,1 @@
-Binary linear classifiers
+binary linear classifiers

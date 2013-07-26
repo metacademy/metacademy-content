@@ -1,1 +1,1 @@
-Sequences of random variables
+sequences of random variables

@@ -1,1 +1,1 @@
-Comparing Gaussian mixtures and k-means
+comparing Gaussian mixtures and k-means

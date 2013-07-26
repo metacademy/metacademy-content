@@ -1,1 +1,1 @@
-Information form for multivariate Gaussians
+information form for multivariate Gaussians

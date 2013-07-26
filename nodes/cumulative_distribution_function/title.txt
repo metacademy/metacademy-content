@@ -1,1 +1,1 @@
-Cumulative distribution function
+cumulative distribution function

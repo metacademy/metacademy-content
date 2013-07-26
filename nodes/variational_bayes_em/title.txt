@@ -1,1 +1,1 @@
-Variational Bayes EM
+variational Bayes EM

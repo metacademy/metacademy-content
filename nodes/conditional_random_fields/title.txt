@@ -1,1 +1,1 @@
-Conditional random fields
+conditional random fields

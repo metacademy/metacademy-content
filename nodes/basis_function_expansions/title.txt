@@ -1,1 +1,1 @@
-Basis function expansions
+basis function expansions

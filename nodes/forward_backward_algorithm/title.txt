@@ -1,1 +1,1 @@
-Forward-backward algorithm
+forward-backward algorithm

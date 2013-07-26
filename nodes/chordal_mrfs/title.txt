@@ -1,1 +1,1 @@
-Chordal MRFs
+chordal MRFs

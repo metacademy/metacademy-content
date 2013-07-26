@@ -1,1 +1,1 @@
-Linear-Gaussian models
+linear-Gaussian models

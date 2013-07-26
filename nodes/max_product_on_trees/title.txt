@@ -1,1 +1,1 @@
-Max-product on trees
+max-product on trees

@@ -1,1 +1,1 @@
-Learning GP hyperparameters
+learning GP hyperparameters

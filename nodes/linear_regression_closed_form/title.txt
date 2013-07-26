@@ -1,1 +1,1 @@
-Linear regression: closed-form solution
+linear regression: closed-form solution

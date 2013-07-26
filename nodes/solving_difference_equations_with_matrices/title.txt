@@ -1,1 +1,1 @@
-Solving difference equations with matrices
+solving difference equations with matrices

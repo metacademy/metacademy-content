@@ -1,1 +1,1 @@
-Approximating GP classification
+approximating GP classification

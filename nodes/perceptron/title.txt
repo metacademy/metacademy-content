@@ -1,1 +1,1 @@
-Perceptron algorithm
+perceptron algorithm

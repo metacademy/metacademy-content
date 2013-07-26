@@ -1,1 +1,1 @@
-Expectation-maximization algorithm
+Expectation-Maximization algorithm

@@ -1,1 +1,1 @@
-Soft margin SVM
+soft margin SVM

@@ -1,1 +1,1 @@
-Multiplicity of eigenvalues
+multiplicity of eigenvalues

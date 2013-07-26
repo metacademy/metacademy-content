@@ -1,1 +1,1 @@
-Rejection sampling
+rejection sampling

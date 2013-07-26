@@ -1,1 +1,1 @@
-Variable elimination
+variable elimination

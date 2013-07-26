@@ -1,1 +1,1 @@
-Reversible jump MCMC
+reversible jump MCMC

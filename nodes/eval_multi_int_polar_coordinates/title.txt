@@ -1,1 +1,1 @@
-Evaluating multiple integrals: polar coordinates
+evaluating multiple integrals: polar coordinates

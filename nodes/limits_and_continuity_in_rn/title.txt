@@ -1,1 +1,1 @@
-Limits and continuity in R^n
+limits and continuity in R^n

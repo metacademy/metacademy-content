@@ -1,1 +1,1 @@
-Structured mean field
+structured mean field

@@ -1,1 +1,1 @@
-Linear regression as maximum likelihood
+linear regression as maximum likelihood

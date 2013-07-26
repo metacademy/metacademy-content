@@ -1,1 +1,1 @@
-Soft weight sharing in neural nets
+soft weight sharing in neural nets

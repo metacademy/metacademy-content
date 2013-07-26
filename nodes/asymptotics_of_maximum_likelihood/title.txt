@@ -1,1 +1,1 @@
-Asymptotics of maximum likelihood
+asymptotics of maximum likelihood

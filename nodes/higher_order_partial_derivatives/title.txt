@@ -1,1 +1,1 @@
-Higher-order partial derivatives
+higher-order partial derivatives

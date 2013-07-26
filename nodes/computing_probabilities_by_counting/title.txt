@@ -1,1 +1,1 @@
-Computing probabilities by counting
+computing probabilities by counting

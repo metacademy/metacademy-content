@@ -1,1 +1,1 @@
-Gamma function
+gamma function

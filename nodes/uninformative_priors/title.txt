@@ -1,1 +1,1 @@
-Uninformative priors
+uninformative priors

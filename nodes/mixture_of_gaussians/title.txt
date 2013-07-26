@@ -1,1 +1,1 @@
-Mixture of Gaussians models
+mixture of Gaussians models

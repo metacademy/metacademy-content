@@ -1,1 +1,1 @@
-Ridge regression
+ridge regression

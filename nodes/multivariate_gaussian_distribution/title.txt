@@ -1,1 +1,1 @@
-Multivariate Gaussian distribution
+multivariate Gaussian distribution

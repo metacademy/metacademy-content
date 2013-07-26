@@ -1,1 +1,1 @@
-Sequential minimal optimization
+sequential minimal optimization

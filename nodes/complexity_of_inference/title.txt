@@ -1,1 +1,1 @@
-Computational complexity of graphical model inference
+computational complexity of graphical model inference

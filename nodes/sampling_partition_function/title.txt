@@ -1,1 +1,1 @@
-Estimating the partition function using sampling
+estimating the partition function using sampling

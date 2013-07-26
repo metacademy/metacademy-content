@@ -1,1 +1,1 @@
-Matrix inverse
+matrix inverse

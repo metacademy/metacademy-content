@@ -1,1 +1,1 @@
-Loopy BP as variational inference
+loopy BP as variational inference

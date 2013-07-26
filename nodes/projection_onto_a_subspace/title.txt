@@ -1,1 +1,1 @@
-Projection onto a subspace
+projection onto a subspace

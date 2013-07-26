@@ -1,1 +1,1 @@
-Linear least squares
+linear least squares
