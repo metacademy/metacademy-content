@@ -1,0 +1,1 @@
+Multivariate cumulative distribution functions (CDFs) are a way of characterizing multivariate distributions which generalize the univariate CDF.

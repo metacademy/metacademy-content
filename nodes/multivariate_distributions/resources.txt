@@ -2,13 +2,15 @@ source: degroot
 edition: 3
 location: Section 3.4, "Bivariate distributions," pages 118-126; Section 3.5, "Marginal distributions," up to "Independent random variables," pages 128-131
 mark: star
+extra: The parts about multivariate cumulative distribution functions are optional.
 
 source: ross
 edition: 7
 location: Section 6.1, "Joint distribution functions," pages 258-267
 mark: star
+extra: The parts about multivariate cumulative distribution functions are optional.
 
 source: mathmonk_probability
 location: Lecture 5.1, "Multiple discrete random variables"; Lecture 5.2, "Marginals and conditionals"; Lecture 5.3, "Multiple random variables with densities"
 mark: star
-# TODO: this one doesn't include multivariate CDFs, which are included in the topics for this node; but it's probably better to split that off into a separate concept anyway
+

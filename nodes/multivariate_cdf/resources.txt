@@ -1,0 +1,9 @@
+source: degroot
+edition: 3
+location: Section 3.4, "Bivariate distributions," pages 118-126; Section 3.5, "Marginal distributions," up to "Independent random variables," pages 128-131
+mark: star
+
+source: ross
+edition: 7
+location: Section 6.1, "Joint distribution functions," pages 258-267
+mark: star
