@@ -9,3 +9,6 @@ title: Dirichlet Process
 note: assumes some familiarity with measure theory
 free: 1
 
+source: ywt_bnp_mlss
+location: part 2, from 0:00 - 10:33
+note: DP is further discussed throughout the entire lecture

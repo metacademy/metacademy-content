@@ -317,3 +317,17 @@ resource_type: online lectures
 title: Mathematical Monk: Machine Learning
 free: 1
 url: http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
+
+key: ywt_bnp_mlss
+resource_type: video lecture
+title: Bayesian Nonparametrics
+free: 1
+authors: Yee Whye Teh
+url: http://videolectures.net/mlss2011_teh_nonparametrics/
+
+key: bnp_lecture_notes_597c
+resource_type: lecture notes
+authors: Min Sun and Mike Wawrzoniak
+url: http://www.cs.princeton.edu/courses/archive/fall07/cos597C/scribe/20071105.pdf
+title: Princeton BNP Class: Lecture Notes 7
+free: 1

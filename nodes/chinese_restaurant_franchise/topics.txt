@@ -1,0 +1,1 @@
+* Basic introduction to CRF and its relation to the HDP -- not a major emphasis on the measure theoretic relationship.

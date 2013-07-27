@@ -1,0 +1,5 @@
+source: ywt_bnp_mlss
+location: part 2 (from 100-105, but 86-100 is relevant background)
+
+source: bnp_lecture_notes_597c
+location: section "Chinese Restaurant Franchise"
