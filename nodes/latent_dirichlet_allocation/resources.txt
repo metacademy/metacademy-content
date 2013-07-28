@@ -1,0 +1,18 @@
+title: Latent Dirichlet Allocation
+free: 1
+url:http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
+authors: David Blei and Andrew Ng and Michael I Jordan
+resource_type: technical report
+mark: star
+
+title: Topic Models
+free: 1
+authors: David Blei
+mark: star
+url: http://videolectures.net/mlss09uk_blei_tm/
+location: from 12:00 onwards including part 2
+note: part II goes into more technical detail while part 1 is a higher level overview
+
+source: murphy
+location: Section 27.3
+mark: star

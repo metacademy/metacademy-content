@@ -1,0 +1,2 @@
+* LDA as a probabilistic model for topic modeling
+* LDA as ``Bayesian" [p]LSA
