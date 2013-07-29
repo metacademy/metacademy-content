@@ -9,3 +9,4 @@ reason: Joint distributions can be represented in terms of the joint CDF.
 
 tag: higher_order_partial_derivatives
 reason: Higher order partial derivatives are used to recover the joint PDF from the joint CDF.
+shortcut: 1

@@ -1,6 +1,9 @@
 tag: random-variables
 
 tag: expectation_and_variance
+shortcut: 1
 
 tag: gamma-function
 reason: The gamma function is part of the normalizing constant of the beta distribution.
+shortcut: 1
+

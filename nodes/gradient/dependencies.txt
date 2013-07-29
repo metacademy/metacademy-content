@@ -1,5 +1,6 @@
 tag: linear_approximation
 reason: The gradient gives another way to represent the linear approximation to a function.
+shortcut: 1
 
 tag: partial_derivatives
 reason: The gradient is computed in terms of partial derivatives.

@@ -2,6 +2,8 @@ tag: random-variables
 
 tag: independent_events
 reason: The binomial distribution is motivated in terms of independent coin flips.
+shortcut: 1
 
 tag: expectation_and_variance
 reason: The binomial distribution is parameterized in terms of its mean.
+shortcut: 1

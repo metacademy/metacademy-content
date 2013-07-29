@@ -4,6 +4,8 @@ tag: multivariate_distributions
 
 tag: determinant
 reason: The formula for the PDF of the function involves a determinant.
+shortcut: 1
 
 tag: linear_approximation
 reason: The formula for the PDF of the function involves the partial derivatives of the function.
+shortcut: 1

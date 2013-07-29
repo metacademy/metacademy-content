@@ -3,3 +3,4 @@ tag: random_variables
 tag: independent_events
 
 tag: multivariate_distributions
+shortcut: 1

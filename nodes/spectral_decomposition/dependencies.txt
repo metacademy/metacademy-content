@@ -6,12 +6,15 @@ reason: The spectral decomposition includes orthogonal factors.
 
 tag: change-of-basis
 reason: The spectral decomposition can be viewed as a change of basis.
+shortcut: 1
 
 tag: matrix_inverse
 reason: The spectral decomposition gives insight into the inverse of a symmetric matrix.
 
 tag: eigenvalues_and_eigenvectors
 reason: The spectral decomposition gives the eigenvectors and eigenvalues.
+shortcut: 1
 
 tag: diagonalization
 reason: The spectral decomposition is a form of diagonalization.
+shortcut: 1

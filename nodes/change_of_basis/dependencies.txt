@@ -2,6 +2,7 @@ tag: bases
 
 tag: linear_transformations_as_matrices
 reason: Change of basis is often used for finding better representations of linear transformations.
+shortcut: 1
 
 tag: matrix_multiplication
 reason: Change of basis is represented in terms of a matrix product.
@@ -11,3 +12,4 @@ reason: The change of basis formula includes a matrix inverse.
 
 tag: vector_spaces
 reason: Some canonical examples of change of basis are for vector spaces other than R^n.
+shortcut: 1

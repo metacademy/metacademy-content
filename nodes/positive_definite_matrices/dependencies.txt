@@ -6,9 +6,11 @@ reason: PD matrices are defined in terms of matrix-vector multiplications.
 
 tag: eigenvalues_and_eigenvectors
 reason: A symmetric matrix is positive definite iff the eigenvalues are all positive.
+shortcut: 1
 
 tag: spectral_decomposition
 reason: A symmetric matrix is positive definite iff the eigenvalues are all positive.
+shortcut: 1
 
 tag: matrix_inverse
 reason: PD matrices are closed under matrix inverses.

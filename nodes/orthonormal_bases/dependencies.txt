@@ -14,3 +14,4 @@ reason: A key property of orthogonal matrices is that the inverse equals the tra
 
 tag: projection_onto_a_subspace
 reason: Orthogonal matrices are convenient for projection.
+shortcut: 1

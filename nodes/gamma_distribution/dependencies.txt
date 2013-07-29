@@ -1,6 +1,8 @@
 tag: gamma-function
 reason: The gamma function is needed to define the gamma distribution.
+shortcut: 1
 
 tag: random-variables
 
 tag: expectation_and_variance
+shortcut: 1

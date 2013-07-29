@@ -1,11 +1,14 @@
 tag: matrix_multiplication
 reason: The determinant of a product is the product of the determinants.
+shortcut: 1
 
 tag: matrix_inverse
 reason: The determinant of the inverse is the inverse of the determinant.
+shortcut: 1
 
 tag: matrix_transpose
 reason: the matrix transpose preserves the determinant
+shortcut: 1
 
 tag: gaussian_elimination
 reason: The Gaussian elimination operations do nice things to the determinant.
