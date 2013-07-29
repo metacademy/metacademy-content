@@ -4,6 +4,7 @@ authors: Christopher M. Bishop
 url: http://research.microsoft.com/en-us/um/people/cmbishop/prml/
 resource_type: textbook
 free: 0
+level: graduate
 
 key: gelman
 title: Bayesian Data Analysis
@@ -11,6 +12,7 @@ authors: Andrew Gelman and John B. Carlin and Hal S. Stern and Donald B. Rubin
 url: http://www.stat.columbia.edu/~gelman/book/
 resource_type: textbook
 free: 0
+level: graduate
 
 key: coursera_hinton
 title: Coursera: Neural Networks for Machine Learning
@@ -19,6 +21,7 @@ url: https://www.coursera.org/course/neuralnets
 resource_type: online lectures
 free: 1
 note: Click on "Preview" to see the videos.
+level: advanced undergraduate
 
 key: barber
 title: Bayesian Reasoning and Machine Learning
@@ -26,6 +29,7 @@ authors: David Barber
 url: http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 resource_type: online textbook
 free: 1
+level: graduate
 
 key: murphy
 title: Machine Learning: a Probabilistic Perspective
@@ -33,6 +37,7 @@ authors: Kevin P. Murphy
 url: http://www.cs.ubc.ca/~murphyk/MLbook/index.html
 resource_type: textbook
 free: 0
+level: graduate
 
 key: pgm
 title: Probabilistic Graphical Models: Principles and Techniques
@@ -40,6 +45,7 @@ authors: Daphne Koller and Nir Friedman
 url: http://pgm.stanford.edu/
 resource_type: textbook
 free: 0
+level: graduate
 
 key: esl
 title: The Elements of Statistical Learning
@@ -47,6 +53,7 @@ authors: Trevor Hastie and Robert Tibshirani and Jerome Friedman
 url: http://www-stat.stanford.edu/~tibs/ElemStatLearn/
 resource_type: online textbook
 free: 1
+level: graduate
 
 key: cs229
 title: Stanford's Machine Learning lecture notes
@@ -54,12 +61,14 @@ authors: Andrew Y. Ng
 url: http://cs229.stanford.edu/materials.html
 resource_type: lecture notes
 free: 1
+level: advanced undergraduate
 
 key: wikipedia
 title: Wikipedia
 url: http://www.wikipedia.org/
 resource_type: wiki
 free: 1
+level: reference
 
 key: rice
 title: Mathematical Statistics and Data Analysis
@@ -67,6 +76,7 @@ authors: John A. Rice
 url: http://www.cengage.com/search/productOverview.do?Ntt=9780534399429&Ntk=P_Isbn13&Ns=P_CopyRight_Year|1&N=+16+4294922455+4294922413+4294966842
 resource_type: textbook
 free: 0
+level: advanced undergraduate
 
 key: aima
 title: Artificial Intelligence: a Modern Approach
@@ -74,6 +84,7 @@ authors: Stuart Russell and Peter Norvig
 url: http://aima.cs.berkeley.edu/
 resource_type: textbook
 free: 0
+level: advanced undergraduate
 
 key: mackay
 title: Information Theory, Inference, and Learning Algorithms
@@ -81,6 +92,7 @@ authors: David MacKay
 url: http://www.inference.phy.cam.ac.uk/itprnn/book.html
 resource_type: online textbook
 free: 1
+level: graduate
 
 key: coursera_ng
 title: Coursera: Machine Leaning
@@ -89,18 +101,21 @@ url: https://www.coursera.org/course/ml
 resource_type: online course
 free: 1
 note: Click on "Preview" to see the videos.
+level: introductory
 
 key: khan
 title: Khan Academy
 url: https://www.khanacademy.org/
 resource_type: video tutorials
 free: 1
+level: introductory
 
 key: wolfram
 title: Wolfram MathWorld
 url: http://mathworld.wolfram.com
 resource_type: online compendium
 free: 1
+level: reference
 
 key: mathmonk
 title: MathematicalMonk Tutorials
@@ -113,6 +128,7 @@ title: Optimization Models and Applications
 url: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
 resource_type: online textbook
 free: 1
+level: advanced undergraduate
 
 key: griffiths_ibp
 title: The Indian Buffet Process: An Introduction and Review
@@ -120,6 +136,7 @@ authors: Thomas L. Griffiths and Zoubin Ghahramani
 url: http://mlg.eng.cam.ac.uk/pub/pdf/GriGha11.pdf
 resource_type: paper
 free: 1
+level: expert
 
 key: coursera_koller
 title: Coursera: Probabilistic Graphical Models
@@ -128,6 +145,7 @@ url: https://class.coursera.org/pgm
 resource_type: online lectures
 free: 1
 note: Click on "Preview" to see the videos.
+level: advanced undergraduate
 
 key: wainwright_jordan_tutorial
 authors: Martin J. Wainwright and Michael I. Jordan
@@ -135,6 +153,7 @@ title: Graphical models, exponential families, and variational inference
 resource_type: paper
 free: 1
 url: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
+level: expert
 
 key: gpml
 title: Gaussian Processes for Machine Learning
@@ -142,6 +161,7 @@ authors: Carl E. Rasmussen and Christopher K. I. Williams
 resource_type: textbook
 free: 1
 url: http://www.gaussianprocess.org/gpml/
+level: graduate
 
 key: motwani_randomized_algorithms
 title: Randomized Algorithms
@@ -149,6 +169,7 @@ authors: Rajeev Motwani and Prabhakar Raghavan
 resource_type: textbook
 free: 0
 url: http://www.cambridge.org/gb/knowledge/isbn/item1146626/?site_locale=en_GB
+level: graduate
 
 key: probabilistic_robotics
 title: Probabilistic Robotics
@@ -156,6 +177,7 @@ authors: Sebastian Thrun and Wolfram Burgard and Dieter Fox
 resource_type: textbook
 free: 0
 url: http://www.probabilistic-robotics.org/
+level: graduate
 
 key: sudderth_thesis
 title: Graphical Models for Visual Object Recognition and Tracking
@@ -163,6 +185,7 @@ authors: Erik Sudderth
 resource_type: thesis
 free: 1
 url: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf
+level: expert
 
 key: strang
 resource_type: textbook
@@ -170,6 +193,7 @@ title: Introduction to Linear Algebra
 authors: Gilbert Strang
 free: 0
 url: http://math.mit.edu/linearalgebra/
+level: introductory
 
 key: ocw_strang
 resource_type: online lectures
@@ -177,12 +201,14 @@ title: MIT Open Courseware: Linear Algebra
 authors: Gilbert Strang
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+level: introductory
 
 key: khan_academy_linear_algebra
 resource_type: online lectures
 title: Khan Academy: Linear Algebra
 free: 1
 url: https://www.khanacademy.org/math/linear-algebra
+level: introductory
 
 key: beezer
 resource_type: textbook
@@ -190,6 +216,7 @@ title: A First Course in Linear Algebra
 authors: Robert A. Beezer
 free: 1
 url: http://linear.ups.edu/
+level: advanced undergraduate
 
 key: shifrin
 resource_type: textbook
@@ -197,6 +224,7 @@ title: Multivariable Mathematics
 authors: Theodore Shifrin
 free: 0
 url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000815.html
+level: advanced undergraduate
 
 key: axler
 resource_type: textbook
@@ -204,18 +232,21 @@ title: Linear Algebra Done Right
 authors: Sheldon Axler
 free: 0
 url: http://linear.axler.net/
+level: advanced undergraduate
 
 key: khan_academy_algebra
 resource_type: online lectures
 title: Khan Academy: Algebra
 free: 1
 url: https://www.khanacademy.org/math/algebra
+level: introductory
 
 key: khan_academy_calculus
 resource_type: online lectures
 title: Khan Academy: Calculus
 free: 1
 url: https://www.khanacademy.org/math/calculus
+level: introductory
 
 key: road_to_reality
 resource_type: book
@@ -228,30 +259,35 @@ resource_type: paper
 title: A tutorial on Bayesian nonparametric models
 free: 1
 url: http://web.mit.edu/sjgershm/www/GershmanBlei12.pdf
+level: graduate
 
 key: edwards_penney
 resource_type: textbook
 title: Multivariable Calculus
 free: 0
 url: http://www.amazon.com/Multivariable-Calculus-Edition-Henry-Edwards/dp/0130339679
+level: introductory
 
 key: ocw_auroux
 resource_type: online lectures
 title: MIT Open Courseware: Multivariable Caclulus
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
+level: introductory
 
 key: ross
 resource_type: textbook
 title: A First Course in Probability
 free: 0
 url: http://www.amazon.com/First-Course-Probability-8th-Edition/dp/013603313X
+level: introductory
 
 key: feller
 resource_type: textbook
 title: An Introduction to Probability Theory and its Applications
 free: 0
 url: http://www.amazon.com/Introduction-Probability-Theory-Applications-Edition/dp/0471257087
+level: advanced undergraduate
 
 key: degroot
 resource_type: textbook
@@ -259,24 +295,28 @@ title: Probability and Statistics
 free: 0
 authors: Morris H. DeGroot and Mark J. Schervish
 url: http://www.amazon.com/Probability-Statistics-Edition-Morris-DeGroot/dp/0321500466
+level: advanced undergraduate
 
 key: khan_academy_probability
 resource_type: online lectures
 title: Khan Academy: Probability and Statistics
 free: 1
 url: https://www.khanacademy.org/math/probability
+level: introductory
 
 key: bamberg
 resource_type: online lectures
 title: Sets, Counting, and Probability
 free: 1
 url: http://www.extension.harvard.edu/open-learning-initiative/sets-counting-probability
+level: introductory
 
 key: edx_probability
 resource_type: online lectures
 title: BerkeleyX: Introduction to Statistics: Probability
 free: 1
 url: https://courses.edx.org/courses/BerkeleyX/Stat2.2x/2013_April/courseware
+level: introductory
 
 key: teh_bnp_mlss
 resource_type: video lecture
@@ -291,6 +331,7 @@ title: Hierarchical Models, Nested Models and Completely Random Measures
 free: 1
 url:http://www.cs.berkeley.edu/~jordan/papers/berger-festschrift.pdf
 authors: Michael I. Jordan
+level: graduate
 
 key: thibaux_tech_talk
 resource_type: video lecture
@@ -305,12 +346,14 @@ title: Mathematical Methods in the Physical Sciences
 free: 0
 url: http://www.amazon.com/Mathematical-Methods-Physical-Sciences-Mary/dp/0471198269
 authors: Mary Boas
+level: introductory
 
 key: mathmonk_probability
 resource_type: online lectures
 title: Mathematical Monk: Probability Primer
 free: 1
 url: http://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
+level: advanced undergraduate
 
 key: mathmonk_ml
 resource_type: online lectures
@@ -331,6 +374,7 @@ authors: Min Sun and Mike Wawrzoniak
 url: http://www.cs.princeton.edu/courses/archive/fall07/cos597C/scribe/20071105.pdf
 title: Princeton BNP Class: Lecture Notes 7
 free: 1
+level: graduate
 
 key: posada_model
 title: Model Selection and Model Averaging in Phylogenetics: Advantages of Akaike Information Criterion and Bayesian Approaches Over Likelihood Ratio Tests
