@@ -1,5 +1,5 @@
 source: mathmonk
-location: http://www.youtube.com/watch?v=ulZW99jsMXY&list=PLD0F06AA0D2E8FFBA&index=55
+url: http://www.youtube.com/watch?v=ulZW99jsMXY&list=PLD0F06AA0D2E8FFBA&index=55
 mark: star
 extra: detailed derivation of maximum likelihood estimator                          
 
