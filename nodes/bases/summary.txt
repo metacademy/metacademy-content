@@ -1,0 +1,1 @@
+A basis is a set of linearly independent vectors that define a coordinate system for a vector space, where the basis vectors span the entire vector space (meaning that any vector in this space can be represented as a linear combination of the basis vectors).

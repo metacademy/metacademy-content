@@ -27,3 +27,6 @@ source: beezer
 edition: 3
 location: Sections "Linear independence and spanning sets"; section "Bases," subsections "Bases" and "Bases for spans of column vectors"; and section "Dimension," subsections "Dimension" and "Dimension of vector spaces"
 dependencies: gaussian_elimination, complex_vectors_and_matrices
+
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Basis_(linear_algebra)
