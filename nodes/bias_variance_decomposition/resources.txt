@@ -1,0 +1,20 @@
+source: mathmonk
+url: http://www.youtube.com/watch?v=C3nIFH649wY&noredirect=1
+location: Lecture: bias-variance decomposition (ML 11.5)
+
+source: bishop
+location: Section 3.2
+mark: star
+
+source: murphy
+location: Section 6.4.4
+note: not self-contained but provides some nice examples
+edition: 1
+
+source: esl
+location: Section 2.9
+edition: 2
+
+source: cs229
+url: http://cs229.stanford.edu/notes/cs229-notes4.pdf
+location: Part IV: learning theory 

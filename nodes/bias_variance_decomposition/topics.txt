@@ -1,0 +1,2 @@
+* The resources discuss the bias/variance trade-off from both a pragmatic & higher-level perspective and a decision theoretic perspective
+* Resources provide examples of bias variance trade-off with linear regression (all), ridge regression (barber), and classification (barber)
