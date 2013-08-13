@@ -1,0 +1,8 @@
+# This file contains a list of concepts that would benefit the current graph and can be viewed as a "TODO" list
+
++ exchangeability
++ minimum descriptive length # this may involve adding many information theory concepts
++ model selection # we have Bayesian model selection but a more general cocept would be a good idea
++ cross-validation
+
+
