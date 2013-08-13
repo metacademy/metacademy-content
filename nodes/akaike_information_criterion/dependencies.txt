@@ -3,3 +3,6 @@ reason: The AIC is often used to regularize maximum likelihood estimation.
 
 tag: generalization
 reason: The AIC is a way of improving generalization.
+
+tag: kl-divergence
+reason: The AIC is minimized for the model that minimizes the kl-divergence between the model and the true model (even though the true model is not known).

@@ -1,0 +1,7 @@
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Akaike_information_criterion
+
+source: posada_model
+location: Akaike Information Criterion (bottom of 6th page)
+
+# I'm having trouble finding good resources for this topic, there's only small references in the standard ML books, otherwise there's an entire book devoted to AIC (model selection and multimodal inference). Not a whole lot in-between  (cjrd)

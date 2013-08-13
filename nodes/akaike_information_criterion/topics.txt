@@ -1,0 +1,1 @@
+* Covers the basic AIC definition and information theoretic justification

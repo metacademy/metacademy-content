@@ -1,1 +1,2 @@
+* Bayesian Information Criterion (BIC) is a different model selection criterion with different theoretical underpinnings, and practically, AIC does not penalize the number of parameters as severely as BIC [bayesian-information-criterion]
 * Mathematical justification of the AIC. [justifying-aic-and-bic]

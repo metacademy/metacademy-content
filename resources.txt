@@ -331,3 +331,10 @@ authors: Min Sun and Mike Wawrzoniak
 url: http://www.cs.princeton.edu/courses/archive/fall07/cos597C/scribe/20071105.pdf
 title: Princeton BNP Class: Lecture Notes 7
 free: 1
+
+key: posada_model
+title: Model Selection and Model Averaging in Phylogenetics: Advantages of Akaike Information Criterion and Bayesian Approaches Over Likelihood Ratio Tests
+resource_type: paper
+authors: David Posada and Thomas Buckley
+free: 1
+url: http://xyala2.bio.ed.ac.uk/teaching/tutorials/phylogenetics/Bayesian_Workshop/PDFs/Posada%20and%20Buckley%20Syst%20Biol%202004.pdf

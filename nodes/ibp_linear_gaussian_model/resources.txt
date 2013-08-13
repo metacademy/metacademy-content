@@ -1,6 +1,7 @@
 resource_type: paper
 authors: Tom Griffiths and Zoubin Ghahramani
 url:http://cocosci.berkeley.edu/tom/papers/ibpbs.pdf
+title: The Indian Buffet Process: an Introduction and Review
 location: section 5.1
 free: 1
 mark: star
