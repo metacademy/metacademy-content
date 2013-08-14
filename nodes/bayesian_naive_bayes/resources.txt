@@ -1,0 +1,8 @@
+source: mathmonk
+location: ML 8.3 - 8.6 (Bayesian Naive Bayes sequence)
+url: http://www.youtube.com/watch?v=CW9YGii1nSA
+
+source: barber
+location: Section 10.3
+edition: 1
+

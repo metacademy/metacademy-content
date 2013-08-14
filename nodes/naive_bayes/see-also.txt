@@ -1,4 +1,5 @@
 * Naive Bayes is a generative model. [generative-vs-discriminative]
+* Rather than performing a maximum likelihood estimation of the Naive Bayes model, we can use Bayesian inference to obtain posterior beliefs for the classes given the observed data. [bayesian-naive-bayes]
 * Here are some other commonly used classification algorithms:
 ** perceptron [perceptron]
 ** logistic regression [logistic-regression]

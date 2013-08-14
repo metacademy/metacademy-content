@@ -1,0 +1,1 @@
+* Bayesian logistic regression extends the logistic regression in a similar fashion as Bayesian naive Bayes extends naive Bayes [bayesian-logistic-regression]

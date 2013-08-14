@@ -1,0 +1,22 @@
+source: bishop
+location: page 380-381
+edition: 1
+
+source: barber
+location: section 10.1 (page 227-232)
+edition: 1
+mark: star
+
+source: esl
+location: section 6.6.3 (pages 210-211)
+mark: star
+
+source: mathmonk
+location: ML 8.1 and ML 8.2
+url: http://www.youtube.com/watch?v=8yvBqhm92xA
+
+source: cs229
+url: http://cs229.stanford.edu/notes/cs229-notes2.pdf
+location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2
+mark: star
+

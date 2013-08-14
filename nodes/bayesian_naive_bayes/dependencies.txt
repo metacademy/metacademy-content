@@ -1,0 +1,4 @@
+tag: bayesian_parameter_estimation_multinomial
+reason: Bayesian naive Bayes inference is an example of Bayesian parameter estimation for a multinomial distribution
+
+tag: naive_bayes

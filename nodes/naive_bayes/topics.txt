@@ -1,0 +1,1 @@
+* Discusses naive Bayes models, applications to spam filtering, and maximum likelihood estimation.

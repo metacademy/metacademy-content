@@ -1,0 +1,1 @@
+Naive Bayes is a modeling assumption used in classification, where we assume the observed data are conditionally independent given their class assignments. Despite its name, the standard naive Bayes model does not use Bayesian inference, but rather, a maximum likelihood estimation.

@@ -1,0 +1,1 @@
+A Bayesian version of naive Bayes in which we place a prior distribution on the latent class assignment parameter.
