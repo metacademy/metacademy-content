@@ -1,0 +1,14 @@
+resource_type: paper
+title: Bayesian Model Selection and Model Averaging
+authors: Larry Wasserman
+free: 1
+url: http://hbanaszak.mjr.uw.edu.pl/TempTxt/Wasserman_2000_BayesianModelSelectionAndModelAveraging.pdf
+mark: star
+location: All sections except 6 and 9
+
+resource_type: tutorial paper
+title: Bayesian Model Averaging: A Tutorial
+authors: Jennifer A. Hoeting and David Madigan and Adrian E. Raftery and Chris T. Volinsky
+location: Sections 1-3 provide core material and sections 4-7 provide examples and further technical details
+url: http://www.stat.colostate.edu/~jah/papers/statsci.pdf
+free: 1

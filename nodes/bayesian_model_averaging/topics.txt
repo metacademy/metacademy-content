@@ -1,0 +1,1 @@
+* Wasserman provides detailed statistical discussion of Baysian model selection and model averaging along with concrete examples of BMA

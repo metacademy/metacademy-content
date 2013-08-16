@@ -1,0 +1,5 @@
+source: pgm
+location: Motivation (Section 1.1) and Structured Probabilistic Models (Section 1.2)
+
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Statistical_model
