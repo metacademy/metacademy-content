@@ -124,7 +124,7 @@ free: 1
 key: coursera_koller
 title: Coursera: Probabilistic Graphical Models
 authors: Daphne Koller
-url: https://class.coursera.org/pgm
+url: https://www.coursera.org/course/pgm
 resource_type: online lectures
 free: 1
 note: Click on "Preview" to see the videos.
