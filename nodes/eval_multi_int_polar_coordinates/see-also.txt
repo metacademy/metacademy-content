@@ -1,5 +1,5 @@
 * This trick can be generalized to three dimensions:
-** spherical coordinates [eval-multi-int-spherical-coordinates]
-** cylindrical coordinates [eval-multi-int-cylindrical-coordinates]
-* This trick is an instance of the more general notion of change of variables. [eval-multi-int-change-of-variables]
+** "spherical coordinates":eval_multi_int_spherical_coordinates
+** "cylindrical coordinates":eval_multi_int_cylindrical_coordinates
+* This trick is an instance of the more general notion of "change of variables":eval_multi_int_change_of_variables.
 

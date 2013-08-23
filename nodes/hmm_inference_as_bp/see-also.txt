@@ -1,2 +1,2 @@
-* Following on this result, the Baum-Welch algorithm for learning HMM parameters can be seen as a speical case of Expectation-Maximization. [baum-welch-as-ep]
-* Kalman smoothing can be seen as a speical case of the forward-backward algorithm, hence a special case of BP. [kalman-as-bp]
+* Following on this result, the "Baum-Welch algorithm":baum_welch_algorithm for learning HMM parameters can be seen as a "speical case":baum_welch_as_em of "Expectation-Maximization":expectation_maximization.
+* "Kalman smoothing":kalman_smoother can be seen as a "speical case":kalman_as_bp of the forward-backward algorithm, hence a special case of BP.

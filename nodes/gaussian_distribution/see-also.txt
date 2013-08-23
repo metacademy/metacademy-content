@@ -1,13 +1,12 @@
-* Mathematical tricks for manipulating Gaussian distributions [gaussian-distribution-tricks]
-* Multivariate Gaussians are a generalization of Gaussian distributions to multiple variables. [multivariate-gaussian-distribution]
+* "Multivariate Gaussians":multivariate_gaussian_distribution are a generalization of Gaussian distributions to multiple variables.
 * We see Gaussian distributions in a wide variety of situations:
-** By the central limit theorem, sums of large numbers of independent random variables are approximately Gaussian [central-limit-theorem]
-** In statistical inference, the variance of an estimator often becomes Gaussian as more data points are observed [maximum-likelihood-asymptotic-normality]
-* Gaussian distributions have weak, tails, in that they are unlikely to take extreme values; many phenomena are better modeled by heavy-tailed distributions. [heavy-tailed-distributions]
-* Gaussians are widely used in computer science because they allow computationally efficient methods for accounting for dependencies between different variables. [computations-on-multivariate-gaussians]
+** By the "central limit theorem":central_limit_theorem, sums of large numbers of independent random variables are approximately Gaussian
+** In statistical inference, the variance of an estimator often "approaches a Gaussian":maximum_likelihood_asymptotic_normality as more data points are observed
+* Gaussian distributions have weak, tails, in that they are unlikely to take extreme values; many phenomena are better modeled by "heavy-tailed distributions":heavy_tailed_distributions.
+* Gaussians are widely used in computer science because they allow "computationally efficient methods":computations_on_multivariate_gaussians for accounting for dependencies between different variables.
 * Probability distributions related to the Gaussian distribution:
-** The gamma distribution is often used to construct a prior for the variance parameter. [bayesian-parameter-estimation-gaussian]
-** The sum of squares of Gaussian random variables follows a chi-squared distribtuion. [chi-squared-distribution]
-* Information form is an alternative parameterization for Gaussian distributions. [gaussian-information-form]
-* How to sample from a Gaussian distribution [sampling-from-gaussian-distribution]
+** The "gamma distribution":gamma_distribution is often used to construct a "prior for the variance parameter":bayesian_parameter_estimation_gaussian.
+** The sum of squares of Gaussian random variables follows a "chi-squared distribtuion":chi_squared_distribution. [chi-squared-distribution]
+* "Information form":gaussian_information_form is an alternative parameterization for Gaussian distributions.
+* How to "sample from a Gaussian distribution":sampling_from_gaussian_distribution
 

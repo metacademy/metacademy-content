@@ -1,3 +1,3 @@
-* If we run multiple queries, variable elimination involves redundant computations. Belief propagation gives a way of sharing these computations. [gaussian-bp-on-trees]
-* Kalman smoothing can be seen as a special case of Gaussian BP. [kalman-as-bp]
-* Gaussian variable elimination is equivalent to Gaussian elimination. [gaussian-variable-elimination-as-gaussian-elimination]
+* If we run multiple queries, variable elimination involves redundant computations. "Belief propagation":gaussian_bp_on_trees gives a way of sharing these computations. 
+* "Kalman smoothing":kalman_as_bp can be seen as a special case of Gaussian BP.
+* "Gaussian variable elimination":gaussian_variable_elimination_as_gaussian_elimination is equivalent to Gaussian elimination.

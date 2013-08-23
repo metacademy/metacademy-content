@@ -1,8 +1,6 @@
-* Gibbs sampling can be viewed as a special case of Metropolis-Hastings. [gibbs-as-mh]
+* Gibbs sampling can be viewed as a "special case of Metropolis-Hastings":gibbs_as_mh.
 * Naive Gibbs sampling is often very slow to mix. Some improved versions include:
-** block Gibbs sampling, where we sample multiple variables at a time [block-gibbs]
-** collapsed Gibbs sampling, where some of the variables are integrated out in closed form [collapsed-gibbs]
-* Some examples of Gibbs sampling:
-** probabilistic matrix factorization [gibbs-pmf]
-* Slice sampling is a special case of Gibbs sampling, good for sampling from univariate distributions with no closed-form sampler [slice-sampling]
-* We can analyze the mixing rate using spectral graph theory. [analyzing-mcmc-mixing]
+** "block Gibbs sampling":block_gibbs_sampling, where we sample multiple variables at a time
+** "collapsed Gibbs sampling":collapsed_gibbs_sampling, where some of the variables are integrated out in closed form
+* "Slice sampling":slice_sampling is a special case of Gibbs sampling, good for sampling from univariate distributions with no closed-form sampler
+* We can "analyze the mixing rate":analyzing_mcmc_mixing using spectral graph theory.

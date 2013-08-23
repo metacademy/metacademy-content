@@ -1,4 +1,4 @@
-* The forward-backward algorithm can be interpreted as a special case of belief propagation. [hmm-inference-as-bp]
-* Kalman smoothing can be viewed as a special case of forward-backward, where the variables are all jointly Gaussian. [kalman-as-forward-backward]
-* This algorithm is part of the Baum-Welch algorithm for learning HMM parameters. [baum-welch]
-* The forward-backward algorithm is an example of dynamic programming. [dynamic-programming]
+* The forward-backward algorithm can be interpreted as a "special case of belief propagation":hmm_inference_as_bp.
+* "Kalman smoothing":kalman_as_forward_backward can be viewed as a special case of forward-backward, where the variables are all jointly Gaussian. 
+* This algorithm is part of the "Baum-Welch algorithm":baum_welch_algorithm for learning HMM parameters.
+* The forward-backward algorithm is an example of "dynamic programming":dynamic_programming.

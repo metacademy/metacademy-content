@@ -1,13 +1,13 @@
 * The following are important examples of generative models:
-** naive Bayes [naive-bayes]
-** Gaussian discriminant analysis [gaussian-discriminant-analysis]
-** Bayesian networks (Bayes nets) [learning-bayes-nets]
-** Markov random fields (MRFs) [learning-mrfs]
+** "naive Bayes":naive_bayes
+** "Gaussian discriminant analysis":gaussian_discriminant_analysis
+** "Bayesian networks (Bayes nets)":learning_bayes_net_parameters
+** "Markov random fields (MRFs)":learning_mrf_parameters
 * The following are important examples of discriminative models:
-** linear regression [linear-regression-as-maximum-likelihood]
-** logistic regression [logistic-regression]
-** feed-forward neural networks [feed-forward-neural-nets]
-** Gaussian process regression [gaussian-process-regression]
-* Generative models are often used to "pre-train" discriminative models in the field of deep learning. [generative-pre-training]
-* One advantage of generative modeling is that it makes it easier to share structure between related problems. [multitask-learning]
+** "linear regression":linear_regression_as_maximum_likelihood
+** "logistic regression":logistic_regression
+** "feed-forward neural networks":feed_forward_neural_nets
+** "Gaussian process regression":gaussian_process_regression
+* Generative models are often used to "pre-train":generative_pre_training discriminative models in the field of deep learning.
+* One advantage of generative modeling is that it makes it easier to "share structure between related problems":multitask_learning.
 

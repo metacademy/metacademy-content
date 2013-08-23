@@ -1,6 +1,6 @@
-* We can approximate the solution to GP classification using the Laplace approximation. [gp-classification-laplace]
+* We can approximate the solution to GP classification using the "Laplace approximation":gp_classification_laplace.
 * Gaussian processes have a variety of uses in machine learning, including:
-** regression [gaussian-process-regression]
-** black-box optimization (where we only get to evaluate the function, and doing so is expensive) [bayesian-optimization-with-gaussian-processes]
-** reinforcement learning [gaussian-processes-for-reinforcement-learning]
-* Techniques for constructing kernel functions [constructing-kernels]
+** "regression":gaussian_process_regression
+** "black-box optimization":bayesian_optimization (where we only get to evaluate the function, and doing so is expensive)
+** "reinforcement learning":gaussian_processes_for_reinforcement_learning
+* Techniques for "constructing kernel functions":constructing_kernels

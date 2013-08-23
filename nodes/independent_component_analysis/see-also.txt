@@ -1,9 +1,9 @@
 * Some other techniques for learning meaningful representations of data:
-** manifold learning, where we try to embed points in a low-dimensional space where similar points are close together [manifold-learning]
-** sparse coding, a generative model similar to ICA, but which gives an overcomplete representation (i.e. larger than the input representation) [sparse-coding]
+** "manifold learning":manifold_learning, where we try to embed points in a low-dimensional space where similar points are close together
+** "sparse coding":sparse_coding, a generative model similar to ICA, but which gives an overcomplete representation (i.e. larger than the input representation)
 * ICA is often used for learning representations of:
-** images [learning-representations-of-images]
-** audio [learning-representations-of-audio]
-* FastICA is an efficient algorithm for fitting ICA models. [fast-ica]
+** "images":learning_representations_of_images
+** "audio":learning_representations_of_audio
+* "FastICA":fast_ica is an efficient algorithm for fitting ICA models.
 
 

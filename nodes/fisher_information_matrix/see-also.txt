@@ -1,1 +1,1 @@
-* Fisher information matrices can be used to analyze the asymptotics of maximum likelihood estimation. [asymptotics-of-maximum-likelihood]
+* Fisher information matrices can be used to analyze the "asymptotics of maximum likelihood estimation":asymptotics_of_maximum_likelihood.
