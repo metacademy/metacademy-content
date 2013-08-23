@@ -1,4 +1,4 @@
 * When exact inference is infeasible, we must resort to approximate inference algorithms, such as:
-** loopy belief propagation, which applies the BP update rules on non-tree graphs [loopy-belief-propagation]
-** Markov chain Monte Carlo, a sampling-based method [markov-chain-monte-carlo]
-** variational inference, which tries to find a tractable approximation to the posterior [variational-inference]
+** "loopy belief propagation":loopy_belief_propagation, which applies the BP update rules on non-tree graphs
+** "Markov chain Monte Carlo":markov_chain_monte_carlo, a sampling-based method
+** "variational inference":variational_inference, which tries to find a tractable approximation to the posterior

@@ -1,5 +1,5 @@
 * Bayesian logistic regression is intractable to solve exactly. Some approximation methods include:
-** Laplace approximation [laplace-approximation]
-** variational Bayes [variational-logistic-regression]
-** expectation propagation [ep-logistic-regression]
-* Gaussian process regression is a nonlinear analogue. [gaussian-process-logistic-regression]
+** "Laplace approximation":laplace_approximation
+** "variational Bayes":variational_logistic_regression
+** "expectation propagation":ep_logistic_regression
+* "Gaussian process classification":gaussian_process_classification is a nonlinear analogue.

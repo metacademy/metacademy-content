@@ -1,1 +1,1 @@
-* Expectation propagation yields a more accurate approximation to GP classification. [gp-classification-ep]
+* "Expectation propagation":gp-classification-ep yields a more accurate approximation to GP classification.

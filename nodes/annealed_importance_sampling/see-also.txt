@@ -1,3 +1,2 @@
-* AIS is commonly used to estimate the partition function of a probabilistic model. [ais-partition-function]
-* Simulated tempering is another MCMC algorithm based on modifying the target distribution. [simulated-tempering]
-
+* AIS is commonly used to "estimate the partition function":ais_partition_function of a probabilistic model.
+* "Tempered transitions":tempered_transitions is another MCMC algorithm based on modifying the target distribution.

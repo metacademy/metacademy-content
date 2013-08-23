@@ -1,1 +1,1 @@
-* Reversible jump MCMC is a class of sampling algorithms often used for Bayesian model averaging.
+* "Reversible jump MCMC":reversible_jump_mcmc is a class of sampling algorithms often used for Bayesian model averaging.

@@ -1,5 +1,5 @@
 * Some examples of models that use Dirichlet-multinomial distributions:
-** Bayesian mixture of Gaussians [bayesian-mog]
-** latent Dirichlet allocation [latent-dirichlet-allocation]
-* The Chinese restaurant process is an analogue of the Dirichlet-multinomial distribution to infinitely many mixture components. [chinese-restaurant-process]
+** "Bayesian mixture of Gaussians":bayesian_mixture_of_gaussians
+** "latent Dirichlet allocation":latent_dirichlet_allocation
+* The "Chinese restaurant process":chinese_restaurant_process is an analogue of the Dirichlet-multinomial distribution to infinitely many mixture components.
  

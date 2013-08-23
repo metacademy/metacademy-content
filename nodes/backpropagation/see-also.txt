@@ -1,6 +1,6 @@
-* Since backpropagation is basically a way of computing gradients, it can be also used in quasi-Newton methods, not just gradient descent. [backpropagation-quasi-newton]
-* Backpropagation can be used to compute second derivatives as well. [backpropagation-second-order]
-* Unfortunately, training neural nets is not a convex optimization problem, so it suffers from local optima and plateaus. [neural-nets-not-convex]
-* Generative pre-training is one strategy for getting around these local optima. [generative-pre-training]
+* Since backpropagation is basically a way of computing gradients, it "can be also used in quasi-Newton methods":backpropagation_quasi_newton, not just gradient descent.
+* Backpropagation can be used to "compute second derivatives":backpropagation_second_order as well.
+* Unfortunately, training neural nets is "not a convex optimization problem":neural_nets_not_convex, so it suffers from local optima and plateaus.
+* "Generative pre-training":generative_pre_training is one strategy for getting around these local optima.
 
  

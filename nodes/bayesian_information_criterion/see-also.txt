@@ -1,2 +1,2 @@
-* Akaike Information Criterion (AIC) is a different model selection criterion with different theoretical underpinnings, and practically, AIC does not penalize the number of parameters as severely as BIC [akaike-information-criterion]
-* Mathematical justification of the BIC. [justifying-aic-and-bic]
+* "Akaike Information Criterion (AIC)":akaike_information_criterion is a different model selection criterion with different theoretical underpinnings, and practically, AIC does not penalize the number of parameters as severely as BIC
+* "Mathematical justification":justifying_aic_and_bic of the BIC.

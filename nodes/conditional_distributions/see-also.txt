@@ -1,1 +1,1 @@
-* We may be interested in whether two variables are independent conditioned on another random variable. [conditional-independence]
+* We may be interested in whether two variables are "independent conditioned on another random variable":conditional_independence.

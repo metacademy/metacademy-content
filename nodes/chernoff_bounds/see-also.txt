@@ -1,4 +1,4 @@
-* Deriving the bounds [chernoff-bounds-proof]
+* "Deriving the bounds":chernoff_bounds_proof
 * Chernoff bounds are widely used in:
-** randomized algorithms [chernoff-bounds-randomized-algorithms]
-** analyzing the performance of statistical estimators [chernoff-bounds-statistical-estimators]
+** "randomized algorithms":chernoff_bounds_randomized_algorithms
+** "analyzing the performance of statistical estimators":chernoff_bounds_statistical_estimators
