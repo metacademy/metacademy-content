@@ -1,5 +1,6 @@
 tag: multivariate-gaussian-distribution
 reason: The von Mises distribution is defined in terms of the multivariate Gaussian distribution.
+shortcut: 1
 
 tag: conditional-distributions
 reason: The von Mises distribution is defined by conditioning on the unit sphere.

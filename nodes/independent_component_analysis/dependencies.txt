@@ -15,5 +15,6 @@ reason: Standard ICA has an orthogonality constraint.
 
 tag: multivariate_gaussian_distribution
 reason: ICA requires that the component distributions be non-Gaussian.
+shortcut: 1
 
 # TODO: linear transformations of densities

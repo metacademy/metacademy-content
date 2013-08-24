@@ -12,3 +12,4 @@ reason: The Laplace approximation is a second-order Taylor expansion around the 
 
 tag: multivariate_gaussian_distribution
 reason: The posterior distribution is approximated with a multivariate Gaussian.
+shortcut: 1

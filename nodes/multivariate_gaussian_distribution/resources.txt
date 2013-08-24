@@ -1,0 +1,14 @@
+source: cs229
+location: Lecture 2, "Generative learning algorithms," Section 1.1, "The multivariate normal distribution"
+mark: star
+
+source: bishop
+edition: 1
+location: Section 2.3, "The Gaussian distribution," not including subsections, pages 78-85
+mark: star
+extra: Don't worry about the discussion of eigenvalues and eigenvectors if you're not familiar with those.
+
+source: pgm
+edition: 1
+location: Section 7.1.1, "Basic parameterization," pages 247-249
+
