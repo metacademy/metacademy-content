@@ -1,2 +1,2 @@
-* Multinomial logistic regression is a multiway classification algorithm with a probabilistic interpretation. [multinomial-logistic-regression]
+* "Multinomial logistic regression":multinomial_logistic_regression is a multiway classification algorithm with a probabilistic interpretation.
  

@@ -1,9 +1,9 @@
-* MDS has been used in cognitive science to model human similarity judgments. [mds-in-cog-sci]
-* MDS can be generalized to metrics other than Euclidean [mds-non-euclidean]
-* Weighted MDS gives a way to uncover meaningful axes by simultaneously modeling multiple similarity matrices [weighted-mds]
+* MDS has been "used in cognitive science":mds_in_cog_sci to model human similarity judgments. 
+* MDS can be "generalized to metrics other than Euclidean":mds_non_euclidean
+* "Weighted MDS":weighted_mds gives a way to uncover meaningful axes by simultaneously modeling multiple similarity matrices
 * Other algorithms for learning nonlinear embeddings include:
-** Isomap, which tries to model distances along a neighborhood graph [isomap]
-** locally linear embedding [locally-linear-embedding]
-** t-SNE, an embedding which tries to model short distances and ignore long ones [t-sne]
-** Gaussian process latent variable models, a Bayesian model similar in spirit to MDS [gaussian-process-latent-variable-model]
+** "Isomap":isomap, which tries to model distances along a neighborhood graph
+** "locally linear embedding":locally_linear_embedding
+** "t-SNE":t_sne, an embedding which tries to model short distances and ignore long ones
+** "Gaussian process latent variable models":gaussian_process_latent_variable_model, a Bayesian model similar in spirit to MDS
 

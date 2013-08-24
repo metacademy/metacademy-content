@@ -1,1 +1,1 @@
-* Hierarchical Dirichlet processes are a generalization of LDA which can learn an unbounded number of topics. [hierarchical-dirichlet-process]
+* "Hierarchical Dirichlet processes":hierarchical_dirichlet_process are a generalization of LDA which can learn an unbounded number of topics.

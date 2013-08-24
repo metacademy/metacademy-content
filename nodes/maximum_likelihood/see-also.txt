@@ -1,20 +1,20 @@
 * Examples of maximum likelihood estimation include:
-** Linear regression [linear-regression-as-maximum-likelihood]
-** Logistic regression [logistic-regression]
-** Mixture of Gaussians modeling [mixture-of-gaussians]
+** "Linear regression":linear_regression_as_maximum_likelihood
+** "Logistic regression":logistic_regression
+** "Mixture of Gaussians modeling":mixture_of_gaussians
 * Maximum likelihood enjoys several guarantees under very general conditions:
-** consistency [consistency-of-maximum-likelihood]
-** efficiency (in the statistical sense) [efficiency-of-maximum-likelihood]
-* For many commonly used distributions, we can find the global optimum because the optimization problem is convex. [maximum-likelihood-and-convex-optimization]
-* Maximum likelihood can be prone to overfitting when there is not enough data to estimate the parameters. [generalization]
+** "consistency":consistency_of_maximum_likelihood
+** "efficiency":efficiency_of_maximum_likelihood (in the statistical sense) 
+* For many commonly used distributions, we can find the global optimum because the "optimization problem is convex":maximum_likelihood_and_convex_optimization. 
+* Maximum likelihood can be prone to "overfitting":generalization when there is not enough data to estimate the parameters.
 * Some techniques for avoiding overfitting include:
-** Regularized maximum likelihood [regularized-maximum-likelihood]
-** Bayesian parameter estimation [bayesian-parameter-estimation]
-** Model selection [model-selection]
-** Feature selection [feature-selection]
-** Early stopping [early-stopping]
+** "Regularized maximum likelihood":regularization
+** "Bayesian parameter estimation":bayesian_parameter_estimation
+** "Model selection":model_selection
+** "Feature selection":feature_selection
+** "Early stopping":early_stopping
 * Some commonly used optimization algorithms for maximum likelihood estimation include:
-** gradient descent [gradient-descent]
-** expectation-maximization (EM) [expectation-maximization]
-** second-order methods [second-order-optimization-methods]
-* In exponential family models, maximum likelihood can be equivalently interpreted as maximum entropy modeling. [ml-as-maxent]
+** "gradient descent":gradient_descent
+** "expectation-maximization (EM)":expectation_maximization
+** "second-order methods":second_order_optimization_methods
+* In "exponential family models":exponential_families, maximum likelihood "can be equivalently interpreted":maximum_likelihood_in_exponential_families as maximum entropy modeling.

@@ -1,2 +1,2 @@
-* Estimating the parameters of a Markov random field (MRF) is a surprising example of maximum likelihood in exponential families. [mrf-parameter-estimation]
-* Bayesian parameter estimation often has a convenient form in exponential families. [bayes-param-exp-fam]
+* "Estimating the parameters of a Markov random field (MRF)":mrf_parameter_learning is a surprising example of maximum likelihood in exponential families. 
+* "Bayesian parameter estimation":bayesian_parameter_estimation often has a "convenient form":bayes_param_exp_fam in exponential families.

@@ -1,5 +1,5 @@
-* Linear least-squares is the basis for linear regression, a widely used statistical model. [linear-regression]
+* Linear least-squares is the basis for "linear regression":linear_regression_closed_form, a widely used statistical model.
 * Some ways of solving the linear least-squares problem include:
-** the QR decomposition [qr-decomposition]
-** the pseudoinverse [pseudoinverse]
+** the "QR decomposition":qr_decomposition
+** the "pseudoinverse":pseudoinverse
  

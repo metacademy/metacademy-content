@@ -1,1 +1,1 @@
-* Mutual information can also be defined in terms of KL divergence. [mutual-information-and-kl-divergence]
+* Mutual information can also be "defined":mutual_information_and_kl_divergence in terms of "KL divergence":kl_divergence.

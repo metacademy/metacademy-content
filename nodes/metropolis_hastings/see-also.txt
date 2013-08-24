@@ -1,6 +1,6 @@
-* Gibbs sampling is a commonly used special case of M-H. [gibbs-as-mh]
+* "Gibbs sampling":gibbs_sampling is a commonly used "special case":gibbs_as_mg of M-H.
 * Other examples of M-H methods include:
-** Hamiltonian Monte Carlo (HMC), which uses gradient information to sample from continuous models [hamiltonian-monte-carlo]
-** split-merge operators, which try to split or merge clusters [split-merge]
-** reversible jump MCMC, which tries to move between spaces of different dimensionality [reversible-jump-mcmc]
-* Under certain conditions, we can determine the optimal M-H acceptance rate. [optimal-mcmc-acceptance-rate]
+** "Hamiltonian Monte Carlo (HMC)":hamiltonian_monte_carlo, which uses gradient information to sample from continuous models
+** "split-merge":split_merge operators, which try to split or merge clusters
+** "reversible jump MCMC":reversible_jump_mcmc, which tries to move between spaces of different dimensionality 
+* Under certain conditions, we can determine the "optimal M-H acceptance rate":optimal_mcmc_acceptance_rate.
