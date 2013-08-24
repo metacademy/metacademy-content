@@ -1,5 +1,6 @@
-* The Swendsen-Wang algorithm is a powerful sampling method for Ising models which is a special case of slice sampling. [swendsen-wang]
-* Hamiltonian Monte Carlo (HMC) is a special case of slice sampling which uses gradient information to sample from a continuous model [hamiltonian-monte-carlo]
+* Other auxiliary variable sampling methods include:
+** The "Swendsen-Wang algorithm":swendsen_wang is a powerful sampling method for Ising models.
+** "Hamiltonian Monte Carlo (HMC)":hamiltonian_monte_carlo uses gradient information to sample from a continuous model
 * Slice sampling can be used to eliminate step size parameters from MCMC algorithms. Examples include:
-** elliptical slice sampling, for models with a multivariate Gaussian prior [elliptical-slice-sampling]
-** the No-U-Turn Sampler (NUTS), a parameter-free version of Hamiltonian Monte Carlo [no-u-turn-sampler]
+** "elliptical slice sampling":elliptical_slice_sampling, for models with a multivariate Gaussian prior
+** the "No-U-Turn Sampler (NUTS)":no_u_turn_sampler, a parameter-free version of Hamiltonian Monte Carlo

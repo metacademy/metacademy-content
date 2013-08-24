@@ -1,2 +1,2 @@
-* The Viterbi algorithm can be interpreted as a special case of belief propagation. [hmm-inference-as-bp]
-* The Viterbi algorithm is an example of dynamic programming. [dynamic-programming]
+* The Viterbi algorithm "can be interpreted":hmm_inference_as_bp as a special case of "belief propagation":max_product_on_trees.
+* The Viterbi algorithm is an example of "dynamic programming":dynamic_programming.
