@@ -6,4 +6,9 @@ reason: Conditioning is one operation we commonly need to perform.
 tag: multivariate_distributions
 reason: Marginalization is one operation we commonly need to perform.
 
+tag: matrix_inverse
+reason: Many operations require computing matrix inverses.
+
+tag: covariance_matrices
+reason: Many operations involve manipulating covariance matrices.
 

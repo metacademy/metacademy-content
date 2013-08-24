@@ -3,6 +3,7 @@ reason: Polar coordinates are an instructive example.
 
 tag: determinant
 reason: The change of variables formula involves the determinant of the Jacobian.
+shortcut: 1
 
 tag: linear_approximation
 reason: The change of variables formula involves a linear approximation to the transformation.
