@@ -1,3 +1,0 @@
-Probabilistic models use the mathematics of probability theory to describe how a system works, and in turn, how the system produces data. Specifying a probabilistic model, i.e. by specifying probability distributions and relationships for observed and unobserved random events, explicitly describes the assumptions that are used in order to perform inference and test statistical hypotheses. 
-
-

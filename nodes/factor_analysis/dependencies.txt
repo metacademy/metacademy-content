@@ -1,11 +1,14 @@
-tag: probabilistic-models
-reason: Factor analysis is a probabilistic model.
+tag: multivariate_distributions
+reason: Factor analysis defines a joint distribution.
 
-tag: expectation-maximization
-reason: We can use EM to learn the parameters.
+tag: conditional_distributions
+reason: We are sometimes interested in the conditional distribution of the latent factors given the observed data, or vice versa.
 
 tag: computations-on-multivariate-gaussians
 reason: Factor analysis requires manipulating multivariate Gaussians.
+
+tag: expectation-maximization
+reason: We can use EM to learn the parameters.
 
 tag: maximum_likelihood_multivariate_gaussians
 reason: The M step involves maximum likelihood for multivariate Gaussians.

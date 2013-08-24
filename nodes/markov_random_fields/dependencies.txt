@@ -1,5 +1,9 @@
-tag: probabilistic-models
-reason: MRFs are a kind of probabilistic model.
+tag: random_variables
+reason: MRFs are a way of organizing information about random variables.
+
+tag: conditional_probability
+reason: MRFs are used to reason about conditional probability.
 
 tag: conditional-independence
 reason: MRFs can be characterized in terms of conditional independence properties.
+

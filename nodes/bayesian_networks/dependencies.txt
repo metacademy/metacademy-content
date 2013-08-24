@@ -1,8 +1,8 @@
-tag: probabilistic-models
-reason: Bayes nets are a kind of probabilistic model.
+tag: random_variables
+reason: Bayes nets are a way of structuring information about random variables.
 
-tag: conditional-independence
+tag: conditional_independence
 reason: Bayes nets can be viewed as encoding a set of conditional independence assumptions. 
 
-tag: multinomial-distribution
-reason: In the most basic setup, the conditional probability distributions are multinomial distributions.
+tag: bayes_rule
+reason: Bayes nets are used for forms of reasoning based on Bayes' Rule.

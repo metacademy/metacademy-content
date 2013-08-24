@@ -1,1 +1,0 @@
-* Discusses basic motivation for probabilistic models, graphical representation (pgm), and a cursory definition (wikipedia)
