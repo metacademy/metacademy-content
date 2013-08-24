@@ -8,7 +8,7 @@ mark: star
 
 source: murphy
 location: Section 6.4.4
-note: not self-contained but provides some nice examples
+extra: not self-contained but provides some nice examples
 edition: 1
 
 source: esl

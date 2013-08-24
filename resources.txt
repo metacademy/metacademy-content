@@ -20,7 +20,7 @@ authors: Geoffrey E. Hinton
 url: https://www.coursera.org/course/neuralnets
 resource_type: online lectures
 free: 1
-note: Click on "Preview" to see the videos.
+extra: Click on "Preview" to see the videos.
 level: advanced undergraduate
 
 key: barber
@@ -100,7 +100,7 @@ authors: Andrew Y. Ng
 url: https://www.coursera.org/course/ml
 resource_type: online course
 free: 1
-note: Click on "Preview" to see the videos.
+extra: Click on "Preview" to see the videos.
 level: introductory
 
 key: khan
@@ -144,7 +144,7 @@ authors: Daphne Koller
 url: https://www.coursera.org/course/pgm
 resource_type: online lectures
 free: 1
-note: Click on "Preview" to see the videos.
+extra: Click on "Preview" to see the videos.
 level: advanced undergraduate
 
 key: wainwright_jordan_tutorial

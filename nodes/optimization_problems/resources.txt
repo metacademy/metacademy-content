@@ -1,7 +1,7 @@
 source: bishop
 edition: 1
 location: Appendix D (Calculus of Variations)
-note: Good, quick review of functional calculus
+extra: Good, quick review of functional calculus
 
 source: shifrin
 edition: 1

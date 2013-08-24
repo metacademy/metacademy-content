@@ -4,7 +4,7 @@ mark: star
 
 source: sudderth_thesis
 location: S.2.5.2,  p. 102
-note: best read after learning about the Dirichlet Process
+extra: best read after learning about the Dirichlet Process
 
 source: ywt_bnp_mlss
 location: part 2, from 10:00
