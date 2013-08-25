@@ -1,0 +1,15 @@
+source: aima
+edition: 2
+location: Section 20.1, "Statistical learning," pages 712-715; Section 20.2, "Learning with complete data," up to "Bayesian parameter learning," pages 716-720
+mark: star
+
+source: cs229
+location: Chapter 1, section 3, pages 11-13
+dependencies: linear-regression
+
+source: mackay
+edition: 1
+location: Section 22.1, pages 300-302
+mark: star
+dependencies: gaussian_distribution
+

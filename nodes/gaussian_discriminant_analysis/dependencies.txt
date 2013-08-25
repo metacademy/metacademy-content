@@ -6,3 +6,4 @@ reason: GDA uses a mixture of Gaussians model.
 
 tag: maximum-likelihood
 reason: GDA is fit using maximum likelihood.
+shortcut: 1

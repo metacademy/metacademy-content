@@ -9,3 +9,5 @@ reason: KL divergence is part of the objective function in variational EM.
 tag: jensens_inequality
 reason: Jensen's inequality is used to show that EM improves a lower bound on the likelihood.
 
+tag: optimization_problems
+reason: EM is an optimization algorithm.

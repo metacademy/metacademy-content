@@ -1,3 +1,7 @@
 tag: maximum-likelihood
+shortcut: 1
 
 tag: multivariate-gaussian-distribution
+
+tag: optimization_problems
+reason: Finding the optimal solution requires solving an optimization problem.

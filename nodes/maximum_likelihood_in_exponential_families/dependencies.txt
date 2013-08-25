@@ -1,3 +1,6 @@
 tag: maximum-likelihood
 
 tag: exponential-families
+
+tag: optimization_problems
+reason: We characterize the maximum likelihood solutions in terms of solutions to an optimization problem.

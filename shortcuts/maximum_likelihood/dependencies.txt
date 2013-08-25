@@ -1,0 +1,4 @@
+tag: random_variables
+
+tag: optimization_problems
+reason: Maximum likelihood is formulated as an optimization problem.

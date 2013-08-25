@@ -1,8 +1,11 @@
 tag: maximum-likelihood
 reason: EM is a way of finding (approximate) maximum likelihood parameters.
+shortcut: 1
 
 tag: mixture_of_gaussians
 reason: Mixture of Gaussians is the canonical example of EM.
+shortcut: 1
 
 tag: maximum_likelihood_multivariate_gaussians
 reason: Mixture of Gaussians is the canonical example of EM.
+

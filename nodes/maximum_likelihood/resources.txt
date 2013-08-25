@@ -4,7 +4,6 @@ dependencies: linear-regression
 
 source: wikipedia
 url: http://en.wikipedia.org/wiki/Maximum_likelihood
-mark: star
 extra: Read the Principles and Examples sections.
 
 source: rice
@@ -13,7 +12,7 @@ location: Sections 8.5-8.5.1, pages 267-274
 
 source: aima
 edition: 2
-location: Section 20.2 (up to Bayesian parameter learning), pages 716-720
+location: Section 20.1, "Statistical learning," pages 712-715; Section 20.2, "Learning with complete data," up to "Bayesian parameter learning," pages 716-720
 mark: star
 
 source: mackay

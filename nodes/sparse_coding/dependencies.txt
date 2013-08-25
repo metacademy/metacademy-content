@@ -3,7 +3,11 @@ tag: maximum_likelihood
 
 tag: matrix_multiplication
 reason: Sparse coding is a kind of matrix factorization.
+shortcut: 1
 
 tag: heavy_tailed_distributions
 reason: Sparse coding uses heavy-tailed distributions for the coefficients.
+
+tag: optimization_problems
+reason: Fitting sparse coding requires solving an optimization problem.
 

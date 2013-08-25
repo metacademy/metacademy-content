@@ -2,3 +2,7 @@ tag: latent-semantic-analysis
 
 tag: maximum-likelihood
 reason: pLSA is fit using maximum likelihood.
+shortcut: 1
+
+tag: optimization_problems
+reason: Finding the optimal solution requires solving an optimization problem.

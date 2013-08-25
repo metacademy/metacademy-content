@@ -1,11 +1,12 @@
-tag: maximum_likelihood
-reason: ICA is usually fit using maximum likelihood.
-
 tag: heavy_tailed_distributions
 reason: ICA typically involves fitting heavy-tailed distributions.
 
 tag: principal_component_analysis
 reason: PCA is often used as a preprocessing step, and it's useful to compare ICA with PCA.
+
+tag: maximum_likelihood
+reason: ICA is usually fit using maximum likelihood.
+shortcut: 1
 
 tag: determinant
 reason: The maximum likelihood objective function includes a determinant.
@@ -18,3 +19,6 @@ reason: ICA requires that the component distributions be non-Gaussian.
 shortcut: 1
 
 # TODO: linear transformations of densities
+
+tag: optimization_problems
+reason: Fitting ICA requires solving an optimization problem.

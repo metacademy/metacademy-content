@@ -2,3 +2,6 @@ tag: maximum-likelihood
 reason: Maximum likelihood is a simple way to learn Bayes net parameters.
 
 tag: bayesian-networks
+
+tag: optimization_problems
+reason: Finding the maximum likelihood solution requires solving an optimization problem.

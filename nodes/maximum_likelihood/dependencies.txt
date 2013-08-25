@@ -1,3 +1,5 @@
+tag: random_variables
+
 tag: independent_random_variables
 reason: The data are generally assumed to be independent draws from a distribution.
 
