@@ -1,0 +1,2 @@
+* Applications in machine learning and statistics:
+** Applying the conditions to "support vector machines (SVMs)":svm_optimality_conditions is critical to show sparsity, the property that lets them be kernelized.

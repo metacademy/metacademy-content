@@ -1,0 +1,1 @@
+A set S in R^d is convex if for any two points x and y in S, the line segment connecting x and y is also contained in S. Convex sets are part of the definition of convex optimization problems, a very general class of optimization problems for which the optimal solution can often be found.

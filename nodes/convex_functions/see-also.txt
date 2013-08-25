@@ -1,0 +1,7 @@
+* Convex functions are part of the definition of "convex optimization problems":convex_optimization, a broad framework for optimization where the global optimum can often be found.
+* Some important examples of convex functions:
+** "vector norms":vector_norms
+** "utility functions":utility are typically assumed to be concave
+** "regularization penalties":regularization in machine learning are often convex
+** "likelihood functions for exponential families":maximum_likelihood_in_exponential_families
+* "Jensen's inequality":jensens_inequality is an important result about the expectation of a convex function.

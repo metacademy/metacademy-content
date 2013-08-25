@@ -1,4 +1,7 @@
 tag: support-vector-machine
 
-tag: lagrange-duality
+tag: lagrange_duality
 reason: The optimality conditions for SVMs are derived from the Lagrange dual.
+
+tag: kkt_conditions
+reason: The optimality conditions are an instance of the KKT conditions.

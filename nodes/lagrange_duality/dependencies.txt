@@ -1,0 +1,6 @@
+tag: convex_optimization
+reason: Lagrange duality is a property of convex optimization problems.
+
+tag: lagrange_multipliers
+reason: The optimization variables in the dual problem are the Lagrange multipliers.
+

@@ -1,0 +1,5 @@
+source: boyd_convex_optimization
+edition: 1
+location: Section 3.1, "Basic properties and examples" of Chapter 3, "Convex functions," pages 67-78
+mark: star
+extra: Some of the examples may use concepts you haven't seen. If so, just try to get the gist.

@@ -1,0 +1,7 @@
+tag: vectors
+reason: Convex sets are defined in terms of vectors.
+
+tag: dot_product
+reason: The Euclidean ball is a canonical example of a convex set.
+
+

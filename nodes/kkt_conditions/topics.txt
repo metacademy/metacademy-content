@@ -1,0 +1,3 @@
+* that the primal and dual solutions correspond to upper and lower bounds on the optimal value
+* statement of KKT conditions for nonconvex and convex optimization problems
+

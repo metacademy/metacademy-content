@@ -382,3 +382,12 @@ resource_type: paper
 authors: David Posada and Thomas Buckley
 free: 1
 url: http://xyala2.bio.ed.ac.uk/teaching/tutorials/phylogenetics/Bayesian_Workshop/PDFs/Posada%20and%20Buckley%20Syst%20Biol%202004.pdf
+
+key: boyd_convex_optimization
+title: Convex Optimization
+authors: Stephen Boyd and Lieven Vandenberghe
+resource_type: textbook
+free: 1
+url: http://www.stanford.edu/~boyd/cvxbook/
+level: graduate
+

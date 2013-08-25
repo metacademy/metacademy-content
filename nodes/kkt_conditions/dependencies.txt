@@ -1,0 +1,8 @@
+tag: convex_optimization
+reason: The KKT conditions characterize optimal solutions to convex optimization problems.
+
+tag: lagrange_duality
+reason: The KKT conditions involve both the primal and dual variables.
+
+tag: gradient
+reason: The optimality conditions are given in terms of gradients.

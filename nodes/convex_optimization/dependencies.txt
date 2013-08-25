@@ -1,0 +1,10 @@
+tag: optimization_problems
+
+tag: convex_sets
+reason: The feasible set must be convex.
+
+tag: convex_functions
+reason: The function being optimized must be convex.
+
+tag: gradient
+reason: The optimality condition for the unconstrained case is given in terms of the gradient.

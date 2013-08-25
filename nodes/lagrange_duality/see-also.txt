@@ -1,0 +1,6 @@
+* The "KKT conditions":kkt_conditions characterize the optimal solutions to a convex optimization problem.
+* Applications in machine learning and statistics:
+** "Support vector machines (SVMs)":support_vector_machine, a classification algorithm, use duality in the optimization.
+** "Variational inference":variational_inference_convex_duality, where an intractable distribution is approximated with a tractable one, can be thought of in terms of convex duality.
+* Applications in algorithms:
+** The relationship between "min-cut and max-flow":min_cut_max_flow is an example of Lagrange duality.

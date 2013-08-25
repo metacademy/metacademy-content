@@ -1,0 +1,1 @@
+Intuitively, convex functions are bowl-shaped. They are significant in optimization, because it is often possible to efficiently find the global optimum of a convex function.

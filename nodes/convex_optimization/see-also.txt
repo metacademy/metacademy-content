@@ -1,0 +1,15 @@
+* Some special cases of convex optimization problems:
+** "linear least squares":linear_least_squares
+** "linear programming":linear_programming
+** "quadratic programming":quadratic_programming
+** "semidefinite programming":semidefinite_programming
+* Some algorithms used in convex optimization:
+** "gradient descent":gradient_descent
+** "Newton-Rhapson":newton_rhapson
+** "conjugate gradient":conjugate_gradient
+** "quasi-Newton methods":quasi_newton_methods
+** "interior point methods":interior_point_methods
+* Applications in statistics and machine learning:
+** "maximum likelihood in exponential families":maximum_likelihood_in_exponential_families is a convex optimization problem
+** "support vector machines":support_vector_machines, a widely used classification algorithm
+

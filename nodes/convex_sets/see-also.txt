@@ -1,0 +1,7 @@
+* Another important notion of convexity is "convex functions":convex_functions.
+* Convex sets are used to define "convex optimization problems":convex_optimization, a very general class of optimization problem.
+* Some important examples of convex sets:
+** "solution sets of linear systems":solution_sets_of_linear_systems
+** "polytopes":representing_polytopes
+** "positive semidefinite cone":positive_semidefinite_cone, a central object in semidefinite programming
+

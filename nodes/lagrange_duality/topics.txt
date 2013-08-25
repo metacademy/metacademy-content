@@ -1,0 +1,4 @@
+* definition of the Lagrangian function
+* interpretation of Lagrangian in terms of a lower bound on the convex function (extended with infinity beyond its range)
+* definition of the Lagrange dual problem
+* examples of computing the dual problem

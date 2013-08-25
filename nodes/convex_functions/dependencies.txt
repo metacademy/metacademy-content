@@ -1,0 +1,19 @@
+tag: convex_sets
+reason: The domain of a convex function must be a convex set.
+
+tag: vectors
+reason: Convex functions are defined in terms of vectors.
+
+tag: linear_approximation
+reason: The first-order condition for convexity is that the linear approximation lie below the function.
+
+tag: gradient
+reason: The first-order condition for convexity is that the linear approximation lie below the function.
+
+tag: higher_order_partial_derivatives
+reason: The second-order condition for convexity is that the second-derivative matrix be positive semidefinite.
+shortcut: 1
+
+tag: positive_definite_matrices
+reason: The second-order condition for convexity is that the second-derivative matrix be positive semidefinite.
+shortcut: 1

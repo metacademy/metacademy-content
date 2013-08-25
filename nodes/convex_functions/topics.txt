@@ -1,0 +1,5 @@
+* definition of a convex function
+* first-order condition (i.e. linear approximation lies below the function)
+* second-order condition (i.e. second derivative matrix is PSD)
+* examples of convex functions
+* that the value outside the domain can be taken to be infinity
