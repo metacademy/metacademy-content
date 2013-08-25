@@ -1,4 +1,5 @@
 tag: optimization-problems
 
-tag: gradient
+tag: partial_derivatives
 
+tag: gradient

@@ -12,3 +12,12 @@ extra: Don't worry about the proofs as far as this node is concerned.
 
 source: ocw_auroux
 location: Lectures 39, "Statement of Lagrange multipliers and example," and 41, "Advanced example"
+
+resource_type: tutorial
+title: Lagrange multipliers without permanent scarring
+authors: Dan Klein
+location: Section 1, "Introduction," page 1; Section 2, "Trial by example," pages 2-6
+free: 1
+url: http://www.cs.berkeley.edu/~klein/papers/lagrange-multipliers.pdf
+level: introductory
+

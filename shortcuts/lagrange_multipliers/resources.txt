@@ -1,0 +1,20 @@
+source: princeton_companion
+edition: 1
+location: Section 3.64, "Optimization and Lagrange multipliers," pages 255-257
+mark: star
+
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Lagrange_multipliers
+dependencies: dot_product
+extra: The article doesn't define the gradient, but what you need to know is that (1) it is a vector which points uphill at any given point, and (2) the entries are given by the partial derivatives of the function with respect to each of the coordinates.
+
+resource_type: tutorial
+title: Lagrange multipliers without permanent scarring
+authors: Dan Klein
+location: Section 1, "Introduction," page 1; Section 2, "Trial by example," pages 2-6
+free: 1
+url: http://www.cs.berkeley.edu/~klein/papers/lagrange-multipliers.pdf
+level: introductory
+extra: The article doesn't define the gradient, but what you need to know is that (1) it is a vector which points uphill at any given point, and (2) the entries are given by the partial derivatives of the function with respect to each of the coordinates.
+
+
