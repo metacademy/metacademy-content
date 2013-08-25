@@ -5,5 +5,3 @@ tag: newton-rhapson
 tag: matrix_inverse
 reason: We often want to approximate the inverse Hessian rather than the Hessian itself.
 
-tag: big-o-notation
-reason: We need to think about the running time for computing second-order information.

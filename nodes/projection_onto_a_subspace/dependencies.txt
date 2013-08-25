@@ -1,4 +1,4 @@
-tag: projection
+tag: subspaces
 reason: The projection is onto a subspace.
 
 tag: bases

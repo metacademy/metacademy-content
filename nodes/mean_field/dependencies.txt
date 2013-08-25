@@ -7,5 +7,3 @@ reason: Mean field makes the approximation that certain random variables, or set
 tag: lagrange_multipliers
 reason: Lagrange multipliers are used to derive the mean field updates.
 
-tag: coordinate_ascent
-reason: Mean field is an instance of coordinate ascent.
