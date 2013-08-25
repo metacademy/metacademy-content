@@ -1,3 +1,4 @@
+* The "closed-form solution":linear_regression_closed_form to linear regression can be extended to ridge regression.
 * Ridge regression is an example of "regularization":regularization.
 * Ridge regression can be "viewed as a Bayesian model":bayesian_linear_regression with a Gaussian prior over the parameters. 
 * The "number of effective parameters":smoother_matrix in ridge regression is smaller than the actual number of parameters.

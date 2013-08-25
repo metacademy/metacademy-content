@@ -5,10 +5,12 @@ source: murphy
 edition: 1
 location: Section 7.5.1, pages 225-227
 dependencies: map-parameter-estimation
+extra: Don't worry about deriving the closed-form solution in equation (7.33).
 
 source: bishop
 edition: 1
-location: Section 3.1.4, pages 144-146
+location: Section 3.1.4, "Regularized least squares," pages 144-146
+extra: Don't worry about deriving the closed-form solution in equation (3.28).
 
 source: esl
 edition: 1
