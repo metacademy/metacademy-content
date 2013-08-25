@@ -391,3 +391,10 @@ free: 1
 url: http://www.stanford.edu/~boyd/cvxbook/
 level: graduate
 
+key: princeton_companion
+title: The Princeton Companion to Mathematics
+authors: Timothy Gowers and June Barrow-Green and Imre Leader
+resource_type: reference
+free: 0
+url: http://press.princeton.edu/titles/8350.html
+level: reference

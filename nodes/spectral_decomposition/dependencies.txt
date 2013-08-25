@@ -15,6 +15,3 @@ tag: eigenvalues_and_eigenvectors
 reason: The spectral decomposition gives the eigenvectors and eigenvalues.
 shortcut: 1
 
-tag: diagonalization
-reason: The spectral decomposition is a form of diagonalization.
-shortcut: 1

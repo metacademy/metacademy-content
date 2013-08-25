@@ -1,2 +1,11 @@
 source: wikipedia
 url: http://en.wikipedia.org/wiki/Positive_definite_matrices
+
+resource_type: paper
+title: An introduction to the conjugate gradient method without the agonizing pain
+authors: Jonathan Richard Shewchuk
+url: http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
+location: Section 2, "Notation," pages 1-2; Section 3, "The quadrtic form," pages 2-5
+level: graduate
+free: 1
+mark: star

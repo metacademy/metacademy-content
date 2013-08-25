@@ -1,3 +1,4 @@
+* The spectral decomposition is an example of "diagonalization":diagonalization.
 * The spectral decomposition can also be characterized as:
 ** the "eigenvalues":eigenvalues_and_eigenvectors of a symmetric matrix 
 ** the "solution to an optimization problem":variational_characterization_of_eigenvalues
