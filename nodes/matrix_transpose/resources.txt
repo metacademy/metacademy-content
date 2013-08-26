@@ -4,7 +4,7 @@ location: Section 2.7, up to "Permutation matrices," pages 107-110
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Transpose of a matrix," "Transpose of a matrix product," "Transposes of sums and inverses," and "Transpose of a vector"
+location: Lectures "Transpose of a matrix," "Transpose of a matrix product," "Transposes of sums and inverses," and "Transpose of a vector" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/matrix_transpose/v/linear-algebra--transpose-of-a-matrix]
 mark: star
 
 source: beezer

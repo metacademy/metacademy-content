@@ -4,7 +4,9 @@ location: Section 2.5, "Inverse matrices," starting from "Calculating A^{-1} by 
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Deriving a method for determining inverses," "Example of finding a matrix inverse," and "Formula for a 2x2 inverse"
+location: Lecture "Deriving a method for determining inverses" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--deriving-a-method-for-determining-inverses]
+location: Lecture "Example of finding a matrix inverse" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--example-of-finding-matrix-inverse]
+location: Lecture "Formula for a 2x2 inverse" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--formula-for-2x2-inverse]
 mark: star
 
 source: beezer

@@ -4,11 +4,11 @@ location: Section 4.1, "Orthogonality of the four subspaces," pages 195-200
 mark: star
 
 source: ocw_strang
-location: Lecture "Orthogonal vectors and subspaces"
+location: Lecture "Orthogonal vectors and subspaces" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/]
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lecture sequence "Orthogonal complements"
+location: Lecture sequence "Orthogonal complements" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/othogonal_complements]
 mark: star
 
 source: shifrin

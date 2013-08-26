@@ -4,5 +4,5 @@ location: Section 4.4, "Orthogonal bases and Gram-Schmidt," subsection "The fact
 mark: star
 
 source: ocw_strang
-location: Lecture "Orthogonal matrices and Gram-Schmidt," starting from 49:20
+location: Lecture "Orthogonal matrices and Gram-Schmidt," starting from 49:20 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/]
 mark: star

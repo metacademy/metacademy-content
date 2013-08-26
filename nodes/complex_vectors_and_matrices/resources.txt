@@ -4,6 +4,6 @@ location: Section 10.2, "Hermitian and unitary matrices," up to "Hermitian matri
 mark: star
 
 source: ocw_strang
-location: Lecture "Complex matrices; fast Fourier transform," up to 12:00
+location: Lecture "Complex matrices; fast Fourier transform," up to 12:00 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/]
 mark: star
 

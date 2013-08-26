@@ -16,6 +16,7 @@ location: Section 13.5, "Multivariable optimization problems," pages 878-886
 mark: star
 
 source: ocw_auroux
-location: Lectures 28, "Optimization problems" and 29, "Least squares"
+location: Session 28, "Optimization problems" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-28-optimization-problems]
+location: Session 29, "Least squares" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares]
 mark: star
 

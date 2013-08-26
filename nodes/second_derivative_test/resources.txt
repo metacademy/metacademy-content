@@ -8,4 +8,5 @@ edition: 6
 location: Section 13.10, "Critical points of functions of two variables," pages 927-933
 
 source: ocw_auroux
-location: Lectures 30, "Second derivative test," and 31, "Example"
+location: Session 30, "Second derivative test" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-30-second-derivative-test]
+location: Session 31, "Example" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example]

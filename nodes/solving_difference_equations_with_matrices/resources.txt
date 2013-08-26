@@ -9,5 +9,5 @@ location: Section 6.2, "Diagonalizing a matrix," subsection "Fibonacci numbers,"
 mark: star
 
 source: ocw_strang
-location: Lecture "Diagonalization and powers of A," starting from 34:20
+location: Lecture "Diagonalization and powers of A," starting from 34:20 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/]
 mark: star

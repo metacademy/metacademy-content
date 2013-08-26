@@ -19,5 +19,5 @@ location: Section 3.1, "Partial derivatives and directional derivatives," pages 
 mark: star
 
 source: ocw_auroux
-location: Lecture "Partial derivatives"
+location: Session 26, "Partial derivatives" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives]
 mark: star

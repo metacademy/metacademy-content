@@ -15,11 +15,12 @@ dependencies: dot_product
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Linear combinations and span" and "Linear subspaces"
+location: Lecture "Linear combinations and span" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/linear_combinations]
+location: Lecture "Linear subspaces" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/subspace_basis/v/linear-subspaces]
 mark: star
 
 source: ocw_strang
-location: Lecture "Transposes, permutations, and vector spaces," starting from 20:00
+location: Lecture "Transposes, permutations, and vector spaces," starting from 20:00 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/]
 mark: star
 
 source: axler

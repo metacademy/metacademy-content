@@ -16,5 +16,7 @@ location: Section 7.1, "Multiple integrals," pages 267-273; and Section 7.2, "It
 extra: This presents the Riemann integral, a precise formulation of the intuitive notion of multiple integrals, but which unfortunately has some awkward notation.
 
 source: ocw_auroux
-location: Lecture 47, "Definition of double integration"; Lecture 48, "Examples of double integration"; and Lecture 49, "Exchanging the order of integration"
+location: Session 47, "Definition of double integration" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-47-definition-of-double-integration]
+location: Session 48, "Examples of double integration" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration]
+location: Session 49, "Exchanging the order of integration" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration]
 mark: star

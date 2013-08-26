@@ -4,7 +4,7 @@ location: Section 14.9, "Change of variables in multiple integrals," pages 1001-
 mark: star
 
 source: ocw_auroux
-location: Lecture 53, "Change of variables"
+location: Session 53, "Change of variables" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables]
 mark: star
 
 source: shifrin

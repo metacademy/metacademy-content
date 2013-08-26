@@ -16,11 +16,13 @@ dependencies: vector_spaces
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lecture sequence "Linear dependence and independence," lecture "Basis of a subspace," and lecture "Proof: any subspace basis has the same number of elements"
+location: Lecture sequence "Linear dependence and independence" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/linear_independence/v/linear-algebra--introduction-to-linear-independence]
+location: Lecture "Basis of a subspace" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/subspace_basis/v/linear-algebra--basis-of-a-subspace]
+location: Lecture "Proof: any subspace basis has the same number of elements" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/null_column_space/v/proof--any-subspace-basis-has-same-number-of-elements]
 mark: star
 
 source: ocw_strang
-location: Lecture "Independence, basis, and dimension"
+location: Lecture "Independence, basis, and dimension" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/independence-basis-and-dimension/]
 dependencies: column_space_and_nullspace, gaussian_elimination
 
 source: beezer

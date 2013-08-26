@@ -4,7 +4,7 @@ location: Sections 2.6, "Elimination = factorization: A = LU", and 2.7, "Transpo
 mark: star
 
 source: ocw_strang
-location: Lecture "Factorization into A = LU"
+location: Lecture "Factorization into A = LU" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/]
 mark: star
 
 source: beezer

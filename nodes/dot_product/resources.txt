@@ -4,7 +4,7 @@ location: Section 1.2, pages 11-17
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Vector dot product and vector length," "Proving vector dot product properties," "Proof of the Cauchy-Schwartz inequality," "Vector triangle inequality," and "Defining the angle between vectors"
+location: Lectures "Vector dot product and vector length," "Proving vector dot product properties," "Proof of the Cauchy-Schwartz inequality," "Vector triangle inequality," and "Defining the angle between vectors" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/vector-dot-product-and-vector-length]
 mark: star
 
 source: shifrin

@@ -4,11 +4,11 @@ location: Section 4.2, "Projections," pages 206-212
 mark: star
 
 source: ocw_strang
-location: Lecture "Projections onto subspaces," up to 42:00
+location: Lecture "Projections onto subspaces," up to 42:00 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/]
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Projections onto subspaces," "Visualizing a projection onto a plane," "A projection onto a subspace is a linear transformation," "Subspace projection matrix example," "Another example of a projection matrix," and "Projection is the closest vector in a subspace"
+location: Lectures "Projections onto subspaces," "Visualizing a projection onto a plane," "A projection onto a subspace is a linear transformation," "Subspace projection matrix example," "Another example of a projection matrix," and "Projection is the closest vector in a subspace" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/orthogonal_projections/v/linear-algebra--projections-onto-subspaces]
 mark: star
 
 source: shifrin

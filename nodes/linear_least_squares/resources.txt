@@ -4,11 +4,12 @@ location: Section 4.3, "Least squares approximation," pages 218-225
 mark: star
 
 source: ocw_strang
-location: Lectures "Projections onto subspaces," starting from 42:00, and "Projection matrices and least squares"
+location: Lecture "Projections onto subspaces," starting from 42:00 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/]
+location: Lecture "Projection matrices and least squares" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/]
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Least squares approximation," "Least squares examples," and "Another least squares example"
+location: Lectures "Least squares approximation," "Least squares examples," and "Another least squares example" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/orthogonal_projections/v/linear-algebra--least-squares-approximation]
 mark: star
 
 source: shifrin

@@ -9,7 +9,7 @@ dependencies: linear_transformations_as_matrices
 mark: star
 
 source: ocw_strang
-location: Lecture "Diagonalization and powers of A"
+location: Lecture "Diagonalization and powers of A" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/]
 mark: star
 
 source: beezer

@@ -4,11 +4,11 @@ location: Section 4.4, "Orthogonal bases and Gram-Schmidt," pages 234-238
 mark: star
 
 source: ocw_strang
-location: Lecture "Orthogonal matrices and Gram-Schmidt"
+location: Lecture "Orthogonal matrices and Gram-Schmidt" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/]
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lecture sequence "Orthonormal bases and the Gram-Schmidt procedure"
+location: Lecture sequence "Orthonormal bases and the Gram-Schmidt procedure" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/orthonormal_basis]
 mark: star
 
 source: shifrin

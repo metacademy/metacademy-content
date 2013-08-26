@@ -4,11 +4,11 @@ location: Section 6.1, "Introduction to eigenvalues," pages 283-291
 mark: star
 
 source: ocw_strang
-location: Lecture "Eigenvalues and eigenvectors"
+location: Lecture "Eigenvalues and eigenvectors" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/]
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lecture sequence "Eigen-everything"
+location: Lecture sequence "Eigen-everything" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/eigen_everything]
 
 source: beezer
 edition: 3

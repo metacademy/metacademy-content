@@ -4,6 +4,6 @@ location: Section 3.4, "The complete solution to Ax = b," pages 155-160
 dependencies: gaussian_elimination, computing_the_nullspace
 
 source: ocw_strang
-location: Lecture "Solving Ax = b: row reduced form R," up to 24:12
+location: Lecture "Solving Ax = b: row reduced form R," up to 24:12 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/]
 mark: star
 

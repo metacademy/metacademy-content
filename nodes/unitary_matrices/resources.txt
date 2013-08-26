@@ -3,4 +3,4 @@ edition: 4
 location: Section 10.2, "Hermitian and unitary matrices," subsection "Unitary matrices," pages 504-506
 
 source: ocw_strang
-location: Lecture "Complex matrices: fast Fourier transform," from 12:00 to 16:30
+location: Lecture "Complex matrices: fast Fourier transform," from 12:00 to 16:30 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/]

@@ -1,4 +1,7 @@
 source: khan_academy_linear_algebra
-location: Lectures "Defining a plane in R3 with a point and a normal vector," "Normal vector from plane equation," "Point distance to plane," and "Distance between planes"
+location: Lecture "Defining a plane in R3 with a point and a normal vector" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/defining-a-plane-in-r3-with-a-point-and-normal-vector]
+location: Lecture "Normal vector from plane equation" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/normal-vector-from-plane-equation]
+location: Lecture "Point distance to plane" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/point-distance-to-plane]
+location: Lecture "Distance between planes" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/distance-between-planes]
 mark: star
 

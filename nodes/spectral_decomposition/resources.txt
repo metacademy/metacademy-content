@@ -10,7 +10,7 @@ dependencies: lagrange_multipliers
 mark: star
 
 source: ocw_strang
-location: Lecture "Symmetric matrices and positive semidefiniteness," up to 28:30
+location: Lecture "Symmetric matrices and positive semidefiniteness," up to 28:30 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/]
 mark: star
 
 

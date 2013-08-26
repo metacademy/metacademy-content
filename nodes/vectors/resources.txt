@@ -2,7 +2,8 @@ source: wolfram
 url: http://mathworld.wolfram.com/Vector.html      
 
 source: khan_academy_linear_algebra
-location: Lecture sequences "Vectors" and "Linear combinations and spans"
+location: Lecture sequence "Vectors"  [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/vectors] 
+location: Lecture "Linear combinations and spans" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/linear_combinations]
 mark: star
 
 source: strang
@@ -16,7 +17,8 @@ location: Sections "Vector operations," "Linear combinations," and "Spanning set
 dependencies: linear_systems_as_matrices
 
 source: ocw_strang
-location: Lectures "The geometry of linear equations" and "An overview of key ideas"
+location: Lecture "The geometry of linear equations" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/]
+location: Lecture "An overview of key ideas" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/]
 
 source: shifrin
 edition: 1

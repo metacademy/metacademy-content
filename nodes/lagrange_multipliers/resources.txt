@@ -11,7 +11,8 @@ mark: star
 extra: Don't worry about the proofs as far as this node is concerned.
 
 source: ocw_auroux
-location: Lectures 39, "Statement of Lagrange multipliers and example," and 41, "Advanced example"
+location: Session 39, "Statement of Lagrange multipliers and example" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-39-statement-of-lagrange-multipliers-and-example]
+location: Session 41, "Advanced example" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-41-advanced-example]
 
 resource_type: tutorial
 title: Lagrange multipliers without permanent scarring

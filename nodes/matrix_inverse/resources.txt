@@ -3,12 +3,13 @@ edition: 4
 location: Section 2.5, up to "Calculating A^-1 by Gauss-Jordan elimination", pages 81-83
 
 source: ocw_strang
-location: Lecture "Multiplication and inverse matrices," up to the part about computing inverses
+location: Lecture "Multiplication and inverse matrices," up to the part about computing inverses [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/]
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lecture sequences "Functions and linear transformations" and "Inverse functions and transformations"
+location: Lecture sequence "Inverse functions and transformations" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_transformations]
 mark: star
+extra: Watch the "Functions and linear transformations" lecture sequence if you're not used to thinking of matrices as linear transformations.
 
 source: beezer
 edition: 3

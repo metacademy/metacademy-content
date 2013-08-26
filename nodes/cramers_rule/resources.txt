@@ -9,5 +9,5 @@ location: Section 7.5, "Determinants and n-dimensional volume," from pages 318-3
 mark: star
 
 source: ocw_strang
-location: Lecture "Cramer's rule, inverse matrix, and volume," up to 28:07
+location: Lecture "Cramer's rule, inverse matrix, and volume," up to 28:07 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/]
 mark: star

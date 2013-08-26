@@ -8,7 +8,7 @@ edition: 4
 location: Section 3.1, "Spaces of vectors," up to "Subspaces," pages 120-121
 
 source: ocw_strang
-location: Lecture "Transposes, permutations, vector spaces," starting from 20:00
+location: Lecture "Transposes, permutations, vector spaces," starting from 20:00 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/]
 
 source: axler
 edition: 2
