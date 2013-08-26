@@ -4,7 +4,7 @@ location:Ch 13.9 (p 728)
 edition:  2
 
 source: khan_academy_probability
-location: lecture sequence "poisson processes" under Random Variables and Probability Distributions
+location: lecture sequence "poisson processes" [https://www.khanacademy.org/math/probability/random-variables-topic/poisson_process]
 mark: star
 
 source: degroot

@@ -14,7 +14,7 @@ location: Section 5.3, "Stochastic independence," pages 114-117
 mark: star
 
 source: khan_academy_probability
-location: Lecture sequence "Compound, independent events," under "Independent and dependent events"
+location: Lecture sequence "Compound, independent events" [https://www.khanacademy.org/math/probability/independent-dependent-probability/independent_events]
 
 source: bamberg
 location: Lecture sequence "Conditional probability"

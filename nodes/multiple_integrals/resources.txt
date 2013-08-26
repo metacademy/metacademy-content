@@ -1,5 +1,6 @@
 source: khan_academy_calculus
-location: Lecture sequences "Double integrals" and "Triple integrals"
+location: Lecture sequence "Double integrals" [https://www.khanacademy.org/math/calculus/double_triple_integrals/double_integrals]
+location: Lecture sequence "Triple integrals" [https://www.khanacademy.org/math/calculus/double_triple_integrals/triple_integrals]
 mark: star
 
 source: wolfram

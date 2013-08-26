@@ -20,7 +20,8 @@ source: edx_probability
 location: Lecture 1.1, "What is probability?"; Lecture 1.2, "Addition rule"
 
 source: khan_academy_probability
-location: Lecture sequences "Basic probability" and "Venn diagrams and adding probabilities" under "Independent and dependent events"
+location: Lecture sequence "Basic probability" [https://www.khanacademy.org/math/probability/independent-dependent-probability/basic_probability]
+location: Lecture sequence "Venn diagrams and adding probabilities" [https://www.khanacademy.org/math/probability/independent-dependent-probability/addition_rule_probability]
 
 source: mathmonk_probability
 location: Lecture sequence 1

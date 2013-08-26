@@ -14,7 +14,7 @@ location: Section 6.1, "Bernoulli trials," pages 135-136; Section 6.2, "The bino
 mark: star
 
 source: khan_academy_probability
-location: Lecture sequence "Binomial distribution" under "Random variables and probability distributions"
+location: Lecture sequence "Binomial distribution" [https://www.khanacademy.org/math/probability/random-variables-topic/binomial_distribution]
 mark: star
 
 source: mathmonk_probability

@@ -1,5 +1,5 @@
 source: khan_academy_algebra
-location: Lecture sequence "Imaginary and complex numbers"
+location: Lecture sequence "Imaginary and complex numbers" [https://www.khanacademy.org/math/trigonometry/imaginary_complex_precalc]
 mark: star
 
 source: strang

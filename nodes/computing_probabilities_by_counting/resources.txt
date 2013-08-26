@@ -22,5 +22,5 @@ location: Lecture 1.3, "Multiplication rule," and Lecture 1.4, "Problem-solving 
 mark: star
 
 source: khan_academy_probability
-location: Lecture sequence "Probability using combinatorics" under "Probability and combinatorics"
+location: Lecture sequence "Probability using combinatorics" [https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic/probability_combinatorics]
 mark: star

@@ -17,4 +17,4 @@ location: Session 38, "Directional derivatives" [http://ocw.mit.edu/courses/math
 mark: star
 
 source: khan_academy_calculus
-location: Lecture sequence "Gradient"
+location: Lecture sequence "Gradient" [https://www.khanacademy.org/math/calculus/partial_derivatives_topic/gradient]

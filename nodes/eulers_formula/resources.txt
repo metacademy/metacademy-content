@@ -1,2 +1,3 @@
 source: khan_academy_calculus
-location: Lecture "Euler's formula and Euler's identity" under "Sequences, series, and function approximation"
+location: Lecture "Euler's formula and Euler's identity" [https://www.khanacademy.org/math/calculus/sequences_series_approx_calc/maclaurin_taylor/v/euler-s-formula-and-euler-s-identity]
+
