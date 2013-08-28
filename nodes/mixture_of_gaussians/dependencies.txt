@@ -1,6 +1,6 @@
 tag: multivariate_gaussian_distribution
+shortcut: 1
 
-tag: multinomial_distribution
 
 # TODO: probability theory dependencies?
 

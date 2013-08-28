@@ -1,3 +1,4 @@
+* The "law of large numbers":weak_law_of_large_numbers justifies the use of Monte Carlo estimation.
 * Some commonly used sampling algorithms include:
 ** "Gibbs sampling":gibbs_sampling, a generic and widely applicable sampling algorithm
 ** "particle filters":particle_filter, which are useful for time series modeling 
