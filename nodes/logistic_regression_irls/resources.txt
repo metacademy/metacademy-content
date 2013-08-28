@@ -9,6 +9,6 @@ location: Section 4.3.3, pages 207-208
 mark: star
 
 source: cs229
-location: Chapter 1, section 7, pages 20-21
+location: Chapter 1, section 7, pages 20-21 [http://cs229.stanford.edu/notes/cs229-notes1.pdf]
 
 

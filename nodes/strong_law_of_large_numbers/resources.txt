@@ -3,4 +3,4 @@ edition: 7
 location: Section 8.4, "The strong law of large numbers," pages 443-445
 
 source: mathmonk_probability
-location: Lecture 5.5, "Law of large numbers and Central Limit Theorem"
+location: Lecture 5.5, "Law of large numbers and Central Limit Theorem" [http://www.youtube.com/watch?v=wadzsURQFT4&list=PL17567A1A3F5DB5E4&index=29]

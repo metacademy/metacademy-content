@@ -24,4 +24,4 @@ location: Section 4.7, "The poisson random variable," pages 160-173
 mark: star
 
 source: mathmonk_probability
-location: Lecture "Expectation of a Poisson random variable"
+location: Lecture "Expectation of a Poisson random variable" [http://www.youtube.com/watch?v=GQ3cuZmbeRg&list=PL17567A1A3F5DB5E4&index=33]

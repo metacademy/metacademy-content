@@ -1,6 +1,8 @@
-source: mathmonk
-location: ML 8.3 - 8.6 (Bayesian Naive Bayes sequence)
-url: http://www.youtube.com/watch?v=CW9YGii1nSA
+source: mathmonk_ml
+location: Lecture 8.3: Bayesian Naive Bayes (part 1) [http://www.youtube.com/watch?v=CW9YGii1nSA&list=PLD0F06AA0D2E8FFBA&index=48]
+location: Lecture 8.4: Bayesian Naive Bayes (part 2) [http://www.youtube.com/watch?v=p96ojC75p5M&list=PLD0F06AA0D2E8FFBA&index=49]
+location: Lecture 8.5: Bayesian Naive Bayes (part 3) [http://www.youtube.com/watch?v=LEFt2WzBUD4&list=PLD0F06AA0D2E8FFBA&index=50]
+location: Lecture 8.6: Bayesian Naive Bayes (part 4) [http://www.youtube.com/watch?v=dBUeoruhYTk&list=PLD0F06AA0D2E8FFBA&index=51]
 
 source: barber
 location: Section 10.3

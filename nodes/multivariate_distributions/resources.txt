@@ -11,6 +11,8 @@ mark: star
 extra: The parts about multivariate cumulative distribution functions are optional.
 
 source: mathmonk_probability
-location: Lecture 5.1, "Multiple discrete random variables"; Lecture 5.2, "Marginals and conditionals"; Lecture 5.3, "Multiple random variables with densities"
+location: Lecture 5.1, "Multiple discrete random variables" [http://www.youtube.com/watch?v=CqYuEwwNUu8&list=PL17567A1A3F5DB5E4&index=25]
+location: Lecture 5.2, "Marginals and conditionals" [http://www.youtube.com/watch?v=UqQmbwBLhFE&list=PL17567A1A3F5DB5E4&index=26]
+location: Lecture 5.3, "Multiple random variables with densities" [http://www.youtube.com/watch?v=AR3SoXCvw8I&list=PL17567A1A3F5DB5E4&index=27]
 mark: star
 

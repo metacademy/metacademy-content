@@ -1,5 +1,5 @@
 source: cs229
-location: Lecture 2, "Generative learning algorithms," Section 1.1, "The multivariate normal distribution"
+location: Lecture 2, "Generative learning algorithms," Section 1.1, "The multivariate normal distribution" [http://cs229.stanford.edu/notes/cs229-notes2.pdf]
 mark: star
 
 source: bishop

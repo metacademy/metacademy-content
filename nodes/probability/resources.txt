@@ -24,7 +24,15 @@ location: Lecture sequence "Basic probability" [https://www.khanacademy.org/math
 location: Lecture sequence "Venn diagrams and adding probabilities" [https://www.khanacademy.org/math/probability/independent-dependent-probability/addition_rule_probability]
 
 source: mathmonk_probability
-location: Lecture sequence 1
+location: Lecture 1.1, "Measure theory: why measure theory - the Banach-Tarski paradox" [http://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4&index=1]
+location: Lecture 1.2, "Measure theory: sigma-algebras" [http://www.youtube.com/watch?v=21a85f1YS5Q&list=PL17567A1A3F5DB5E4&index=2]
+location: Lecture 1.3, "Measure theory: measures" [http://www.youtube.com/watch?v=xlfH6Rk2GCM&list=PL17567A1A3F5DB5E4&index=3]
+location: Lecture 1.4, "Measure theory: examples of measures" [http://www.youtube.com/watch?v=TxBLRz-gNq4&list=PL17567A1A3F5DB5E4&index=4]
+location: Lecture 1.5, "Measure theory: basic properties of measures" [http://www.youtube.com/watch?v=ILXe_NsvQ6Q&list=PL17567A1A3F5DB5E4&index=5]
+location: Lecture 1.6, "Measure theory: basic properties of measures (continued)" [http://www.youtube.com/watch?v=M4fAHWvwid8&list=PL17567A1A3F5DB5E4&index=6]
+location: Lecture 1.7, "Measure theory: more properties of probability measures" [http://www.youtube.com/watch?v=t4cwYCVyQLM&list=PL17567A1A3F5DB5E4&index=7]
+location: Lecture 1.8, "Measure theory: CDFs and Borel probability measures" [http://www.youtube.com/watch?v=wV3JuVI2tLM&list=PL17567A1A3F5DB5E4&index=8]
+location: Lecture 1.S, "Measure theory: summary" [http://www.youtube.com/watch?v=upISxgopsFU&list=PL17567A1A3F5DB5E4&index=10]
 mark: star
 extra: This presents the measure theoretic approach to probability, but should still be accessible without significant math background.
 

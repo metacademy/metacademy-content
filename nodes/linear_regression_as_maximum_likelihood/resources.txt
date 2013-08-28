@@ -1,10 +1,11 @@
-source: mathmonk
+source: mathmonk_ml
 url: http://www.youtube.com/watch?v=ulZW99jsMXY&list=PLD0F06AA0D2E8FFBA&index=55
+location: Lecture 9.4: MLE for linear regression [http://www.youtube.com/watch?v=ulZW99jsMXY&list=PLD0F06AA0D2E8FFBA&index=55]
 mark: star
 extra: detailed derivation of maximum likelihood estimator                          
 
 source: cs229
-location: Chapter 1 Section 3 ``Probabilistic interpretation"
+location: Chapter 1 Section 3 ``Probabilistic interpretation" [http://cs229.stanford.edu/notes/cs229-notes1.pdf]
 mark: star
 extra: quick summary of maximum likelihood estimator
 

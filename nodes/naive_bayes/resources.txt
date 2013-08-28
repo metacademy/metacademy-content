@@ -12,11 +12,11 @@ location: section 6.6.3 (pages 210-211)
 mark: star
 
 source: mathmonk
-location: ML 8.1 and ML 8.2
+location: Lecture 8.1, Naive Bayes classification [http://www.youtube.com/watch?v=8yvBqhm92xA&list=PLD0F06AA0D2E8FFBA&index=46]
+location: Lecture 8.2, More about Naive Bayes [http://www.youtube.com/watch?v=qX7n53NWYI4&list=PLD0F06AA0D2E8FFBA&index=47]
 url: http://www.youtube.com/watch?v=8yvBqhm92xA
 
 source: cs229
-url: http://cs229.stanford.edu/notes/cs229-notes2.pdf
-location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2
+location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2 [http://cs229.stanford.edu/notes/cs229-notes2.pdf]
 mark: star
 

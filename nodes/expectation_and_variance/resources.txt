@@ -21,6 +21,10 @@ location: Lecture "Expectation I"
 mark: star
 
 source: mathmonk_probability
-location: Lecture sequence 4
+location: Lecture 4.1, "Expectation for discrete random variables" [http://www.youtube.com/watch?v=6MCCB6mj8qk&list=PL17567A1A3F5DB5E4&index=20]
+location: Lecture 4.2, "Expectation for random variables with densities" [http://www.youtube.com/watch?v=t_ZlG_WDudk&list=PL17567A1A3F5DB5E4&index=21]
+location: Lecture 4.3, "Expectation rule" [http://www.youtube.com/watch?v=wHnE8VM1De8&list=PL17567A1A3F5DB5E4&index=22]
+location: Lecture 4.4, "Properties of expectation" [http://www.youtube.com/watch?v=PiXu8_4X5dE&list=PL17567A1A3F5DB5E4&index=23]
+location: Lecture 4.5, "Mean, variance, and moments" [http://www.youtube.com/watch?v=fB-K0iryW_k&list=PL17567A1A3F5DB5E4&index=24]
 mark: star
 extra: This uses the measure theoretic notion of probability, but should still be accessible without that background. Refer to Lecture 1.S for unfamiliar terms.
