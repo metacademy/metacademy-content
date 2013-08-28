@@ -1,0 +1,4 @@
+* Know the definition of conditional independence
+* Give examples to show that conditional independence does not imply independence, and vice versa
+* It's likely that you're seeing this page because you want to learn about graphical models. If so, don't bother memorizing the rules of conditional independence; you'll get more intution and practice with them when you learn about graphical models. Just convince yourself that the basic properties make intuitive sense.
+

@@ -2,3 +2,4 @@ tag: conditional_probability
 
 tag: independent_events
 
+tag: random variables

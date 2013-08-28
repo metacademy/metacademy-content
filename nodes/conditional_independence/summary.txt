@@ -1,0 +1,1 @@
+Two random variables X and Y are conditionally independent given a random variable Z if they are independent in the conditional distribution given Z. Conditional independence is central notion in probabilistic modeling, because a model's conditional independence assumptions often lead to tractable algorithms for inference and learning in that model.
