@@ -251,6 +251,7 @@ level: introductory
 key: road_to_reality
 resource_type: book
 title: The Road to Reality
+authors: Roger Penrose
 free: 0
 url: http://www.amazon.com/The-Road-Reality-Complete-Universe/dp/0679776311
 
@@ -264,6 +265,7 @@ level: graduate
 key: edwards_penney
 resource_type: textbook
 title: Multivariable Calculus
+authors: C. Henry Edwards and David E. Penney
 free: 0
 url: http://www.amazon.com/Multivariable-Calculus-Edition-Henry-Edwards/dp/0130339679
 level: introductory
@@ -271,6 +273,7 @@ level: introductory
 key: ocw_auroux
 resource_type: online lectures
 title: MIT Open Courseware: Multivariable Caclulus
+authors: Denis Auroux
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
 level: introductory
@@ -278,6 +281,7 @@ level: introductory
 key: ross
 resource_type: textbook
 title: A First Course in Probability
+authors: Sheldon Ross
 free: 0
 url: http://www.amazon.com/First-Course-Probability-8th-Edition/dp/013603313X
 level: introductory
@@ -285,6 +289,7 @@ level: introductory
 key: feller
 resource_type: textbook
 title: An Introduction to Probability Theory and its Applications
+authors: William Feller
 free: 0
 url: http://www.amazon.com/Introduction-Probability-Theory-Applications-Edition/dp/0471257087
 level: advanced undergraduate
