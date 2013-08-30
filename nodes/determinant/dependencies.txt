@@ -1,3 +1,5 @@
+tag: vectors
+
 tag: matrix_multiplication
 reason: The determinant of a product is the product of the determinants.
 shortcut: 1

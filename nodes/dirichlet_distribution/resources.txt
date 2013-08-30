@@ -3,6 +3,8 @@ location: Lecture 7.7.A1: Dirichlet Distribution [http://www.youtube.com/watch?v
 mark: star
 
 title: Introduction to the Dirichlet Distribution and Related Processes
+resource_type: tutorial
+authors: Bela A. Frigyik and Amon Kapila and Maya R. Gupta
 location: Ch 1 provides core information while Ch 2 focuses on sampling
 url: http://www.ee.washington.edu/research/guptalab/publications/UWEETR-2010-0006.pdf
 mark: star

@@ -12,3 +12,6 @@ reason: The eigenvalues can be computed as roots of a polynomial.
 
 tag: complex_numbers
 reason: The eigenvalues and eigenvectors may be complex valued.
+
+tag: matrix_multiplication
+reason: Eigenvectors and eigenvalues can be used to analyze repeated matrix multiplications.

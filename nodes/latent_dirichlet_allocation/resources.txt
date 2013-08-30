@@ -6,6 +6,7 @@ resource_type: technical report
 mark: star
 
 title: Topic Models
+resource_type: online lecture
 free: 1
 authors: David Blei
 mark: star
