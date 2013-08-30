@@ -59,6 +59,7 @@ key: cs229
 title: Stanford's Machine Learning lecture notes
 authors: Andrew Y. Ng
 url: http://cs229.stanford.edu/materials.html
+specific_url_base: http://cs229.stanford.edu/notes/
 resource_type: lecture notes
 free: 1
 level: advanced undergraduate

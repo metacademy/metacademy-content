@@ -27,7 +27,7 @@ location: Section 4.5.2, pages 108-111
 dependencies: lagrange_duality
 
 source: cs229
-location: Lectures notes 3, "Support vector machines," sections 1-4, pages 1-7 [http://cs229.stanford.edu/notes/cs229-notes3.pdf]
+location: Lectures notes 3, "Support vector machines," sections 1-4, pages 1-7 [cs229-notes3.pdf#page=1]
 mark: star
 
 

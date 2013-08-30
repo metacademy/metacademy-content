@@ -13,7 +13,7 @@ location: Section 14.6.2, pages 496-499
 dependencies: differential_entropy
 
 source: cs229
-location: Lecture notes 11: Independent Components Analysis [http://cs229.stanford.edu/notes/cs229-notes11.pdf]
+location: Lecture notes 11: Independent Components Analysis [cs229-notes11.pdf]
 mark: star
 
 source: mackay

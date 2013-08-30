@@ -17,6 +17,6 @@ location: Lecture 8.2, More about Naive Bayes [http://www.youtube.com/watch?v=qX
 url: http://www.youtube.com/watch?v=8yvBqhm92xA
 
 source: cs229
-location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2 [http://cs229.stanford.edu/notes/cs229-notes2.pdf]
+location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2 [cs229-notes2.pdf#page=8]
 mark: star
 
