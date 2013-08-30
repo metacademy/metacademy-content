@@ -1,6 +1,7 @@
 source: bishop
 edition: 1
-location: Section 8.2, pages 372-383
+free: 1
+location: Section 8.2, pages 372-383 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=32]
 mark: star
 
 source: pgm

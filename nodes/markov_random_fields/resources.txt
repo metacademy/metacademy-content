@@ -1,6 +1,7 @@
 source: bishop
 edition: 1
-location: Sections 8.3-8.3.3, pages 383-390
+free: 1
+location: Sections 8.3-8.3.3, pages 383-390 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=43]
 mark: star
 
 source: murphy

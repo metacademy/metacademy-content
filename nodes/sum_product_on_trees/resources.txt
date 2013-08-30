@@ -15,7 +15,8 @@ location: Section 20.2-20.2.2, pages 707-710
 
 source: bishop
 edition: 1
-location: Section 8.4.4, pages 402-411
+free: 1
+location: Section 8.4.4, pages 402-411 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=62]
 mark: star
 
 source: mackay
