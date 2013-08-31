@@ -8,4 +8,4 @@ location: Section 9.3.2, pages 443-444
 
 source: barber
 edition: 1-online
-location: Section 20.3.5, page 413
+location: Section 20.3.5, "K-means," page 413 [#page=437]

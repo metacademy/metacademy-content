@@ -23,4 +23,4 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 27.4, pages 550-553
+location: Section 27.4, "Markov chain Monte Carlo," pages 550-553 [#page=574]

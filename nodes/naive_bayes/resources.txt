@@ -3,7 +3,7 @@ location: page 380-381
 edition: 1
 
 source: barber
-location: section 10.1 (page 227-232)
+location: section 10.1, "Naive Bayes and conditional independence" (page 227-232) [#page=251]
 edition: 1
 mark: star
 

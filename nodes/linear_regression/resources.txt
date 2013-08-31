@@ -20,6 +20,7 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Sections 17.1-17.2.1, pgs. 343-346
+location: Sections 17.1, "Introduction: fitting a straight line," pages 343-344 [#page=367]
+location: Section 17.2, "Linear parameter models for regression," up through 17.2.1, "Vector outputs," pgs. 344-346 [#page=368]
 
 

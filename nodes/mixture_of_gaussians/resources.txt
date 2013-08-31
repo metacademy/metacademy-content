@@ -10,5 +10,6 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Sections 20.1 (pages 401-402) and 20.3, up to 20.3.1 (page 407)
+location: Section 20.1, "Density estimation using mixtures" (pages 401-402) [#page=425]
+location: Section 20.3, "The Gaussian mixture model," up to 20.3.1, "The EM algorithm" (page 407) [#page=431]
 dependencies: bayesian_networks

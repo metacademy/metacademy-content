@@ -1,6 +1,6 @@
 source: barber
 edition: 1-online
-location: Section 27.5.2, pages 555-557
+location: Section 27.5.2, "Swendson-Wang," pages 555-557 [#page=579]
 
 source: murphy
 edition: 1

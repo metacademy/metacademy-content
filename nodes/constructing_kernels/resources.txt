@@ -12,7 +12,7 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 19.3, pages 388-391
+location: Section 19.3, "Covariance functions," pages 388-391 [#page=412]
 dependencies: gaussian-processes
 
 

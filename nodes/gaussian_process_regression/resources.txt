@@ -14,6 +14,6 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 19.2, pages 386-388
+location: Section 19.2, "Gaussian process prediction," pages 386-388 [#page=410]
 
 

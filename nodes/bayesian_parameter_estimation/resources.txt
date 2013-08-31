@@ -21,7 +21,7 @@ location: Lecture, "Introduction to the full Bayesian approach"
 
 source: barber
 edition: 1-online
-location: Section 9.1, pgs. 189-193
+location: Section 9.1, "Learning as inference," pgs. 189-193 [#page=213]
 mark: star
 
 source: coursera_koller

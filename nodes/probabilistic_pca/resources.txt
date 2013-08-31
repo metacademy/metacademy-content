@@ -9,6 +9,6 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 21.4, page 436
+location: Section 21.4, page 436 [#page=460]
 dependencies: factor_analysis
 

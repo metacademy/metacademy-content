@@ -27,6 +27,7 @@ key: barber
 title: Bayesian Reasoning and Machine Learning
 authors: David Barber
 url: http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
+specific_url_base: http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf
 resource_type: online textbook
 free: 1
 level: graduate

@@ -16,5 +16,5 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 19.1, pages 383-386
+location: Section 19.1, "Non-parametric prediction," pages 383-386 [#page=407]
 dependencies: bayesian-linear-regression

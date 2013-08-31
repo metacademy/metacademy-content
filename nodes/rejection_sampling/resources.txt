@@ -7,7 +7,7 @@ source: mathmonk
 location: Lecture 17.11, Rejection sampling - uniform case [http://www.youtube.com/watch?v=7VwIGwWFu1M&list=PLD0F06AA0D2E8FFBA&index=137]
 
 source:barber
-location: Section 27.1.2
+location: Section 27.1.2, "Rejection sampling," pages 543-544 [#page=567]
 
 source: murphy
 edition: 1

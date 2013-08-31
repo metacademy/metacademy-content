@@ -13,5 +13,5 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 27.5.3, pages 557-558
+location: Section 27.5.3, "Slice sampling," pages 557-558 [#page=581]
  

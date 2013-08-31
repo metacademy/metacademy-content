@@ -13,5 +13,5 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 19.5, pages 394-398
+location: Section 19.5, "Gaussian processes for classification," pages 394-398 [#page=418]
 

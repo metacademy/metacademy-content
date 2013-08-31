@@ -15,4 +15,4 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Sections 23.2-23.2.4, pages 458-462
+location: Sections 23.2-23.2.4, pages 458-462 [#page=482]

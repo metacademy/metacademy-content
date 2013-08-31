@@ -8,7 +8,7 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Section 7.3, pages 349-350
+location: Section 17.3, "The dual representation and kernels," pages 349-350 [#page=373]
 
 source: gpml
 edition: 1

@@ -10,5 +10,6 @@ dependencies: probabilistic_pca
 
 source: barber
 edition: 1
-location: Sections 21.1-21.2, pages 427-433
+location: Section 21.1, "Factor analysis," pages 427-429 [#page=451]
+location: Section 21.2, "Factor analysis: maximum likelihood," pages 429-433 [#page=453]
 mark: star

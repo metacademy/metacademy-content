@@ -5,6 +5,6 @@ location: Lecture 8.5: Bayesian Naive Bayes (part 3) [http://www.youtube.com/wat
 location: Lecture 8.6: Bayesian Naive Bayes (part 4) [http://www.youtube.com/watch?v=dBUeoruhYTk&list=PLD0F06AA0D2E8FFBA&index=51]
 
 source: barber
-location: Section 10.3
+location: Section 10.3, "Bayesian naive Bayes," pages 232-234 [#page=256]
 edition: 1
 

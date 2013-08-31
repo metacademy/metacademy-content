@@ -16,6 +16,6 @@ mark: star
 
 source: barber
 edition: 1-online
-location: Sections 17.4-17.4.3, pages 350-355
+location: Sections 17.4, "Linear parameter models for classification," up through 17.4.3, "Avoiding overconfident classification," pages 350-355 [#page=374]
 mark: star
 
