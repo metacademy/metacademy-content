@@ -1,0 +1,3 @@
+* Derive the formulas for Bayesian estimation of Bayes net parameters, and for the predictive distribution over new data, in the simplest case where all variables are fully observed.
+* In particular, see why posterior inference and prediction can both decompose into independent problems associated with each CPT. What has to be true of the prior for the problem to decompose this way?
+* Be able to represent the Bayesian parameter estimation problem itself as a Bayes net, i.e. build a Bayes net where the parameters and data are represented as separate sets of variables. This ties together the problems of learning and inference.

@@ -1,0 +1,1 @@
+The parameters of a Bayes net can be estimated using maximum likelihood. In the most general parameterization, when the data are fully observed, the ML estimation problem decomposes into independent subproblems associated with each CPT. 

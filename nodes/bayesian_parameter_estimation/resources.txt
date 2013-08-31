@@ -25,6 +25,9 @@ location: Section 9.1, "Learning as inference," pgs. 189-193 [#page=213]
 mark: star
 
 source: coursera_koller
-location: Lectures "Bayesian estimation" and "Bayesian prediction"
-dependencies: maximum_likelihood, bayesian_networks, multinomial_distribution
+location: Lecture "Bayesian estimation"
+location: Lecture "Bayesian prediction"
+dependencies: maximum_likelihood
 mark: star
+extra: If you're not familiar with Bayes nets, don't worry: most of these lectures don't depend on them.
+

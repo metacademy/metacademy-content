@@ -1,0 +1,4 @@
+* Know how to determine the maximum likelihood estimate for the parameters in a Bayes net when all of the variables are fully observed.
+* In particular, understand why the problem decomposes into independent parameter learning subproblems associated with each CPT, and why the assumption of full observations is necessary.
+** The decomposition into independent terms isn't just used for maximum likelihood estimation -- it's the basis behind a number of other algorithms for learning Bayes nets.
+* How does the maximum likelihood solution change when parameters are shared between different CPTs?

@@ -1,0 +1,8 @@
+source: pgm
+edition: 2
+location: Section 17.4, "Bayesian parameter estimation in Bayesian networks," not including 17.4.1, "MAP estimation," pages 741-751
+mark: star
+
+source: coursera_koller
+location: Lecture "Bayesian estimation for Bayesian networks"
+mark: star

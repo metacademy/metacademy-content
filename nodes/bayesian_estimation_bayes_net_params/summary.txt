@@ -1,0 +1,1 @@
+Bayesian parameter estimation techniques can be applied to learning Bayes net parameters. This leads to more stable estimates in situations with limited data and can improve generalization performance.

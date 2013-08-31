@@ -19,3 +19,8 @@ source: mackay
 edition: 1
 location: Section 22.1, "Maximum likelihood for one Gaussian," pages 300-302 [302.320.pdf#page=1]
 
+source: coursera_koller
+location: Lecture "Maximum likelihood estimation"
+dependencies: bayesian_networks
+extra: If you're not familiar with Bayes nets, don't worry: most of this lecture doesn't depend on them.
+mark: star
