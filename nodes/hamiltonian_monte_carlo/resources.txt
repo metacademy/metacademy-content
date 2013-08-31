@@ -4,7 +4,7 @@ location: Section 11.5, pages 548-554
 
 source: mackay
 edition: 1
-location: Section 30.1, pages 387-390
+location: Section 30.1, "Hamiltonian Monte Carlo," pages 387-390 [389.414.pdf#page=1]
 
 source: barber
 edition: 1-online

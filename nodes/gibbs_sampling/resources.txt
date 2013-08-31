@@ -20,7 +20,7 @@ dependencies: bayesian_networks
 mark: star
 
 source: mackay
-location: Section 29.5, pages 370-371
+location: Section 29.5, "Gibbs sampling," pages 370-371 [358.386.pdf#page=15]
 dependencies: metropolis_hastings
 
 source: barber

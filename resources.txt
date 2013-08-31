@@ -92,6 +92,7 @@ key: mackay
 title: Information Theory, Inference, and Learning Algorithms
 authors: David MacKay
 url: http://www.inference.phy.cam.ac.uk/itprnn/book.html
+specific_url_base: http://www.cs.toronto.edu/~mackay/itprnn/ps/
 resource_type: online textbook
 free: 1
 level: graduate

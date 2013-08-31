@@ -14,5 +14,5 @@ mark: star
 
 source: mackay
 edition: 1
-location: Chapter 20, pages 284-290
+location: Chapter 20, "An example inference task: clustering," pages 284-290 [286.294.pdf]
 mark: star

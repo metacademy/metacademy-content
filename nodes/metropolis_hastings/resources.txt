@@ -18,7 +18,7 @@ mark: star
 
 source: mackay
 edition: 1
-location: Section 29.4, pages 365-370
+location: Section 29.4, "The Metropolis-Hastings method," pages 365-370 [358.386.pdf#page=10]
 mark: star
 
 source: barber

@@ -14,6 +14,6 @@ location: Section 11.1.4, pages 532-534
 
 source: mackay
 edition: 1
-location: Section 29.2, pages 361-364
+location: Section 29.2, "Importance sampling," pages 361-364 [358.386.pdf#page=6]
 dependencies: multivariate_gaussian_distribution
 mark: star

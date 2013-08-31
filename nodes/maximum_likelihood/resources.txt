@@ -17,5 +17,5 @@ mark: star
 
 source: mackay
 edition: 1
-location: Section 22.1, pages 300-302
-mark: star
+location: Section 22.1, "Maximum likelihood for one Gaussian," pages 300-302 [302.320.pdf#page=1]
+

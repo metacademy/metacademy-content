@@ -18,5 +18,6 @@ mark: star
 
 source: mackay
 edition: 1
-location: Sections 34.1-34.2, pages 437-440
+location: Section 34.1, "Latent variable models," page 437 [438.446.pdf#page=1]
+location: Section 34.2, "The generative model for independent component analysis," pages 437-440 [438.446.pdf#page=1]
 mark: star

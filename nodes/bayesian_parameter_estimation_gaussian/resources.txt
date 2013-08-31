@@ -5,7 +5,7 @@ mark: star
 
 source: mackay
 edition: 1
-location: Chapter 24, pgs. 319-323
+location: Chapter 24, "Exact marginalization," pgs. 319-323 [321.325.pdf#page=1]
 mark: star
 
 

@@ -15,5 +15,5 @@ mark: star
 
 source: mackay
 edition: 1
-location: Section 29.6, pages 372-374
+location: Section 29.6, "Terminology for Markov chain Monte Carlo methods," pages 372-374 [358.386.pdf#page=17]
 mark: star

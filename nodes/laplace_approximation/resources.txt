@@ -9,5 +9,5 @@ location: Section 8.4.1, page 255
 
 source: mackay
 edition: 1
-location: Chapter 27, pages 341-342
+location: Chapter 27, "Laplace's method," pages 341-342 [343.344.pdf]
 mark: star

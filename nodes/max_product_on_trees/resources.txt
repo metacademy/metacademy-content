@@ -17,5 +17,5 @@ mark: star
 
 source: mackay
 edition: 1
-location: Section 26.3, pages 339-340
+location: Section 26.3, "The min-sum algorithm," pages 339-340 [336.342.pdf#page=6]
 dependencies: sum-product-on-trees

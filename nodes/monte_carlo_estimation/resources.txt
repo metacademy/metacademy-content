@@ -11,5 +11,5 @@ source: coursera_koller
 location: Lecture "Simple sampling"
 
 source: mackay
-location: Section 29.1, pages 357-361
+location: Section 29.1, "The problems to be solved," pages 357-361 [358.386.pdf#page=2]
 mark: star

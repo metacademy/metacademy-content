@@ -16,6 +16,6 @@ mark: star
 
 source: mackay
 edition: 1
-location: Section 29.3, pages 364-365
+location: Section 29.3, "Rejection sampling," pages 364-365 [358.386.pdf#page=9]
 dependencies: multivariate_gaussian_distribution
 mark: star
