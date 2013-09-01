@@ -1,6 +1,7 @@
 source: esl
-edition: 1
-location: Sections 12.3.5-12.3.6, pages 385-389
+edition: 2
+location: Section 12.3.6, "Support vector machines for regression," pages 434-436 [#page=453]
+location: Section 12.3.6, pages 436-437 [#page=455]
 dependencies: kernel-svm
 mark: star
 

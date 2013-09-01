@@ -5,7 +5,7 @@ mark: star
 extra: If you don't know what PCA is, just think of it as the SVD.
 
 source: esl
-edition: 1
-location: Section 3.4.3, subsection "Ridge regression," pages 59-64
+edition: 2
+location: Section 3.4.1, "Ridge regression," pages 61-68 [#page=80]
 mark: star
 

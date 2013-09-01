@@ -14,6 +14,6 @@ dependencies: lagrange_multipliers
 mark: star
 
 source: esl
-edition: 1
-location: Section 14.5.1, pages 485-491
+edition: 2
+location: Section 14.5.1, "Principal components," pages 534-541 [#page=553]
 dependencies: lagrange_multipliers

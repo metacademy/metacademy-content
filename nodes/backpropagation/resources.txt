@@ -8,8 +8,10 @@ location: Sections 5.2-5.3, pages 232-249
 mark: star
 
 source: esl
-edition: 1
-location: Section 11.4, pages 353-355
+edition: 2
+location: Section 11.4, "Fitting neural networks," pages 395-397 [#page=414]
+extra: Sections 11.5-11.7 discuss practical issues and examples in training neural nets.
+mark: star
 
 source: coursera_ng
 location: Lecture series "Neural networks: learning"

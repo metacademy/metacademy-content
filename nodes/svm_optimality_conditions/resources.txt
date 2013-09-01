@@ -3,7 +3,8 @@ location: Lecture notes 3, "Support vector machines," Section 6, pages 10-13 [cs
 mark: star
 
 source: esl
-location: Section 4.5.2, pages 108-111
+edition: 2
+location: Section 4.5.2, "Optimal separating hyperplanes," pages 132-135 [#page=151]
 
 source: bishop
 edition: 1

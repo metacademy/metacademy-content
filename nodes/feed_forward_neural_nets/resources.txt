@@ -4,8 +4,8 @@ location: Section 5.1, pages 227-232
 mark: star
 
 source: esl
-edition: 1
-location: Section 11.3, pages 350-354
+edition: 2
+location: Section 11.3, "Neural networks," pages 3392-395 [#page=411]
 
 source: aima
 edition: 2

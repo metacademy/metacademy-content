@@ -8,6 +8,6 @@ location: Section 7.1.2, pages 336-338
 mark: star
 
 source: esl
-edition: 1
-location: Section 12.3.2, pages 380-381
+edition: 2
+location: Section 12.3.2, "The SVM as a penalization method," pages 426-428 [#page=445]
 mark: star

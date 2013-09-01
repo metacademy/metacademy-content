@@ -11,6 +11,6 @@ extra: not self-contained but provides some nice examples
 edition: 1
 
 source: esl
-location: Section 2.9
+location: Section 2.9, "Model selection and the bias-variance tradeoff," pages 37-38 [#page=56]
 edition: 2
 

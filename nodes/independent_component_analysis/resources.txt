@@ -8,8 +8,8 @@ edition: 1
 location: Section 12.4.1, pages 591-592
 
 source: esl
-edition: 1
-location: Section 14.6.2, pages 496-499
+edition: 2
+location: Section 14.7.2, "Independent component analysis," pages 560-565 [#page=579]
 dependencies: differential_entropy
 
 source: cs229

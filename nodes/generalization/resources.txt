@@ -3,8 +3,8 @@ location: Lectures: "The problem of overfitting," "Model selection and train/val
 mark: star
 
 source: esl
-edition: 1
-location: Section 7.1, pgs. 193-196
+edition: 2
+location: Section 7.2, "Bias, variance, and model complexity," pgs. 219-223 [#page=238]
 
 source: murphy
 edition: 1

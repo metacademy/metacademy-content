@@ -52,6 +52,7 @@ key: esl
 title: The Elements of Statistical Learning
 authors: Trevor Hastie and Robert Tibshirani and Jerome Friedman
 url: http://www-stat.stanford.edu/~tibs/ElemStatLearn/
+specific_url_base: http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
 resource_type: online textbook
 free: 1
 level: graduate

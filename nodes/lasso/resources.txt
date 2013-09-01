@@ -1,6 +1,7 @@
 source: esl
-edition: 1
-location: Section 3.4.3, subsection "The Lasso," pgs. 64-65
+edition: 2
+location: Section 3.4.2, "The Lasso," pgs. 68-69 [#page=87]
+location: Section 3.4.3, "Discussion: subset selection, ridge regression, and the Lasso," pages 69-73 [#page=88]
 mark: star
 
 source: bishop

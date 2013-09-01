@@ -8,7 +8,8 @@ edition: 1
 mark: star
 
 source: esl
-location: section 6.6.3 (pages 210-211)
+edition: 2
+location: section 6.6.3, "The Naive Bayes classifier" (pages 210-211) [#page=229]
 mark: star
 
 source: mathmonk
