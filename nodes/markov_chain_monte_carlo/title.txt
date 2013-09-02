@@ -1,1 +1,1 @@
-Markov-chain Monte Carlo
+Markov chain Monte Carlo
