@@ -11,7 +11,7 @@ dependencies: bayesian-linear-regression
 
 source: gpml
 edition: 1
-location: Section 2.2, up to "Prediction with noise-free observations," pages 13-15
+location: Section 2.2, up to "Prediction with noise-free observations," pages 13-15 [RW2.pdf#page=7]
 mark: star
 
 source: barber

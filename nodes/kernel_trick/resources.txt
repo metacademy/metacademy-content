@@ -12,6 +12,6 @@ location: Section 17.3, "The dual representation and kernels," pages 349-350 [#p
 
 source: gpml
 edition: 1
-location: Section 2.1, pages 7-12
+location: Section 2.1, pages 7-12 [RW2#page=1]
 mark: star
 

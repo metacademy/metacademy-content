@@ -9,7 +9,7 @@ location: Section 15.1-15.2.3, pages 515-521
 
 source: gpml
 edition: 1
-location: Section 2.2, starting with "Prediction with noise-free observations," pages 15-19
+location: Section 2.2, starting with "Prediction with noise-free observations," pages 15-19 [RW2.pdf#page=9]
 mark: star
 
 source: barber

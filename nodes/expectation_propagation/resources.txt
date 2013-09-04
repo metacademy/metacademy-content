@@ -17,6 +17,6 @@ dependencies: lagrange_multipliers, gaussian_distribution
 
 source: gpml
 edition: 1
-location: Section 3.6, pages 52-60
+location: Section 3.6, pages 52-60 [RW3.pdf#page=20]
 dependencies: gaussian_process_classification
 extra: This gives the special case of EP for Gaussian process classification.

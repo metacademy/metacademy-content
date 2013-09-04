@@ -165,6 +165,7 @@ authors: Carl E. Rasmussen and Christopher K. I. Williams
 resource_type: textbook
 free: 1
 url: http://www.gaussianprocess.org/gpml/
+specific_url_base: http://www.gaussianprocess.org/gpml/chapters/
 level: graduate
 
 key: motwani_randomized_algorithms
