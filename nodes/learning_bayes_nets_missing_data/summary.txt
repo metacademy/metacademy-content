@@ -1,0 +1,1 @@
+There is no closed-form solution for the maximum likelihood parameters of a Bayes net when some of the variables are unobserved. However, it is possible to apply the EM algorithm, where the E step involves computing marginals and the M step involves computing the maximum likelihood parameters with fully observed data.

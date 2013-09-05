@@ -2,3 +2,10 @@ tag: bayes-net-parameter-learning
 
 tag: expectation-maximization
 reason: We can use the EM algorithm to fill in missing data.
+
+tag: maximum_likelihood
+reason: Maximum likelihood is used in the M step.
+shortcut: 1
+
+tag: inference_in_mrfs
+reason: The E step requires solving an inference problem.

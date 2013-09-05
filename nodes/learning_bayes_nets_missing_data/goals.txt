@@ -1,0 +1,8 @@
+* Be able to use the EM algorithm to learn Bayes net parameters when some of the variables are unobserved.
+** Know how to derive the update rules.
+** Know how you would implement it if you're given toolboxes for inference and for parameter learning with fully observed data. What outputs are needed from the inference algorithm?
+* What is the missing at random assumption, and why is it needed to apply EM?
+* In the fully observed case, maximum likelihood decomposed into separate estimation problems for each clique. Why doesn't that happen when there is missing data?
+** And why does the decomposition hold in the M step?
+* Give an example where the likelihood function is multimodal (and therefore you shouldn't always expect to the global optimum).
+* Give an example where the model is unidentifiable, i.e. multiple parameter settings are equally good.

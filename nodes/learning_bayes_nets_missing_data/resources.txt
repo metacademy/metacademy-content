@@ -1,0 +1,15 @@
+source: coursera_koller
+location: Lecture "Learning with incomplete data -- overview"
+location: Lecture "Expectation-Maximization -- intro" (If you already understand EM, try figuring out the updates for yourself first!)
+extra: The lecture "EM in practice" has good practical advice about using EM, and "Latent variables" talks about some cool applications.
+mark: star
+
+source: pgm
+edition: 1
+location: Section 19.1, "Foundations," pages 849-862
+location: Section 19.2.2.3, "The EM algorithm for Bayesian networks," pages 872-875
+mark: star
+extra: The part of 19.2.2.3 about exponential families is optional.
+
+
+
