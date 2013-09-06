@@ -1,4 +1,5 @@
 source: boyd_convex_optimization
 edition: 1
-location: Section 4.1, "Optimization problems," pages 127-136; Section 4.2, "Convex optimization," pages 136-146
+location: Section 4.1, "Optimization problems," pages 127-136 [#page=141]
+location: Section 4.2, "Convex optimization," pages 136-146 [#page=150]
 mark: star

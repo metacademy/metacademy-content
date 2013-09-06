@@ -1,6 +1,7 @@
 source: boyd_convex_optimization
 edition: 1
-location: Section 2.1, "Affine and convex sets," pages 21-26; Section 2.2, "Some important examples," pages 27-35
+location: Section 2.1, "Affine and convex sets," pages 21-26 [#page=35]
+location: Section 2.2, "Some important examples," pages 27-35 [#page=41]
 mark: star
 extra: Some of the examples may involve math you haven't seen; if so, just try to get the gist.
 

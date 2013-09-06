@@ -8,6 +8,6 @@ location: Lecture "Factorization into A = LU" [http://ocw.mit.edu/courses/mathem
 mark: star
 
 source: beezer
-location: Section "Triangular decomposition"
+location: Section "Triangular decomposition" [http://linear.ups.edu/download/fcla-electric-2.99.pdf#page=958]
 mark: star
 

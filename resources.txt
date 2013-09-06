@@ -157,6 +157,7 @@ title: Graphical models, exponential families, and variational inference
 resource_type: paper
 free: 1
 url: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
+specific_url_base: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
 level: expert
 
 key: gpml
@@ -221,6 +222,7 @@ title: A First Course in Linear Algebra
 authors: Robert A. Beezer
 free: 1
 url: http://linear.ups.edu/
+specific_url_base: http://linear.ups.edu/html/
 level: advanced undergraduate
 
 key: shifrin
@@ -399,6 +401,7 @@ authors: Stephen Boyd and Lieven Vandenberghe
 resource_type: textbook
 free: 1
 url: http://www.stanford.edu/~boyd/cvxbook/
+specific_url_base: http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 level: graduate
 
 key: princeton_companion

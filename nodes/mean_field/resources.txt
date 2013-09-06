@@ -15,6 +15,6 @@ dependencies: markov_random_fields
 mark: star
 
 source: wainwright_jordan_tutorial
-location: Sections 5.1-5.4, pages 127-142
+location: Sections 5.1-5.4, pages 127-142 [#page=127]
 dependencies: convex_duality, mrfs_as_exponential_families, gaussian_mrfs, convex_optimization
 

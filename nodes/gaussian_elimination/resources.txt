@@ -12,7 +12,8 @@ location: Lecture "Elimination with matrices" [http://ocw.mit.edu/courses/mathem
 mark: star
 
 source: beezer
-location: Sections "Solving systems of linear equations" and "Reduced row-echelon form"
+location: Section "Solving systems of linear equations" [section-SSLE.html]
+location: Section "Reduced row-echelon form" [section-RREF.html]
 mark: star
 
 source: shifrin

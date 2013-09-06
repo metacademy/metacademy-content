@@ -1,6 +1,6 @@
 source: beezer
 edition: 3
-location: Section "Subspaces," pages 334-346
+location: Section "Subspaces," pages 334-346 [section-S.html]
 dependencies: vector_spaces, gaussian_elimination, complex_vectors_and_matrices
 
 source: strang

@@ -1,6 +1,7 @@
 source: boyd_convex_optimization
 edition: 1
-location: Section 5.1, "The Lagrange dual function," pages 215-223; Section 5.2, "The Lagrange dual problem," pages 223-231
+location: Section 5.1, "The Lagrange dual function," pages 215-223 [#page=229]
+location: Section 5.2, "The Lagrange dual problem," pages 223-231 [#page=237]
 mark: star
 extra: See Section 3.3 for the definition of the convex conjuate and Section 4.3 for the definition of a linear program.
 

@@ -13,7 +13,9 @@ mark: star
 
 source: beezer
 edition: 3
-location: Sections "Vector operations," "Linear combinations," and "Spanning sets"
+location: Section "Vector operations" [section-VO.html]
+location: Section "Linear combinations" [section-LC.html]
+location: Section "Spanning sets" [section-SS.html]
 dependencies: linear_systems_as_matrices
 
 source: ocw_strang

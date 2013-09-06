@@ -14,7 +14,7 @@ mark: star
 
 source: beezer
 edition: 3
-location: Section "Similarity and diagonalization"
+location: Section "Similarity and diagonalization" [section-SD.html]
 dependencies: complex_vectors_and_matrices, multiplicities_of_eigenvalues
 mark: star
 

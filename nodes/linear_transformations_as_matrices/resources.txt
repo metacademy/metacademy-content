@@ -20,6 +20,6 @@ mark: star
 
 source: beezer
 edition: 2
-location: Section "Linear transformations"
+location: Section "Linear transformations" [section-LT.html]
 dependencies: complex_vectors_and_matrices, bases, vector_spaces
 

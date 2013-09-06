@@ -9,7 +9,7 @@ location: Sections 11.2 (pages 386-390), 11.3.5 (pages 404-407) and 11.3.6 (page
 dependencies: junction_trees
 
 source: wainwright_jordan_tutorial
-location: Sections 4.1-4.1.4, pages 76-91
+location: Sections 4.1-4.1.4, pages 76-91 [#page=76]
 dependencies: mrfs_as_exponential_families
 mark: star
 

@@ -14,7 +14,8 @@ extra: Watch the lecture sequence "Functions and linear transformations" if you'
 
 source: beezer
 edition: 3
-location: Sections "Matrix operations" and "Matrix multiplication"
+location: Section "Matrix operations" [section-MO.html]
+location: Section "Matrix multiplication" [section-MM.html]
 
 source: shifrin
 edition: 1

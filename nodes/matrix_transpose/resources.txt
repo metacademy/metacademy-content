@@ -8,7 +8,7 @@ location: Lectures "Transpose of a matrix," "Transpose of a matrix product," "Tr
 mark: star
 
 source: beezer
-location: Section "Matrix operations," subsection "Transposes and symmetric matrices"
+location: Section "Matrix operations," subsection "Transposes and symmetric matrices" [section-MO.html]
 
 source: shifrin
 location: Section 1.4.2, "The transpose," pages 36-38

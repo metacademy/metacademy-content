@@ -27,7 +27,9 @@ dependencies: column_space_and_nullspace, gaussian_elimination
 
 source: beezer
 edition: 3
-location: Sections "Linear independence and spanning sets"; section "Bases," subsections "Bases" and "Bases for spans of column vectors"; and section "Dimension," subsections "Dimension" and "Dimension of vector spaces"
+location: Section "Linear independence and spanning sets" [section-LISS.html]
+location: section "Bases," subsections "Bases" and "Bases for spans of column vectors" [section-B.html]
+location: Section "Dimension," subsections "Dimension" and "Dimension of vector spaces" [section-D.html]
 dependencies: gaussian_elimination, complex_vectors_and_matrices
 
 source: wikipedia

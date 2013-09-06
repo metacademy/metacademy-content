@@ -12,7 +12,8 @@ location: Lecture sequence "Eigen-everything" [https://www.khanacademy.org/math/
 
 source: beezer
 edition: 3
-location: Sections "Eigenvalues and eigenvectors" and "Properties of eigenvalues and eigenvectors"
+location: Section "Eigenvalues and eigenvectors" [section-EE.html]
+location: "Properties of eigenvalues and eigenvectors" [section-PEE.html]
 dependencies: complex_vectors_and_matrices
 mark: star
 

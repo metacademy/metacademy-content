@@ -8,6 +8,6 @@ edition: 1
 location: Section 11.5.2, pages 456-468
 
 source: wainwright_jordan_tutorial
-location: Section 5.5, pages 142-147
+location: Section 5.5, pages 142-147 [#page=142]
 dependencies: mrfs_as_exponential_families, variational_inference_conjugate_duality
 

@@ -1,6 +1,6 @@
 source: beezer
 edition: 3
-location: Section "Vector spaces" of chapter "Vector spaces"
+location: Section "Vector spaces" of chapter "Vector spaces" [section-VS.html]
 mark: star
 
 source: strang

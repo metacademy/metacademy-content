@@ -5,6 +5,6 @@ mark: star
 
 source: beezer
 edition: 3
-location: Section "Properties of eigenvalues and eigenvectors," subsection "Multiplicities of eigenvalues"
+location: Section "Properties of eigenvalues and eigenvectors," subsection "Multiplicities of eigenvalues" [section-PEE.html]
 mark: star
 

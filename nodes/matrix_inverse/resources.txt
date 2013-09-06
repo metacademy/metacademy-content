@@ -13,7 +13,7 @@ extra: Watch the "Functions and linear transformations" lecture sequence if you'
 
 source: beezer
 edition: 3
-location: Section "Matrix inverses and systems of linear equations"
+location: Section "Matrix inverses and systems of linear equations" [section-MISLE.html]
 
 source: shifrin
 edition: 1

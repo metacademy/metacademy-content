@@ -14,7 +14,7 @@ location: Section 20.6, pages 749-752
 
 source: boyd_convex_optimization
 edition: 1
-location: Section 8.6-8.6.1, up to "Approximate linear discrimination," pages 422-427
+location: Section 8.6-8.6.1, up to "Approximate linear discrimination," pages 422-427 [#page=436]
 
 source: murphy
 edition: 1
