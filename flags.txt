@@ -1,2 +1,2 @@
 key: active_research
-text: This concept is an active area of research, so our understanding of it is likely to change considerably.
+text: This concept is an active area of research, so our understanding of it may change considerably.
