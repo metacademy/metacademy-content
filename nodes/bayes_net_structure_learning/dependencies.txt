@@ -4,3 +4,9 @@ reason: The same Bayesian analysis is used to derive the Bayesian scoring criter
 tag: bayesian-model-comparison
 reason: The Bayesian scoring criterion is the Bayes factor for a particular model.
 
+tag: generalization
+reason: One desideratum for Bayes net structures is that they generalize well to new data.
+shortcut: 1
+
+tag: gamma_function
+reason: The closed form for the Bayesian score includes the Gamma function.

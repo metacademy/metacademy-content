@@ -1,0 +1,8 @@
+* How are the requirements for structure learning different if your goal is knowledge discovery or density modeling?
+** In particular, if the goal is density modeling, why might you want a graph which is sparser than the true one?
+* Why isn't the maximum likelihood score appropriate for evaluating graph structures?
+* Be able to derive the Bayesian (marginal likelihood) score for evaluating Bayes nets.
+** What assumptions about the prior are needed for the solution to have a convenient closed form?
+** The Bayesian score implicitly penalizes complex graphs. Why does this happen?  (Hint: it's not the prior over graph structures, as you might expect!)
+* Give an example where the graph is not identifiable, i.e. there are multiple graph structures which yield the same set of distributions.
+* Give an example where the graph structure is identifiable.

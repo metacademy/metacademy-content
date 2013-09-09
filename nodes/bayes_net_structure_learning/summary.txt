@@ -1,0 +1,1 @@
+If the structure of a Bayes net (in particular, the set of edges) is not known, we may wish to learn it from data. This requires trading off the degree of fit with the complexity of the network. The Bayesian score gives a simple and efficient way of evaluating Bayes net structures.
