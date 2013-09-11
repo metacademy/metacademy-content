@@ -1,0 +1,5 @@
+* Be able to formulate the problem of learning tree-structured graphical models as a maximum spanning tree problem.
+** What assumptions does this require on the scoring function?
+* The algorithm only applies to trees (where a node has at most one parent) rather than polytrees (where a node can have multiple parents). Why does it fail for polytrees?
+* Why is the maximum likelihood score an acceptable scoring criterion for tree-based networks, unlike for general Bayes nets?
+* Show that the problem can be equivalently viewed as learning the structure of a tree-structured MRF.

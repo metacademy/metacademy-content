@@ -1,0 +1,12 @@
+source: pgm
+edition: 1
+location: Section 18.4.1, "Learning tree-structured networks," pages 808-809
+
+source: murphy
+edition: 1
+location: Section 26.3, "Learning tree structures," pages 910-914
+mark: star
+
+source: coursera_koller
+location: Lecture "Learning tree-structured networks"
+mark: star

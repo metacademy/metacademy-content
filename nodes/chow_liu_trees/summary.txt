@@ -1,0 +1,1 @@
+While the problem of learning Bayes net structures is intractable in general, there is a polynomial time algorithm for learning the optimal tree-structured graph under various scoring criteria. In particular, it can be formulated as a maximum weight spanning tree problem. The maximum likelihood trees are known as Chow-Liu trees, after their original inventors. 

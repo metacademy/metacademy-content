@@ -1,3 +1,5 @@
 tag: bayes-net-structure-learning
 reason: Chow-Liu trees are a method of Bayes net structure learning.
 
+tag: markov_random_fields
+reason: Chow-Liu trees can be viewed as MRFs.
