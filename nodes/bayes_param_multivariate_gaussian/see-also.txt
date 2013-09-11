@@ -6,4 +6,4 @@
 ** "principal component analysis (PCA)":principal_component_analysis
 ** "factor analysis":factor_analysis
 ** "probabilistic matrix factorization (PMF)":probabilistic_matrix_factorization
-** "sparse Gaussian graphical models"learning_sparse_gaussian_graphical_models
+** "sparse Gaussian graphical models":learning_sparse_gaussian_graphical_models
