@@ -1,0 +1,5 @@
+* There are many techniques for solving linear systems that involve matrix operations such as:
+** "matrix multiplication":matrix_multiplication
+** "matrix transpose":matrix_transpose
+** "matrix inverse":matrix_inverse
+* Computing the "LU factorization":lu_factorization is a computationally efficient method for solving linear systems
