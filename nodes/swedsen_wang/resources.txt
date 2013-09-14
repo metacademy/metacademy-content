@@ -4,5 +4,5 @@ location: Section 27.5.2, "Swendson-Wang," pages 555-557 [#page=579]
 
 source: murphy
 edition: 1
-location: Section 24.5.3, pages 866-888
+location: Section 24.5.3, pages 866-868
 mark: star

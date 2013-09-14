@@ -14,11 +14,13 @@ location: Section 2.5, "Sample spaces having equally likely outcomes," pages 37-
 mark: star
 
 source: bamberg
-location: Lectures "Probability by counting and inclusion-exclusion" and "Principles of counting"
+location: Lecture "Probability by counting and inclusion-exclusion"
+location: Lecture "Principles of counting"
 mark: star
 
 source: edx_probability
-location: Lecture 1.3, "Multiplication rule," and Lecture 1.4, "Problem-solving techniques"
+location: Lecture 1.3, "Multiplication rule,"
+location: Lecture 1.4, "Problem-solving techniques"
 mark: star
 
 source: khan_academy_probability

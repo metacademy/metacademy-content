@@ -15,6 +15,9 @@ mark: star
 dependencies: bayesian-networks
 
 source: coursera_koller
-location: Lectures "Variable elimination algorithm," "Complexity of variable elimination," "Graph-based perspective on variable elimination," and "Finding elimination orderings"
+location: Lecture "Variable elimination algorithm"
+location: Lecture "Complexity of variable elimination"
+location: Lecture "Graph-based perspective on variable elimination"
+location: Lecture "Finding elimination orderings"
 mark: star
 dependencies: bayesian-networks

@@ -10,6 +10,8 @@ location: Sections 3.3-3.3.2, pages 68-74
 mark: star
 
 source: coursera_koller
-location: Lectures "Flow of probabilistic influence," "Conditional independence," and "Independencies in Bayesian networks" under "Bayesian network fundamentals"
+location: Lecture "Flow of probabilistic influence"
+location: Lecture "Conditional independence"
+location: Lecture "Independencies in Bayesian networks"
 mark: star
 

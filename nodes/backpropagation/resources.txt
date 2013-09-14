@@ -18,7 +18,9 @@ location: Lecture series "Neural networks: learning"
 mark: star
 
 source: coursera_hinton
-location: Lectures "Learning the weights of a logistic output neuron," "The backpropagation algorithm," and "Using the derivatives computed by backpropagation"
+location: Lecture "Learning the weights of a logistic output neuron"
+location: Lecture "The backpropagation algorithm"
+location: Lecture "Using the derivatives computed by backpropagation"
 mark: star
 
 

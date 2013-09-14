@@ -1,5 +1,6 @@
 source: coursera_ng
-location: Lectures "Optimization objective" and "Using an SVM" under "Support vector machines"
+location: Lecture "Optimization objective" under "Support vector machines"
+location: Lecture "Using an SVM"
 mark: star
 
 source: bishop

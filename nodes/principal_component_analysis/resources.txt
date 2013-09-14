@@ -1,5 +1,5 @@
 source: coursera_ng
-location: all lectures under "Dimensionality reduction"
+location: Lecture sequence "Dimensionality reduction"
 mark: star
 
 source: murphy

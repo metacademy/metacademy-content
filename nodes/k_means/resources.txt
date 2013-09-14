@@ -9,7 +9,7 @@ location: Sections 11.4.2.5-11.4.2.7, pages 352-355
 dependencies: mixture_of_gaussians
 
 source: coursera_ng
-location: all lectures under "Clustering"
+location: Lecture sequence "Clustering"
 mark: star
 
 source: mackay

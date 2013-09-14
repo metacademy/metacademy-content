@@ -3,7 +3,12 @@ location: Section 3.6, "Dimensions of the four subspaces," pages 184-189
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Null space and column space basis," "Visualizing a column space as a plane in R^3," "Dimension of the null space or nullity," "Dimension of the column space or rank," "Showing relation between basis cols and pivot cols," and "Showing that the candidate basis does span C(A)" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/null_column_space/v/null-space-and-column-space-basis]
+location: Lecture "Null space and column space basis" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/null_column_space/v/null-space-and-column-space-basis]
+location: Lecture "Visualizing a column space as a plane in R^3"
+location: Lecture "Dimension of the null space or nullity"
+location: Lecture "Dimension of the column space or rank"
+location: Lecture "Showing relation between basis cols and pivot cols"
+location: Lecture "Showing that the candidate basis does span C(A)"
 mark: star
 
 source: ocw_strang

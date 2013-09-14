@@ -1,3 +1,4 @@
 source: coursera_koller
-location: Lectures "Overview: conditional probability queries" and "Overview: MAP inference"
+location: Lecture "Overview: conditional probability queries"
+location: Lecture "Overview: MAP inference"
 mark: star

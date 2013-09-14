@@ -8,7 +8,12 @@ location: Lecture "Projections onto subspaces," up to 42:00 [http://ocw.mit.edu/
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Projections onto subspaces," "Visualizing a projection onto a plane," "A projection onto a subspace is a linear transformation," "Subspace projection matrix example," "Another example of a projection matrix," and "Projection is the closest vector in a subspace" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/orthogonal_projections/v/linear-algebra--projections-onto-subspaces]
+location: Lecture "Projections onto subspaces" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/orthogonal_projections/v/linear-algebra--projections-onto-subspaces]
+location: Lecture "Visualizing a projection onto a plane"
+location: Lecture "A projection onto a subspace is a linear transformation"
+location: Lecture "Subspace projection matrix example"
+location: Lecture "Another example of a projection matrix"
+location: Lecture "Projection is the closest vector in a subspace" 
 mark: star
 
 source: shifrin

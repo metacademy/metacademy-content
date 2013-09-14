@@ -1,5 +1,8 @@
 source: khan_academy_linear_algebra
-location: Lectures "Cross product introduction," "Proof: relationship between cross product and sin of angle," "Dot and cross product comparison/intuition," and "Vector triple product expansion" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/linear-algebra--cross-product-introduction]
+location: Lecture "Cross product introduction" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/linear-algebra--cross-product-introduction]
+location: Lecture "Proof: relationship between cross product and sin of angle"
+location: Lecture "Dot and cross product comparison/intuition"
+location: Lecture "Vector triple product expansion" 
 mark: star
 
 source: strang

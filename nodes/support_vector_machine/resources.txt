@@ -27,7 +27,7 @@ location: Section 4.5.2, "Optimal separating hyperplanes," pages 132-135 [#page=
 dependencies: lagrange_duality
 
 source: cs229
-location: Lectures notes 3, "Support vector machines," sections 1-4, pages 1-7 [cs229-notes3.pdf#page=1]
+location: Lecture notes 3, "Support vector machines," sections 1-4, pages 1-7 [cs229-notes3.pdf#page=1]
 mark: star
 
 

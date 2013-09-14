@@ -19,6 +19,9 @@ location: Sections 14.1-14.2, pages 492-499
 mark: star
 
 source: coursera_koller
-location: Lectures "Semantics & factorization," "Reasoning patterns," "Naive Bayes," and "Application -- medical diagnosis" under "Bayesian network fundamentals"
+location: Lecture "Semantics & factorization"
+location: Lecture "Reasoning patterns"
+location: Lecture "Naive Bayes"
+location: Lecture "Application -- medical diagnosis"
 mark: star
 

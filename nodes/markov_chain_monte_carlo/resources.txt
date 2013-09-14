@@ -10,7 +10,8 @@ dependencies: multivariate_gaussian_distribution
 mark: star
 
 source: coursera_koller
-location: Lectures "Markov Chain Monte Carlo" and "Using a Markov Chain"
+location: Lecture "Markov Chain Monte Carlo"
+location: Lecture "Using a Markov Chain"
 mark: star
 
 source: mackay

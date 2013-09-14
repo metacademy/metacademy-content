@@ -8,6 +8,7 @@ location: Lecture "Cramer's rule, inverse matrix, and volume," starting from 28:
 mark: star
 
 source: khan_academy_linear_algebra
-location: Lectures "Determinant and area of a parallelogram" and "Determinant as scaling factor" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/determinant_depth/v/linear-algebra---determinant-and-area-of-a-parallelogram]
+location: Lecture "Determinant and area of a parallelogram" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/determinant_depth/v/linear-algebra---determinant-and-area-of-a-parallelogram]
+location: Lecture "Determinant as scaling factor"
 mark: star
 

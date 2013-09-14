@@ -10,5 +10,6 @@ dependencies: lagrange_multipliers
 mark: star
 
 source: coursera_koller
-location: Lectures "Bayesian estimation" and "Bayesian prediction"
+location: Lecture "Bayesian estimation"
+location: Lecture "Bayesian prediction"
 dependencies: maximum_likelihood, bayesian_networks

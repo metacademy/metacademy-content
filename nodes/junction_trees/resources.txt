@@ -4,7 +4,13 @@ location: Chapter 10, pages 345-377
 dependencies: variable-elimination
 
 source: coursera_koller
-location: Lectures "Belief propagation," "Properties of cluster graphs," "Properties of belief propagation," "Clique tree algorithm -- correctness,"  "Clique tree algorithm -- computation," "Clique trees and independence," and "Clique trees and VE"
+location: Lecture "Belief propagation"
+location: Lecture "Properties of cluster graphs"
+location: Lecture "Properties of belief propagation"
+location: Lecture "Clique tree algorithm -- correctness"
+location: Lecture "Clique tree algorithm -- computation"
+location: Lecture "Clique trees and independence"
+location: Lecture "Clique trees and VE"
 dependencies: variable-elimination
 mark: star
 

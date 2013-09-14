@@ -1,5 +1,6 @@
 source: coursera_ng
-location: Lectures "Cost function" and "Regularized linear regression"
+location: Lecture "Cost function"
+location: Lecture "Regularized linear regression"
 
 source: murphy
 edition: 1

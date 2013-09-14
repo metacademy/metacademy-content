@@ -14,7 +14,9 @@ location: Section 9.1, "Random variables," pages 199-207
 dependencies: conditional_probability
 
 source: khan_academy_probability
-location: Lectures "Random variables," "Discrete and continuous random variables," and "Probability density functions" [https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/random-variables]
+location: Lecture "Random variables" [https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/random-variables]
+location: Lecture "Discrete and continuous random variables"
+location: Lecture "Probability density functions" 
 mark: star
 
 source: bamberg
