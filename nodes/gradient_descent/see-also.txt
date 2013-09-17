@@ -1,0 +1,2 @@
+* "stochastic gradient descent":stochastic_gradient_descent is an extension of gradient descent that can typically be applied to much larger data sets
+* "Newton's method":newtons_method is a common alternative to gradient descent

@@ -1,0 +1,3 @@
+* Be able to apply gradient descent to functions of several variables
+* Why is gradient descent not guaranteed to find the global optimum?
+* Why is gradient descent guaranteed to converge? What can we say about the solution it obtains?

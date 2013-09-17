@@ -1,0 +1,16 @@
+source: coursera_ng
+location: lectures: Gradient Descent, Gradient Descent Intuition
+mark: star
+
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Gradient_descent
+mark: star
+
+source: barber
+edition: 1
+location: A.6
+
+source: boyd_convex_optimization
+edition: 1
+location: pages 467 - 475
+mark: star

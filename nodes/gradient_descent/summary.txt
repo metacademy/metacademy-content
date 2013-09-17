@@ -1,0 +1,1 @@
+Gradient descent, also known as steepest descent, is an iterative optimization algorithm for finding a local minimum of differentiable functions. At each iteration, gradient descent operates by moving the current solution in the direction of the negative gradient of the function (the direction of "steepest descent").
