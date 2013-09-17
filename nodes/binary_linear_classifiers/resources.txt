@@ -1,5 +1,5 @@
 source: optmodels
-location: https://inst.eecs.berkeley.edu/~ee127a/book/login/l_lqp_apps_class.html
+url: https://inst.eecs.berkeley.edu/~ee127a/book/login/l_lqp_apps_class.html
 mark: star
 
 source: bishop
