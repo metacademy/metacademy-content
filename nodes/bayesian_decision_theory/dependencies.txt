@@ -3,3 +3,6 @@ reason: We use Bayesian parameter estimation to get the posterior on which we ba
 
 tag: expectation_and_variance
 reason: The goal of Bayesian decision theory is to minimize expected loss under the posterior.
+
+tag: loss_function
+reason: The goal of Bayesian decision theory is to minimize the expected loss under the posterior for a particular loss function.

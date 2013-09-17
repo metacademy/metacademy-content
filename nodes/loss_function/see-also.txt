@@ -1,0 +1,4 @@
+* In "Bayesian decision theory":bayesian_decision_theory we perform inference to minimize the "posterior expected loss":posterior_expected_loss using various loss functions. Some important results are:
+** minimizing a "zero-one loss function":zero_one_loss_function yields a "Maximum A Posteriori (MAP) parameter estimation":map_parameter_estimation
+** minimizing the "squared error loss function":squared_error_loss_function yields the posterior mean parameter estimation
+** minimizing the "L1 loss function":l1_loss function yields a posterior median parameter estimation

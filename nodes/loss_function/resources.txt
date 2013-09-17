@@ -1,0 +1,18 @@
+resource_type: lecture notes
+authors: Liam Paninski
+url: http://www.stat.columbia.edu/~liam/teaching/4107-fall05/notes2.pdf
+location: pages 40-45
+level: undergraduate
+title: Part II Decision Theory Lecture Notes
+mark: star
+free: 1
+note: working though the exercises is very helpful but not essential
+
+source: bishop
+edition: 1
+level: undergraduate
+location: Section 1.5, "Decision Theory," pages 38-39
+
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Loss_function
+location: read the Introduction and Use in Statistics sections

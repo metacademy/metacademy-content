@@ -1,0 +1,1 @@
+A loss function or cost function is a function that maps the outcome of a decision to a real-valued cost associated with that outcome. Loss functions are common in machine learning, information theory, statistics, and mathematical optimization, and help guide decision making under uncertainty.
