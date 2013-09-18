@@ -1,0 +1,8 @@
+source: mathmonk
+location: Lecture 9.1 "Linear regression - Nonlinearity via basis functions" [http://www.youtube.com/watch?v=rVviNyIR-fI&feature=youtu.be&t=3m20s]
+extra: watch from 3:20 for an overview of using basis functions with linear regression
+
+source: esl
+location Section 5.1 provides a good overview and Section 5.2 provides a detailed explanation of common basis functions (piecewise polynomials and splines)
+mark: star
+extra: the remainder of chapter 5 provides a good reference for using spline and wavelet basis functions
