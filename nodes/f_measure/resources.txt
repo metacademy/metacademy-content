@@ -1,0 +1,7 @@
+source: intro_ir
+location: "Evaluation of Unranked Retrieval Sets" [http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-unranked-retrieval-sets-1.html#10657]
+edition: online
+mark: star
+
+source: wikipedia
+location: "F1 score" [http://en.wikipedia.org/wiki/F1_score]

@@ -411,3 +411,11 @@ resource_type: reference
 free: 0
 url: http://press.princeton.edu/titles/8350.html
 level: reference
+
+key: intro_ir
+title: Introduction to Information Retrieval
+authors: Christopher D. Manning and Prabhakar Raghavan and Hinrich Schütze
+resource_type: online textbook
+free: 1
+url: http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
+level: undergraduate

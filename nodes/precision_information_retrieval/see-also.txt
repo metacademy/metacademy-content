@@ -1,0 +1,2 @@
+* "recall":recall_information_retrieval is another measure of relevance for information retrieval systems that is typically inversely correlated with the precision.
+* "F measure":f_measure is the weighted harmonic mean of the recall and precision and provides a measure of overall quality of an information retrieval system

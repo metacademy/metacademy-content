@@ -1,0 +1,1 @@
+In pattern recognition and information retrieval, recall (also called sensitivity) is the fraction of relevant instances that are retrieved (Wikipedia). For instance, if a corpus had 10 relevant documents in it and a information retrieval system returned 4 of those documents, the recall would be 4/10 = 0.4.

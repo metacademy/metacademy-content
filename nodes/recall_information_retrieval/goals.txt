@@ -1,0 +1,4 @@
+* Understand the definition of recall and why optimizing an information retrieval system solely for precision is a bad idea.
+* Could Google obtain a recall of 1 for every search? How would it do this?
+* What is the difference between precision and recall?
+* Should you use recall for ranked retrieval sets?

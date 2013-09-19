@@ -1,0 +1,2 @@
+* Understand why the harmonic mean of the precision and recall is used instead of the arithmetic mean
+* Should a web search engine, such as Google, favor high precision or high recall for its top 10 search results? What weights should they then use for the F measure?
