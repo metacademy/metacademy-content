@@ -11,5 +11,5 @@
 ** "interior point methods":interior_point_methods
 * Applications in statistics and machine learning:
 ** "maximum likelihood in exponential families":maximum_likelihood_in_exponential_families is a convex optimization problem
-** "support vector machines":support_vector_machines, a widely used classification algorithm
+** "support vector machines":support_vector_machine, a widely used classification algorithm
 

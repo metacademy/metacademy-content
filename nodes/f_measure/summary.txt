@@ -1,1 +1,1 @@
-The F measure is a measure of a test's accuracy and is defined as the weighted harmonic mean of the precision and recall of the test.
+The F measure (F1 score or F score) is a measure of a test's accuracy and is defined as the weighted harmonic mean of the precision and recall of the test.
