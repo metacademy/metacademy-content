@@ -1,0 +1,3 @@
+#  This is a textile text file specfying a list of what the user should understand or be able to do after learning the concept, or questions they should be able to answer
+* Be able to contribute a concept to metacademy
+** achieve enlightenment by having your first pull-request accepted

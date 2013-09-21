@@ -1,0 +1,14 @@
+# This file specifies a list of the prerequisite concepts that this concept directly depends on
+#
+# specify the dependent concept tag (name of the concept's directory)
+tag: vectors
+# provide a reason for the dependency if it is not readily obvious
+reason: this is an example reason
+
+tag: dot_product
+reason: this is another example reason
+
+# this dependency specifies that a shortcut can be used in lieu of the full concept node
+tag: positive_definite_matrices
+reason: PSD matrix has a shortcut node and provides a good example
+shortcut: 1

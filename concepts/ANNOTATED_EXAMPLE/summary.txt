@@ -1,0 +1,2 @@
+# a 2-3 sentence summary of what the concept is and what it is used for
+This concept provides an annotated example of metacademy's current file format. User's may disagree with using a flat-file format, indeed we realize this is not a perfect solution, but it has allowed us to make easy schema changes during the initial development stages, as well as easily use a VCS to track content changes.
