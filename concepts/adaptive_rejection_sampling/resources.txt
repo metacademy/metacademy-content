@@ -4,5 +4,4 @@ location: section 11.1.3
 
 source: wikipedia
 url: http://en.wikipedia.org/wiki/Rejection_sampling#Adaptive_rejection_sampling
-mark:star
 

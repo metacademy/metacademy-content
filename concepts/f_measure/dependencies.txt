@@ -1,5 +1,2 @@
-tag: precision_information_retrieval
-reason: the F measure is defined as the weighted harmonic mean of the precision and recall
-
-tag: recall_information_retrieval
+tag: precision_recall
 reason: the F measure is defined as the weighted harmonic mean of the precision and recall
