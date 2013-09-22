@@ -1,1 +1,0 @@
-In pattern recognition and information retrieval, precision (also called positive predictive value) is the fraction of retrieved instances that are relevant (Wikipedia). For instance, if an information retrieval system returned 20 documents, and 6 of the documents were relevant, the precision would be 6/20 = 0.3.

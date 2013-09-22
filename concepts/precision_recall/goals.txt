@@ -1,0 +1,3 @@
+* Understand the definition of precision and recall and why optimizing an information retrieval system solely for precision or recall is a bad idea. 
+* What is the difference between precision and recall?
+* Should you use precision or recall for ranked retrieval sets?

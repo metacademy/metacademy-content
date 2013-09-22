@@ -1,0 +1,1 @@
+* "F measure":f_measure is the weighted harmonic mean of the recall and precision and provides a measure of overall quality of an information retrieval system
