@@ -2,6 +2,16 @@ source:bishop
 mark:star
 location: section 11.1.3
 
+resource_type: paper
+title: Adaptive Rejection Sampling for Gibbs Sampling
+level: graduate
+authors: Walter R Gilks and Pascal Wild
+url: http://www.medicine.mcgill.ca/epidemiology/joseph/courses/EPIB-675/adaptive.sampling.pdf
+mark: star
+free: 1
+location: Section 2.2
+extra: Section 2.2 provides core information but the rest of the Section 2 provides context and deeper discussion of ARS
+
 source: wikipedia
 url: http://en.wikipedia.org/wiki/Rejection_sampling#Adaptive_rejection_sampling
 
