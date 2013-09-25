@@ -1,3 +1,2 @@
-tag: decision-trees
-reason: Decision trees are an important motivating example for boosting.
+# TODO: classification prereq?
 

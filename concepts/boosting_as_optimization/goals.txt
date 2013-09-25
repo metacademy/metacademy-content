@@ -1,0 +1,4 @@
+* Derive AdaBoost as a sequential procedure to minimize the exponential loss on the training set.
+* Based on this analysis, why might AdaBoost be especially sensitive to mislabeled training examples?
+* Understand how the basic boosting procedure can be generalized to other loss function.s
+** Why do we often re-estimate the weights of the base classifiers for more general boosting algorithms, but not for AdaBoost?

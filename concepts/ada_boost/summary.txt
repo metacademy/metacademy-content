@@ -1,0 +1,1 @@
+AdaBoost is an example of a boosting algorithm, where the goal is to take a "weak classifier" (one which performs slightly above chance) and make it into a "strong classifier" (one which performs well on the training set). It is widely used in data mining, especially in conjunction with decision trees, because of its simplicity and effectiveness.

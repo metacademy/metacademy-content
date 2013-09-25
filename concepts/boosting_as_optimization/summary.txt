@@ -1,0 +1,1 @@
+AdaBoost can be interpreted as a sequential procedure for minimizing the exponential loss on the training set with respect to the coefficients of a particular basis function expansion. This leads to generalizations of the algorithm to different loss functions.

@@ -1,1 +1,6 @@
 tag: ada-boost
+
+tag: optimization_problems
+
+tag: basis_function_expansions
+reason: The optimization is with respect to the weights in a particular basis function expansion.

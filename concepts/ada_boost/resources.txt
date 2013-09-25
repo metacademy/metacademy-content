@@ -1,0 +1,21 @@
+source: coursera_domingos
+location: Lecture "Boosting: the basics"
+location: Lecture "Boosting: the details"
+mark: star
+extra: Watch the Week One lectures if you're not familiar with the basic machine learning setup.
+
+source: esl
+edition: 2
+location: Section 10.1, "Boosting methods," pages 337-341
+mark: star
+extra: Read the introductory chapters if you're not familiar with the basic machine learning setup.
+
+source: bishop
+edition: 1
+location: Section 14.3, "Boosting," not including 14.3.1, pages 657-659
+
+source: aima
+edition: 2
+location: Section 18.4, "Ensemble learning," pages 664-668
+mark: star
+extra: Read 18.1-18.2 if you're not familiar with the basic machine learning setup, and skim 18.3 to learn about decision trees.

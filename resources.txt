@@ -419,3 +419,12 @@ resource_type: online textbook
 free: 1
 url: http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
 level: undergraduate
+
+key: coursera_domingos
+title: Coursera: Machine Learning
+author: Pedro Domingos
+resource_type: online lectures
+free: 1
+url: https://www.coursera.org/course/machlearning
+level: advanced undergraduate
+extra: Click on "Preview" to see the videos.

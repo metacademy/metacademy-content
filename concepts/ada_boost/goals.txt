@@ -1,0 +1,2 @@
+* Understand the steps in the AdaBoost algorithm
+* Be aware of the underlying motivation, namely taking a "weak classifier" which performs slightly above chance, and producing a "strong classifier," which classifies the whole training set correctly.
