@@ -1,0 +1,3 @@
+* Know the definition of VC dimension.
+* What is the VC dimension of a linear classifier in D dimensions?
+* Give an example of a hypothesis class whose VC dimension is different from the number of parameters. (Hint: you can find one with a single parameter but infinite VC dimension.)

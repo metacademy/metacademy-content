@@ -1,0 +1,2 @@
+In statistical learning theory, VC dimension is a measure of the complexity of a continuous hypothesis class (such as linear classifiers). While it often corresponds to the number of parameters in a model, this isn't always the case. There is a general bound on the generalization error of a classifier in terms of its error on a training set and its VC dimension.
+

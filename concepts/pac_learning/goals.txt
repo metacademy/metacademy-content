@@ -1,0 +1,7 @@
+* Know what it means for a hypothesis class to be PAC-learnable.
+* Derive the bound on the probability of having generalization error greater than epsilon, in terms of the number of training examples and the size of the hypothesis class.
+** Try rearranging the terms of the formula to view each variable as a function of the others. E.g., how many training examples do you need in order to guarantee a certain generalization accuracy?
+* Carry out the analysis for a particular hypothesis class, such as boolean functions.
+* Try to get a sense for how large hypothesis spaces are. E.g., what is the size of the hypothesis space for:
+** classifying based on a single Boolean variable (from a set of D)
+** all possible functions of D Boolean variables

@@ -1,6 +1,5 @@
-* "Proofs":pac_learning_proofs of the results presented here
 * The "Occam learning":occam_learning formalism justifies why simple classifiers should be expected to perform well.
-* "Statistical learning theory":statistical_learning_theory is a related formalism which can be used to analyze many commonly used learning algorithms.
+* "VC dimension":vc_dimension is a measure of complexity which allows these results to be generalized to continuous hypothesis spaces.
 * Some examples of PAC learning:
 ** "graphical model structures":pac_graphical_model_structures
 ** "finite state machines":pac_finite_state_machines

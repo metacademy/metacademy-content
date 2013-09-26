@@ -428,3 +428,11 @@ free: 1
 url: https://www.coursera.org/course/machlearning
 level: advanced undergraduate
 extra: Click on "Preview" to see the videos.
+
+key: kearns_and_vazirani
+title: An Introduction to Computational Learning Theory
+authors: Michael J. Kearns and Umesh V. Vazirani
+resource_type: textbook
+free: 0
+url: http://mitpress.mit.edu/books/introduction-computational-learning-theory
+level: graduate

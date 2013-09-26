@@ -1,3 +1,11 @@
 tag: generalization
 reason: PAC learning is a way of analyzing the generalization performance of learning algorithms.
- 
+
+tag: union_bound
+reason: The union bound is an important tool for analyzing PAC learning.
+
+tag: independent_events
+reason: The analysis assumes that the training examples are independent draws from the distribution.
+
+tag: chernoff_bounds
+reason: The Chernoff bounds are an important tool for analyzing PAC learning.

@@ -1,0 +1,23 @@
+source: coursera_domingos
+location: Lecture "PAC learning"
+location: Lecture "How many examples are enough?"
+location: Lecture "Example and definition of PAC learning"
+location: Lecture "Agnostic learning"
+mark: star
+
+source: kearns_and_vazirani
+edition: 1
+location: Section 1.1, "A rectangle learning game," pages 1-6
+location: Section 1.2, "A general model," pages 6-16
+location: Section 1.3, "Learning Boolean conjunctions," pages 16-18
+mark: star
+
+source: aima
+edition: 2
+location: Section 18.5, "Why learning works: computational learning theory," pages 668-673
+mark: star
+
+source: cs229
+location: Lecture 4, "Learning Theory," Section 2, "Preliminaries," pages 2-4 [cs229-notes4.pdf#page=2]
+location: Lecture 4, Section 3, "The case of finite H," pages 5-8 [cs229-notes4.pdf#page=5]
+mark: star
