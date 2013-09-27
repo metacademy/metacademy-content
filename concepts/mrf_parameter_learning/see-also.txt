@@ -1,3 +1,5 @@
+* MRF parameter learning is a special case of "maximum likelihood in exponential families":maximum_likelihood_in_exponential_families.
+** As with exponential families, maximum likelihood in MRFs can be interpreted in terms of "maximum entropy":maximum_likelihood_and_maximum_entropy.
 * We shouldn't expect to learn the parameters exactly in the general case, since "inference in MRFs is hard":complexity_of_inference.
 * Some algorithms for learning the parameters:
 ** "iterative proportional fitting":iterative_proportional_fitting

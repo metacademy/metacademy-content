@@ -1,0 +1,7 @@
+* Consider the maximum likelihood objective function for learning the parameters of an MRF given fully observed data.
+** Why doesn't the optimization problem decompose into separate optimization problems for each variable?
+** Why is it hard even to compute the objective function?
+** Derive the gradient of the objective function.
+** By setting the gradient to zero, show that for the maximum likelihood parameters, the model statistics must match the data statistics.
+* Performing gradient descent requires performing inference in the MRF. Which quantities need to be computed?
+* Optional: show that the maximum likelihood optimization problem is convex (which implies there are no local optima). You may first want to read about "covariance matrices":covariance_matrices and "convex optimization":convex_optimization.

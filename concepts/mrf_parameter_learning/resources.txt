@@ -1,0 +1,10 @@
+source: pgm
+edition: 1
+location: Section 20.1, "Overview," pages 943-944
+location: Section 20.2, "The likelihood function," pages 944-949
+location: Section 20.3.1, "Maximum likelihood estimation," pages 949-950
+mark: star
+
+source: coursera_koller
+location: Lecture "Maximum likelihood for log-linear models"
+mark: star
