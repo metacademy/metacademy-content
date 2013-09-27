@@ -1,0 +1,2 @@
+* One way around the curse of dimensionality is to use parametric models such as "linear regression":linear_regression.
+* Another solution is to apply a dimensionality reduction algorithm such as "principal component analysis (PCA)":principal_component_analysis.

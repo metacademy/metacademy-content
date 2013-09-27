@@ -1,0 +1,3 @@
+tag: independent_events
+reason: Independence is needed to analyze K nearest neighbors.
+

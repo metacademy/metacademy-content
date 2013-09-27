@@ -1,0 +1,4 @@
+* KNN is especially prone to the "curse of dimensionality":curse_of_dimensionality.
+* KNN is a canonical example of a nonparametric learning algorithm. Other examples include:
+** "kernel support vector machines (SVMs)":kernel_svm
+** "Gaussian process regression":gaussian_process_regression

@@ -1,0 +1,1 @@
+The curse of dimensionality refers to a collection of counterintuitive properties of high-dimensional spaces which make it difficult to learn using purely local algorithms such as K nearest neighbors.

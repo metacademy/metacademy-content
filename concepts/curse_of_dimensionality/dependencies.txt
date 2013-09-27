@@ -1,0 +1,7 @@
+tag: k_nearest_neighbors
+reason: The curse of dimensionality is especially bad for nonparametric learning algorithms like KNN.
+shortcut: 1
+
+tag: weak_law_of_large_numbers
+reason: The law of large numbers is needed to analyze the average distances between points in high dimensions.
+shortcut: 1

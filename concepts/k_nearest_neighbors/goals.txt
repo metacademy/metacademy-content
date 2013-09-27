@@ -1,0 +1,7 @@
+* Know what the K nearest neighbors algorithm is.
+* Be aware of the tradeoffs of KNN vs. parameteric models, including:
+** KNN requires no work at training time, but lots of work at test time
+** KNN can learn arbitrarily complex functions
+** KNN requires storing the entire training set
+** KNN is especially prone to the curse of dimensionality
+* Derive the asymptotic classification error of KNN, both with K = 1 and with K increasing.

@@ -1,0 +1,8 @@
+source: esl
+edition: 2
+location: Section 2.5, "Local methods in high dimensions," pages 22-27 [#page=41]
+mark: star
+
+source: coursera_domingos
+location: Lecture "The curse of dimensionality"
+mark: star

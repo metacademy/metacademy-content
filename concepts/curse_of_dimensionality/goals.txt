@@ -1,0 +1,5 @@
+* Understand the properties of high-dimensional spaces that make it difficult to learn based on nearest neighbors, e.g.
+** if points are sampled uniformly within a high-dimensional box, most distances are similar
+** most of the volume of a ball is concentrated near the boundary
+** uniformly sampled points are unlikely to have very close neighbors
+* If the input variables are sampled uniformly from a D-dimensional box, and one uses KNN as the learning algorithm, why can the number of training examples needed to achieve a given accuracy be exponential in D?

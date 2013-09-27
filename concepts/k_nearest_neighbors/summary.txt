@@ -1,0 +1,1 @@
+K nearest neighbors is a very simple machine learning algorithm which simply averages the labels of the K nearest neighbors in the training set. It is a canonical example of a nonparametric learning algorithm. It has the advantage that it can learn arbitrarily complex functions, but it is especially sensitive to the curse of dimensionality.

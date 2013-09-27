@@ -1,0 +1,16 @@
+source: coursera_domingos
+location: Lecture "The K-nearest neighbor algorithm"
+location: Lecture "Theoretical guarantees on KNN"
+mark: star
+extra: Watch the Week One lectures if you're not familiar with the basic machine learning setup.
+
+source: esl
+edition: 2
+location: Section 2.3, "Two simple approaches to prediction: least squares and nearest neighbors," pages 11-18 [#page=30]
+location: Section 13.3, "K-nearest-neighbor classifiers," pages 463-475 [#page=482]
+mark: star
+
+source: bishop
+edition: 1
+location: Section 2.5.2, "Nearest-neighbor methods"
+
