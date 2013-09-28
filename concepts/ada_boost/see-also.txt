@@ -1,1 +1,2 @@
 * AdaBoost can be interpreted as a "greedy algorithm to minimize exponential loss":boosting_as_optimization.
+* "Decision trees":decision_trees are often used as the base classifier.

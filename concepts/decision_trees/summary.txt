@@ -1,0 +1,1 @@
+Decision trees are a kind of tree-structured model used in machine learning and data mining. Each leaf node corresponds to a prediction, and each internal node divides the data points into two or more sets depending on the value of one of the input variables. Decision trees are widely used because of their simplicity and their ability to handle heterogeneous input features.

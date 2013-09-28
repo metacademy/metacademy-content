@@ -1,0 +1,5 @@
+* Know what a decision tree is.
+* Give examples of functions which can't be represented compactly (e.g. majority, parity)
+* Be able to fit a decision tree using a recursive greedy strategy.
+* What is the information gain criterion, and why does it produce better splits than classification accuracy?
+* Be aware that decision trees can be unstable, in that the structure changes dramatically with respect to small changes in the training data.
