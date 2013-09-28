@@ -11,3 +11,8 @@ mark: star
 source: coursera_koller
 location: Lecture "Using a Markov chain"
 mark: star
+
+source: mlss_murray
+location: Part 2, 2:53 to 18:11
+mark: star
+

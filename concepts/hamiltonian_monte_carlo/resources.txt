@@ -10,3 +10,6 @@ source: barber
 edition: 1-online
 location: Section 27.5.1, pages 553-555 [#page=577]
 dependencies: taylor_approximation
+
+source: mlss_murray
+location: Part 2, 22:58 to 24:10 and 39:44 to 43:53

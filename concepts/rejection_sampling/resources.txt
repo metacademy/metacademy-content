@@ -19,3 +19,8 @@ edition: 1
 location: Section 29.3, "Rejection sampling," pages 364-365 [358.386.pdf#page=9]
 dependencies: multivariate_gaussian_distribution
 mark: star
+
+source: mlss_murray
+location: 13:50 to 15:36
+mark: star
+

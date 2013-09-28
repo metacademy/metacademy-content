@@ -29,3 +29,6 @@ location: Section 27.3, Gibbs sampling, up to 27.3.2, "Structured Gibbs sampling
 location: Section 27.3.3, "Remarks" (pages 549-550) [#page=573]
 dependencies: bayesian_networks, multivariate_gaussian_distribution
 mark: star
+
+source: mlss_murray
+location: 69:40 to 77:34

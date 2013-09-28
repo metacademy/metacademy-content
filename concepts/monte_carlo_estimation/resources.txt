@@ -13,3 +13,8 @@ location: Lecture "Simple sampling"
 source: mackay
 location: Section 29.1, "The problems to be solved," pages 357-361 [358.386.pdf#page=2]
 mark: star
+
+source: mlss_murray
+location: up to 10:20
+mark: star
+

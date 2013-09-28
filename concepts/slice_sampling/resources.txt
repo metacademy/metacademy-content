@@ -15,3 +15,7 @@ source: barber
 edition: 1-online
 location: Section 27.5.3, "Slice sampling," pages 557-558 [#page=581]
  
+source: mlss_murray
+location: Part 2, 22:58 to 39:44
+mark: star
+

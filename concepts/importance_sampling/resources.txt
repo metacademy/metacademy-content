@@ -17,3 +17,6 @@ edition: 1
 location: Section 29.2, "Importance sampling," pages 361-364 [358.386.pdf#page=6]
 dependencies: multivariate_gaussian_distribution
 mark: star
+
+source: mlss_murray
+location: 15:36 to 22:37

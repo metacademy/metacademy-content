@@ -18,3 +18,7 @@ source: mackay
 edition: 1
 location: Section 29.6, "Terminology for Markov chain Monte Carlo methods," pages 372-374 [358.386.pdf#page=17]
 mark: star
+
+source: mlss_murray
+location: 29:08 to 69:40
+mark: star

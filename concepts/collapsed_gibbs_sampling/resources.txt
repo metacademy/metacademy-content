@@ -7,3 +7,6 @@ source: pgm
 edition: 1
 location: Section 12.4, pages 526-532
 dependencies: importance_sampling, bayesian_networks
+
+source: mlss_murray
+location: Part 2, 16:47 to 21:37

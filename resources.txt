@@ -436,3 +436,12 @@ resource_type: textbook
 free: 0
 url: http://mitpress.mit.edu/books/introduction-computational-learning-theory
 level: graduate
+
+key: mlss_murray
+title: Machine learning summer school: Markov chain Monte Carlo
+author: Iain Murray
+url: http://videolectures.net/mlss09uk_murray_mcmc/
+resource_type: video lecture
+free: 1
+level: graduate
+

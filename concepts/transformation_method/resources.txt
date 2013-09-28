@@ -1,3 +1,6 @@
 source: bishop
 edition: 1
 location: Section 11.1.1, pages 526-528
+
+source: mlss_murray
+location: From 12:04 to 13:50
