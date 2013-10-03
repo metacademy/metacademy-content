@@ -1,0 +1,1 @@
+For any exponential family model, the maximum likelihood parameters are such that the model moments match the data moments.

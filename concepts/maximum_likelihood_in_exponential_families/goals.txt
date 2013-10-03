@@ -1,0 +1,1 @@
+* Derive the general formula for the maximum likelihood parameter estimate for exponential families: namely, that the model moments match the empirical moments.

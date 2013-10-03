@@ -1,0 +1,5 @@
+* Know the basic definitions: exponential family, natural parameter, sufficient statistic
+* Derive the exponential family representations of some simple distributions, e.g.
+** Gaussian
+** Bernoulli
+* Give an example of a family of distributions which is not an exponential family.

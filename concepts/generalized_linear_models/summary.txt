@@ -1,0 +1,1 @@
+Generalized linear models are a class of linear models which unify several widely used models, including linear regression and logistic regression. The distribution over each output is assumed to be an exponential family distribution whose natural parameters are a linear function of the inputs. 

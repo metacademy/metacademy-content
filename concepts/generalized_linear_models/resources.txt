@@ -1,0 +1,13 @@
+source: cs229
+location: Lecture 1, "Supervised learning, discriminative algorithms," part 9, "Constructing GLMs," pages 24-30 [cs229-notes1.pdf#page=24]
+mark: star
+extra: Section 5 explains logistic regression.
+
+source: murphy
+edition: 1
+location: Section 9.3, "Generalized linear models (GLMs)," pages 290-293
+
+source: bishop
+edition: 1
+location: Section 4.3.6, "Canonical link functions," pages 212-213
+

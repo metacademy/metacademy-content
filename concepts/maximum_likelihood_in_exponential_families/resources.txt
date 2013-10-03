@@ -1,0 +1,15 @@
+source: murphy
+edition: 1
+location: Section 9.2.4, "MLE for the exponential family," pages 286-287
+mark: star
+
+source: bishop
+edition: 1
+location: Section 2.4.1, "Maximum likelihood and sufficient statistics," pages 116-117
+mark: star
+
+source: mathmonk_ml
+location: Lecture 5.3, "MLE for an exponential family (part 1)" [http://www.youtube.com/watch?v=LcbwmT1OAKo&list=PLD0F06AA0D2E8FFBA&index=29]
+location: Lecture 5.4, "MLE for an exponential family (part 2)" [http://www.youtube.com/watch?v=7EyKEtN-PJA&list=PLD0F06AA0D2E8FFBA&index=30]
+mark: star
+

@@ -1,0 +1,4 @@
+* Understand the basic assumptions behind a generalized linear model.
+** In particular, the natural parameters are assumed to be a linear function of the inputs. What role does this play in the maximum likelihood update rule?
+* Show that some other model (e.g. linear regression or logistic regression) is a special case of generalized linear models.
+* Derive the gradient ascent update rule for GLMs.

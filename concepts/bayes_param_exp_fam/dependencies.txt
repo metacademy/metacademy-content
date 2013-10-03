@@ -2,7 +2,5 @@ tag: bayesian-parameter-estimation
 
 tag: exponential-families
 
-tag: bayesian-parameter-estimation-multinomial
-reason: The multinomial distribution is an instructive example.
 
 

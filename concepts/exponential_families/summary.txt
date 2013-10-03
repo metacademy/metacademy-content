@@ -1,0 +1,1 @@
+Exponential families are a broad class of probability distributions which includes many basic distributions such as Bernoullis and Gaussians, as well as Markov random fields. What they have in common is that the distributions can be represented in terms of log-linear functions of sufficient statistics.

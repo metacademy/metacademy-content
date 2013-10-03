@@ -1,0 +1,4 @@
+* How do you derive the conjugate prior for an exponential family distribution?
+* Show that the posterior can be computed in terms of the sufficient statistics.
+* Work through a simple example, such as the beta-Bernoulli model.
+
