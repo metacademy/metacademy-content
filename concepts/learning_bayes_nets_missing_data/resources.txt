@@ -11,5 +11,6 @@ location: Section 19.2.2.3, "The EM algorithm for Bayesian networks," pages 872-
 mark: star
 extra: The part of 19.2.2.3 about exponential families is optional.
 
-
-
+source: coursera_domingos
+location: Lecture "The EM algorithm"
+location: Lecture "Example of EM"

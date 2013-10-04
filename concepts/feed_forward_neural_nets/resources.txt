@@ -16,3 +16,6 @@ source: coursera_ng
 location: Lecture series "Neural networks: representation"
 mark: star
 
+source: coursera_domingos
+location: Lecture "Multilayer perceptrons"
+dependencies: gradient_descent, perceptron

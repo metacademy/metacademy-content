@@ -14,3 +14,8 @@ source: boyd_convex_optimization
 edition: 1
 location: pages 467 - 475
 mark: star
+
+source: coursera_domingos
+location: Lecture "Gradient descent"
+location: Lecture "Gradient descent (continued)"
+dependencies: perceptron

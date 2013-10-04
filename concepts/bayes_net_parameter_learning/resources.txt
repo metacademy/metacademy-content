@@ -10,3 +10,6 @@ mark: star
 source: aima
 edition: 2
 location: Section 20.2, "Learning with complete data," subsections "Maximum likelihood parameter learning: discrete models" and "Naive Bayes models," pages 716-718
+
+source: coursera_domingos
+location: Lecture "Learning Bayesian networks"

@@ -25,3 +25,8 @@ location: Lecture "Naive Bayes"
 location: Lecture "Application -- medical diagnosis"
 mark: star
 
+source: coursera_domingos
+location: Lecture "Bayesian networks"
+location: Lecture "Inference in Bayesian networks"
+mark: star
+

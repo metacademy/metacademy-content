@@ -23,5 +23,8 @@ location: Lecture "The backpropagation algorithm"
 location: Lecture "Using the derivatives computed by backpropagation"
 mark: star
 
-
-
+source: coursera_domingos
+location: Lecture "Backpropagation"
+location: Lecture "Issues in backpropagation"
+location: Lecture "Learning hidden layer representations"
+mark: star

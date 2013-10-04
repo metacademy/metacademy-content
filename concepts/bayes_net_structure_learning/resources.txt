@@ -15,3 +15,6 @@ location: Lecture "Likelihood scores"
 location: Lecture "BIC and asymptotic consistency"
 location: Lecture "Bayesian scores"
 mark: star
+
+source: coursera_domingos
+location: Lecture "Learning Bayesian network structure"

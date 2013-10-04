@@ -1,0 +1,2 @@
+source: coursera_domingos
+location: Stochastic gradient descent

@@ -21,3 +21,6 @@ source: cs229
 location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2 [cs229-notes2.pdf#page=8]
 mark: star
 
+source: coursera_domingos
+location: Lecture "The naive Bayes classifier"
+mark: star
