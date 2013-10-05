@@ -1,3 +1,5 @@
 tag: entropy
 reason: KL divergence is closely related to entropy.
 
+tag: expectation_and_variance
+reason: KL divergence is defined as an expectation.

@@ -1,2 +1,14 @@
 tag: expectation_and_variance
 reason: Entropy is defined in terms of an expectation.
+
+tag: conditional_distributions
+reason: Conditional distributions are needed to define conditional entropy.
+shortcut: 1
+
+tag: independent_random_variables
+reason: The joint entropy of a set of independent random variables is the sum of the individual entropies.
+shortcut: 1
+
+tag: optimization_problems
+reason: Maximizing the entropy is an optimization problem.
+shortcut: 1

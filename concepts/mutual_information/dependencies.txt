@@ -1,6 +1,9 @@
 tag: entropy
-
-tag: conditional-entropy
+reason: Mutual information is defined in terms of conditional entropy.
 
 tag: independent-random-variables
 reason: Independent random variables have zero mutual information.
+
+tag: conditional_distributions
+reason: Conditional distributions are needed to define mutual information.
+

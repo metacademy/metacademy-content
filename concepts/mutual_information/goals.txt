@@ -1,0 +1,7 @@
+* Know the definition of mutual information (in terms of the difference between joint entropy and conditional entropy)
+* Derive some basic properties of mutual information:
+** that it is symmetric
+** that the mutual information of a random variable with itself is the entropy
+** that it is nonnegative
+** that it is zero for independent random variables
+* Know various ways joint entropy decomposes into sums of conditional entropies and mutual information

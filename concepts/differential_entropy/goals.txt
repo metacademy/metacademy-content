@@ -1,0 +1,6 @@
+* Know the definition of differential entropy
+* Compute it for some simple examples, such as the uniform distribution and Gaussian distribution
+* Be aware that differential entropy can be negative
+* How does differential entropy relate to the asymptotic entropy of discretizations of the distribution?
+* Extend the definitions of mutual information and KL divergence to the continuous case.
+** Note: unlike differential entropy, the continuous versions of mutual information and KL divergence behave like their discrete counterparts. Therefore, in a sense, they are more fundamental.

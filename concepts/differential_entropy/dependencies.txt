@@ -1,2 +1,14 @@
 tag: entropy
 
+tag: mutual_information
+
+tag: kl_divergence
+
+tag: expectation_and_variance
+reason: Differential entropy is defined as an expectation
+
+tag: gaussian_distribution
+reason: Computing the differential entropy of the Gaussian distribution is an instructive example.
+
+# TODO: suprememum
+

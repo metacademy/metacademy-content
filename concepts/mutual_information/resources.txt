@@ -1,0 +1,19 @@
+source: cover_and_thomas
+edition: 2
+location: Section 2.3, "Relative entropy and mutual information," pages 19-20
+location: Section 2.4, "Relationship between entropy and mutual information," pages 20-22
+location: Section 2.5, "Chain rules for entropy, relative entropy, and mutual information," pages 22-25
+mark: star
+
+source: bishop
+edition: 1
+location: Section 1.6.1, "Relative entropy and mutual information," pages 55-58
+
+source: murphy
+edition: 1
+location: Section 2.8.3, "Mutual information," page 59
+
+source: mackay
+edition: 1
+location: Section 8.1, "More about entropy," pages 138-140
+

@@ -1,0 +1,26 @@
+source: cover_and_thomas
+edition: 2
+location: Section 2.1, "Entropy," pages 13-16
+location: Section 2.2, "Joint entropy and conditional entropy," pages 16-18
+mark: star
+
+source: bishop
+edition: 1
+location: Section 1.6, "Information theory," not including 1.6.1, pages 48-55
+mark: star
+
+source: pgm
+edition: 1
+location: Section A.1.1, "Compression and entropy," pages 1135-1137
+location: Section A.1.2, "Conditional entropy and information," pages 1137-1138
+
+source: mackay_lectures
+location: Lecture 2, "Entropy and data compression (I): introduction to compression, information theory, and entropy" [http://videolectures.net/mackay_course_02/]
+
+source: mackay
+location: Section 2.4, "Definition of entropy and related functions," pages 32-33
+location: Section 2.5, "Decomposability of the entropy," pages 33-34
+location: Section 4.1, "How to measure the information content of a random variable," pages 67-73
+mark: star
+
+

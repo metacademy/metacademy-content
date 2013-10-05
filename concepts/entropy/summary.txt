@@ -1,0 +1,1 @@
+Entropy is a measure of the information content of a random variable, and one of the fundamental quantities of information theory. It determines the minimum expected code length necessary to encode samples of the random variable.

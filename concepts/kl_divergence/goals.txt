@@ -1,0 +1,7 @@
+* Know the definition of KL divergence.
+* Derive some basic properties:
+** that it is nonnegative
+** that the KL divergence between a distribution and itself is 0
+* Show that it is not a true distance metric because
+** it is not symmetric
+** it doesn't satisfy the triangle inequality

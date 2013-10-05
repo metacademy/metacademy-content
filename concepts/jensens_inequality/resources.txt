@@ -1,3 +1,11 @@
 source: ross
 edition: 7
 location: Section 8.5, "Other inequalities," page 453
+
+source: mackay
+edition: 1
+location: Section 2.7, "Jensen's inequality for convex functions," pages 35-36
+
+source: cover_and_thomas
+edition: 2
+location: Section 2.6, "Jensen's inequality and its consequences," up to Theorem 2.6.2, pages 25-27

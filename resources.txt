@@ -445,3 +445,19 @@ resource_type: video lecture
 free: 1
 level: graduate
 
+key: cover_and_thomas
+title: Elements of Information Theory
+authors: Thomas M. Cover and Joy A. Thomas
+url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html
+resource_type: textbook
+free: 0
+level: graduate
+
+key: mackay_lectures
+title: Course on Information Theory, Pattern Recognition, and Neural Networks
+author: David MacKay
+url: http://videolectures.net/course_information_theory_pattern_recognition/
+resource_type: video lectures
+free: 1
+level: graduate
+

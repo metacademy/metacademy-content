@@ -1,0 +1,5 @@
+* Understand the notion of entropy of a discrete random variable.
+* What is the largest possible entropy of a discrete random variable which takes on r possible values?
+* Know the definitions of joint entropy and conditional entropy.
+* Derive the chain rule for writing joint entropy as a sum of conditional entropies.
+* Show that the entropy of a set of independent random variables is the sum of the individual entropies.

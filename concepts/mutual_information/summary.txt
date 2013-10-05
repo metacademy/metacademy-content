@@ -1,0 +1,2 @@
+Mutual information is a measure of the amount of information one random variable conveys about another. It is one of the fundamental quantities of information theory, and determines the rate at which information can be conveyed over a noisy channel.
+

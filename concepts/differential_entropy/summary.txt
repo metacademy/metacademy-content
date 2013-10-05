@@ -1,0 +1,1 @@
+Differential entropy is a generalization of entropy to continuous random variables. It is closely related to the asymptotic entropy of increasingly fine discretizations of the continuous distribution. KL divergence and mutual information can similarly be extended to the continuous case.
