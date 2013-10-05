@@ -1,0 +1,1 @@
+Sparse coding is a probabilistic model of natural images where each region of an image is represented as a linaer combination of a small number of components drawn from a dictionary. When the model is fit to natural images, the dictionary elements resemble the receptive fields of cells in the primary visual cortex.

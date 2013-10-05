@@ -1,0 +1,1 @@
+The forward-backward algorithm for computing posterior marginals in an HMM can be viewed as a special case of sum-product belief propagation. Similarly, the Viterbi algorithm for computing the most likely state sequence can be viewed as a special case of max-product belief propagation.

@@ -1,0 +1,1 @@
+Markov chain Monte Carlo (MCMC) samplers eventually converge to their stationary distribution, but they may take a long time to do so. The "mixing time" of a chain refers to how long a chain must be run in order for one sample to be independent of another. Diagnosing mixing time is important for judging the reliability of estimates obtained from an MCMC algorithm.

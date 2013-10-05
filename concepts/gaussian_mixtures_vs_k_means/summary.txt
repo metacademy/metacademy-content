@@ -1,0 +1,1 @@
+Gaussian mixture models and K-means are two canonical approaches to clustering, i.e. dividing data points into meaningful groups. This concept node discusses the tradeoffs between them.

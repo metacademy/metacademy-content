@@ -1,0 +1,1 @@
+When we take partial derivatives of partial derivatives, we get what are known as higher-order partial derivatives. This can describe local properties of a function which aren't captured by the first-order approximation. 
