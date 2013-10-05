@@ -1,2 +1,0 @@
-* "Markov chain Monte Carlo (MCMC)":markov_chain_monte_carlo methods are useful for sampling from the posterior.
-* Bayesian neural nets "converge to Gaussian processes":bayesian_neural_nets_as_gaussian_processes in the limit of infinitely many units.

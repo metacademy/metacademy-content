@@ -1,7 +1,0 @@
-* Some important kinds of sequences of random variables:
-** "martingales":martingales, where the expected value at each time equals the previous value
-** "Markov chains":markov_chains, where the distribution at each step depends only on the previous value
-* Some important results about sequences of i.i.d. random variables:
-** "weak law of large numbers":weak_law_of_large_numbers
-** "strong law of large numbers":strong_law_of_large_numbers
-** "central limit theorem":central_limit_theorem

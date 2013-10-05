@@ -1,4 +1,0 @@
-* Some other ways of reducing dimensionality:
-** "Random projections":johnson_lindenstrauss, which can be simpler and faster.
-** "Neural nets":feed_forward_neural_nets, which can adapt the representation as learning progresses, rather than fixing it at the start
-* Often we would rather "learn overcomplete representations":learning_overcomplete_representations, which map the inputs to a higher dimensional space with more structure. 

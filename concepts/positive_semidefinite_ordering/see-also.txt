@@ -1,1 +1,0 @@
-* "Semidefinite programming":semidefinite_programming is a very general kind of convex optimization problem.

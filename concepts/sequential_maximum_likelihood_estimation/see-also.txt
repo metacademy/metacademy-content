@@ -1,2 +1,0 @@
-* "Stochastic gradient descent":stochastic_gradient_descent is a simple and general optimization technique often used in maximum likelihood estimation with large datasets.
-* The "variational interpretation of expectation-maximization (EM)":em_variational_interpretation justifies using sequential estimation procedures for mixture models.

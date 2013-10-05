@@ -1,4 +1,0 @@
-* Other statements of Holder's inequality:
-** for "vector norms":holders_inequality_vectors
-** for "Hilbert spaces":holders_inequality_hilbert_spaces
-
