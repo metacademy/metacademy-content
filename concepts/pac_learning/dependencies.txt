@@ -1,7 +1,7 @@
 tag: generalization
 reason: PAC learning is a way of analyzing the generalization performance of learning algorithms.
 
-tag: union_bound
+tag: unions_of_events
 reason: The union bound is an important tool for analyzing PAC learning.
 
 tag: independent_events

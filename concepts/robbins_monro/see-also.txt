@@ -1,3 +1,0 @@
-* The "Brouwer fixed point theorem":brouwer_fixed_point_theorem shows that a fixed point is guaranteed to exist under very general conditions. 
-* "Stochastic gradient descent":stochastic_gradient_descent is an optimization algorithm where the Robbins-Monro procedure is often applied. 
-* Robbins-Monro can be used for "sequential maximum likelihood estimation":sequential_maximum_likelihood_estimation. 

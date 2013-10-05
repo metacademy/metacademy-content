@@ -1,5 +1,0 @@
-* Other algorithms for learning nonlinear embeddings include:
-** "Isomap":isomap, which tries to model distances along a neighborhood graph
-** "locally linear embedding":locally_linear_embedding
-** "t-SNE":t_sne, an embedding which tries to model short distances and ignore long ones
-
