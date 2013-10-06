@@ -1,1 +1,1 @@
-probabilistic LSA
+probabilistic Latent Semantic Analysis

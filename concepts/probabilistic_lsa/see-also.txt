@@ -1,1 +1,2 @@
 * "Latent Dirichlet allocation":latent_dirichlet_allocation is a fully Bayesian version of pLSA.
+* A pLSA matrix decomposition is typically learned using the "expectation maximization":expectation_maximization algorithm.

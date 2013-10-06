@@ -461,3 +461,10 @@ resource_type: video lectures
 free: 1
 level: graduate
 
+key: blei_lda
+title: Latent Dirichlet Allocation
+free: 1
+url: http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
+authors: David Blei and Andrew Ng and Michael I Jordan
+resource_type: technical report
+specific_url_base: http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf

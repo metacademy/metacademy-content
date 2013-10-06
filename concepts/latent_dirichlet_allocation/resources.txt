@@ -1,9 +1,6 @@
-title: Latent Dirichlet Allocation
-free: 1
-url:http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
-authors: David Blei and Andrew Ng and Michael I Jordan
-resource_type: technical report
+source: blei_lda
 mark: star
+location: Section 3 pgs. 996-999 provides the key description of LDA
 
 title: Topic Models
 resource_type: online lecture

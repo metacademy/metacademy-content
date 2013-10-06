@@ -1,0 +1,4 @@
+* Understand the difference between pLSA and LSA
+** Why is pLSA considered a statistical model while LSA is not?
+** What objective function does pLSA maximize in order to determine the decomposition?
+* How would a trained pLSA model handle new documents? (see Blei et al.'s LDA paper)
