@@ -1,0 +1,3 @@
+* Understand the difference between stochastic gradient descent and batch gradient descent.
+** When does stochastic gradient descent provide a reasonable approximation to the full gradient?
+** What is the interpretation of the learning rate for stochastic gradient descent compared to full gradient descent?

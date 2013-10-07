@@ -1,0 +1,2 @@
+* Understand the probabilistic interpretation of factor analysis and how the model is closely related to a number of other common probabilistic models used in machine learning.
+* How can latent variables capture higher-order correlations? How does this apply to factor analysis?

@@ -12,3 +12,5 @@ source: pgm
 edition: 1
 location: Section 7.1.1, "Basic parameterization," pages 247-249
 
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Multivariate_normal_distribution
