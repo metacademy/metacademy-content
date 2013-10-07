@@ -1,5 +1,5 @@
 source: khan
-location: https://www.khanacademy.org/math/calculus/partial_derivatives_topic/partial_derivatives/v/partial-derivatives
+location: Lecture sequence: partial derivatives [https://www.khanacademy.org/math/calculus/partial_derivatives_topic/partial_derivatives/v/partial-derivatives]
 mark: star
 
 source: wikipedia
