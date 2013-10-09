@@ -1,2 +1,3 @@
 * LSA has an odd interpretation when viewed as a probabilistic model. "Probabilistic LSA":probabilistic_lsa is a similar model with a more principled probabilistic interpretation.
+* LSA is exactly equivalent to applying "principle component analysis":principal_component_analysis to a term by document count matrix
 * LSA is commonly used in information retrieval. There, it's referred to as "latent semantic indexing":latent_semantic_indexing.

@@ -1,0 +1,17 @@
+source: intro_ir
+location: Section 18.4 [http://nlp.stanford.edu/IR-book/pdf/18lsi.pdf#page=12]
+mark: star
+extra: this section focuses on LSA from an information retrieval perspective, where it is referred to as Latent Semantic Indexing (LSI)
+
+source: wikipedia
+url: http://en.wikipedia.org/wiki/Latent_semantic_analysis
+title: Wikipedia: Latent Semantic Analysis
+
+title: An Introduction to Latent Semantic Analysis
+authors: Thomas Landauer and Peter Foltz and Darrell Laham
+url: http://lsa.colorado.edu/papers/dp1.LSAintro.pdf
+free: 1
+resource_type: comprehensive introduction
+level: undergraduate
+extra: a full understanding of SVD is not needed for this introduction
+mark: star

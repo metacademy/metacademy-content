@@ -30,3 +30,7 @@ location: Lecture "Bayesian networks"
 location: Lecture "Inference in Bayesian networks"
 mark: star
 
+source: iit_eeuni_ai2
+location: Lecture - 22 Bayesian Networks (from 9:35 to 47:00) [http://www.youtube.com/watch?v=rFQsbArQE6Y&feature=youtu.be&t=9m35s]
+extra: Youtube comment from user "SiddharthBhaiVideos" provides a nice outline of the lecture
+mark: star

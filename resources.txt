@@ -457,7 +457,7 @@ key: mackay_lectures
 title: Course on Information Theory, Pattern Recognition, and Neural Networks
 author: David MacKay
 url: http://videolectures.net/course_information_theory_pattern_recognition/
-resource_type: video lectures
+resource_type: video lecture
 free: 1
 level: graduate
 
@@ -467,4 +467,14 @@ free: 1
 url: http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
 authors: David Blei and Andrew Ng and Michael I Jordan
 resource_type: technical report
+level: graduate
 specific_url_base: http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
+
+
+key:  iit_eeuni_ai2
+title: Artificial Intelligence II (IIT video lectures)
+url: http://www.eetindia.co.in/VIDEO_CAT_800003.HTM
+authors: Pallab Dasgupta
+free: 1
+level: advanced undergraduate
+resource_type: video lecture
