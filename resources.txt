@@ -478,3 +478,28 @@ authors: Pallab Dasgupta
 free: 1
 level: advanced undergraduate
 resource_type: video lecture
+
+key: robert_and_casella
+title: Monte Carlo Statistical Methods
+url: http://www.amazon.com/Monte-Statistical-Methods-Springer-Statistics/dp/0387212396
+authors: Christian P. Robert and George Casella
+free: 0
+level: graduate
+resource_type: textbook
+
+key: liu_monte_carlo
+title: Monte Carlo Strategies in Scientific Computing
+url: http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-76369-9
+authors: Jun S. Liu
+free: 0
+level: graduate
+resource_type: textbook
+
+key: bayesian_choice
+title: The Bayesian Choice
+url: http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-95231-4
+authors: Christian P. Robert
+free: 0
+level: graduate
+resource_type: textbook
+

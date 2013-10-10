@@ -3,3 +3,10 @@ reason: Reversible jump MCMC is intended for Bayesian model averaging.
 
 tag: metropolis-hastings
 reason: Reversible jump MCMC is a special case of Metropolis-Hastings.
+
+tag: pdfs_of_functions_of_random_variables
+reason: Deriving the M-H acceptance probability requires computing the PDF of a transformation.
+
+tag: jacobian
+reason: The M-H acceptance probability involves a Jacobian.
+

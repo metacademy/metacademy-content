@@ -1,0 +1,3 @@
+* Understand why generic MCMC operators aren't applicable when sampling over spaces of differing dimensionality.
+* Know the basic idea behind reversible jump: augmenting the parameter spaces so that they are equal dimension.
+* Derive the acceptance probability for the proposal. The tricky part is dealing with the fact that part of the proposal distribution is deterministic.

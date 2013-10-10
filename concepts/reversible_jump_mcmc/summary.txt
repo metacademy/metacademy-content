@@ -1,0 +1,1 @@
+Reversible jump MCMC is a special case of Metropolis-Hastings where proposals are made between continuous spaces of differing dimensionality. The most common use is in Bayesian model averaging.
