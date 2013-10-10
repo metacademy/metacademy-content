@@ -1,1 +1,0 @@
-estimating the partition function using AIS

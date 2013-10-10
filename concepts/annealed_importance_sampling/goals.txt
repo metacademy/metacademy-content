@@ -1,0 +1,3 @@
+* Know the steps the AIS algorithm.
+* Know how to obtain weighted samples and estimates of the partition function from the algorithm's outputs.
+* Show that the variance of the weights approaches zero in the limit of infinitely many intermediate distributions (assuming the transition operator returns perfect samples).

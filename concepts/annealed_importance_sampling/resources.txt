@@ -1,0 +1,14 @@
+resource_type: paper
+title: Annealed importance sampling
+authors: Radford M. Neal
+free: 1
+level: expert
+url: http://www.cs.toronto.edu/~radford/ftp/ais-rev.pdf
+location: Section 2, "The annealed importance sampling procedure"
+location: Section 4, "Efficiency of annealed importance sampling"
+mark: star
+
+source: bishop
+edition: 1
+location: Section 11.6, "Estimating the partition function"
+

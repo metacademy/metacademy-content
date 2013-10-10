@@ -1,10 +1,11 @@
 tag: markov-chain-monte-carlo
-reason: AIS is an MCMC algorithm.
-
-tag: simulated-annealing
-reason: AIS is inspired by simulated annealing.
+reason: AIS uses MCMC transition operators.
 
 tag: importance-sampling
 reason: AIS gives a weighted sample from the distribution.
 
+tag: inference_in_mrfs
+reason: AIS is often used to estimate the partition function.
 
+tag: central_limit_theorem
+reason: The Central Limit Theorem is used to show that the variance of the weights approaches zero.
