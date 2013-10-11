@@ -1,0 +1,12 @@
+tag: particle_filter
+reason: The particle filter is a canonical example of a sequential Monte Carlo algorithm.
+
+tag: importance_sampling
+reason: Importance sampling is one step of sequential Monte Carlo algorithms.
+
+tag: expectation_and_variance
+reason: Sequential Monte Carlo algorithms yield unbiased estimators of expectations.
+
+tag: markov_chain_monte_carlo
+reason: The rejuvenation step involves applying an MCMC operator.
+

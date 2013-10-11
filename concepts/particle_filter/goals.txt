@@ -1,0 +1,5 @@
+* Know the steps of the particle filter algorithm.
+* Be aware that an important advantage of the algorithm is that it does not require storing the entire history.
+* Be aware that the following are major sources of variance in the estimator, and that effective performance can depend on the details of the implementation:
+** the proposal distribution
+** the resampling method

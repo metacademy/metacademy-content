@@ -1,0 +1,11 @@
+tag: hidden_markov_models
+reason: The particle filter is an algorithm for inference in hidden Markov models.
+
+tag: monte_carlo_estimation
+reason: The particle filter is a Monte Carlo algorithm.
+
+tag: importance_sampling
+reason: Importance sampling is one step of the particle filter.
+
+tag: conditional_distributions
+reason: The particle filter approximates the conditional distribution of the states given the observations.

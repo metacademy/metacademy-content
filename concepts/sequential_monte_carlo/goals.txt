@@ -1,0 +1,11 @@
+* Learn the general formulation of sequential Monte Carlo samplers
+* Understand why each of the following operators preserves weighted samples:
+** importance weighting
+** sampling from the sampling (proposal) distribution
+** resampling
+** rejuvenation
+* Know how to use SMC to estimate the normalizing constant of a distribution
+* What is the optimal sampling (proposal) distribution?
+** Know how this can be approximated using look-ahead
+
+

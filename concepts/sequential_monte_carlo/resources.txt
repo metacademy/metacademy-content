@@ -1,0 +1,14 @@
+source: liu_monte_carlo
+edition: 1
+location: Section 3.4, "A general framework," pages 67-76
+mark: star
+extra: Sections 3.1 through 3.3 discuss instructive examples of the framework.
+
+resource_type: paper
+title: Sequential Monte Carlo samplers
+authors: Pierre del Moral and Arnaud Doucet
+url: http://arxiv.org/pdf/cond-mat/0212648.pdf
+free: 1
+location: Section 1, "Introduction"
+location: Section 2, "Sequential Monte Carlo sampling"
+mark: star
