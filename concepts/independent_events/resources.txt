@@ -28,3 +28,7 @@ location: Lecture 2.3, "Independence (continued)" [http://www.youtube.com/watch?
 mark: star
 extra: This uses the measure theoretic notion of probability, but should still be accessible without that background. Refer to Lecture 1.S for unfamiliar terms.
 
+source: rice
+edition: 3
+location: Section 1.6, "Independence," pages 23-26
+mark: star

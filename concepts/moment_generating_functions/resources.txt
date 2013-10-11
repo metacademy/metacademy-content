@@ -8,3 +8,7 @@ edition: 3
 location: Section 4.4, "Moments," pages 203-208
 mark: star
 
+source: rice
+edition: 3
+location: Section 4.5, "The moment-generating function," pages 155-161
+mark: star

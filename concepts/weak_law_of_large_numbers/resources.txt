@@ -10,3 +10,6 @@ location: Section 4.8, "The sample mean," pages 229-235
 extra: The theorem and proof extend to the case where the random variables are uncorrelated, not necessarily independent.
 mark: star
 
+source: rice
+edition: 3
+location: Section 5.2, "The law of large numbers," pages 177-180

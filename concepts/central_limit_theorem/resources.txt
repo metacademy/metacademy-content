@@ -11,3 +11,7 @@ mark: star
 source: mathmonk_probability
 location: Lecture 5.5, "Law of large numbers and Central Limit Theorem" [http://www.youtube.com/watch?v=wadzsURQFT4&list=PL17567A1A3F5DB5E4&index=29]
 
+source: rice
+edition: 3
+location: Section 5.3, "Convergence in distribution and the Central Limit Theorem," pages 181-188
+

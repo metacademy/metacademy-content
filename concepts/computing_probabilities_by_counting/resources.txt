@@ -26,3 +26,9 @@ mark: star
 source: khan_academy_probability
 location: Lecture sequence "Probability using combinatorics" [https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic/probability_combinatorics]
 mark: star
+
+source: rice
+edition: 3
+location: Section 1.4, "Computing probabilities: counting methods," pages 6-15
+mark: star
+

@@ -2,3 +2,6 @@ source: bishop
 edition: 1
 location: Section 2.4.3, pages 117-120
 
+source: rice
+edition: 3
+location: Section 8.6.1, "Further remarks on priors," pages 294-296

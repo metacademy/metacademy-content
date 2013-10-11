@@ -31,3 +31,6 @@ dependencies: maximum_likelihood
 mark: star
 extra: If you're not familiar with Bayes nets, don't worry: most of these lectures don't depend on them.
 
+source: rice
+edition: 3
+location: Section 8.6, "The Bayesian approach to parameter estimation," up through 8.6.1, "Further remarks on priors," pages 285-296

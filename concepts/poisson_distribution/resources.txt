@@ -25,3 +25,9 @@ mark: star
 
 source: mathmonk_probability
 location: Lecture "Expectation of a Poisson random variable" [http://www.youtube.com/watch?v=GQ3cuZmbeRg&list=PL17567A1A3F5DB5E4&index=33]
+
+source: rice
+edition: 3
+location: Section 2.1.5, "The Poisson distribution," pages 42-47
+mark: star
+

@@ -13,3 +13,7 @@ location: Section 22.1, pages 300-302
 mark: star
 dependencies: gaussian_distribution
 
+source: rice
+edition: 3
+location: Section 8.5, "The method of maximum likelihood," not including subsections, pages 267-272
+mark: star

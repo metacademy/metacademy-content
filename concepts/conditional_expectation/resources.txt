@@ -8,3 +8,7 @@ edition: 7
 location: Section 7.5, "Conditional expectation," pages 365-382
 mark: star
 
+source: rice
+edition: 3
+location: Section 4.4, "Conditional expectation," pages 147-154
+mark: star
