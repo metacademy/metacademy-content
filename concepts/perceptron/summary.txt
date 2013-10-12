@@ -1,0 +1,1 @@
+The perceptron is a simple algorithm for binary classification where the weights are adjusted in the direction of each misclassified example.

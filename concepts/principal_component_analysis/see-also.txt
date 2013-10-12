@@ -10,7 +10,5 @@
 ** "probabilistic matrix factorization (PMF)":probabilistic_matrix_factorization, a PCA-like model for predicing missing entries of a matrix
 ** "kernel PCA":kernel_pca, which implicitly maps the data to a high-dimensional space before computing the PCA vectors
 * For very high-dimensional spaces, directly computing the leading eigenvectors is impractical. In these situations, "expectation-maximization (EM)":em_for_pca can be more practical.
-* "Fisher discriminant analysis":fisher_discriminant_analysis is another projection similar to PCA, but which uses class labels also.
-
-
+* "Fisher's linear discriminant":fishers_linear_discriminant is another projection similar to PCA, but which uses class labels also.
 

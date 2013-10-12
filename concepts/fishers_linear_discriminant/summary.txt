@@ -1,0 +1,1 @@
+Fisher's linear discriminant is a technique for visualizing high-dimensional data belonging to multiple classes by projecting it onto a low-dimensional subspace. The subspace is chosen to maximize the ratio of between-class to within-class variance.

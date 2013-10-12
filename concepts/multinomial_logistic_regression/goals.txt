@@ -1,0 +1,2 @@
+* Know what the multinomial logistic regression model is
+* Derive the gradient descent update rule

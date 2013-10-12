@@ -1,6 +1,10 @@
 tag: logistic-regression
 
-tag: multiway-classification
-reason: Multinomial logistic regression is a multiway classification algorithm.
+tag: maximum_likelihood
+reason: Multinomial logistic regression can be fit using maximum likelihood.
 
+tag: optimization_problems
+reason: Multinomial logistic regression is formulated as an optimization problem.
 
+tag: gradient_descent
+reason: Multinomial logistic regression can be fit using gradient descent.

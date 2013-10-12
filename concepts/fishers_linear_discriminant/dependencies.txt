@@ -1,0 +1,17 @@
+tag: projection_onto_a_subspace
+reason: FDA is an algorithm for projection onto a low-dimensional subspace.
+
+tag: gaussian-discriminant-analysis
+reason: FDA is a visualization technique based on GDA.
+
+tag: generalized-eigenvalue-problems
+reason: FDA is a generalized eigenvalue problem.
+
+tag: eigenvalues_and_eigenvectors
+reason: FDA is a generalized eigenvalue problem.
+
+tag: optimization_problems
+reason: FDA is formulated as an optimization problem.
+
+tag: covariance_matrices
+reason: FDA is formulated in terms of covariance matrices.

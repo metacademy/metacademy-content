@@ -1,0 +1,18 @@
+source: bishop
+edition: 1
+location: Section 4.2, "Probabilistic generative models," pages 196-203
+mark: star
+
+source: murphy
+edition: 1
+location: Section 4.2, "Gaussian discriminant analysis," up through 4.2.5, "Strategies for preventing overfitting," pages 101-106
+mark: star
+
+source: esl
+edition: 2
+location: Section 4.3, "Linear discriminant analysis," up through 4.3.2, "Computations for LDA," pages 106-113 [#page=125]
+mark: star
+
+source: cs229
+edition: 1
+location: Lecture 2, "Generative learning algorithms," Section 1.2, "The Gaussian discriminant analysis model," pages 5-6 [cs229-notes2.pdf#page=5]

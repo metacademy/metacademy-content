@@ -1,2 +1,3 @@
 * GDA is an example of a "generative model":generative_vs_discriminative.
-* The generalization to more than two classes is known as "Fisher discriminant analysis":fisher_discriminant_analysis.
+* GDA is closely related to "Fisher's linear discriminant":fishers_linear_discriminant, a method for data visualization.
+* In the two-class case, GDA is equivalent to "linear regression":linear_regression.

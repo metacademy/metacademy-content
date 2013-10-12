@@ -1,0 +1,6 @@
+* Know what the probit regression model is
+* Be able to derive the gradient descent update rules
+* Understand the relationship with logistic regression:
+** the two have similar activation functions
+** however, probit regression is more sensitive to outliers
+* Interpret the model in terms of a latent Gaussian variable and a threshold

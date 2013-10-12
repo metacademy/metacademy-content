@@ -1,0 +1,2 @@
+* Derive the subspace which maximizes the ratio of between-class and within-class variance.
+* Why might this projection give better classification results than GDA in the original space?

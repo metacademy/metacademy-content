@@ -1,0 +1,4 @@
+* Derive the form of the decision boundary in the two-class case when the within-class covariance matrices are shared. In particular, show that it is always a hyperplane.
+* What do the decision regions look like when there are more than two classes?
+* Show that the decision boundary is quadratic when the covariance matrices are not shared between classes.
+* Optional: show that the decision boundary in the two-class case is equivalent to performing classification with "linear least squares":linear_regression.

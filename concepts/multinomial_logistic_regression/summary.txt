@@ -1,0 +1,1 @@
+Multinomial logistic regression is a generalization of logistic regression to the case where there are more than two categories.

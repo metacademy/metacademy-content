@@ -1,0 +1,9 @@
+source: bishop
+edition: 1
+location: Section 4.3.5, "Probit regression," pages 210-212
+mark: star
+
+source: murphy
+edition: 1
+location: Section 9.4, "Probit regression," pages 293-295
+mark: star
