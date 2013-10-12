@@ -1,0 +1,1 @@
+Multidimensional scaling is a method for visualizing similarity between data points by embedding the data into a low-dimensional subspace. The locations are chosen so that the distances in the embedding space match the dissimilarities as closely as possible.

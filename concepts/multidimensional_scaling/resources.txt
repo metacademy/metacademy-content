@@ -1,0 +1,9 @@
+source: esl
+edition: 2
+location: Section 14.8, "Multidimensional scaling," pages 570-572 [page=589]
+
+resource_type: paper
+title: Multidimensional scaling, tree-fitting, and clustering
+authors: Roger N. Shepard
+url: http://www.columbiauniversity.net/itc/sociology/watts/w3233/client_edit/shepard_scaling.pdf
+level: graduate

@@ -1,0 +1,5 @@
+resource_type: paper
+title: A global geometric framework for nonlinear dimensionality reduction
+authors: Joshua B. Tenenbaum and Vin de Silva and John C. Langford
+url: http://www.sciencemag.org/content/290/5500/2319.full
+level: graduate

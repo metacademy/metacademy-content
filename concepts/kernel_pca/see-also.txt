@@ -1,5 +1,4 @@
 * Some other ways of learning nonlinear representations of data:
 ** "feed-forward neural nets":feed_forward_neural_nets, which adapt the representations in the context of some other learning objective
 ** "spectral embeddings":spectral_embeddings, a very similar algorithm based on spectral graph theory
-
-
+* Kernel PCA is closely related to "multidimensional scaling":multidimensional_scaling, a technique for visualizing similarity data

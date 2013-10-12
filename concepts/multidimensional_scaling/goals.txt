@@ -1,0 +1,3 @@
+* Know what stress function multidimensional scaling is minimizing
+* Understand how it can be used to visualize similarity data
+* Be aware that the exact solution can be computed efficiently

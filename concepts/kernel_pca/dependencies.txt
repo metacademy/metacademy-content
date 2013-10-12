@@ -1,3 +1,6 @@
 tag: principal-component-analysis
 
 tag: kernel-trick
+
+tag: spectral_decomposition
+reason: The spectral decomposition is used in deriving kernel PCA.

@@ -1,2 +1,3 @@
-tag: variational-characterization-of-eigenvalues
-reason: MDS is derived by converting an optimization problem into an eigenvalue problem.
+tag: optimization_problems
+reason: Multidimensional scaling is formulated as an optimization problem.
+
