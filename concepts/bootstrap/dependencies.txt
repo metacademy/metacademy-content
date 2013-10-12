@@ -1,0 +1,8 @@
+tag: expectation_and_variance
+reason: The bootstrap is often used for estimating the variance of an estimator.
+
+tag: confidence_intervals
+reason: The bootstrap is often used to obtain confidence intervals.
+
+tag: monte_carlo_estimation
+reason: The bootstrap is a Monte Carlo estimator.

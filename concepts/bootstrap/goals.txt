@@ -1,0 +1,7 @@
+* Know the procedures for both the parametric and nonparametric bootstrap
+** When would you choose one over the other?
+** Note: for the parametric bootstrap, it may help to know about a point estimator such as "maximum likelihood":maximum_likelihood, but you can treat this as a black box.
+* Be able to use the bootstrap to:
+** estimate the variance of an estimator
+** compute a confidence interval for an estimator
+* The nonparametric bootstrap introduces two sources of error: using the empirical distribution as a proxy for the true distribution, and repeatedly simulating from the empirical distribution. Which of these would you expect to be a larger source of error?

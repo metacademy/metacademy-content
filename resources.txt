@@ -503,3 +503,10 @@ free: 0
 level: graduate
 resource_type: textbook
 
+key: all_of_statistics
+title: All of Statistics
+authors: Larry Wasserman
+url: http://www.stat.cmu.edu/~larry/all-of-statistics/
+free: 0
+level: advanced undergraduate
+resource_type: textbook

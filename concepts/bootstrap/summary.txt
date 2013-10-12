@@ -1,0 +1,2 @@
+The bootstrap is a Monte Carlo technique for estimating variances or confidence intervals of statistical estimators. It uses the empirical distribution as a proxy for the true distribution, and measures the accuracy of the estimator on datasets resampled from the empirical distribution. It is widely applicable and doesn't require assuming a parametric form for the true distribution.
+

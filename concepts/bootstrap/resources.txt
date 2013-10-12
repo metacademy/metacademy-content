@@ -1,0 +1,19 @@
+source: degroot
+edition: 4
+location: Section 12.6, "The bootstrap," pages 839-849
+
+source: all_of_statistics
+edition: 1
+location: Chapter 8, "The bootstrap," pages 107-115
+location: Section 9.11, "The parametric bootstrap," pages 134-135
+mark: star
+
+title: CMU 36-402, Advanced data analysis: the bootstrap
+resource_type: lecture notes
+authors: Cosma Shalizi
+free: 1
+url: http://www.stat.cmu.edu/~cshalizi/402/lectures/08-bootstrap/lecture-08.pdf
+location: Section 1, "Stochastic models, uncertainty, sampling distributions," pages 2-4
+location: Section 2, "The bootstrap principle," pages 4-15
+location: Section 3, "Non-parametric bootstrapping," pages 15-18
+mark: star

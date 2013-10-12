@@ -1,1 +1,2 @@
 * "Boosting":boosting_vs_bagging is another classifier combination method which sounds similar to bagging, but is meant to improve accuracy rather than reduce variance.
+* The "bootstrap":bootstrap is another technique based on randomly resampling a dataset.
