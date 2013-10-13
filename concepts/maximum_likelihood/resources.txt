@@ -26,3 +26,13 @@ edition: 3
 location: Section 8.5, "The method of maximum likelihood," up through 8.5.1, "Maximum likelihood estimates of multinomial cell probabilities," pages 267-274
 mark: star
 dependencies: multinomial_distribution
+
+source: all_of_statistics
+edition: 1
+location: Section 9.3, "Maximum likelihood," pages 122-124
+mark: star
+
+source: degroot
+edition: 4
+location: Section 7.5, "Maximum likelihood estimators," pages 417-425
+mark: star

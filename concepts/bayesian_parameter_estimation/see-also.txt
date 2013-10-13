@@ -1,3 +1,6 @@
+* Some other parameter estimation methods include:
+** the "method of moments":method_of_moments
+** "maximum likelihood":maximum_likelihood
 * Ultimately, we don't just want to learn parameters, we want to use them for something. "Bayesian decision theory":bayesian_decision_theory concerns how to act based on our inferences from the data.
 * Usually, the posterior over parameters and the predictive distribution can't be computed in closed form. Here are some strategies for getting approximate solutions:
 ** "maximum a posteriori (MAP) estimation":map_parameter_estimation, i.e. finding the most likely parameters

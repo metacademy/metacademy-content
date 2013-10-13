@@ -1,0 +1,5 @@
+* Understand basic properties of maximum likelihood estimators:
+** they are consistent (they approach the correct value in the limit)
+** asymptotically, their sampling distribution (rescaled appropriately) approaches a normal distribution whose variance is the inverse Fisher information
+** they are efficient (no unbiased estimator has smaller variance asymptotically)
+* Note: for the multivariate version of the asymptotic normality result, you'll want to know about the "Fisher information matrix":fisher_information_matrix.

@@ -1,0 +1,4 @@
+* Know the definition of a sufficient statistic
+* Derive an equivalent criterion in terms of a factorization of the distribution
+* Prove the Rao-Blackwell Theorem, which implies that estimators should be based on sufficient statistics when the exist.
+** Note: the general form of the Rao-Blackwell Theorem, which applies to convex loss functions, depends on "Jensen's inequality":jensens_inequality, but many texts give the special case for squared error.

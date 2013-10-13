@@ -1,0 +1,2 @@
+* Because of the "Cramer-Rao bound":cramer_rao_bound, no unbiased estimator can achieve lower variance than the ML estimator.
+* The ML estimator depends only on "sufficient statistics":sufficient_statistics of the distribution.

@@ -2,10 +2,12 @@
 ** "Linear regression":linear_regression_as_maximum_likelihood
 ** "Logistic regression":logistic_regression
 ** "Mixture of Gaussians modeling":mixture_of_gaussians
-* Maximum likelihood enjoys several guarantees under very general conditions:
-** "consistency":consistency_of_maximum_likelihood
-** "efficiency":efficiency_of_maximum_likelihood (in the statistical sense) 
-* For many commonly used distributions, we can find the global optimum because the "optimization problem is convex":maximum_likelihood_and_convex_optimization. 
+* Maximum likelihood has some desirable "asymptotic properties":asymptotics_of_maximum_likelihood such as consistency and asymptotic normality.
+* The "Cramer-Rao bound":cramer_rao_bound implies that maximum likelihood estimation is asymptotically efficient.
+* For many commonly used distributions, we can find the global optimum because the "optimization problem is convex":convex_optimization. 
+* Other methods for estimating parameters include:
+** the "method of moments":method_of_moments
+** "Bayesian parameter estimation":bayesian_parameter_estimation
 * Maximum likelihood can be prone to "overfitting":generalization when there is not enough data to estimate the parameters.
 * Some techniques for avoiding overfitting include:
 ** "Regularized maximum likelihood":regularization

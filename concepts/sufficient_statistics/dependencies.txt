@@ -1,0 +1,6 @@
+tag: random_variables
+reason: Sufficient statistics are a way of analyzing probability distributions.
+
+tag: conditional_distributions
+reason: Sufficient statistics are defined in terms of conditional distributions.
+

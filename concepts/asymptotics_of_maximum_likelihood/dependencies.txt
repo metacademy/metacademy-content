@@ -1,8 +1,10 @@
 tag: maximum-likelihood
 
-tag: fisher-information-matrix
-reason: The asymptotic covariance of the maximum likelihood estimate is determined by the Fisher information matrix.
+tag: fisher-information
+reason: The asymptotic covariance of the maximum likelihood estimate is determined by Fisher information.
  
-tag: multivariate-gaussian-distribution
-reason: The maximum likelihood estimate of the parameters is approximately a multivariate Gaussian in the large data limit.
-shortcut: 1
+tag: gaussian_distribution
+reason: The maximum likelihood estimate of the parameters is approximately Gaussian in the large data limit.
+
+tag: confidence_intervals
+reason: The asymptotics of maximum likelihood are used to construct confidence intervals.

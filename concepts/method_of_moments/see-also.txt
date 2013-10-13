@@ -1,0 +1,4 @@
+* Some other parameter estimation methods include:
+** "maximum likelihood":maximum_likelihood
+** "Bayesian parameter estimation":bayesian_parameter_estimation
+* In "exponential families":exponential families, the maximum likelihood solution "is equivalent":maximum_likelihood_in_exponential_families to moment matching.

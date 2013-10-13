@@ -1,0 +1,2 @@
+tag: expectation_and_variance
+reason: The method of moments requires estimating moments.

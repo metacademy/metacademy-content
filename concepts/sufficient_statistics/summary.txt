@@ -1,0 +1,2 @@
+Sufficient statistics are statistics which summarize all of the information a dataset contains about the parameters of a distribution. The Rao-Blackwell Theorem implies that statistical estimators should depend only on sufficient statistics when they exist.
+

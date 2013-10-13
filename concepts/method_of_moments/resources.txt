@@ -1,0 +1,15 @@
+source: all_of_statistics
+edition: 1
+location: Section 9.2, "The method of moments," pages 120-122
+mark: star
+
+source: rice
+edition: 3
+location: Section 8.4, "The method of moments," pages 260-267
+mark: star
+
+source: degroot
+edition: 4
+location: Section 7.6, "Properties of maximum likelihood estimators," subsection "Method of moments," pages 430-432
+
+

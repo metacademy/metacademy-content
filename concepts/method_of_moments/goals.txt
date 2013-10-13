@@ -1,0 +1,1 @@
+* Understand what the method of moments estimator is and how to compute it for simple parametric models.

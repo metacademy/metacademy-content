@@ -17,3 +17,8 @@ source: rice
 edition: 3
 location: Section 8.5, "The method of maximum likelihood," not including subsections, pages 267-272
 mark: star
+
+source: all_of_statistics
+edition: 1
+location: Section 9.3, "Maximum likelihood," pages 122-124
+mark: star

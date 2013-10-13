@@ -1,0 +1,2 @@
+* Prove the Cramer-Rao theorem, which bounds the variance of any unbiased estimator of model parameters.
+* Use the result to compute the asymptotic relative efficiency of an estimator.

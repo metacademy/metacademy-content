@@ -1,0 +1,11 @@
+tag: variance
+reason: The bound relates to the variance of an estimator.
+
+tag: fisher_information
+reason: The bound is given in terms of Fisher information.
+
+tag: covariance
+reason: The proof of the theorem uses properties of covariance.
+
+tag: partial_derivatives
+reason: The proof of the theorem uses partial derivatives.

@@ -1,0 +1,1 @@
+The Cramer-Rao bound gives the minimum possible variance of an unbiased estimator of the parameters of a probability distribution. It is used to prove the asymptotic efficiency of the maximum likelihood estimator.

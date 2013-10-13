@@ -1,0 +1,3 @@
+* "Exponential families":exponential_families are a class of distributions which can be parameterized in terms of sufficient statistics.
+* The "maximum likelihood estimator":maximum_likelihood depends only on sufficient statistics.
+* Many sufficient statistics correspond to "moments":expectation_and_variance of a distribution.
