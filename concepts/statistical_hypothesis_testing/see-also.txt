@@ -1,0 +1,3 @@
+* Some examples of statistical hypothesis testing:
+** "comparing normal populations":comparing_normal_populations
+* Often, instead of hypothesis testing, it is preferable to compute a "confidence interval":confidence_interval.

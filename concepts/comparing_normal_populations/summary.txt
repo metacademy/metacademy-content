@@ -1,0 +1,1 @@
+A common task in statistics is to determine whether two normally distributed populations have the same mean. The appropriate test can depend on factors such as the sample size and whether the populations are paired or independent.

@@ -1,0 +1,10 @@
+tag: gaussian_distribution
+
+tag: statistical_hypothesis_testing
+reason: Comparing populations involves hypothesis testing.
+
+tag: student_t_distribution
+reason: The t test uses the student-t distribution.
+
+tag: expectation_and_variance
+reason: The tests require computing variances.

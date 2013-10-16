@@ -1,0 +1,1 @@
+The student-t distribution is a continuous probability distribution motivated by estimating the mean of a Gaussian population with unknown variance.

@@ -1,0 +1,2 @@
+* Understand how the student-t distribution is defined in terms of samples drawn from a normal distribution.
+* Know how the shape of the distribution depends on the degrees of freedom (few degrees of freedom gives a heavy-tailed distribution, many degrees of freedom means approximately normal)

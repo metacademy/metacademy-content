@@ -1,0 +1,11 @@
+* Understand what is required of a hypothesis test in the Neyman-Pearson paradigm
+* Know basic terminology, including:
+** null hypothesis and alternative hypothesis
+** test statistic
+** type 1 and type 2 errros
+** the power function of a test
+** the level of a test
+** simple and composite hypotheses
+* Know what is meant by a p-value and how to compute it from the test statistic and its distribution
+** In particular, understand why it doesn't give the probability that a hypothesis is true
+* Understand why statistical significance doesn't imply that a difference is large in magnitude

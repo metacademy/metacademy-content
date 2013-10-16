@@ -1,0 +1,1 @@
+Statistical hypothesis testing is a method for deciding what conclusions can be drawn from data. A central question is determining whether an outcome is statistically significant, or unlikely to have arisen by chance. 

@@ -1,0 +1,10 @@
+tag: probability
+
+tag: random_variables
+reason: Many hypothesis tests concern parameters of distributions.
+
+tag: gaussian_distribution
+reason: Some canonical examples of statistical tests involve the Gaussian distribution.
+
+tag: cumulative_distribution_function
+reason: P-values are determined using the CDF of the test statistic.

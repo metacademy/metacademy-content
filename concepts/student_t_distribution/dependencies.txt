@@ -1,2 +1,5 @@
 tag: gaussian-distribution
-reason: The student-t distribution is a mixture of Gaussians with different variance parameters.
+reason: The student-t distribution is motivated in terms of the Gaussian distribution.
+
+tag: chi_squared_distribution
+reason: The student-t distribution can be expressed in terms of a chi-squared distribution.

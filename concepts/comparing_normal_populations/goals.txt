@@ -1,0 +1,5 @@
+* Know what the z-test and t-test are, and how to compute the p-values.
+** When would you use one rather than the other?
+* What are paired z-tests and t-tests?  Why might they be preferable to ones assuming independent populations?
+* What is the difference between a one-sided and a two-sided test, and why would you use one over the other?
+* Be aware that the assumption that the populations are normally distributed is a strong one, and often not justified.

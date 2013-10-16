@@ -1,0 +1,14 @@
+source: all_of_statistics
+edition: 1
+location: Section 10.1, "The Wald test," pages 152-156
+location: Section 10.10.2, "The t-test," page 170
+
+source: rice
+edition: 3
+location: Section 11.2, "Comparing two independent samples," up through 11.2.1, "Methods based on the normal distribution," pages 421-435
+location: Section 11.3, "Comparing paired samples," up through 11.3.1, "Methods based on the normal distribution," pages 444-447
+
+source: degroot
+edition: 4
+location: Section 9.5, "The t test," pages 576-585
+location: Section 9.6, "Comparing the means of two normal distributions," pages 587-596
