@@ -1,0 +1,1 @@
+Bagging is a technique for reducing the variance of a learning algorithm by averaging the predictions obtained from random resamplings of the training data. It can improve the performance of unstable algorithms such as decision trees.

@@ -1,0 +1,11 @@
+tag: decision_trees
+reason: Random forests are ensembles of decision trees.
+
+tag: bagging
+reason: Bagging is a part of the random forest algorithm.
+
+tag: generalization
+reason: Averaging over random resamplings is intended to improve generalization performance.
+
+tag: expectation_and_variance
+reason: The variance of the individual classifiers is important for understanding random forests.

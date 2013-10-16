@@ -1,0 +1,1 @@
+Random forests are a machine learning algorithm which averages the predictions over decision trees restricted to random subsets of the input features. They are widely used because they often perform very well with almost no parameter tuning.

@@ -1,0 +1,2 @@
+* Know what the bagging procedure is.
+* What is the motivation behind bagging?  For what sorts of algorithms would you expect it to improve performance?

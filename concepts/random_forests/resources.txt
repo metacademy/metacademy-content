@@ -1,0 +1,29 @@
+source: esl
+edition: 2
+location: Section 15.2, "Definition of random forests," pages 587-592 [#page=606]
+location: Section 15.3, "Details of random forests," pages 592-597 [#page=611]
+mark: star
+
+title: Machine learning - random forests
+authors: Nando de Freitas
+url: http://www.youtube.com/watch?v=3kYujfDgmNk
+resource_type: online lecture
+level: graduate
+free: 1
+
+title: Decision forests: a unified framework for classification, regression, density estimation, manifold learning, and semi-supervised learning
+authors: Antonio Criminisi and Jamie Shotton and Ender Konukoglu
+url: http://research.microsoft.com/pubs/158806/CriminisiForests_FoundTrends_2011.pdf
+resource_type: review paper
+level: expert
+free: 1
+
+title: Random forests
+authors: Leo Breiman
+url: http://www-personal.umich.edu/~jizhu/jizhu/wuke/Breiman-ML01.pdf
+resource_type: paper
+level: expert
+free: 1
+location: Section 1, "Introduction," pages 1-3 [#page=1]
+location: Section 3, "Using random features," pages 10-11 [#page=10]
+location: Section 4, "Random forests using random input selection," pages 11-14 [#page=11]

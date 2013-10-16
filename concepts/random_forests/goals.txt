@@ -1,0 +1,4 @@
+* Know the basic random forest algorithm
+* What effect does varying the number of features have?  What are the advantages of larger or smaller values?
+* How do you determine the relevance of each of the input features to the classification?
+* How do you estimate out-of-sample error as the training is progressing?

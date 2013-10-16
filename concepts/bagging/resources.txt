@@ -1,0 +1,9 @@
+source: coursera_domingos
+location: Lecture "Model ensembles"
+location: Lecture "Bagging"
+mark: star
+
+source: esl
+edition: 2
+location: Section 8.7, "Bagging," pages 282-288 [#page=301]
+dependencies: bootstrap, bias_variance_decomposition

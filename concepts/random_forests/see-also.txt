@@ -1,0 +1,2 @@
+* "Boosting":boosting is another ensemble method commonly applied to decision trees.
+* "Dropout":dropout is a regularization technique for neural networks inspired by random forests.
