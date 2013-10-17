@@ -7,5 +7,5 @@ source: murphy
 edition: 1
 location: Section 21.5, pages 742-749
 dependencies: bayesian_parameter_estimation_gaussian, bayesian_linear_regression
-mark: star
+core: 1
 

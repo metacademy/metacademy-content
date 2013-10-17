@@ -2,7 +2,7 @@ source: bishop
 edition: 1
 location: Section 3.3, pages 152-161
 dependencies: evidence_approximation
-mark: star
+core: 1
 
 source: murphy
 edition: 1

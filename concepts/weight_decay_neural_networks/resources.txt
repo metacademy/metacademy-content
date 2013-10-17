@@ -1,9 +1,9 @@
 source: bishop
 edition: 1
 location: Sections 5.5-5.5.1, pages 256-259
-mark: star
+core: 1
 
 source: coursera_hinton
 location: Lecture "Overview of ways to improve generalization"
 location: Lecture "Limiting the size of the weights"
-mark: star
+core: 1

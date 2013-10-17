@@ -2,7 +2,7 @@ source: esl
 edition: 2
 location: Section 3.4.2, "The Lasso," pgs. 68-69 [#page=87]
 location: Section 3.4.3, "Discussion: subset selection, ridge regression, and the Lasso," pages 69-73 [#page=88]
-mark: star
+core: 1
 
 source: bishop
 edition: 1
@@ -11,4 +11,4 @@ location: Section 3.1.4, pgs. 144-146
 source: murphy
 edition: 1
 location: Sections 13.3-13.3.4, pgs. 429-438
-mark: star
+core: 1

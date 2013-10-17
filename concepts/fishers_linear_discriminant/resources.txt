@@ -1,9 +1,9 @@
 source: bishop
 edition: 1
 location: Section 4.1.4, "Fisher's linear discriminant," pages 186-189
-mark: star
+core: 1
 
 source: esl
 edition: 2
 location: Section 4.3.3, "Reduced-rank linear discriminant analysis," pages 113-119
-mark: star
+core: 1

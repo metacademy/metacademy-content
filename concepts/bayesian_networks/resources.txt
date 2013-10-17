@@ -1,7 +1,7 @@
 source: pgm
 edition: 1
 location: Sections 3.1-3.2.2, pages 45-60
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -16,21 +16,21 @@ dependencies: linear_regression
 source: aima
 edition: 2
 location: Sections 14.1-14.2, pages 492-499
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Semantics & factorization"
 location: Lecture "Reasoning patterns"
 location: Lecture "Naive Bayes"
 location: Lecture "Application -- medical diagnosis"
-mark: star
+core: 1
 
 source: coursera_domingos
 location: Lecture "Bayesian networks"
 location: Lecture "Inference in Bayesian networks"
-mark: star
+core: 1
 
 source: iit_eeuni_ai2
 location: Lecture - 22 Bayesian Networks (from 9:35 to 47:00) [http://www.youtube.com/watch?v=rFQsbArQE6Y&feature=youtu.be&t=9m35s]
 extra: Youtube comment from user "SiddharthBhaiVideos" provides a nice outline of the lecture
-mark: star
+core: 1

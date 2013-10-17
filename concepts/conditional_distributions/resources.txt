@@ -1,14 +1,14 @@
 source: degroot
 edition: 3
 location: Section 3.6, "Conditional distributions," pages 136-145
-mark: star
+core: 1
 
 source: ross
 edition: 7
 location: Section 6.4, "Conditional distributions: discrete case," pages 288-291; Section 6.5, "Conditional distributions: continuous case," pages 291-296
-mark: star
+core: 1
 
 source: rice
 edition: 3
 location: Section 3.5, "Conditional distributions," pages 87-95
-mark: star
+core: 1

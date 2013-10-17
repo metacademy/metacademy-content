@@ -4,4 +4,4 @@ location: Section 8.1, "Definitions," pages 243-244
 location: Section 8.3, "Relation of differential entropy to discrete entropy," pages 247-249
 location: Section 8.4, "Joint and conditional differential entropy," pages 249-250
 location: Section 8.5, "Relative entropy and mutual information," pages 250-252
-mark: star
+core: 1

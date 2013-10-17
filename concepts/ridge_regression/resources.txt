@@ -16,6 +16,6 @@ extra: Don't worry about deriving the closed-form solution in equation (3.28).
 source: esl
 edition: 1
 location: Section 3.4.3, subsection "Ridge regression," pages 59-64
-mark: star
+core: 1
 dependencies: singular-value-decomposition
 

@@ -1,22 +1,22 @@
 source: strang
 edition: 4
 location: Section 4.3, "Least squares approximation," pages 218-225
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Projections onto subspaces," starting from 42:00 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/]
 location: Lecture "Projection matrices and least squares" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/]
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture "Least squares approximation"  [https://www.khanacademy.org/math/linear-algebra/alternate_bases/orthogonal_projections/v/linear-algebra--least-squares-approximation]
 location: Lecture "Least squares examples"
 location: Lecture "Another least squares example"
-mark: star
+core: 1
 
 source: shifrin
 location: Section 5.5, "Projections, least squares, and inner product spaces," up to "Orthogonal bases," pages 225-232
 dependencies: lagrange_multipliers
-mark: star
+core: 1
 
 

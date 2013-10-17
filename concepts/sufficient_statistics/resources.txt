@@ -1,7 +1,7 @@
 source: rice
 edition: 3
 location: Section 8.8, "Sufficiency," pages 305-310
-mark: star
+core: 1
 
 source: all_of_statistics
 edition: 1
@@ -10,4 +10,4 @@ location: Section 9.13.2, "Sufficiency," pages 137-140
 source: degroot
 edition: 4
 location: Section 7.7, "Sufficient statistics," pages 443-448
-mark: star
+core: 1

@@ -1,7 +1,7 @@
 source: coursera_ng
 location: Lecture 17.2-17.4 "Stochastic gradient descent," "Mini-batch gradient descent," and "Stochastic gradient descent convergence"
 dependencies: linear_regression
-mark: star
+core: 1
 
 source: wikipedia
 title: Wikipedia: Stochastic Gradient Descent

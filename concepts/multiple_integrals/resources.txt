@@ -1,7 +1,7 @@
 source: khan_academy_calculus
 location: Lecture sequence "Double integrals" [https://www.khanacademy.org/math/calculus/double_triple_integrals/double_integrals]
 location: Lecture sequence "Triple integrals" [https://www.khanacademy.org/math/calculus/double_triple_integrals/triple_integrals]
-mark: star
+core: 1
 
 source: wolfram
 location: http://mathworld.wolfram.com/MultipleIntegral.html
@@ -9,7 +9,7 @@ location: http://mathworld.wolfram.com/MultipleIntegral.html
 source: edwards_penney
 edition: 6
 location: Section 14.1, "Double integrals," pages 940-945; Section 14.2, "Double integrals over more general regions," pages 947-952; Section 14.3, "Area and volume by double integration," pages 954-958; and Section 14.6, "Triple integrals," pages 979-985
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
@@ -20,4 +20,4 @@ source: ocw_auroux
 location: Session 47, "Definition of double integration" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-47-definition-of-double-integration]
 location: Session 48, "Examples of double integration" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration]
 location: Session 49, "Exchanging the order of integration" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration]
-mark: star
+core: 1

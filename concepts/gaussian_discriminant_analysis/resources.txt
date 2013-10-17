@@ -1,17 +1,17 @@
 source: bishop
 edition: 1
 location: Section 4.2, "Probabilistic generative models," pages 196-203
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Section 4.2, "Gaussian discriminant analysis," up through 4.2.5, "Strategies for preventing overfitting," pages 101-106
-mark: star
+core: 1
 
 source: esl
 edition: 2
 location: Section 4.3, "Linear discriminant analysis," up through 4.3.2, "Computations for LDA," pages 106-113 [#page=125]
-mark: star
+core: 1
 
 source: cs229
 edition: 1

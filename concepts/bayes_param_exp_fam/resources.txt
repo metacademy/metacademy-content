@@ -1,4 +1,4 @@
 source: murphy
 edition: 1
 location: Section 9.2.5, "Bayes for the exponential family," pages 287-289
-mark: star
+core: 1

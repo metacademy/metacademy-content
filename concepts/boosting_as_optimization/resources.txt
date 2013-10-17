@@ -2,7 +2,7 @@ source: bishop
 edition: 1
 location: Section 14.3.1, "Minimizing exponential error," pages 659-661
 location: Section 14.3.2, "Error functions for boosting," pages 661-663
-mark: star
+core: 1
 
 source: esl
 edition: 2
@@ -11,4 +11,4 @@ location: Section 10.3, "Forward stagewise additive modeling," pages 342-343 [#p
 location: Section 10.4, "Exponential loss and AdaBoost," pages 343-344 [#page=362]
 location: Section 10.5, "Why exponential loss?", pages 345-346 [#page=364]
 location: Section 10.6, "Loss functions and robustness," pages 346-350 [#page=365]
-mark: star
+core: 1

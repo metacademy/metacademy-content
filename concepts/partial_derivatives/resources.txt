@@ -1,6 +1,6 @@
 source: khan
 location: Lecture sequence: partial derivatives [https://www.khanacademy.org/math/calculus/partial_derivatives_topic/partial_derivatives/v/partial-derivatives]
-mark: star
+core: 1
 
 source: wikipedia
 location: http://en.wikipedia.org/wiki/Partial_derivative
@@ -11,13 +11,13 @@ location: http://mathworld.wolfram.com/PartialDerivative.html
 
 source: edwards_penney
 location: Section 13.4, "Partial derivatives," pages 868-875
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Section 3.1, "Partial derivatives and directional derivatives," pages 81-85
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Session 26, "Partial derivatives" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives]
-mark: star
+core: 1

@@ -14,7 +14,7 @@ source: bishop
 edition: 1
 free: 1
 location: Section 8.4.5, pages 411-415 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=71]
-mark: star
+core: 1
 
 source: mackay
 edition: 1

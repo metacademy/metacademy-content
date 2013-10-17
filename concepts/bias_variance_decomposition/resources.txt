@@ -3,7 +3,7 @@ location: Lecture: bias-variance decomposition (ML 11.5) [http://www.youtube.com
 
 source: bishop
 location: Section 3.2
-mark: star
+core: 1
 
 source: murphy
 location: Section 6.4.4

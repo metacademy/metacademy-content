@@ -12,7 +12,7 @@ source: murphy
 edition: 1
 location: Section 21.3, pages 735-739
 dependencies: markov_random_fields
-mark: star
+core: 1
 
 source: wainwright_jordan_tutorial
 location: Sections 5.1-5.4, pages 127-142 [#page=127]

@@ -1,7 +1,7 @@
 source: bishop
 edition: 1
 location: Section 4.1.7, "The perceptron algorithm," pages 192-196
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -9,10 +9,10 @@ location: Section 8.5.4, "The perceptron algorithm," pages 265-266
 
 source: cs229
 location: Lecture notes 6, "Online learning and the perceptron algorithm," pages 1-3 [cs229-notes6.pdf]
-mark: star
+core: 1
 
 source: coursera_domingos
 location: Lecture "The perceptron"
 location: Lecture "Perceptron training"
-mark: star
+core: 1
 

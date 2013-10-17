@@ -1,24 +1,24 @@
 source: pgm
 edition: 1
 location: Section 12.3-12.3.3, pages 505-515
-mark: star
+core: 1
 
 source: bishop
 edition: 1
 location: Section 11.2, pages 537-542
 dependencies: multivariate_gaussian_distribution
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Markov Chain Monte Carlo"
 location: Lecture "Using a Markov Chain"
-mark: star
+core: 1
 
 source: mackay
 edition: 1
 location: Section 29.6, "Terminology for Markov chain Monte Carlo methods," pages 372-374 [358.386.pdf#page=17]
-mark: star
+core: 1
 
 source: mlss_murray
 location: 29:08 to 69:40
-mark: star
+core: 1

@@ -1,7 +1,7 @@
 source: bishop
 edition: 1
 location: Section 2.4, "The exponential family," not counting subsections, pages 113-116
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -10,14 +10,14 @@ location: Section 9.2, "The exponential family," up to 9.2.4, "MLE for the expon
 source: pgm
 edition: 1
 location: Section 8.2, "Exponential families," pages 261-266
-mark: star
+core: 1
 
 source: cs229
 location: Lecture notes 1, "Supervised learning, discriminative algorithms," section 8, "The exponential family," pages 22-24 [cs229-notes1.pdf#page=22]
-mark: star
+core: 1
 
 source: mathmonk_ml
 location: Lecture 5.1, "Exponential families (part 1)" [http://www.youtube.com/watch?v=_aNk4QKi2_o&list=PLD0F06AA0D2E8FFBA&index=27]
 location: Lecture 5.2, "Exponential families (part 2)" [http://www.youtube.com/watch?v=Jc-gVN8tQC8&list=PLD0F06AA0D2E8FFBA&index=28]
-mark: star
+core: 1
 

@@ -1,25 +1,25 @@
 source: degroot
 edition: 3
 location: Section 4.6, "Covariance and correlation," pages 214-221
-mark: star
+core: 1
 
 source: ross
 edition: 7
 location: Section 7.4, "Covariance, variance of sums, and correlations," pages 355-364
-mark: star
+core: 1
 
 source: feller
 edition: 2
 location: Section 9.5, "Covariance; variance of a sum," pages 215-219
-mark: star
+core: 1
 
 source: mathmonk_probability
 location: Lecture 5.4, "Independence, covariance, and correlation" [http://www.youtube.com/watch?v=xx1UoU0qS7w&list=PL17567A1A3F5DB5E4&index=28]
-mark: star
+core: 1
 extra: This uses the measure theoretic notion of probability, but should still be accessible without that background. Refer to Lecture 1.S for unfamiliar terms.
 
 source: rice
 edition: 3
 location: Section 4.3, "Covariance and correlation," pages 138-146
-mark: star
+core: 1
 

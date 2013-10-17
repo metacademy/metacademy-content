@@ -1,16 +1,16 @@
 source: strang
 edition: 4
 location: Section 6.4, "Symmetric matrices," pages 330-335
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Section 9.4, "The Spectral Theorem," pages 455-463
 dependencies: lagrange_multipliers
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Symmetric matrices and positive semidefiniteness," up to 28:30 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/]
-mark: star
+core: 1
 
 

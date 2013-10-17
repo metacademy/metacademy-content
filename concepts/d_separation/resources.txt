@@ -2,16 +2,16 @@ source: bishop
 edition: 1
 free: 1
 location: Section 8.2, pages 372-383 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=32]
-mark: star
+core: 1
 
 source: pgm
 edition: 1
 location: Sections 3.3-3.3.2, pages 68-74
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Flow of probabilistic influence"
 location: Lecture "Conditional independence"
 location: Lecture "Independencies in Bayesian networks"
-mark: star
+core: 1
 

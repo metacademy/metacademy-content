@@ -2,15 +2,15 @@ source: all_of_statistics
 edition: 1
 location: Chapter 10 introduction, pages 149-152
 location: Section 10.2, "p-values," pages 156-159
-mark: star
+core: 1
 extra: Skim Section 10.1 to learn about the Wald test.
 
 source: rice
 edition: 3
 location: Section 9.2, "The Neyman-Pearson paradigm," pages 331-336
-mark: star
+core: 1
 
 source: degroot
 edition: 4
 location: Section 9.1, "Problems of testing hypotheses," pages 530-547
-mark: star
+core: 1

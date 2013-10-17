@@ -1,7 +1,7 @@
 source: coursera_domingos
 location: Lecture "Model ensembles"
 location: Lecture "Bagging"
-mark: star
+core: 1
 
 source: esl
 edition: 2

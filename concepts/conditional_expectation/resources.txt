@@ -1,14 +1,14 @@
 source: degroot
 edition: 3
 location: Section 4.7, "Conditional expectation," pages 222-228
-mark: star
+core: 1
 
 source: ross
 edition: 7
 location: Section 7.5, "Conditional expectation," pages 365-382
-mark: star
+core: 1
 
 source: rice
 edition: 3
 location: Section 4.4, "Conditional expectation," pages 147-154
-mark: star
+core: 1

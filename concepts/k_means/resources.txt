@@ -1,7 +1,7 @@
 source: bishop
 edition: 1
 location: Section 9.1, pages 424-430
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -10,9 +10,9 @@ dependencies: mixture_of_gaussians
 
 source: coursera_ng
 location: Lecture sequence "Clustering"
-mark: star
+core: 1
 
 source: mackay
 edition: 1
 location: Chapter 20, "An example inference task: clustering," pages 284-290 [286.294.pdf]
-mark: star
+core: 1

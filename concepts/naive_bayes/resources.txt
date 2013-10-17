@@ -5,12 +5,12 @@ edition: 1
 source: barber
 location: section 10.1, "Naive Bayes and conditional independence" (page 227-232) [#page=251]
 edition: 1
-mark: star
+core: 1
 
 source: esl
 edition: 2
 location: section 6.6.3, "The Naive Bayes classifier" (pages 210-211) [#page=229]
-mark: star
+core: 1
 
 source: mathmonk
 location: Lecture 8.1, Naive Bayes classification [http://www.youtube.com/watch?v=8yvBqhm92xA&list=PLD0F06AA0D2E8FFBA&index=46]
@@ -19,8 +19,8 @@ url: http://www.youtube.com/watch?v=8yvBqhm92xA
 
 source: cs229
 location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2 [cs229-notes2.pdf#page=8]
-mark: star
+core: 1
 
 source: coursera_domingos
 location: Lecture "The naive Bayes classifier"
-mark: star
+core: 1

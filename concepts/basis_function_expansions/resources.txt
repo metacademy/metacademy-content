@@ -4,5 +4,5 @@ extra: watch from 3:20 for an overview of using basis functions with linear regr
 
 source: esl
 location: Section 5.1 provides a good overview and Section 5.2 provides a detailed explanation of common basis functions (piecewise polynomials and splines)
-mark: star
+core: 1
 extra: the remainder of chapter 5 provides a good reference for using spline and wavelet basis functions

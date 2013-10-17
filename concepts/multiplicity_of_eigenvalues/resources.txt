@@ -1,10 +1,10 @@
 source: shifrin
 edition: 1
 location: Section 9.2, "Eigenvalues, eigenvectors, and applications," subsection 9.2.2, "Diagonalizability," pages 429-433
-mark: star
+core: 1
 
 source: beezer
 edition: 3
 location: Section "Properties of eigenvalues and eigenvectors," subsection "Multiplicities of eigenvalues" [section-PEE.html]
-mark: star
+core: 1
 

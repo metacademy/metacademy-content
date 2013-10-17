@@ -1,20 +1,20 @@
 source: strang
 edition: 4
 location: Section 2.5, "Inverse matrices," starting from "Calculating A^{-1} by Gauss-Jordan elimination," pages 83-87
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture "Deriving a method for determining inverses" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--deriving-a-method-for-determining-inverses]
 location: Lecture "Example of finding a matrix inverse" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--example-of-finding-matrix-inverse]
 location: Lecture "Formula for a 2x2 inverse" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--formula-for-2x2-inverse]
-mark: star
+core: 1
 
 source: beezer
 location: Section "Matrix inverses and systems of linear equations," subsection "Computing the inverse of a matrix" [section-MISLE.html]
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Section 4.2, "Elementary matrices and calculating inverse matrices," pages 147-155
-mark: star
+core: 1
 

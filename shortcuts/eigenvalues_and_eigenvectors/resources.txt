@@ -5,11 +5,11 @@ url: http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 location: Section 5.1, "Eigen do it if I try," pages 9-10
 level: graduate
 free: 1
-mark: star
+core: 1
 
 source: princeton_companion
 edition: 1
 location: Section 1.3, "Some fundamental mathematical structures," subsection 4.3, "Eigenvalues and eigenvectors," page 30
-mark: star
+core: 1
 extra: If you don't know what linear maps are, think of them as matrices.
 

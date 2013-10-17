@@ -1,9 +1,9 @@
 source: rice
 edition: 3
 location: Section 8.7, "Efficiency and the Cramer-Rao lower bound," pages 298-305
-mark: star
+core: 1
 
 source: degroot
 edition: 4
 location: Section 8.8, "Fisher information," subsections "The information inequality" and "Efficient estimators," pages 518-522
-mark: star
+core: 1

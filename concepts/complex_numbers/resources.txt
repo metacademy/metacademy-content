@@ -1,6 +1,6 @@
 source: khan_academy_algebra
 location: Lecture sequence "Imaginary and complex numbers" [https://www.khanacademy.org/math/trigonometry/imaginary_complex_precalc]
-mark: star
+core: 1
 
 source: strang
 edition: 4
@@ -8,4 +8,4 @@ location: Section 10.1, "Complex numbers," pages 493-498
 
 source: road_to_reality
 location: Chapter 4, "Magical complex numbers"
-mark: star
+core: 1

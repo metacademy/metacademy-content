@@ -1,5 +1,5 @@
 source: cs229
 location: Lecture 2, "Generative learning algorithms," Section 1.1, "The multivariate normal distribution"
-mark: star
+core: 1
 extra: Don't worry about the linear algebra notation, just understand intuitively what happens when you change the parameters.
 

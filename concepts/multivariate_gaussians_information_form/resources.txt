@@ -1,4 +1,4 @@
 source: pgm
 edition: 1
 location: Section 7.1, pages 247-251
-mark: star
+core: 1

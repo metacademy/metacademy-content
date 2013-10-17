@@ -2,7 +2,7 @@ source: esl
 edition: 2
 location: Section 15.2, "Definition of random forests," pages 587-592 [#page=606]
 location: Section 15.3, "Details of random forests," pages 592-597 [#page=611]
-mark: star
+core: 1
 
 title: Machine learning - random forests
 authors: Nando de Freitas

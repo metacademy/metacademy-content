@@ -1,7 +1,7 @@
 source: khan_academy_linear_algebra
 location: Lecture "Introduction to the null space of a matrix" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/null_column_space/v/introduction-to-the-null-space-of-a-matrix]
 location: Lecture "Column space of a matrix" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/null_column_space/v/column-space-of-a-matrix]
-mark: star
+core: 1
 
 source: strang
 location: Section 3.1, "Spaces of vectors," subsection "The column space of A," pages 123-126; and Section 3.2, "The nullspace of A: solving Ax = 0," pages 132-138
@@ -17,6 +17,6 @@ dependencies: gaussian_elimination, bases
 
 source: ocw_strang
 location: Lecture "Column space and nullspace" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/column-space-and-nullspace/]
-mark: star
+core: 1
 
 

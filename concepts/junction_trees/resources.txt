@@ -12,9 +12,9 @@ location: Lecture "Clique tree algorithm -- computation"
 location: Lecture "Clique trees and independence"
 location: Lecture "Clique trees and VE"
 dependencies: variable-elimination
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Section 20.4, pages 720-726
-mark: star
+core: 1

@@ -11,5 +11,5 @@ dependencies: junction_trees
 source: wainwright_jordan_tutorial
 location: Sections 4.1-4.1.4, pages 76-91 [#page=76]
 dependencies: mrfs_as_exponential_families
-mark: star
+core: 1
 

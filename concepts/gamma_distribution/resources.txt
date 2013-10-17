@@ -1,12 +1,12 @@
 source: degroot
 edition: 3
 location: Section 5.9, "The gamma distribution," pages 295-301
-mark: star
+core: 1
 
 source: ross
 edition: 7
 location: Section 5.6.1, "The gamma distribution," pages 237-239
-mark: star
+core: 1
 
 source: rice
 edition: 3

@@ -1,9 +1,9 @@
 source: ocw_auroux
 location: Lecture 5, "Area and determinants in 2D"; Lecture 6, "Volumes and determinants in space"
-mark: star
+core: 1
 extra: This gives the special case of determinants in 2 or 3 dimensions. The generalization to N dimensions is much more complicated, but the interpretation in terms of volumes carries over.
 
 source: princeton_companion
 edition: 1
 location: Section 3.15, "Determinants," pages 174-175
-mark: star
+core: 1

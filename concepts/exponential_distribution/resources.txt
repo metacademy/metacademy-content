@@ -1,14 +1,14 @@
 source: ross
 edition: 7
 location: Section 5.5, "Exponential random variables," pages 230-236
-mark: star
+core: 1
 
 source: degroot
 edition: 3
 location: Section 5.9, "The gamma distribution," starting with "The exponential distribution," pages 298-301
-mark: star
+core: 1
 
 source: rice
 edition: 3
 location: Section 2.2.1, "The exponential density," pages 50-52
-mark: star
+core: 1

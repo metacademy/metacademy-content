@@ -1,7 +1,7 @@
 source: murphy
 edition: 1
 location: Sections 17.4-17.4.3, pages 606-612
-mark: star
+core: 1
 
 source: bishop
 edition: 1
@@ -11,7 +11,7 @@ dependencies: d_separation
 source: aima
 edition: 2
 location: Sections 15.2, up to "Finding the most likely sequence" (pages 541-547) and 15.3 (pages 549-551)
-mark: star
+core: 1
 
 source: barber
 edition: 1-online

@@ -6,11 +6,11 @@ location: Section 19.3.2, "Representing potential functions," page 667 [http://w
 source: pgm
 edition: 1
 location: Section 4.4.1.2 and boxes 4.C and 4.D, pages 124-128
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Log-linear models"
 location: Lecture "Shared features in log-linear models"
 dependencies: conditional_random_fields
-mark: star
+core: 1
 

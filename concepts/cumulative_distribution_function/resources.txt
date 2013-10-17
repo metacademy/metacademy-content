@@ -5,7 +5,7 @@ location: Section 3.3, "The distribution function," pages 109-116
 source: ross
 edition: 7
 location: Section 4.2, "Discrete random variables," pages 138-140; Section 4.9, "Properties of the cumulative distribution function," pages 183-184; Section 5.1, "Introduction," pages 205-209
-mark: star
+core: 1
 
 source: bamberg
 location: Lecture "Random variables"

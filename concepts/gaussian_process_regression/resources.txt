@@ -1,7 +1,7 @@
 source: bishop
 edition: 1
 location: Section 6.4-6.4.2, pages 303-311
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -10,7 +10,7 @@ location: Section 15.1-15.2.3, pages 515-521
 source: gpml
 edition: 1
 location: Section 2.2, starting with "Prediction with noise-free observations," pages 15-19 [RW2.pdf#page=9]
-mark: star
+core: 1
 
 source: barber
 edition: 1-online

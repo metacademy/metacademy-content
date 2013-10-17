@@ -1,7 +1,7 @@
 source: aima
 edition: 2
 location: Section 20.1, "Statistical learning," pages 712-715; Section 20.2, "Learning with complete data," up to "Bayesian parameter learning," pages 716-720
-mark: star
+core: 1
 
 source: cs229
 location: Chapter 1, section 3, pages 11-13
@@ -10,15 +10,15 @@ dependencies: linear-regression
 source: mackay
 edition: 1
 location: Section 22.1, pages 300-302
-mark: star
+core: 1
 dependencies: gaussian_distribution
 
 source: rice
 edition: 3
 location: Section 8.5, "The method of maximum likelihood," not including subsections, pages 267-272
-mark: star
+core: 1
 
 source: all_of_statistics
 edition: 1
 location: Section 9.3, "Maximum likelihood," pages 122-124
-mark: star
+core: 1

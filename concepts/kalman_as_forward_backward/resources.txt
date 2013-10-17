@@ -1,7 +1,7 @@
 source: bishop
 edition: 1
 location: Section 13.3.1, pages 638-641
-mark: star
+core: 1
 
 source: murphy
 edition: 1

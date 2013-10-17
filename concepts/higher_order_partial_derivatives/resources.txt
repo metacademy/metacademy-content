@@ -1,7 +1,7 @@
 source: shifrin
 edition: 1
 location: Section 3.6, "Higher-order partial derivatives," pages 120-124
-mark: star
+core: 1
 
 source: edwards_penney
 edition: 6

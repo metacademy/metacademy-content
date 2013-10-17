@@ -3,7 +3,7 @@ location: Lecture "Cross product introduction" [https://www.khanacademy.org/math
 location: Lecture "Proof: relationship between cross product and sin of angle"
 location: Lecture "Dot and cross product comparison/intuition"
 location: Lecture "Vector triple product expansion" 
-mark: star
+core: 1
 
 source: strang
 edition: 4

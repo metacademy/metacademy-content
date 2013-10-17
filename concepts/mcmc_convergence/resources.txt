@@ -1,18 +1,18 @@
 source: murphy
 edition: 1
 location: Section 24.4, pages 856-862
-mark: star
+core: 1
 
 source: pgm
 edition: 1
 location: Section 12.3.5, pages 518-526
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Using a Markov chain"
-mark: star
+core: 1
 
 source: mlss_murray
 location: Part 2, 2:53 to 18:11
-mark: star
+core: 1
 

@@ -2,7 +2,7 @@ source: bishop
 edition: 1
 location: Section 10.7, pages 505-517
 dependencies: lagrange_multipliers, gaussian_distribution
-mark: star
+core: 1
 
 source: pgm
 edition: 1

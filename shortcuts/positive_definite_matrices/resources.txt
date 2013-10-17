@@ -8,4 +8,4 @@ url: http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 location: Section 2, "Notation," pages 1-2; Section 3, "The quadrtic form," pages 2-5
 level: graduate
 free: 1
-mark: star
+core: 1

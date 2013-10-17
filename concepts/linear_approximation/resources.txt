@@ -1,12 +1,12 @@
 source: shifrin
 edition: 1
 location: Section 3.2, "Differentiability," pages 87-95
-mark: star
+core: 1
 
 source: edwards_penney
 edition: 6
 location: Section 13.6, "Increments and linear approximation," pages 889-895
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Lecture 27, "Approximation formula" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-27-approximation-formula]

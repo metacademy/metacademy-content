@@ -1,6 +1,6 @@
 source: cs229
 location: Chapter 1, section 1, pages 1-7 [cs229-notes1.pdf#page=1]
-mark: star
+core: 1
 
 source: esl
 edition: 2
@@ -18,7 +18,7 @@ location: Lecture "The error surface of a linear neuron"
 source: coursera_ng
 location: Lecture sequence "Linear regression with one variable"
 location: Lecture sequence "Linear regression with multiple variables": "Multiple features" up through "Features and polynomial regression"
-mark: star
+core: 1
 
 source: barber
 edition: 1-online

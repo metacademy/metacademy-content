@@ -6,7 +6,7 @@ level: expert
 url: http://www.cs.toronto.edu/~radford/ftp/ais-rev.pdf
 location: Section 2, "The annealed importance sampling procedure"
 location: Section 4, "Efficiency of annealed importance sampling"
-mark: star
+core: 1
 
 source: bishop
 edition: 1

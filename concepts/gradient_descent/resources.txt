@@ -1,10 +1,10 @@
 source: coursera_ng
 location: lectures: Gradient Descent, Gradient Descent Intuition
-mark: star
+core: 1
 
 source: wikipedia
 url: http://en.wikipedia.org/wiki/Gradient_descent
-mark: star
+core: 1
 
 source: barber
 edition: 1
@@ -13,7 +13,7 @@ location: A.6
 source: boyd_convex_optimization
 edition: 1
 location: pages 467 - 475
-mark: star
+core: 1
 
 source: coursera_domingos
 location: Lecture "Gradient descent"

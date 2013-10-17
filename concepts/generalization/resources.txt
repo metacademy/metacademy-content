@@ -2,7 +2,7 @@ source: coursera_ng
 location: Lecture "The problem of overfitting"
 location: Lecture "Model selection and train/validation/test sets"
 location: Lecture "Diagnosing bias and variance"
-mark: star
+core: 1
 
 source: esl
 edition: 2
@@ -15,6 +15,6 @@ location: Sections 1.4.7-1.4.8, pgs. 22-24
 source: bishop
 edition: 1
 location: Section 1.1, pgs. 4-12
-mark: star
+core: 1
 
 

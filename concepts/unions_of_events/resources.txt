@@ -1,15 +1,15 @@
 source: degroot
 edition: 3
 location: Section 1.10, "The probability of a union of events," pages 39-44
-mark: star
+core: 1
 
 source: feller
 edition: 2
 location: Section 4.1, "Union of events," pages 88-91
-mark: star
+core: 1
 
 source: ross
 edition: 7
 location: Section 2.4, "Some simple propositions," pages 31-37
-mark: star
+core: 1
 

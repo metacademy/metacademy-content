@@ -1,6 +1,6 @@
 source: bnp_tutorial_elsevier
 location: S 2.2
-mark: star
+core: 1
 
 source: sudderth_thesis
 location: S.2.5.2,  p. 102

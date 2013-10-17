@@ -7,7 +7,7 @@ title: Adaptive Rejection Sampling for Gibbs Sampling
 level: graduate
 authors: Walter R Gilks and Pascal Wild
 url: http://www.medicine.mcgill.ca/epidemiology/joseph/courses/EPIB-675/adaptive.sampling.pdf
-mark: star
+core: 1
 free: 1
 location: Section 2.2
 extra: Section 2.2 provides core information but the rest of the Section 2 provides context and deeper discussion of ARS

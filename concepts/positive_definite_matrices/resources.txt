@@ -2,11 +2,11 @@ source: strang
 edition: 4
 location: Section 6.5, "Positive definite matrices," pages 342-347
 dependencies: gaussian_elimination
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Symmetric matrices and positive definiteness," from 28:30 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/]
 location: Lecture "Positive definite matrices and minima" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/]
 dependencies: gaussian_elimination
-mark: star
+core: 1
 

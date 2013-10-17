@@ -9,7 +9,7 @@ extra: Read the Principles and Examples sections.
 source: aima
 edition: 2
 location: Section 20.1, "Statistical learning," pages 712-715; Section 20.2, "Learning with complete data," up to "Bayesian parameter learning," pages 716-720
-mark: star
+core: 1
 
 source: mackay
 edition: 1
@@ -19,20 +19,20 @@ source: coursera_koller
 location: Lecture "Maximum likelihood estimation"
 dependencies: bayesian_networks
 extra: If you're not familiar with Bayes nets, don't worry: most of this lecture doesn't depend on them.
-mark: star
+core: 1
 
 source: rice
 edition: 3
 location: Section 8.5, "The method of maximum likelihood," up through 8.5.1, "Maximum likelihood estimates of multinomial cell probabilities," pages 267-274
-mark: star
+core: 1
 dependencies: multinomial_distribution
 
 source: all_of_statistics
 edition: 1
 location: Section 9.3, "Maximum likelihood," pages 122-124
-mark: star
+core: 1
 
 source: degroot
 edition: 4
 location: Section 7.5, "Maximum likelihood estimators," pages 417-425
-mark: star
+core: 1

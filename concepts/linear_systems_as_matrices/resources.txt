@@ -1,14 +1,14 @@
 source: strang
 edition: 4
 location: Section 2.1, pages 31-38
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture sequence "Matrices for solving systems by elimination" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/matrices_elimination]
 
 source: ocw_strang
 location: Lecture "The geometry of linear equations" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/]
-mark: star
+core: 1
 
 source: shifrin
 edition: 1

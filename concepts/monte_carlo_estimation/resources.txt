@@ -5,16 +5,16 @@ location: Chapter 11 intro, pages 523-526
 source: murphy
 edition: 1
 location: Section 2.7, pages 52-56
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Simple sampling"
 
 source: mackay
 location: Section 29.1, "The problems to be solved," pages 357-361 [358.386.pdf#page=2]
-mark: star
+core: 1
 
 source: mlss_murray
 location: up to 10:20
-mark: star
+core: 1
 

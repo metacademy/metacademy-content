@@ -1,10 +1,10 @@
 source: bishop
 edition: 1
 location: Sections 12.1.1-12.1.2, pages 561-565
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Section 12.2.2, pages 389-391
-mark: star
+core: 1
 

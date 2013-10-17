@@ -4,12 +4,12 @@ url: http://mathworld.wolfram.com/Vector.html
 source: khan_academy_linear_algebra
 location: Lecture sequence "Vectors"  [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/vectors] 
 location: Lecture "Linear combinations and spans" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/linear_combinations]
-mark: star
+core: 1
 
 source: strang
 edition: 4
 location: Section 1.1, pages 2-6
-mark: star
+core: 1
 
 source: beezer
 edition: 3
@@ -25,4 +25,4 @@ location: Lecture "An overview of key ideas" [http://ocw.mit.edu/courses/mathema
 source: shifrin
 edition: 1
 location: Section 1.1, "Vectors in R^n", pages 1-6
-mark: star
+core: 1

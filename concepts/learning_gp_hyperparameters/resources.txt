@@ -7,5 +7,5 @@ edition: 1
 location: Section 2.3 (pages 19-21) [RW2.pdf#page=13]
 location: Section 5.1 (pages 106-108) [RW5.pdf#page=2]
 location: Section 5.4.1 (pages 112-116) [RW5.pdf#page=8]
-mark: star
+core: 1
 

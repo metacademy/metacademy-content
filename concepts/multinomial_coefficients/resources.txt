@@ -1,10 +1,10 @@
 source: ross
 edition: 7
 location: Section 1.5, "Multinomial coefficients," pages 10-12
-mark: star
+core: 1
 
 source: degroot
 edition: 3
 location: Section 1.9, "Multinomial coefficients," pages 35-38
-mark: star
+core: 1
 

@@ -1,15 +1,15 @@
 source: strang
 edition: 4
 location: Section 4.1, "Orthogonality of the four subspaces," pages 195-200
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Orthogonal vectors and subspaces" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/]
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture sequence "Orthogonal complements" [https://www.khanacademy.org/math/linear-algebra/alternate_bases/othogonal_complements]
-mark: star
+core: 1
 
 source: shifrin
 location: Section 4.4, "The four fundamental subspaces," pages 171-183

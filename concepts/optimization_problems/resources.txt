@@ -7,16 +7,16 @@ source: shifrin
 edition: 1
 location: Section 5.2, "Maximum/minimum problems," pages 202-207
 dependencies: linear_approximation
-mark: star
+core: 1
 extra: See Section 5.1 for the statement of the Maximum Value Theorem.
 
 source: edwards_penney
 edition: 6
 location: Section 13.5, "Multivariable optimization problems," pages 878-886
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Session 28, "Optimization problems" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-28-optimization-problems]
 location: Session 29, "Least squares" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares]
-mark: star
+core: 1
 

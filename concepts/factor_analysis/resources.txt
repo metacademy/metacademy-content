@@ -1,7 +1,7 @@
 source: murphy
 edition: 1
 location: Section 12.1, pages 381-387
-mark: star
+core: 1
 
 source: bishop
 edition: 1
@@ -12,4 +12,4 @@ source: barber
 edition: 1
 location: Section 21.1, "Factor analysis," pages 427-429 [#page=451]
 location: Section 21.2, "Factor analysis: maximum likelihood," pages 429-433 [#page=453]
-mark: star
+core: 1

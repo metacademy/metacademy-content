@@ -2,15 +2,15 @@ source: shifrin
 edition: 1
 location: Section 3.3, "Differentiation rules," pages 97-102
 dependencies: jacobian
-mark: star
+core: 1
 
 source: edwards_penney
 edition: 6
 location: Section 13.7, "The multivariable chain rule," pages 896-904
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Session 32, "Total derivatives and the chain rule" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-32-total-differentials-and-the-chain-rule/]
 location: Session 33, "Examples" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-33-examples]
 location: Session 34, "The chain rule with more variables" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables]
-mark: star
+core: 1

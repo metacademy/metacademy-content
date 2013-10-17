@@ -3,7 +3,7 @@ title: Bayesian Model Selection and Model Averaging
 authors: Larry Wasserman
 free: 1
 url: http://hbanaszak.mjr.uw.edu.pl/TempTxt/Wasserman_2000_BayesianModelSelectionAndModelAveraging.pdf
-mark: star
+core: 1
 location: All sections except 6 and 9
 
 resource_type: tutorial paper

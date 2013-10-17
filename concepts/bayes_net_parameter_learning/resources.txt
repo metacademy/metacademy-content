@@ -1,11 +1,11 @@
 source: coursera_koller
 location: Lecture "Maximum likelihood estimation for Bayesian networks"
-mark: star
+core: 1
 
 source: pgm
 edition: 1
 location: Section 17.2, "MLE for Bayesian networks," pages 722-728
-mark: star
+core: 1
 
 source: aima
 edition: 2

@@ -8,7 +8,7 @@ location: Sections 8-8.3.2, pages 245-249
 
 source: cs229
 location: Chapter 1, section 5, pages 16-19 [cs229-notes1.pdf#page=16]
-mark: star
+core: 1
 
 source: coursera_ng
 location: Lecture "Hypothesis representation"
@@ -16,10 +16,10 @@ location: Lecture "Decision boundary"
 location: Lecture "Cost function"
 location: Lecture "Simplified cost function and gradient descent"
 location: Lecture "Regularized logistic regression"
-mark: star
+core: 1
 
 source: barber
 edition: 1-online
 location: Sections 17.4, "Linear parameter models for classification," up through 17.4.3, "Avoiding overconfident classification," pages 350-355 [#page=374]
-mark: star
+core: 1
 

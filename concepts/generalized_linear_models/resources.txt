@@ -1,6 +1,6 @@
 source: cs229
 location: Lecture 1, "Supervised learning, discriminative algorithms," part 9, "Constructing GLMs," pages 24-30 [cs229-notes1.pdf#page=24]
-mark: star
+core: 1
 extra: Section 5 explains logistic regression.
 
 source: murphy

@@ -1,4 +1,0 @@
-source: shifrin
-edition: 1
-location: Section 7.1, "Multiple integrals," pages 267-273; and Section 7.2, "Iterated integrals and Fubini's theorem," pages 276-284
-mark: star

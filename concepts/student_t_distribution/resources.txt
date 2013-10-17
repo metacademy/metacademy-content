@@ -1,10 +1,10 @@
 source: degroot
 edition: 4
 location: Section 8.4, "The t distributions," pages 480-484
-mark: star
+core: 1
 
 source: rice
 edition: 3
 location: Section 6.2, "Chi-squared, t, and F distributions," pages 192-194
-mark: star
+core: 1
 

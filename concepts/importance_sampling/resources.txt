@@ -6,7 +6,7 @@ dependencies: bayesian_networks
 source: pgm
 edition: 1
 location: Sections 12.2-12.2.2, pages 494-498
-mark: star
+core: 1
 
 source: bishop
 edition: 1
@@ -16,7 +16,7 @@ source: mackay
 edition: 1
 location: Section 29.2, "Importance sampling," pages 361-364 [358.386.pdf#page=6]
 dependencies: multivariate_gaussian_distribution
-mark: star
+core: 1
 
 source: mlss_murray
 location: 15:36 to 22:37

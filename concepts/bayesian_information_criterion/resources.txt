@@ -9,7 +9,7 @@ location: Sections 5.3.2.4 (pages 161-162) and 8.4.2 (pages 255-256)
 resource_type: presentation slides
 authors: Joseph Cavanaugh
 url: http://myweb.uiowa.edu/cavaaugh/ms_lec_5_ho.pdf
-mark: star
+core: 1
 free: 1
 title: The Bayesian Information Criterion
 

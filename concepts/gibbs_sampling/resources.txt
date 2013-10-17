@@ -2,7 +2,7 @@ source: bishop
 edition: 1
 location: Section 11.3, pages 542-546
 dependencies: multivariate_gaussian_distribution
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -12,12 +12,12 @@ source: pgm
 edition: 1
 location: Sections 12.3.1 (pages 505-507) and 12.3.3 (pages 512-515)
 dependencies: bayesian_networks
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Gibbs sampling"
 dependencies: bayesian_networks
-mark: star
+core: 1
 
 source: mackay
 location: Section 29.5, "Gibbs sampling," pages 370-371 [358.386.pdf#page=15]
@@ -28,7 +28,7 @@ edition: 1-online
 location: Section 27.3, Gibbs sampling, up to 27.3.2, "Structured Gibbs sampling" (pages 547-548) [#page=571]
 location: Section 27.3.3, "Remarks" (pages 549-550) [#page=573]
 dependencies: bayesian_networks, multivariate_gaussian_distribution
-mark: star
+core: 1
 
 source: mlss_murray
 location: 69:40 to 77:34

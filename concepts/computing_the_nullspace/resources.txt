@@ -1,14 +1,14 @@
 source: strang
 edition: 4
 location: Sections 3.2, "The nullspace of A: solving Ax = 0," pages 132-140, and 3.3, "The rank and the row reduced form," pages 144-149
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Solving Ax = 0; pivot variables; special solutions" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/]
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture "Null space 2: calculating the null space of a matrix" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/null_column_space/v/null-space-2--calculating-the-null-space-of-a-matrix]
 location: Lecture "Null space 3: relation to linear independence" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/null_column_space/v/null-space-3--relation-to-linear-independence]
-mark: star
+core: 1
 

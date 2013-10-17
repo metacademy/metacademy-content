@@ -2,7 +2,7 @@ source: bishop
 edition: 1
 free: 1
 location: Sections 8.3-8.3.3, pages 383-390 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=43]
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -13,10 +13,10 @@ location: Sections 19.3-19.4.3 (pages 665-672) [http://www.cs.ubc.ca/~murphyk/ML
 source: pgm
 edition: 1
 location: Sections 4.1-4.3.1, pages 103-117
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Pairwise Markov networks"
 location: Lecture "General Gibbs distribution"
 location: Lecture "Independencies in Markov networks"
-mark: star
+core: 1

@@ -2,12 +2,12 @@ source: cover_and_thomas
 edition: 2
 location: Section 2.1, "Entropy," pages 13-16
 location: Section 2.2, "Joint entropy and conditional entropy," pages 16-18
-mark: star
+core: 1
 
 source: bishop
 edition: 1
 location: Section 1.6, "Information theory," not including 1.6.1, pages 48-55
-mark: star
+core: 1
 
 source: pgm
 edition: 1
@@ -21,6 +21,6 @@ source: mackay
 location: Section 2.4, "Definition of entropy and related functions," pages 32-33
 location: Section 2.5, "Decomposability of the entropy," pages 33-34
 location: Section 4.1, "How to measure the information content of a random variable," pages 67-73
-mark: star
+core: 1
 
 

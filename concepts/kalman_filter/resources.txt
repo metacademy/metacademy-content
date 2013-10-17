@@ -14,5 +14,5 @@ location: Section 3.2.2-3.2.3, pages 43-45
 source: aima
 edition: 2
 location: Sections 15.2, up to "Smoothing" (pages 541-544) and 15.4 (pages 551-558)
-mark: star
+core: 1
  

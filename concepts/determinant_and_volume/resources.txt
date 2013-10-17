@@ -1,14 +1,14 @@
 source: strang
 edition: 4
 location: Section 5.3, "Cramer's rule, inverses, and volumes," subsection "Area of a triangle," pages 271-274
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Cramer's rule, inverse matrix, and volume," starting from 28:07 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/]
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture "Determinant and area of a parallelogram" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/determinant_depth/v/linear-algebra---determinant-and-area-of-a-parallelogram]
 location: Lecture "Determinant as scaling factor"
-mark: star
+core: 1
 

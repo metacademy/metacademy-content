@@ -7,14 +7,14 @@ source: pgm
 edition: 1
 location: Section 18.1, "Introduction" (of chapter 18, "Structure learning in Bayesian networks"), pages 783-785
 location: Section 18.3, "Structure scores," pages 790-807
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Structure learning overview"
 location: Lecture "Likelihood scores"
 location: Lecture "BIC and asymptotic consistency"
 location: Lecture "Bayesian scores"
-mark: star
+core: 1
 
 source: coursera_domingos
 location: Lecture "Learning Bayesian network structure"

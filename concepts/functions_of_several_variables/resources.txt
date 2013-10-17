@@ -1,14 +1,14 @@
 source: edwards_penney
 edition: 6
 location: Section 13.2, "Functions of several variables," pages 850-857
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Section 2.1, "Scalar- and vector-valued functions," pages 53-61
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Session 24, "Functions of two variables" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs]
 location: Session 25, "Level curves and contour plots" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots]
-mark: star
+core: 1

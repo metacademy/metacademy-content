@@ -5,26 +5,26 @@ location: Section 20.5, subsection "Multilayer feed-forward neural networks," pa
 source: bishop
 edition: 1
 location: Sections 5.2-5.3, pages 232-249
-mark: star
+core: 1
 
 source: esl
 edition: 2
 location: Section 11.4, "Fitting neural networks," pages 395-397 [#page=414]
 extra: Sections 11.5-11.7 discuss practical issues and examples in training neural nets.
-mark: star
+core: 1
 
 source: coursera_ng
 location: Lecture series "Neural networks: learning"
-mark: star
+core: 1
 
 source: coursera_hinton
 location: Lecture "Learning the weights of a logistic output neuron"
 location: Lecture "The backpropagation algorithm"
 location: Lecture "Using the derivatives computed by backpropagation"
-mark: star
+core: 1
 
 source: coursera_domingos
 location: Lecture "Backpropagation"
 location: Lecture "Issues in backpropagation"
 location: Lecture "Learning hidden layer representations"
-mark: star
+core: 1

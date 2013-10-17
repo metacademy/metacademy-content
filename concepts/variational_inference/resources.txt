@@ -7,9 +7,9 @@ source: bishop
 edition: 1
 location: Sections 10.1-10.1.2
 dependencies: multivariate_gaussian_distribution
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Sections 21.1-21.2
-mark: star
+core: 1

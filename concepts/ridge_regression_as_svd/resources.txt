@@ -1,11 +1,11 @@
 source: murphy
 edition: 1
 location: Section 7.5.3, pages 228-230
-mark: star
+core: 1
 extra: If you don't know what PCA is, just think of it as the SVD.
 
 source: esl
 edition: 2
 location: Section 3.4.1, "Ridge regression," pages 61-68 [#page=80]
-mark: star
+core: 1
 

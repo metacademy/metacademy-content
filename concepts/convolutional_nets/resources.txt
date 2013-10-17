@@ -9,13 +9,13 @@ location: Section 5.5.6, pages 267-269
 source: coursera_hinton
 location: Lecture "Convolutional nets for digit recognition"
 location: Lecture "Convolutional nets for object recognition"
-mark: star
+core: 1
 
 resource_type: paper
 authors: Yann LeCun and Leon Bottou and Yoshua Bengio and Patrick Haffner
 title: Gradient-based learning applied to document recognition
 url: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 free: 1
-mark: star
+core: 1
 
 

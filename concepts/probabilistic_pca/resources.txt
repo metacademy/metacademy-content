@@ -5,7 +5,7 @@ location: Section 12.2.4, pages 395-396
 source: bishop
 edition: 1
 location: Sections 12.2-12.2.1, pages 570-577
-mark: star
+core: 1
 
 source: barber
 edition: 1-online

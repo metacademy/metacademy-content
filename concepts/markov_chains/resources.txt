@@ -14,13 +14,13 @@ dependencies: eigenvalues
 source: pgm
 edition: 1
 location: Section 12.3.2, pages 507-512
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Markov Chain Monte Carlo"
-mark: star
+core: 1
 
 source: mackay
 edition: 1
 location: Section 29.6, "Terminology for Markov chain Monte Carlo methods," pages 372-374 [358.386.pdf#page=17]
-mark: star
+core: 1

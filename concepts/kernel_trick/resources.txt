@@ -4,7 +4,7 @@ location: Lecture "Kernels I"
 source: bishop
 edition: 1
 location: Sections 6-6.1, pages 291-294
-mark: star
+core: 1
 
 source: barber
 edition: 1-online
@@ -13,5 +13,5 @@ location: Section 17.3, "The dual representation and kernels," pages 349-350 [#p
 source: gpml
 edition: 1
 location: Section 2.1, pages 7-12 [RW2#page=1]
-mark: star
+core: 1
 

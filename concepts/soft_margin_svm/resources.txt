@@ -1,7 +1,7 @@
 source: bishop
 edition: 1
 location: Section 7.1.1, pages 331-336
-mark: star
+core: 1
 
 source: esl
 edition: 2
@@ -10,7 +10,7 @@ location: Section 12.2, "The support vector classifier," pages 417-422, not incl
 
 source: cs229
 location: Lecture notes 3, "Support vector machines," Section 8, pages 19-20 [cs229-notes3.pdf#page=19]
-mark: star
+core: 1
 
 source: murphy
 edition: 1

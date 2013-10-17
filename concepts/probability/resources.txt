@@ -1,17 +1,17 @@
 source: ross
 edition: 7
 location: Section 2.2, "Sample space and events," pages 24-29; Section 2.3, "Axioms of probability," pages 29-31; Section 2.7, "Probability as a measure of belief," pages 53-54
-mark: star
+core: 1
 
 source: feller
 edition: 2
 location: Chapter 1, "The sample space," pages 7-24
-mark: star
+core: 1
 
 source: degroot
 edition: 3
 location: Section 1.1, "The history of probability," pages 1-2; Section 1.2, "Interpretations of probability," pages 2-5; Section 1.3, "Experiments and events," pages 5-6; Section 1.4, "Set theory," pages 6-12; Section 1.6, "Finite sample spaces," pages 19-22
-mark: star
+core: 1
 
 source: bamberg
 location: Lecture "Probability, intuition, and axioms"
@@ -33,7 +33,7 @@ location: Lecture 1.6, "Measure theory: basic properties of measures (continued)
 location: Lecture 1.7, "Measure theory: more properties of probability measures" [http://www.youtube.com/watch?v=t4cwYCVyQLM&list=PL17567A1A3F5DB5E4&index=7]
 location: Lecture 1.8, "Measure theory: CDFs and Borel probability measures" [http://www.youtube.com/watch?v=wV3JuVI2tLM&list=PL17567A1A3F5DB5E4&index=8]
 location: Lecture 1.S, "Measure theory: summary" [http://www.youtube.com/watch?v=upISxgopsFU&list=PL17567A1A3F5DB5E4&index=10]
-mark: star
+core: 1
 extra: This presents the measure theoretic approach to probability, but should still be accessible without significant math background.
 
 source: rice
@@ -41,5 +41,5 @@ edition: 3
 location: Section 1.1, "Introduction," pages 1-2
 location: Section 1.2, "Sample spaces," pages 2-4
 location: Section 1.3, "Probability measures," pages 4-6
-mark: star
+core: 1
 

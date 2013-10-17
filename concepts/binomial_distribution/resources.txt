@@ -1,7 +1,7 @@
 source: ross
 edition: 7
 location: Section 4.6, "The Bernoulli and binomial random variables," pages 150-160
-mark: star
+core: 1
 
 source: degroot
 edition: 3
@@ -11,11 +11,11 @@ extra: You can skip the MGF as far as this node is concerned.
 source: feller
 edition: 2
 location: Section 6.1, "Bernoulli trials," pages 135-136; Section 6.2, "The binomial distribution," pages 136-139; Section 6.3, "The central term and the tails," pages 139-141
-mark: star
+core: 1
 
 source: khan_academy_probability
 location: Lecture sequence "Binomial distribution" [https://www.khanacademy.org/math/probability/random-variables-topic/binomial_distribution]
-mark: star
+core: 1
 
 source: mathmonk_probability
 location: Lecture "Expectation of a binomial random variable (method 1)" [http://www.youtube.com/watch?v=GC1Bi2JjJa0&list=PL17567A1A3F5DB5E4&index=31]

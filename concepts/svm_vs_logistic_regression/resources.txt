@@ -1,14 +1,14 @@
 source: coursera_ng
 location: Lecture "Optimization objective" under "Support vector machines"
 location: Lecture "Using an SVM"
-mark: star
+core: 1
 
 source: bishop
 edition: 1
 location: Section 7.1.2, pages 336-338
-mark: star
+core: 1
 
 source: esl
 edition: 2
 location: Section 12.3.2, "The SVM as a penalization method," pages 426-428 [#page=445]
-mark: star
+core: 1

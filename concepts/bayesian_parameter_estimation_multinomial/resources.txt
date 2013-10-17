@@ -1,13 +1,13 @@
 source: bishop
 edition: 1
 location: Section 2.2, pgs. 74-77
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Sections 2.5.4 (pages 47-49) and 3.4, (pages 78-82)
 dependencies: lagrange_multipliers
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "Bayesian estimation"

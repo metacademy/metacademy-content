@@ -1,4 +1,4 @@
 source: murphy
 edition: 1
 location: Section 4.5, pages 125-127
-mark: star
+core: 1

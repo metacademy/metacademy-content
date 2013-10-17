@@ -1,4 +1,4 @@
 source: boyd_convex_optimization
 edition: 1
 location: Section 5.5, "Optimality conditions," of Chapter 5, "Duality," pages 241-249
-mark: star
+core: 1

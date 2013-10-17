@@ -1,12 +1,12 @@
 source: bishop
 edition: 1
 location: Sections 9.2.1-9.3.1, pages 432-443
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Sections 11.3-11.4.2.4, pages 345-352
-mark: star
+core: 1
 
 source: aima
 edition: 1

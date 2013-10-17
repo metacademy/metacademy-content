@@ -1,7 +1,7 @@
 source: beezer
 edition: 3
 location: Section "Vector spaces" of chapter "Vector spaces" [section-VS.html]
-mark: star
+core: 1
 
 source: strang
 edition: 4
@@ -13,5 +13,5 @@ location: Lecture "Transposes, permutations, vector spaces," starting from 20:00
 source: axler
 edition: 2
 location: Chapter 1, "Vector spaces," subsections "Definition of vector space" and "Properties of vector space," pages 4-12
-mark: star
+core: 1
 

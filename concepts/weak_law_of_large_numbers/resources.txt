@@ -2,13 +2,13 @@ source: ross
 edition: 7
 location: Section 8.2, "Chebyshev's inequality and the weak law of large numbers," pages 430-433
 extra: The theorem and proof extend to the case where the random variables are uncorrelated, not necessarily independent.
-mark: star
+core: 1
 
 source: degroot
 edition: 3
 location: Section 4.8, "The sample mean," pages 229-235
 extra: The theorem and proof extend to the case where the random variables are uncorrelated, not necessarily independent.
-mark: star
+core: 1
 
 source: rice
 edition: 3

@@ -2,7 +2,7 @@ source: bishop
 edition: 1
 location: Section 6.4-6.4.2, pages 303-311
 dependencies: bayesian-linear-regression
-mark: star
+core: 1
 
 source: murphy
 edition: 1
@@ -12,7 +12,7 @@ dependencies: bayesian-linear-regression
 source: gpml
 edition: 1
 location: Section 2.2, up to "Prediction with noise-free observations," pages 13-15 [RW2.pdf#page=7]
-mark: star
+core: 1
 
 source: barber
 edition: 1-online

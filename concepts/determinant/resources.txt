@@ -1,19 +1,19 @@
 source: strang
 edition: 4
 location: Sections 5.1, "The properties of determinants," and 5.2, "Permutations and cofactors," pages 244-263
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Sections 1.5, "Introduction to determinants and the cross product," pages 43-50, and 7.5, "Determinants and n-dimensional volume," pages 309-321
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Properties of determinants" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/]
 location: Lecture "Determinant formulas and cofactors" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/]
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture sequence "Finding inverses and determinants," starting from "3x3 Determinant" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--3x3-determinant]
 location: Lecture sequence "More determinant depth," up to "Determinant and area of a parallelogram" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/determinant_depth]
-mark: star
+core: 1

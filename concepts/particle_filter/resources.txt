@@ -1,18 +1,18 @@
 source: pgm
 edition: 1
 location: Section 15.3.3, "Particle filtering," pages 665-674
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Section 23.5, "Particle filtering," pages 823-831
-mark: star
+core: 1
 
 source: robert_and_casella
 edition: 2
 location: Section 14.2, "Generalized importance sampling," pages 546-547
 location: Section 14.3, "Particle systems," pages 547-559
-mark: star
+core: 1
 
 source: liu_monte_carlo
 edition: 1

@@ -2,4 +2,4 @@ source: degroot
 edition: 3
 location: Section 5.11, "The multinomial distribution," pages 309-312
 dependencies: covariance
-mark: star
+core: 1

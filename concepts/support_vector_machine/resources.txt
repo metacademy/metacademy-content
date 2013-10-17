@@ -6,7 +6,7 @@ source: bishop
 edition: 1
 location: Section 7.1, up to 7.1.1 (pages 326-331)
 dependencies: lagrange_duality
-mark: star
+core: 1
 
 source: aima
 edition: 2
@@ -19,7 +19,7 @@ location: Section 8.6-8.6.1, up to "Approximate linear discrimination," pages 42
 source: murphy
 edition: 1
 location: Section 14.5-14.5.2.2, pages 496-502
-mark: star
+core: 1
 
 source: esl
 edition: 2
@@ -28,6 +28,6 @@ dependencies: lagrange_duality
 
 source: cs229
 location: Lecture notes 3, "Support vector machines," sections 1-4, pages 1-7 [cs229-notes3.pdf#page=1]
-mark: star
+core: 1
 
 

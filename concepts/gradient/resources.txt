@@ -1,20 +1,20 @@
 source: shifrin
 edition: 1
 location: Section 3.4, "The gradient," pages 104-106
-mark: star
+core: 1
 extra: See section 3.1 for the definition of directional derivatives.
 
 source: edwards_penney
 edition: 6
 location: Section 13.8, "Directional derivatives and the gradient vector," up to "The gradient vector as normal vector," pages 907-913
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Session 35, "Gradient: definition, perpendicular to level curves" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-35-gradient-definition-perpendicular-to-level-curves]
 location: Session 36, "Proof" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-36-proof]
 location: Session 37, "Example" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-37-example]
 location: Session 38, "Directional derivatives" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives]
-mark: star
+core: 1
 
 source: khan_academy_calculus
 location: Lecture sequence "Gradient" [https://www.khanacademy.org/math/calculus/partial_derivatives_topic/gradient]

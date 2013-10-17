@@ -1,6 +1,6 @@
 source: cs229
 location: Chapter 1, section 2, pages 7-11 [cs229-notes1.pdf#page=7]
-mark: star
+core: 1
 
 source: bishop
 edition: 1
@@ -10,7 +10,7 @@ dependencies: maximum-likelihood
 source: coursera_ng
 location: Lecture "Normal equation"
 location: Lecture "Normal equation noninvertability"
-mark: star
+core: 1
 
 source: bishop
 edition: 1

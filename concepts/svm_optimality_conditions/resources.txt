@@ -1,6 +1,6 @@
 source: cs229
 location: Lecture notes 3, "Support vector machines," Section 6, pages 10-13 [cs229-notes3.pdf#page=10]
-mark: star
+core: 1
 
 source: esl
 edition: 2

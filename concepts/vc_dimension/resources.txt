@@ -1,19 +1,19 @@
 source: coursera_domingos
 location: Lecture "VC dimension"
 location: Lecture "VC dimension of hyperplanes"
-mark: star
+core: 1
 
 source: esl
 edition: 2
 location: Section 7.9, "Vapnik-Chervonenkis dimension," not including 7.9.1, pages 237-239 [#page=256]
-mark: star
+core: 1
 
 source: kearns_and_vazirani
 edition: 1
 location: Section 3.2, "The Vapnik-Chervonenkis dimension," pages 50-51
 location: Section 3.3, "Examples of the VC dimension," pages 51-54
-mark: star
+core: 1
 
 source: cs229
 location: Lecture 4, "Learning Theory," Section 4, "The case of infinite H," pages 8-11 [cs229-notes4.pdf#page=8]
-mark: star
+core: 1

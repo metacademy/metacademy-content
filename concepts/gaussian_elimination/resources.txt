@@ -1,23 +1,23 @@
 source: strang
 edition: 4
 location: Sections 2.2, "The idea of elimination," and 2.3, "Elimination using matrices," pages 45-61
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture sequence "Matrices for solving systems by elimination" [https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/matrices_elimination]
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Elimination with matrices" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/elimination-with-matrices/]
-mark: star
+core: 1
 
 source: beezer
 location: Section "Solving systems of linear equations" [section-SSLE.html]
 location: Section "Reduced row-echelon form" [section-RREF.html]
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Section 4.1, "Gaussian elimination and the theory of linear systems"
-mark: star
+core: 1
 

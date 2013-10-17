@@ -1,13 +1,13 @@
 source: strang
 edition: 4
 location: Sections 2.6, "Elimination = factorization: A = LU", and 2.7, "Transposes and permutations," pages 95-113
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Factorization into A = LU" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/]
-mark: star
+core: 1
 
 source: beezer
 location: Section "Triangular decomposition" [http://linear.ups.edu/download/fcla-electric-2.99.pdf#page=958]
-mark: star
+core: 1
 

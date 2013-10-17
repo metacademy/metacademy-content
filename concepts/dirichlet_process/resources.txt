@@ -1,6 +1,6 @@
 source: sudderth_thesis
 location: section 2.5 Dirichlet Processes
-mark: star
+core: 1
 
 resource_type: tutorial paper
 url: http://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf

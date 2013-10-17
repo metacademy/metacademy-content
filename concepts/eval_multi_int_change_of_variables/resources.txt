@@ -1,14 +1,14 @@
 source: edwards_penney
 edition: 6
 location: Section 14.9, "Change of variables in multiple integrals," pages 1001-1007
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Session 53, "Change of variables" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables]
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Section 7.6, "Change of Variables Theorem," pages 324-331
-mark: star
+core: 1
 extra: You can skip the proofs as far as this node is concerned.

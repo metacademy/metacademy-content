@@ -5,4 +5,4 @@ location: Section 14.4.4, "Kernel PCA," pages 493-496
 source: bishop
 edition: 1
 location: Section 12.3, "Kernel PCA," pages 586-590
-mark: star
+core: 1

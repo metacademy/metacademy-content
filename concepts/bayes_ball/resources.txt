@@ -8,7 +8,7 @@ title: Bayes-ball: rational pastime (for determining irrelevance and requisite i
 url: http://arxiv.org/pdf/1301.7412.pdf
 free: 1
 location: Sections 1-3
-mark: star
+core: 1
 
 source: murphy
 edition: 1

@@ -3,7 +3,7 @@ edition: 2
 location: Section 2.3, "Relative entropy and mutual information," pages 19-20
 location: Section 2.4, "Relationship between entropy and mutual information," pages 20-22
 location: Section 2.5, "Chain rules for entropy, relative entropy, and mutual information," pages 22-25
-mark: star
+core: 1
 
 source: bishop
 edition: 1

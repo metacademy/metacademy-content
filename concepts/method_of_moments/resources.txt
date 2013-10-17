@@ -1,12 +1,12 @@
 source: all_of_statistics
 edition: 1
 location: Section 9.2, "The method of moments," pages 120-122
-mark: star
+core: 1
 
 source: rice
 edition: 3
 location: Section 8.4, "The method of moments," pages 260-267
-mark: star
+core: 1
 
 source: degroot
 edition: 4

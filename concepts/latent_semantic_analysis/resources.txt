@@ -1,6 +1,6 @@
 source: intro_ir
 location: Section 18.4 [http://nlp.stanford.edu/IR-book/pdf/18lsi.pdf#page=12]
-mark: star
+core: 1
 extra: this section focuses on LSA from an information retrieval perspective, where it is referred to as Latent Semantic Indexing (LSI)
 
 source: wikipedia
@@ -14,4 +14,4 @@ free: 1
 resource_type: comprehensive introduction
 level: undergraduate
 extra: a full understanding of SVD is not needed for this introduction
-mark: star
+core: 1

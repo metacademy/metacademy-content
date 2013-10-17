@@ -1,7 +1,7 @@
 source: princeton_companion
 edition: 1
 location: Section 3.64, "Optimization and Lagrange multipliers," pages 255-257
-mark: star
+core: 1
 
 source: wikipedia
 url: http://en.wikipedia.org/wiki/Lagrange_multipliers

@@ -1,13 +1,13 @@
 source: edwards_penney
 edition: 6
 location: Section 13.9, "Lagrange multipliers and constrained optimization," pages 918-924
-mark: star
+core: 1
 extra: Don't worry about the proofs as far as this node is concerned.
 
 source: shifrin
 edition: 1
 location: Section 5.4, "Lagrange multipliers," pages 216-222
-mark: star
+core: 1
 extra: Don't worry about the proofs as far as this node is concerned.
 
 source: ocw_auroux

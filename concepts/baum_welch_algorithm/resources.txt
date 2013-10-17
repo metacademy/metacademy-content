@@ -1,9 +1,9 @@
 source: bishop
 edition: 1
 location: Section 13.2.1, pages 615-618
-mark: star
+core: 1
 
 source: murphy
 edition: 1
 location: Sections 17.5-17.5.2, pages 617-620
-mark: star
+core: 1

@@ -1,13 +1,13 @@
 source: mathmonk_ml
 location: Lecture 7.7.A1: Dirichlet Distribution [http://www.youtube.com/watch?v=nfBNOWv1pgE&list=PLD0F06AA0D2E8FFBA&index=40]
-mark: star
+core: 1
 
 title: Introduction to the Dirichlet Distribution and Related Processes
 resource_type: tutorial
 authors: Bela A. Frigyik and Amon Kapila and Maya R. Gupta
 location: Ch 1 provides core information while Ch 2 focuses on sampling
 url: http://www.ee.washington.edu/research/guptalab/publications/UWEETR-2010-0006.pdf
-mark: star
+core: 1
 free: 1
 
 source: bishop

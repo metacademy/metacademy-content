@@ -11,4 +11,4 @@ edition: 4
 source: princeton_companion
 edition: 1
 location: Section 3.31, "The gamma function," pages 213-214
-mark: star
+core: 1

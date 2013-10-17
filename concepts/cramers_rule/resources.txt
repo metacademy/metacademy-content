@@ -1,13 +1,13 @@
 source: strang
 edition: 4
 location: Section 5.3, "Cramer's rule, inverses, and volumes," up to "Area of a triangle," pages 269-271
-mark: star
+core: 1
 
 source: shifrin
 edition: 1
 location: Section 7.5, "Determinants and n-dimensional volume," from pages 318-320
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Cramer's rule, inverse matrix, and volume," up to 28:07 [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/]
-mark: star
+core: 1

@@ -1,14 +1,14 @@
 source: shifrin
 edition: 1
 location: Section 7.3, "Polar, cylindrical, and spherical coordinates," pages 288-296
-mark: star
+core: 1
 
 source: edwards_penney
 edition: 6
 location: Section 14.4, "Double integrals in polar coordinates," pages 961-966
-mark: star
+core: 1
 
 source: ocw_auroux
 location: Session 50, "Double integrals in polar coordinates" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates]
-mark: star
+core: 1
 

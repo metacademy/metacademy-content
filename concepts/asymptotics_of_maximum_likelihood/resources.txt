@@ -4,7 +4,7 @@ location: Section 9.4, "Properties of maximum likelihood estimators," pages 124-
 location: Section 9.5, "Consistency of maximum likelihood estimators," pages 126-127
 location: Section 9.7, "Asymptotic normality," pages 128-130
 location: Section 9.8, "Optimality," pages 130-131
-mark: star
+core: 1
 extra: Section 9.10 gives the multivariate generalizations of these results.
 
 source: rice
@@ -12,7 +12,7 @@ edition: 3
 location: Section 8.5.2, "Large sample theory for maximum likelihood estimators," pages 274-279
 location: Section 8.5.3, "Confidence intervals for maximum likelihood estimates," pages 279-285
 location: Section 8.7, "Efficiency and the Cramer-Rao lower bound," not including 8.7.1, pages 298-302
-mark: star
+core: 1
 
 source: degroot
 edition: 4

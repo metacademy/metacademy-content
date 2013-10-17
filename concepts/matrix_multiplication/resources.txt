@@ -1,15 +1,15 @@
 source: strang
 edition: 4
 location: Section 2.4, up to "Block matrices and block multiplication," pages 67-70
-mark: star
+core: 1
 
 source: ocw_strang
 location: Lecture "Multiplication and inverse matrices" [http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/]
-mark: star
+core: 1
 
 source: khan_academy_linear_algebra
 location: Lecture sequence "Transformations and matrix multiplication" [https://www.khanacademy.org/math/linear-algebra/matrix_transformations/composition_of_transformations]
-mark: star
+core: 1
 extra: Watch the lecture sequence "Functions and linear transformations" if you're not used to thinking of matrices as linear transformations.
 
 source: beezer
@@ -20,5 +20,5 @@ location: Section "Matrix multiplication" [section-MM.html]
 source: shifrin
 edition: 1
 location: Section 1.4, "Linear transformations and matrix algebra," up to subsection 4.2, "The transpose," pages 23-36
-mark: star
+core: 1
 

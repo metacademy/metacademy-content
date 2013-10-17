@@ -5,4 +5,4 @@ location: Section 8.3.7, "Multi-class logistic regression," pages 252-254
 source: bishop
 edition: 1
 location: Section 4.3.4, "Multiclass logistic regression," pages 209-210
-mark: star
+core: 1

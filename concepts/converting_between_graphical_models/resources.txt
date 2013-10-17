@@ -6,8 +6,8 @@ source: bishop
 edition: 1
 free: 1
 location: Section 8.3.4, pages 390-393 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=50]
-mark: star
+core: 1
 
 source: coursera_koller
 location: Lecture "I-maps and perfect maps"
-mark: star
+core: 1
