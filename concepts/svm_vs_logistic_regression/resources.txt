@@ -1,6 +1,6 @@
 source: coursera_ng
-location: Lecture "Optimization objective" under "Support vector machines"
-location: Lecture "Using an SVM"
+location: Lecture "Optimization objective" under "Support vector machines" [view?lecture_id=71]
+location: Lecture "Using an SVM" [view?lecture_id=76]
 core: 1
 
 source: bishop

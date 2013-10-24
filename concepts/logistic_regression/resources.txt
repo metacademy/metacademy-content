@@ -11,11 +11,11 @@ location: Chapter 1, section 5, pages 16-19 [cs229-notes1.pdf#page=16]
 core: 1
 
 source: coursera_ng
-location: Lecture "Hypothesis representation"
-location: Lecture "Decision boundary"
-location: Lecture "Cost function"
-location: Lecture "Simplified cost function and gradient descent"
-location: Lecture "Regularized logistic regression"
+location: Lecture "Hypothesis representation" [view?lecture_id=34]
+location: Lecture "Decision boundary" [view?lecture_id=35]
+location: Lecture "Cost function" [view?lecture_id=58]
+location: Lecture "Simplified cost function and gradient descent" [view?lecture_id=36]
+location: Lecture "Regularized logistic regression" [view?lecture_id=41]
 core: 1
 
 source: barber

@@ -1,5 +1,7 @@
 source: coursera_ng
-location: Lectures "Optimization objective," "Large margin intuition," and "Mathematics behind large margin classification," under heading "Support vector machines."
+location: Lecture "Optimization objective"  [view?lecture_id=71]
+location: Lecture "Large margin intuition" [view?lecture_id=72]
+location: Lecture "Mathematics behind large margin classification" [view?lecture_id=73]
 dependencies: logistic_regression
 
 source: bishop

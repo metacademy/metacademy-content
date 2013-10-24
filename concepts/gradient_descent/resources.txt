@@ -1,5 +1,6 @@
 source: coursera_ng
-location: lectures: Gradient Descent, Gradient Descent Intuition
+location: Lecture "Gradient Descent" [view?lecture_id=11]
+location: Lecture "Gradient Descent Intuition" [view?lecture_id=10]
 core: 1
 
 source: wikipedia

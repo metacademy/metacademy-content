@@ -1,5 +1,5 @@
 source: coursera_ng
-location: Lecture "Kernels I"
+location: Lecture "Kernels I" [view?lecture_id=74]
 
 source: bishop
 edition: 1

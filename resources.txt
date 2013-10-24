@@ -101,8 +101,8 @@ level: graduate
 key: coursera_ng
 title: Coursera: Machine Leaning
 authors: Andrew Y. Ng
-url: https://www.coursera.org/course/ml
-specific_url_base: http://class.coursera.org/ml-003/lecture/preview_view?lecture_id=
+url: http://class.coursera.org/ml-003/lecture/
+specific_url_base: http://class.coursera.org/ml-003/lecture/
 resource_type: online course
 free: 1
 extra: Click on "Preview" to see the videos.

@@ -12,5 +12,5 @@ location: Section 12.3, "Support vector machines and kernels," up through and in
 core: 1
 
 source: coursera_ng
-location: Lecture "Kernels II"
+location: Lecture "Kernels II" [view?lecture_id=75]
 

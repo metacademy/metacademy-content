@@ -1,5 +1,5 @@
 source: coursera_ng
-location: Lecture sequence "Dimensionality reduction"
+location: Lecture sequence "Dimensionality reduction" 
 core: 1
 
 source: murphy
