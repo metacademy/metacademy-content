@@ -6,7 +6,7 @@ extra: Watch the Week One lectures if you're not familiar with the basic machine
 
 source: esl
 edition: 2
-location: Section 10.1, "Boosting methods," pages 337-341
+location: Section 10.1, "Boosting methods," pages 337-341 [#page=356]
 core: 1
 extra: Read the introductory chapters if you're not familiar with the basic machine learning setup.
 
