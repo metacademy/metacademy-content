@@ -6,5 +6,5 @@ location: Section 20.3.1, "Maximum likelihood estimation," pages 949-950
 core: 1
 
 source: coursera_koller
-location: Lecture "Maximum likelihood for log-linear models"
+location: Lecture "Maximum likelihood for log-linear models" [83]
 core: 1

@@ -1,6 +1,6 @@
 source: coursera_koller
-location: Lecture "Learning with incomplete data -- overview"
-location: Lecture "Expectation-Maximization -- intro" (If you already understand EM, try figuring out the updates for yourself first!)
+location: Lecture "Learning with incomplete data -- overview" [100]
+location: Lecture "Expectation-Maximization -- intro" (If you already understand EM, try figuring out the updates for yourself first!) [101]
 extra: The lecture "EM in practice" has good practical advice about using EM, and "Latent variables" talks about some cool applications.
 core: 1
 

@@ -10,8 +10,8 @@ dependencies: multivariate_gaussian_distribution
 core: 1
 
 source: coursera_koller
-location: Lecture "Markov Chain Monte Carlo"
-location: Lecture "Using a Markov Chain"
+location: Lecture "Markov Chain Monte Carlo" [72]
+location: Lecture "Using a Markov Chain" [73]
 core: 1
 
 source: mackay

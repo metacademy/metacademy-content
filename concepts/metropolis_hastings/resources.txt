@@ -1,5 +1,5 @@
 source: coursera_koller
-location: Lecture "Metropolis Hastings algorithm"
+location: Lecture "Metropolis Hastings algorithm" [75]
 core: 1
 
 source: pgm

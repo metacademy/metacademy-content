@@ -4,5 +4,5 @@ location: Section 4.6.1.1 (pages 142-144), Box 4.E (pages 145-148), and Box 4.B 
 core: 1
 
 source: coursera_koller
-location: Lecture "Conditional random fields"
+location: Lecture "Conditional random fields" [33]
 core: 1

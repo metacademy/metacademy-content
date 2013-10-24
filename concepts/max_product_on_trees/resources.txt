@@ -5,9 +5,9 @@ dependencies: junction-trees
 extra: This section describe the junction tree (or clique tree) algorithm, a way of applying BP to general graphs. The notation differs significantly from the more traditional formulation of BP on factor graphs.
 
 source: coursera_koller
-location: Lecture "Max-sum message passing"
-location: Lecture "Finding a MAP assignment"
-dependencies: junction-trees
+location: Lecture "Max-sum message passing" [61]
+location: Lecture "Finding a MAP assignment" [60]
+dependencies: junction-trees 
 extra: These lectures describe the junction tree (or clique tree) algorithm, a way of applying BP to general graphs. The notation differs significantly from the more traditional formulation of BP on factor graphs.
 
 source: bishop

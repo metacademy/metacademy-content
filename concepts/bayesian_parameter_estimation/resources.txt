@@ -25,8 +25,8 @@ location: Section 9.1, "Learning as inference," pgs. 189-193 [#page=213]
 core: 1
 
 source: coursera_koller
-location: Lecture "Bayesian estimation"
-location: Lecture "Bayesian prediction"
+location: Lecture "Bayesian estimation" [80]
+location: Lecture "Bayesian prediction" [81]
 dependencies: maximum_likelihood
 core: 1
 extra: If you're not familiar with Bayes nets, don't worry: most of these lectures don't depend on them.

@@ -4,5 +4,5 @@ location: Section 17.4, "Bayesian parameter estimation in Bayesian networks," no
 core: 1
 
 source: coursera_koller
-location: Lecture "Bayesian estimation for Bayesian networks"
+location: Lecture "Bayesian estimation for Bayesian networks" [82]
 core: 1

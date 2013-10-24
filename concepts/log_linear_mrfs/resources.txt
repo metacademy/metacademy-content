@@ -9,8 +9,8 @@ location: Section 4.4.1.2 and boxes 4.C and 4.D, pages 124-128
 core: 1
 
 source: coursera_koller
-location: Lecture "Log-linear models"
-location: Lecture "Shared features in log-linear models"
+location: Lecture "Log-linear models" [30]
+location: Lecture "Shared features in log-linear models" [36]
 dependencies: conditional_random_fields
 core: 1
 

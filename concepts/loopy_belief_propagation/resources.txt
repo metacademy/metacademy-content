@@ -10,8 +10,8 @@ dependencies: junction-trees
 extra: This uses the cluster graph formalism, which is more general than the factor graph version, but has more cumbersome notation.
 
 source: coursera_koller
-location: Lecture "Belief propagation"
-location: Lecture "Properties of cluster graphs"
-location: Lecture "Properties of belief propagation"
-location: Lecture "BP in practice"
-location: Lecture "Loopy BP and message deconding"
+location: Lecture "Belief propagation" [49]
+location: Lecture "Properties of cluster graphs" [50]
+location: Lecture "Properties of belief propagation" [53]
+location: Lecture "BP in practice" [58]
+location: Lecture "Loopy BP and message deconding" [59]

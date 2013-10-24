@@ -5,11 +5,11 @@ dependencies: variable-elimination
 extra: This section describe the junction tree (or clique tree) algorithm, a way of applying BP to general graphs. The notation differs significantly from the more traditional formulation of BP on factor graphs.
 
 source: coursera_koller
-location: Lecture "Belief propagation"
-location: Lecture "Properties of cluster graphs"
-location: Lecture "Properties of belief propagation"
-location: Lecture "Clique tree algorithm -- correctness"
-location: Lecture "Clique tree algorithm -- computation"
+location: Lecture "Belief propagation" [49]
+location: Lecture "Properties of cluster graphs" [50]
+location: Lecture "Properties of belief propagation" [53]
+location: Lecture "Clique tree algorithm -- correctness" [54]
+location: Lecture "Clique tree algorithm -- computation" [55]
 dependencies: variable-elimination
 extra: These lectures describe the junction tree (or clique tree) algorithm, a way of applying BP to general graphs. The notation differs significantly from the more traditional formulation of BP on factor graphs.
 

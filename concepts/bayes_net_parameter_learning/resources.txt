@@ -1,5 +1,5 @@
 source: coursera_koller
-location: Lecture "Maximum likelihood estimation for Bayesian networks"
+location: Lecture "Maximum likelihood estimation for Bayesian networks" [79]
 core: 1
 
 source: pgm

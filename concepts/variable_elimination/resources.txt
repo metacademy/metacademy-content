@@ -15,9 +15,9 @@ core: 1
 dependencies: bayesian-networks
 
 source: coursera_koller
-location: Lecture "Variable elimination algorithm"
-location: Lecture "Complexity of variable elimination"
-location: Lecture "Graph-based perspective on variable elimination"
-location: Lecture "Finding elimination orderings"
+location: Lecture "Variable elimination algorithm" [46]
+location: Lecture "Complexity of variable elimination" [47]
+location: Lecture "Graph-based perspective on variable elimination" [48]
+location: Lecture "Finding elimination orderings" [51]
 core: 1
 dependencies: bayesian-networks

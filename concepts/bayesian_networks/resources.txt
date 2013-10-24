@@ -19,10 +19,10 @@ location: Sections 14.1-14.2, pages 492-499
 core: 1
 
 source: coursera_koller
-location: Lecture "Semantics & factorization"
-location: Lecture "Reasoning patterns"
-location: Lecture "Naive Bayes"
-location: Lecture "Application -- medical diagnosis"
+location: Lecture "Semantics & factorization" [3]
+location: Lecture "Reasoning patterns" [4]
+location: Lecture "Naive Bayes" [20]
+location: Lecture "Application -- medical diagnosis" [6]
 core: 1
 
 source: coursera_domingos

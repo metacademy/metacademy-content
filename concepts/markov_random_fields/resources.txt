@@ -16,7 +16,7 @@ location: Sections 4.1-4.3.1, pages 103-117
 core: 1
 
 source: coursera_koller
-location: Lecture "Pairwise Markov networks"
-location: Lecture "General Gibbs distribution"
-location: Lecture "Independencies in Markov networks"
+location: Lecture "Pairwise Markov networks" [31]
+location: Lecture "General Gibbs distribution" [32]
+location: Lecture "Independencies in Markov networks" [35]
 core: 1

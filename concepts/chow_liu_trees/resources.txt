@@ -8,5 +8,5 @@ location: Section 26.3, "Learning tree structures," pages 910-914
 core: 1
 
 source: coursera_koller
-location: Lecture "Learning tree-structured networks"
+location: Lecture "Learning tree-structured networks" [97]
 core: 1

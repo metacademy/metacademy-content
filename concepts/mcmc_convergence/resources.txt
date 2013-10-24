@@ -9,7 +9,7 @@ location: Section 12.3.5, pages 518-526
 core: 1
 
 source: coursera_koller
-location: Lecture "Using a Markov chain"
+location: Lecture "Using a Markov chain" [73]
 core: 1
 
 source: mlss_murray

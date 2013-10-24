@@ -17,7 +17,7 @@ location: Section 12.3.2, pages 507-512
 core: 1
 
 source: coursera_koller
-location: Lecture "Markov Chain Monte Carlo"
+location: Lecture "Markov Chain Monte Carlo" [72]
 core: 1
 
 source: mackay

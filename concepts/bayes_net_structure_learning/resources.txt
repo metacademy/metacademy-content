@@ -10,10 +10,10 @@ location: Section 18.3, "Structure scores," pages 790-807
 core: 1
 
 source: coursera_koller
-location: Lecture "Structure learning overview"
-location: Lecture "Likelihood scores"
-location: Lecture "BIC and asymptotic consistency"
-location: Lecture "Bayesian scores"
+location: Lecture "Structure learning overview" [93]
+location: Lecture "Likelihood scores" [94]
+location: Lecture "BIC and asymptotic consistency" [95]
+location: Lecture "Bayesian scores" [96]
 core: 1
 
 source: coursera_domingos

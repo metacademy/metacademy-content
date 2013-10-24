@@ -15,7 +15,7 @@ dependencies: bayesian_networks
 core: 1
 
 source: coursera_koller
-location: Lecture "Gibbs sampling"
+location: Lecture "Gibbs sampling" [74]
 dependencies: bayesian_networks
 core: 1
 

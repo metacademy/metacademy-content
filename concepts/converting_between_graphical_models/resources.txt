@@ -9,5 +9,5 @@ location: Section 8.3.4, pages 390-393 [http://research.microsoft.com/en-us/um/p
 core: 1
 
 source: coursera_koller
-location: Lecture "I-maps and perfect maps"
+location: Lecture "I-maps and perfect maps" [42]
 core: 1
