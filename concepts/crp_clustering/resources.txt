@@ -1,0 +1,6 @@
+title: Bayesian nonparametric lecture notes (COS 597C)
+authors: Peter Frazier and Indraneel Mukherjee
+resource_type: lecture notes
+level: graduate
+url: http://www.cs.princeton.edu/courses/archive/fall07/cos597C/scribe/20070921.pdf
+free: 1

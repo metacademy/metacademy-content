@@ -1,0 +1,1 @@
+The predictive rule for Chinese Restaurant Process (CRP) can be used to define an "infinite-capacity" prior distribution on the clusters in a clustering model. The most common clustering model that uses the CRP is an unbounded analogue to a Gaussian mixture model, where the "table assignments" from the CRP determine the mixture component assignments for each data point.
