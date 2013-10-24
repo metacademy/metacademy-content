@@ -427,6 +427,7 @@ title: Coursera: Machine Learning
 author: Pedro Domingos
 resource_type: online lectures
 free: 1
+specific_url_base: https://class.coursera.org/machlearning-001/lecture/preview_view?lecture_id=
 url: https://class.coursera.org/machlearning-001/lecture/preview
 level: advanced undergraduate
 extra: Click on "Preview" to see the videos.

@@ -17,5 +17,5 @@ location: Lecture series "Neural networks: representation"
 core: 1
 
 source: coursera_domingos
-location: Lecture "Multilayer perceptrons"
+location: Lecture "Multilayer perceptrons" [283]
 dependencies: gradient_descent, perceptron

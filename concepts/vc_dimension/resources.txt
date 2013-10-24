@@ -1,6 +1,6 @@
 source: coursera_domingos
-location: Lecture "VC dimension"
-location: Lecture "VC dimension of hyperplanes"
+location: Lecture "VC dimension" [329]
+location: Lecture "VC dimension of hyperplanes" [331]
 core: 1
 
 source: esl

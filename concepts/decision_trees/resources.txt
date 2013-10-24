@@ -1,8 +1,8 @@
 source: coursera_domingos
-location: Lecture "Decision trees"
-location: Lecture "What can a decision tree represent?"
-location: Lecture "Growing a decision tree"
-location: Lecture "Accuracy and information gain"
+location: Lecture "Decision trees" [161]
+location: Lecture "What can a decision tree represent?" [169]
+location: Lecture "Growing a decision tree" [171]
+location: Lecture "Accuracy and information gain" [173]
 core: 1
 extra: The rest of the "decision tree induction" section is optional but useful.
 extra: Watch the Week One lectures if you're not familiar with the basic machine learning setup.

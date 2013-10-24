@@ -26,8 +26,8 @@ location: Lecture "Application -- medical diagnosis" [6]
 core: 1
 
 source: coursera_domingos
-location: Lecture "Bayesian networks"
-location: Lecture "Inference in Bayesian networks"
+location: Lecture "Bayesian networks" [245]
+location: Lecture "Inference in Bayesian networks" [229]
 core: 1
 
 source: iit_eeuni_ai2

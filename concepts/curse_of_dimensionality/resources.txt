@@ -4,5 +4,5 @@ location: Section 2.5, "Local methods in high dimensions," pages 22-27 [#page=41
 core: 1
 
 source: coursera_domingos
-location: Lecture "The curse of dimensionality"
+location: Lecture "The curse of dimensionality" [215]
 core: 1

@@ -12,7 +12,7 @@ location: Lecture notes 6, "Online learning and the perceptron algorithm," pages
 core: 1
 
 source: coursera_domingos
-location: Lecture "The perceptron"
-location: Lecture "Perceptron training"
+location: Lecture "The perceptron" [249]
+location: Lecture "Perceptron training" [251]
 core: 1
 

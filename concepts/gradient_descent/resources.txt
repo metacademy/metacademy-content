@@ -17,6 +17,6 @@ location: pages 467 - 475
 core: 1
 
 source: coursera_domingos
-location: Lecture "Gradient descent"
-location: Lecture "Gradient descent (continued)"
+location: Lecture "Gradient descent"  [253]
+location: Lecture "Gradient descent (continued)" [271]
 dependencies: perceptron

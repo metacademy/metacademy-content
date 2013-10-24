@@ -1,6 +1,6 @@
 source: coursera_domingos
-location: Lecture "Boosting: the basics"
-location: Lecture "Boosting: the details"
+location: Lecture "Boosting: the basics" [277]
+location: Lecture "Boosting: the details" [295]
 core: 1
 extra: Watch the Week One lectures if you're not familiar with the basic machine learning setup.
 

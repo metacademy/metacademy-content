@@ -17,4 +17,4 @@ location: Lecture "Bayesian scores" [96]
 core: 1
 
 source: coursera_domingos
-location: Lecture "Learning Bayesian network structure"
+location: Lecture "Learning Bayesian network structure" [261]

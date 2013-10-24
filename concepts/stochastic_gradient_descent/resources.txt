@@ -10,4 +10,4 @@ title: Wikipedia: Stochastic Gradient Descent
 url: http://en.wikipedia.org/wiki/Stochastic_gradient_descent
 
 source: coursera_domingos
-location: Stochastic gradient descent
+location: Stochastic gradient descent [281]

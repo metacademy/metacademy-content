@@ -1,8 +1,8 @@
 source: coursera_domingos
-location: Lecture "PAC learning"
-location: Lecture "How many examples are enough?"
-location: Lecture "Example and definition of PAC learning"
-location: Lecture "Agnostic learning"
+location: Lecture "PAC learning" [301]
+location: Lecture "How many examples are enough?" [303]
+location: Lecture "Example and definition of PAC learning" [305]
+location: Lecture "Agnostic learning" [323]
 core: 1
 
 source: kearns_and_vazirani

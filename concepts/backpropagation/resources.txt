@@ -24,7 +24,7 @@ location: Lecture "Using the derivatives computed by backpropagation"
 core: 1
 
 source: coursera_domingos
-location: Lecture "Backpropagation"
-location: Lecture "Issues in backpropagation"
-location: Lecture "Learning hidden layer representations"
+location: Lecture "Backpropagation" [285]
+location: Lecture "Issues in backpropagation" [287]
+location: Lecture "Learning hidden layer representations" [289]
 core: 1

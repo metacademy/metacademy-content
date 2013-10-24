@@ -1,6 +1,6 @@
 source: coursera_domingos
-location: Lecture "The K-nearest neighbor algorithm"
-location: Lecture "Theoretical guarantees on KNN"
+location: Lecture "The K-nearest neighbor algorithm" [203]
+location: Lecture "Theoretical guarantees on KNN" [211]
 core: 1
 extra: Watch the Week One lectures if you're not familiar with the basic machine learning setup.
 

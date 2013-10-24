@@ -22,5 +22,5 @@ location: Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorith
 core: 1
 
 source: coursera_domingos
-location: Lecture "The naive Bayes classifier"
+location: Lecture "The naive Bayes classifier" [241]
 core: 1
