@@ -2,6 +2,7 @@ title: Probabilistic Latent Semantic Indexing
 authors: Thomas Hoffman
 extra: You can gloss over section 3 if you're not familiar with the expectation maximization algorithm
 free: 1
+resource_type: research paper
 level: graduate
 url: http://cs.brown.edu/~th/papers/Hofmann-SIGIR99.pdf
 core: 1

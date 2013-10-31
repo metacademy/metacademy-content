@@ -1,0 +1,2 @@
+tag: loss_function
+reason: the performance on the training/testing set is typically measured using a loss function

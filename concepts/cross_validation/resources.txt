@@ -1,0 +1,13 @@
+source: mathmonk
+mark: star
+location: Video lecture: Cross-validation (part 1) [http://www.youtube.com/watch?v=m5StqDv-YlM]
+location: Video lecture: Cross-validation (part 2) [http://www.youtube.com/watch?v=OcJwdF8zBjM]
+location  Video lecture: Cross-validation (part 3)  [http://www.youtube.com/watch?v=mvbBycl8BNM]
+note: discusses cross validation from a decision-theoretic perspective
+
+source: wikipedia
+mark: star
+location: article "Cross-validation (statistics)" [http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29]
+core: 1
+
+
