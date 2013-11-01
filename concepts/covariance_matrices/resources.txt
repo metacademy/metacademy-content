@@ -1,0 +1,9 @@
+title: The Analysis Factor
+location: Article: Covariance Matrices, Covariance Structures, and Bears, Oh My! [http://www.theanalysisfactor.com/covariance-matrices/]
+url: http://www.theanalysisfactor.com
+free: 1
+level: introductory
+authors: Karen Grace-Martin
+
+source: wikipedia
+location: Article: Covariance Matrix [http://en.wikipedia.org/wiki/Covariance_matrix]

@@ -1,0 +1,2 @@
+* Understand how to calculate the entries of a covariance matrix
+* Understand the difference between positive and negative covariances

@@ -1,0 +1,1 @@
+A covariance matrix generalizes the idea of variance to multiple dimensions, where the i-th j-th element in the covariance matrix is the covariance between the i-th and j-th random variables. Covariance matrices are common throughout both statistics and machine learning and often arise when dealing with multivariate distributions.
