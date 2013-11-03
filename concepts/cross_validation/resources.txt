@@ -1,4 +1,4 @@
-source: mathmonk
+source: mathmonk_ml
 mark: star
 location: Video lecture: Cross-validation (part 1) [http://www.youtube.com/watch?v=m5StqDv-YlM]
 location: Video lecture: Cross-validation (part 2) [http://www.youtube.com/watch?v=OcJwdF8zBjM]

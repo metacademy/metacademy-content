@@ -123,7 +123,7 @@ free: 1
 level: reference
 
 key: mathmonk
-title: MathematicalMonk Tutorials
+title: Mathematical Monk Tutorials
 url: http://www.youtube.com/user/mathematicalmonk
 resource_type: youtube videos
 free: 1
@@ -374,6 +374,7 @@ resource_type: online lectures
 title: Mathematical Monk: Machine Learning
 free: 1
 url: http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
+level: advanced undergraduate
 
 key: ywt_bnp_mlss
 resource_type: video lecture
