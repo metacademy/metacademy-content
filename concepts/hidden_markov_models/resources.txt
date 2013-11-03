@@ -1,3 +1,8 @@
+source: mathmonk
+location: video lecture: (ML 14.4) Hidden Markov models I [http://www.youtube.com/watch?v=TPRoLreU9lA]
+location: video lecture: (ML 14.5) Hidden Markov models II [http://www.youtube.com/watch?v=M_IIW0VYMEA]
+core: 1
+
 source: bishop
 edition: 1
 location: Sections 13.1-13.2 (up to 13.2.1), pages 607-615
