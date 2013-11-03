@@ -3,11 +3,11 @@ location: Lecture sequence: partial derivatives [https://www.khanacademy.org/mat
 core: 1
 
 source: wikipedia
-location: http://en.wikipedia.org/wiki/Partial_derivative
+location: Article: Partial Derivatives [http://en.wikipedia.org/wiki/Partial_derivative]
 extra: work through the examples section
 
 source: wolfram
-location: http://mathworld.wolfram.com/PartialDerivative.html
+location: Partial Derivatives Entry [http://mathworld.wolfram.com/PartialDerivative.html]
 
 source: edwards_penney
 location: Section 13.4, "Partial derivatives," pages 868-875

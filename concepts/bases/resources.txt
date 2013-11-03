@@ -33,4 +33,4 @@ location: Section "Dimension," subsections "Dimension" and "Dimension of vector 
 dependencies: gaussian_elimination, complex_vectors_and_matrices
 
 source: wikipedia
-url: http://en.wikipedia.org/wiki/Basis_(linear_algebra)
+location: Article: Basis (linear algebra) [http://en.wikipedia.org/wiki/Basis_(linear_algebra)]

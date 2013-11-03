@@ -4,8 +4,7 @@ core: 1
 extra: this section focuses on LSA from an information retrieval perspective, where it is referred to as Latent Semantic Indexing (LSI)
 
 source: wikipedia
-url: http://en.wikipedia.org/wiki/Latent_semantic_analysis
-title: Wikipedia: Latent Semantic Analysis
+location: Article: Latent Semantic Analysis [http://en.wikipedia.org/wiki/Latent_semantic_analysis]
 
 title: An Introduction to Latent Semantic Analysis
 authors: Thomas Landauer and Peter Foltz and Darrell Laham

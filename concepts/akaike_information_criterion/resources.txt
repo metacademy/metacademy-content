@@ -1,5 +1,5 @@
 source: wikipedia
-url: http://en.wikipedia.org/wiki/Akaike_information_criterion
+location: Article: Akaike Information Criterion [http://en.wikipedia.org/wiki/Akaike_information_criterion]
 
 source: posada_model
 location: Akaike Information Criterion (bottom of 6th page)

@@ -4,7 +4,7 @@ location: Lecture sequence "Triple integrals" [https://www.khanacademy.org/math/
 core: 1
 
 source: wolfram
-location: http://mathworld.wolfram.com/MultipleIntegral.html
+location: Entry: Multiple Integrals [http://mathworld.wolfram.com/MultipleIntegral.html]
 
 source: edwards_penney
 edition: 6

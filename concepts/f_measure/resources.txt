@@ -4,4 +4,4 @@ edition: online
 core: 1
 
 source: wikipedia
-location: "F1 score" [http://en.wikipedia.org/wiki/F1_score]
+location: Article: F1 score [http://en.wikipedia.org/wiki/F1_score]

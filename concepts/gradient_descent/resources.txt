@@ -4,7 +4,7 @@ location: Lecture "Gradient Descent Intuition" [view?lecture_id=10]
 core: 1
 
 source: wikipedia
-url: http://en.wikipedia.org/wiki/Gradient_descent
+location: Article: Gradient Descent [http://en.wikipedia.org/wiki/Gradient_descent]
 core: 1
 
 source: barber

@@ -13,5 +13,5 @@ location: Section 2.2
 extra: Section 2.2 provides core information but the rest of the Section 2 provides context and deeper discussion of ARS
 
 source: wikipedia
-url: http://en.wikipedia.org/wiki/Rejection_sampling#Adaptive_rejection_sampling
+location: Article: Adaptive Rejection Sampling [http://en.wikipedia.org/wiki/Rejection_sampling#Adaptive_rejection_sampling]
 

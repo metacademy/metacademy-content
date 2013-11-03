@@ -13,7 +13,7 @@ edition: 4
 core: 1
 
 source: wikipedia
-url: https://en.wikipedia.org/wiki/Poisson_distribution
+location: Article: Poisson Distribution [https://en.wikipedia.org/wiki/Poisson_distribution]
 
 source: wolfram
 url: http://mathworld.wolfram.com/PoissonDistribution.html

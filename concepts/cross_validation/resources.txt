@@ -7,7 +7,7 @@ note: discusses cross validation from a decision-theoretic perspective
 
 source: wikipedia
 mark: star
-location: article "Cross-validation (statistics)" [http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29]
+location: Article: Cross-validation (statistics) [http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29]
 core: 1
 
 

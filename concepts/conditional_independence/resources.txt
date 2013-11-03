@@ -1,5 +1,4 @@
 source: wikipedia
-title: "Wikipedia: Conditional independence"
-url: http://en.wikipedia.org/wiki/Conditional_independence
+location: Article: Conditional Independence [http://en.wikipedia.org/wiki/Conditional_independence]
 extra: Ignore the stuff about sigma-algebras.
 core: 1

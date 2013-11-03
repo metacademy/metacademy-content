@@ -3,7 +3,7 @@ location: Chapter 1, section 3, pages 11-13 [cs229-notes1.pdf#page=11]
 dependencies: linear-regression
 
 source: wikipedia
-url: http://en.wikipedia.org/wiki/Maximum_likelihood
+location: Article: Maximum Likelihood [http://en.wikipedia.org/wiki/Maximum_likelihood]
 extra: Read the Principles and Examples sections.
 
 source: aima

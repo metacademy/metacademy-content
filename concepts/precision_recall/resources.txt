@@ -4,4 +4,4 @@ edition: online
 core: 1
 
 source: wikipedia
-location: "Precision and Recall" [http://en.wikipedia.org/wiki/Precision_and_recall]
+location: Article: Precision and Recall [http://en.wikipedia.org/wiki/Precision_and_recall]
