@@ -1,7 +1,7 @@
 # TODO add conditional resource for graphical models: http://www.youtube.com/watch?v=2RQQTEy1ugs
 
 source: math_stackexchange
-location Could someone explain conditional independence? [http://math.stackexchange.com/questions/23093/could-someone-explain-conditional-independence/23100#23100]
+location: Could someone explain conditional independence? [http://math.stackexchange.com/questions/23093/could-someone-explain-conditional-independence/23100#23100]
 extra: joriki provides several intuitive examples of conditional independence
 
 source: wikipedia
