@@ -1,5 +1,5 @@
 source: mathmonk_ml
-mark: star
+core: 1
 location: Video lecture: Cross-validation (part 1) [http://www.youtube.com/watch?v=m5StqDv-YlM]
 location: Video lecture: Cross-validation (part 2) [http://www.youtube.com/watch?v=OcJwdF8zBjM]
 location  Video lecture: Cross-validation (part 3)  [http://www.youtube.com/watch?v=mvbBycl8BNM]
@@ -9,5 +9,11 @@ source: wikipedia
 mark: star
 location: Article: Cross-validation (statistics) [http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29]
 core: 1
+
+title: djweissML Video Lectures
+author: David Weiss
+level: introductory
+location: Machine Learning :: Model Selection & Cross Validation [http://www.youtube.com/watch?v=hihuMBCuSlU]
+free: 1
 
 
