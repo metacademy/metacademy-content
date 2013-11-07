@@ -16,3 +16,10 @@ source: barber
 edition: 1-online
 location: Sections 20.2-20.3.1, pages 402-409 [#page=426]
 dependencies: kl_divergence, lagrange_multipliers
+
+source: mathmonk_ml
+location: (ML 16.3) Expectation-Maximization (EM) algorithm [http://www.youtube.com/watch?v=AnbiNaVp3eQ]
+location: (ML 16.4) Why EM makes sense (part 1) [http://www.youtube.com/watch?v=6JZ-PKpx5Kc]
+location: (ML 16.5) Why EM makes sense (part 2) [http://www.youtube.com/watch?v=X9yF2djExhY]
+extra: The 16.4-16.5 sequence presents an EM justification by trying to analytically maximize the likelihood rather than the (more typical) justification that the EM algorithm maximizes a lower bound on the likelihood.
+
