@@ -1,6 +1,6 @@
 source: esl
 edition: 2
-location: Section 14.8, "Multidimensional scaling," pages 570-572 [page=589]
+location: Section 14.8, "Multidimensional scaling," pages 570-572 [#page=589]
 
 resource_type: paper
 title: Multidimensional scaling, tree-fitting, and clustering

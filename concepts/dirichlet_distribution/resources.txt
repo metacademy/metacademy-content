@@ -6,7 +6,7 @@ title: Introduction to the Dirichlet Distribution and Related Processes
 resource_type: tutorial
 authors: Bela A. Frigyik and Amon Kapila and Maya R. Gupta
 location: Ch 1 provides core information while Ch 2 focuses on sampling
-url: http://www.ee.washington.edu/research/guptalab/publications/UWEETR-2010-0006.pdf
+url: https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0006.pdf
 core: 1
 free: 1
 

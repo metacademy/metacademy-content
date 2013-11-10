@@ -477,7 +477,7 @@ specific_url_base: http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
 
 key:  iit_eeuni_ai2
 title: Artificial Intelligence II (IIT video lectures)
-url: http://www.eetindia.co.in/VIDEO_CAT_800003.HTM
+url: http://nptel.iitm.ac.in/video.php?subjectId=106105079
 authors: Pallab Dasgupta
 free: 1
 level: advanced undergraduate
