@@ -193,6 +193,7 @@ authors: Erik Sudderth
 resource_type: thesis
 free: 1
 url: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf
+specific_url_base: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf
 level: expert
 
 key: strang

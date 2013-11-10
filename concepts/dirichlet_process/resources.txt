@@ -1,5 +1,5 @@
 source: sudderth_thesis
-location: section 2.5 Dirichlet Processes
+location: section 2.5 Dirichlet Processes [#page=95]
 core: 1
 
 resource_type: tutorial paper

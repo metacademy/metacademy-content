@@ -3,7 +3,7 @@ location: S 2.2
 core: 1
 
 source: sudderth_thesis
-location: S.2.5.2,  p. 102
+location: S.2.5.2,  [#page=102]
 extra: best read after learning about the Dirichlet Process
 
 source: ywt_bnp_mlss
