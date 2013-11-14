@@ -15,3 +15,11 @@ location: Sections 17.2-17.2.1 (pages 589-590) and 17.3-17.3.1 (pages 603-606)
 source: aima
 edition: 2
 location: Sections 15.1-15.3, pages 537-551
+
+title: A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition
+core: 1
+url: http://people.sabanciuniv.edu/berrin/cs512/reading/rabiner-tutorial-on-hmm.pdf
+authors: Lawrence R. Rabiner
+free: 1
+level: graduate
+
