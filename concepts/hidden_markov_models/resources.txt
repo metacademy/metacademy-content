@@ -1,3 +1,11 @@
+title: A Revealing Introduction to Hidden Markov Models
+authors: Mark Stamp
+url: http://www.cs.sjsu.edu/~stamp/RUA/HMM.pdf
+free: 1
+core: 1
+level: undergraduate
+
+
 source: mathmonk_ml
 location: video lecture: (ML 14.4) Hidden Markov models I [http://www.youtube.com/watch?v=TPRoLreU9lA]
 location: video lecture: (ML 14.5) Hidden Markov models II [http://www.youtube.com/watch?v=M_IIW0VYMEA]
