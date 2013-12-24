@@ -1,0 +1,4 @@
+tag: k_means
+
+tag: probability
+reason: k-means++ selects input data points as initial cluster locations with probability proportional to the points squared distance from the nearest existing cluster center

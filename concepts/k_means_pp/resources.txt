@@ -1,0 +1,17 @@
+title: k-means++: The Advantage of Careful Seeding
+url: http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf
+resource_type: research paper
+authors: David Arthur and Sergei Vassilvitskii
+free: 1
+level: graduate
+core: 1
+location: p. 1-3 (through section 2) provides the k-means++ algorithm, while the rest of the paper provides proofs and characterizations
+
+source: stackoverflow
+location: accepted answer
+url: http://stackoverflow.com/questions/5466323/how-exactly-does-k-means-work
+extra: accepted answer provides a solid definition and python implementation
+
+source: wikipedia
+title: Wikipedia: K-means++
+url: http://en.wikipedia.org/wiki/K-means%2B%2B

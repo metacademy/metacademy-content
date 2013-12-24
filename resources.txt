@@ -353,7 +353,7 @@ resource_type: video lecture
 title: Levy Processes and Applications to Machine Learning
 free: 1
 url: http://www.youtube.com/watch?v=SIOYjfVEEFk
-authors: Romain Thibaux 
+authors: Romain Thibaux
 
 key: boas_mm
 resource_type: textbook
@@ -519,6 +519,13 @@ resource_type: textbook
 key: math_stackexchange
 title: Mathematics StackExchange
 url: http://math.stackexchange.com/
+free: 1
+level: reference
+resource_type: forum
+
+key: stackoverflow
+title: StackOverflow
+url: http://stackoverflow.com
 free: 1
 level: reference
 resource_type: forum

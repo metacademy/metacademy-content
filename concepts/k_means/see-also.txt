@@ -1,8 +1,9 @@
+* using the "k-means++":k_means_pp algorithm to select the initial cluster centers provides an optimality guarantee on the final objective as well as better empirical performance over randomly selecting initial cluster centers
 * Other clustering methods include:
 ** "mixture of Gaussians":gaussian_mixtures_vs_k_means, a probabilistic model for continuous data
 ** "mixture of Bernoullis":mixture_of_bernoullis, a probabilistic model for discrete data
 ** "spectral clustering":spectral_clustering, for when the clusters don't have nice convex shapes
 * The application of clustering to finding meaningful regions of images is called "image segmentation":image_segmentation.
 * K-means is used in information theory for quantizing continuous signals; there it is known as "vector quantization":vector_quantization.
-* K-means is often "used as an initialization":k_means_initialization for more sophisticated models such as mixture of Gaussians. 
+* K-means is often "used as an initialization":k_means_initialization for more sophisticated models such as mixture of Gaussians.
 * K-means is analogous to the "EM algorithm for fitting Gaussian mixtures":em_gaussian_mixtures
