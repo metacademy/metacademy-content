@@ -5,7 +5,7 @@ location: Sections 3.2.3 (pages 60-64), Section 3.4-3.4.2 (pages 78-83), and Sec
 source: bishop
 edition: 1
 free: 1
-location: Section 8.3.4, pages 390-393 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=50]
+location: Section 8.3.4, pages 390-393 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/pdf/Bishop-PRML-sample.pdf#page=50]
 core: 1
 
 source: coursera_koller

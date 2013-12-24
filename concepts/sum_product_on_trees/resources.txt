@@ -20,10 +20,9 @@ location: Section 20.2-20.2.2, pages 707-710
 source: bishop
 edition: 1
 free: 1
-location: Section 8.4.4, pages 402-411 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=62]
+location: Section 8.4.4, pages 402-411 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/pdf/Bishop-PRML-sample.pdf#page=62]
 core: 1
 
 source: mackay
 edition: 1
 location: Section 26.2, "The sum-product algorithm," pages 336-339 [336.342.pdf#page=3]
-

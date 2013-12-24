@@ -6,4 +6,4 @@ dependencies: multivariate_gaussians_information_form
 source: bishop
 edition: 1
 free: 1
-location: Section 8.1.4, pages 370-371 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/Bishop-PRML-sample.pdf#page=30]
+location: Section 8.1.4, pages 370-371 [http://research.microsoft.com/en-us/um/people/cmbishop/prml/pdf/Bishop-PRML-sample.pdf#page=30]
