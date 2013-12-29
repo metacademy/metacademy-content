@@ -1,0 +1,4 @@
+* Understand the four components that comprise an MDP
+* Understand the following terminology: states, actions, rewards, transition functions/probabilities, policy, utility, discount parameter, q-states, value
+* Understand the recursive definition of value
+* Understand the justification for discount parameters (especially with infinite time MDPs)

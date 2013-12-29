@@ -1,0 +1,3 @@
+* The policy typically converges long before the value function, therefore "policy iteration":policy_iteration is typically used instead of value iteration to learn an optimal policy. Both policy iteration and value iteration are Bellman updates turned into an iterative algorithms, where the difference is whether you plug in a fixed policy and iteratively improve (policy iteration) or directly look for the best policy by considering all of the actions (value iteration).
+
+# TODO consider making a unification concept for policy/value iteration

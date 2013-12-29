@@ -1,0 +1,11 @@
+source: cs188_berkeley
+location: Lecture 8: Markov Decision Processes [http://youtu.be/i0o-ui1N35U?t=50m4s]
+core: 1
+
+source: cs188_edx
+core: 1
+location: Week 7 - Lecture 8 parts 4-5 and quiz 3-4
+
+source: aima
+location: Section 17.2 p. 652-656
+core: 1

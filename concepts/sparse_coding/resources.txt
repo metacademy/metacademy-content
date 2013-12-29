@@ -8,3 +8,4 @@ authors: Bruno A. Olshausen and David J. Field
 title: Emergence of simple-cell receptive field properties by learning a sparse code for natural images
 url: http://redwood.psych.cornell.edu/papers/olshausen_field_nature_1996.pdf
 core: 1
+free: 1

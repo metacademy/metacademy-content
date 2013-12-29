@@ -1,0 +1,8 @@
+tag: expectimax
+reason: value iteration can be viewed as an efficient form of expectimax and uses expectimax within the algorithm
+
+tag: markov_decision_process
+reason: value iteration computes the value function for markov decision processes
+
+tag: bellman_equations
+reason: value iteration finds a fixed point for the MDP Bellman equations

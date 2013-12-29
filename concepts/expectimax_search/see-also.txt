@@ -1,0 +1,1 @@
+* Expectimax search is an alternative to "minimax search":minimax_search, which instead of maximizing the expected utility, minimax search minimizes the maximum loss.

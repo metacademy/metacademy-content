@@ -1,0 +1,1 @@
+Value iteration is a recursive algorithm for computing the value function, and in turn the optimal policy, for a Markov decision process.

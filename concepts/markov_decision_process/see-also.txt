@@ -1,0 +1,4 @@
+* There are several methods for finding the optimal policy for an MDP:
+** "Value iteration":value_iteration is an application of dynamic programming that recursively computes the value function. It does not scale well as it has a complexity of O(S^2A) for S states and A actions.
+** "Policy iteration":policy_iteration is similar to value iteration, but it alternates between determining the value function given a fixed policy and choosing a policy given a fixed value function. It tends to converge much quicker than value iteration.
+* The "Bellman equations":bellman_equations characterize the optimal values for MDPs and are ubiquitous in reinforcement learning.

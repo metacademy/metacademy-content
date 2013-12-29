@@ -1,0 +1,5 @@
+tag: optimization_problems
+reason: the Bellman equations provide necessary conditions for a certain class of optimization problems
+
+tag: functions_of_several_variables
+reason: the Bellman equations are functions of several variables

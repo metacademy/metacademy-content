@@ -529,3 +529,20 @@ url: http://stackoverflow.com
 free: 1
 level: reference
 resource_type: forum
+
+key: cs188_berkeley
+title: Berkeley Artificial Intelligence CS188
+free: 1
+url: http://www.youtube.com/user/CS188Spring2013?feature=watch
+level: advanced undergraduate
+authors: Pieter Abbeel
+resource_type: video lectures
+
+key: cs188_edx
+title: EdX Artificial Intelligence
+free: 1
+url: https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579
+level: advanced undergraduate
+resource_type: online lectures
+authors: Pieter Abbeel and Dan Klein
+note: navigate between lecture material using the slider at the top

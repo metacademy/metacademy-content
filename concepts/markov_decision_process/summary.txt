@@ -1,0 +1,1 @@
+A Markov Decision Process (MDP) is a mathematical framework for handling search/planning problems where the outcome of actions are uncertain (non-deterministic). MDPs aim to maximize the expected utility (minimize the expected loss) throughout the search/planning.

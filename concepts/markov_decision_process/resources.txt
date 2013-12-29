@@ -1,0 +1,17 @@
+source: cs188_berkeley
+core: 1
+location: Lecture 8: Markov Decision Processes (MDPs) [http://www.youtube.com/watch?v=i0o-ui1N35U]
+extra: The lecture provides definitions, descriptions, and examples of MDPs -- it briefly covers value iteration (a method for finding optimal policies) near the end of the lecture
+
+source: cs188_edx
+core: 1
+location: Week 7 - Lecture 8: Markov Decision Processes (part 1-3 and quiz 1-2)
+extra: The content is nearly identical to the Pieter Abbeel's Youtube lecture, but the lectures are segmented and have quizzes interspersed. You must register with EdX to view this material.
+
+source: aima
+location: Section 17.1 p. 645-651
+core: 1
+
+source: wikipedia
+title: Wikipedia Article: Markov decision process
+url: http://en.wikipedia.org/wiki/Markov_decision_process

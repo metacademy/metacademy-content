@@ -1,0 +1,5 @@
+tag: value_iteration
+reason: policy iteration can be viewed as value iteration in which we select the last action that optimized for the given state, rather than always considering every action
+
+tag: bellman_equations
+reason: policy iteration uses the Bellman equations for MDPs

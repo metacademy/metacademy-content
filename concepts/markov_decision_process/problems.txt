@@ -1,0 +1,3 @@
+problem_url: https://courses.edx.org/static/content-berkeley-cs188x~2013_Spring/handouts/global/section/section_4.pdf
+solution_url: https://courses.edx.org/static/content-berkeley-cs188x~2013_Spring/handouts/global/section/section_4_solutions.pdf
+instructions: complete exercise 1 problems 1-2 (the remaining problems focus on learning a policy, which is beyond the scope of this concept)

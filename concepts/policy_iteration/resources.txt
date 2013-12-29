@@ -1,0 +1,11 @@
+source: cs188_edx
+location: Week 7 Lecture 9: Markov Decision Processes II
+core: 1
+
+source: cs188_berkeley
+location: Lecture 9: Markov Decision Process II [http://www.youtube.com/watch?v=Csiiv6WGzKM]
+core: 1
+
+source: aima
+location: Section 17.3 p. 656-658
+core: 1

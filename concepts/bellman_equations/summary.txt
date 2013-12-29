@@ -1,0 +1,3 @@
+The Bellman equations are a system of equations that provide a recursive definition of optimality associated with dynamic programming. Informally, the Bellman equations state that optimality is achieved by taking an optimal first action and recursively taking optimal subsequent actions.
+
+# TODO Bellman equations occur in a lot of areas, e.g. economics, perhaps make more specific concepts for the Bellman equations

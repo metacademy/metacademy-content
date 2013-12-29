@@ -1,0 +1,9 @@
+tag: conditional_probability
+reason: MDP transition probabilities are conditional probabilities
+
+tag: expectation_and_variance
+reason: the optimal policy for a MDP is defined in terms of an expected reward
+
+# TODO consider adding expectimax, though it may be more important for value iteration or other methods for solving
+
+# TODO add utility or loss

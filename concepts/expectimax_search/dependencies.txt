@@ -1,0 +1,5 @@
+tag: probability
+reason: expectimax search involves stochastic (probabilistic) outcomes
+
+tag: expectation_and_variance
+reason: expectimax search maximizes the *expected* utility of the search

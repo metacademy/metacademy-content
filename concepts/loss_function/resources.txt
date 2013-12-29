@@ -14,4 +14,5 @@ level: undergraduate
 location: Section 1.5, "Decision Theory," pages 38-39
 
 source: wikipedia
-location: Article: Loss Function [http://en.wikipedia.org/wiki/Loss_function] (read the "Introduction" and "Use in Statistics" sections)
+location: Article: Loss Function [http://en.wikipedia.org/wiki/Loss_function]
+extra: read the "Introduction" and "Use in Statistics" sections
