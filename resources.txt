@@ -5,6 +5,7 @@ url: http://research.microsoft.com/en-us/um/people/cmbishop/prml/
 resource_type: textbook
 free: 0
 level: graduate
+description: A textbook for a graduate machine learning course, with a focus on Bayesian methods.
 
 key: gelman
 title: Bayesian Data Analysis
@@ -13,6 +14,7 @@ url: http://www.stat.columbia.edu/~gelman/book/
 resource_type: textbook
 free: 0
 level: graduate
+description: A Bayesian statistics textbook with a focus on practical issues.
 
 key: coursera_hinton
 title: Coursera: Neural Networks for Machine Learning
@@ -22,6 +24,7 @@ resource_type: online lectures
 free: 1
 requires_signup: 1
 level: advanced undergraduate
+description: An online course by Geoff Hinton, who invented many of the core ideas behind neural nets and deep learning.
 
 key: barber
 title: Bayesian Reasoning and Machine Learning
@@ -31,6 +34,7 @@ specific_url_base: http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf
 resource_type: online textbook
 free: 1
 level: graduate
+description: A textbook for a graudate machine learning course.
 
 key: murphy
 title: Machine Learning: a Probabilistic Perspective
@@ -39,6 +43,7 @@ url: http://www.cs.ubc.ca/~murphyk/MLbook/index.html
 resource_type: textbook
 free: 0
 level: graduate
+description: A very comprehensive graudate-level machine learning textbook.
 
 key: pgm
 title: Probabilistic Graphical Models: Principles and Techniques
@@ -47,6 +52,7 @@ url: http://pgm.stanford.edu/
 resource_type: textbook
 free: 0
 level: graduate
+description: A very comprehensive textbook for a graduate-level course on probabilistic AI.
 
 key: esl
 title: The Elements of Statistical Learning
@@ -56,6 +62,7 @@ specific_url_base: http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ES
 resource_type: online textbook
 free: 1
 level: graduate
+description: A graudate-level statistical learning textbook with a focus on frequentist methods.
 
 key: cs229
 title: Stanford's Machine Learning lecture notes
@@ -65,6 +72,7 @@ specific_url_base: http://cs229.stanford.edu/notes/
 resource_type: lecture notes
 free: 1
 level: advanced undergraduate
+description: Lecture notes for Stanford's machine learning course, aimed at graduate and advanced undergraduate students.
 
 key: wikipedia
 title: Wikipedia
@@ -80,6 +88,7 @@ url: http://www.cengage.com/search/productOverview.do?Ntt=9780534399429&Ntk=P_Is
 resource_type: textbook
 free: 0
 level: advanced undergraduate
+description: An undergraduate statistics textbook.
 
 key: aima
 title: Artificial Intelligence: a Modern Approach
@@ -88,6 +97,7 @@ url: http://aima.cs.berkeley.edu/
 resource_type: textbook
 free: 0
 level: advanced undergraduate
+description: A textbook giving a broad overview of all of AI.
 
 key: mackay
 title: Information Theory, Inference, and Learning Algorithms
@@ -97,6 +107,7 @@ specific_url_base: http://www.cs.toronto.edu/~mackay/itprnn/ps/
 resource_type: online textbook
 free: 1
 level: graduate
+description: A graudate-level textbook on machine learning and information theory.
 
 key: coursera_ng
 title: Coursera: Machine Leaning
@@ -107,6 +118,7 @@ resource_type: online course
 free: 1
 extra: Click on "Preview" to see the videos.
 level: introductory
+description: An online machine learning course aimed at a broad audience.
 
 key: khan
 title: Khan Academy
@@ -152,6 +164,7 @@ resource_type: online lectures
 free: 1
 extra: Click on "Preview" to see the videos.
 level: advanced undergraduate
+description: An online course on probabilistic graphical models.
 
 key: wainwright_jordan_tutorial
 authors: Martin J. Wainwright and Michael I. Jordan
@@ -161,6 +174,7 @@ free: 1
 url: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
 specific_url_base: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
 level: expert
+description: An in-depth review of exact and approximate inference methods for graphical models.
 
 key: gpml
 title: Gaussian Processes for Machine Learning
@@ -170,6 +184,7 @@ free: 1
 url: http://www.gaussianprocess.org/gpml/
 specific_url_base: http://www.gaussianprocess.org/gpml/chapters/
 level: graduate
+description: A graduate-level machine learning textbook focusing on Gaussian processes.
 
 key: motwani_randomized_algorithms
 title: Randomized Algorithms
@@ -178,6 +193,7 @@ resource_type: textbook
 free: 0
 url: http://www.cambridge.org/gb/knowledge/isbn/item1146626/?site_locale=en_GB
 level: graduate
+description: A graduate-level textbook on randomized algorithms.
 
 key: probabilistic_robotics
 title: Probabilistic Robotics
@@ -195,6 +211,7 @@ free: 1
 url: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf
 specific_url_base: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf
 level: expert
+description: Erik Sudderth's Ph.D. thesis, which includes readable overviews of a variety of topics.
 
 key: strang
 resource_type: textbook
@@ -203,6 +220,7 @@ authors: Gilbert Strang
 free: 0
 url: http://math.mit.edu/linearalgebra/
 level: introductory
+description: An introductory linear algebra textbook with an emphasis on numerical methods.
 
 key: ocw_strang
 resource_type: online lectures
@@ -211,6 +229,7 @@ authors: Gilbert Strang
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 level: introductory
+description: Videos for an introductory linear algebra course focusing on numerical methods.
 
 key: khan_academy_linear_algebra
 resource_type: online lectures
@@ -227,6 +246,7 @@ free: 1
 url: http://linear.ups.edu/
 specific_url_base: http://linear.ups.edu/html/
 level: advanced undergraduate
+description: A linear algebra textbook with proofs.
 
 key: shifrin
 resource_type: textbook
@@ -235,6 +255,7 @@ authors: Theodore Shifrin
 free: 0
 url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000815.html
 level: advanced undergraduate
+description: A textbook on linear algebra and multivariable calculus with proofs.
 
 key: axler
 resource_type: textbook
@@ -243,6 +264,7 @@ authors: Sheldon Axler
 free: 0
 url: http://linear.axler.net/
 level: advanced undergraduate
+description: A textbook for a second course in linear algebra, with mathematical generalizations of the basic concepts.
 
 key: khan_academy_algebra
 resource_type: online lectures
@@ -264,6 +286,7 @@ title: The Road to Reality
 authors: Roger Penrose
 free: 0
 url: http://www.amazon.com/The-Road-Reality-Complete-Universe/dp/0679776311
+description: An overview of much of mathematical physics.
 
 key: bnp_tutorial_elsevier
 resource_type: paper
@@ -279,6 +302,7 @@ authors: C. Henry Edwards and David E. Penney
 free: 0
 url: http://www.amazon.com/Multivariable-Calculus-Edition-Henry-Edwards/dp/0130339679
 level: introductory
+description: An introductory multivariable calculus textbook.
 
 key: ocw_auroux
 resource_type: online lectures
@@ -287,6 +311,7 @@ authors: Denis Auroux
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
 level: introductory
+description: Video lectures for MIT's introductory multivariable calculus class.
 
 key: ross
 resource_type: textbook
@@ -295,6 +320,7 @@ authors: Sheldon Ross
 free: 0
 url: http://www.amazon.com/First-Course-Probability-8th-Edition/dp/013603313X
 level: introductory
+description: An introductory probability textbook.
 
 key: feller
 resource_type: textbook
@@ -303,6 +329,7 @@ authors: William Feller
 free: 0
 url: http://www.amazon.com/Introduction-Probability-Theory-Applications-Edition/dp/0471257087
 level: advanced undergraduate
+description: A classic introductory probability textbook.
 
 key: degroot
 resource_type: textbook
@@ -311,6 +338,7 @@ free: 0
 authors: Morris H. DeGroot and Mark J. Schervish
 url: http://www.amazon.com/Probability-Statistics-Edition-Morris-DeGroot/dp/0321500466
 level: advanced undergraduate
+description: An introductory textbook on probability theory and statistics.
 
 key: khan_academy_probability
 resource_type: online lectures
@@ -325,6 +353,7 @@ title: Sets, Counting, and Probability
 free: 1
 url: http://www.extension.harvard.edu/open-learning-initiative/sets-counting-probability
 level: introductory
+description: Online lectures on basic probability theory.
 
 key: edx_probability
 resource_type: online lectures
@@ -333,6 +362,7 @@ free: 1
 requires_signup: 1
 url: https://courses.edx.org/courses/BerkeleyX/Stat2.2x/2013_April/courseware
 level: introductory
+description: An online course on basic probability.
 
 key: teh_bnp_mlss
 resource_type: video lecture
@@ -370,6 +400,7 @@ title: Mathematical Monk: Probability Primer
 free: 1
 url: http://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 level: advanced undergraduate
+description: Online videos on probability theory. 
 
 key: mathmonk_ml
 resource_type: online lectures
@@ -377,6 +408,7 @@ title: Mathematical Monk: Machine Learning
 free: 1
 url: http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 level: advanced undergraduate
+description: Online videos on machine learning.
 
 key: ywt_bnp_mlss
 resource_type: video lecture
@@ -408,6 +440,7 @@ free: 1
 url: http://www.stanford.edu/~boyd/cvxbook/
 specific_url_base: http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 level: graduate
+description: A graduate-level textbook on convex optimization.
 
 key: princeton_companion
 title: The Princeton Companion to Mathematics
@@ -416,6 +449,7 @@ resource_type: reference
 free: 0
 url: http://press.princeton.edu/titles/8350.html
 level: reference
+description: A surprisingly readable and comprehensive reference on the major topics in pure math.
 
 key: intro_ir
 title: Introduction to Information Retrieval
@@ -424,6 +458,7 @@ resource_type: online textbook
 free: 1
 url: http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
 level: undergraduate
+description: A textbook on information retrieval techniques.
 
 key: coursera_domingos
 title: Coursera: Machine Learning
@@ -434,6 +469,7 @@ specific_url_base: https://class.coursera.org/machlearning-001/lecture/preview_v
 url: https://class.coursera.org/machlearning-001/lecture/preview
 level: advanced undergraduate
 extra: Click on "Preview" to see the videos.
+description: An online machine learning course aimed at advanced undergraduates.
 
 key: kearns_and_vazirani
 title: An Introduction to Computational Learning Theory
@@ -442,6 +478,7 @@ resource_type: textbook
 free: 0
 url: http://mitpress.mit.edu/books/introduction-computational-learning-theory
 level: graduate
+description: A graduate level textbook on computational learning theory.
 
 key: mlss_murray
 title: Machine learning summer school: Markov chain Monte Carlo
@@ -450,6 +487,7 @@ url: http://videolectures.net/mlss09uk_murray_mcmc/
 resource_type: video lecture
 free: 1
 level: graduate
+description: A video tutorial on MCMC methods.
 
 key: cover_and_thomas
 title: Elements of Information Theory
@@ -458,6 +496,7 @@ url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html
 resource_type: textbook
 free: 0
 level: graduate
+description: A graduate level textbook on information theory.
 
 key: mackay_lectures
 title: Course on Information Theory, Pattern Recognition, and Neural Networks
@@ -466,6 +505,7 @@ url: http://videolectures.net/course_information_theory_pattern_recognition/
 resource_type: video lecture
 free: 1
 level: graduate
+description: Video lectures on machine learning and information theory.
 
 key: blei_lda
 title: Latent Dirichlet Allocation
@@ -475,6 +515,7 @@ authors: David Blei and Andrew Ng and Michael I Jordan
 resource_type: technical report
 level: graduate
 specific_url_base: http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
+description: The research paper that introduced latent Dirichlet allocation.
 
 
 key:  iit_eeuni_ai2
@@ -492,6 +533,7 @@ authors: Christian P. Robert and George Casella
 free: 0
 level: graduate
 resource_type: textbook
+description: A monograph on Monte Carlo methods.
 
 key: liu_monte_carlo
 title: Monte Carlo Strategies in Scientific Computing
@@ -500,6 +542,7 @@ authors: Jun S. Liu
 free: 0
 level: graduate
 resource_type: textbook
+description: A monograph on Monte Carlo methods.
 
 key: bayesian_choice
 title: The Bayesian Choice
@@ -508,6 +551,7 @@ authors: Christian P. Robert
 free: 0
 level: graduate
 resource_type: textbook
+description: A graduate-level textbook on Bayesian statistics.
 
 key: all_of_statistics
 title: All of Statistics
@@ -516,6 +560,7 @@ url: http://www.stat.cmu.edu/~larry/all-of-statistics/
 free: 0
 level: advanced undergraduate
 resource_type: textbook
+description: A very concise introductory statistics textbook.
 
 key: math_stackexchange
 title: Mathematics StackExchange
