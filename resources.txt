@@ -20,7 +20,7 @@ authors: Geoffrey E. Hinton
 url: https://www.coursera.org/course/neuralnets
 resource_type: online lectures
 free: 1
-extra: Click on "Preview" to see the videos.
+requires_signup: 1
 level: advanced undergraduate
 
 key: barber
@@ -330,6 +330,7 @@ key: edx_probability
 resource_type: online lectures
 title: BerkeleyX: Introduction to Statistics: Probability
 free: 1
+requires_signup: 1
 url: https://courses.edx.org/courses/BerkeleyX/Stat2.2x/2013_April/courseware
 level: introductory
 
