@@ -1,5 +1,6 @@
 key: bishop
 title: Pattern Recognition and Machine Learning
+edition_years: 2006
 authors: Christopher M. Bishop
 url: http://research.microsoft.com/en-us/um/people/cmbishop/prml/
 resource_type: textbook
@@ -9,6 +10,7 @@ description: A textbook for a graduate machine learning course, with a focus on 
 
 key: gelman
 title: Bayesian Data Analysis
+edition_years: 1996, 2003, 2013
 authors: Andrew Gelman and John B. Carlin and Hal S. Stern and Donald B. Rubin
 url: http://www.stat.columbia.edu/~gelman/book/
 resource_type: textbook
@@ -19,6 +21,7 @@ description: A Bayesian statistics textbook with a focus on practical issues.
 key: coursera_hinton
 title: Coursera: Neural Networks for Machine Learning
 authors: Geoffrey E. Hinton
+year: 2012
 url: https://www.coursera.org/course/neuralnets
 resource_type: online lectures
 free: 1
@@ -29,6 +32,7 @@ description: An online course by Geoff Hinton, who invented many of the core ide
 key: barber
 title: Bayesian Reasoning and Machine Learning
 authors: David Barber
+edition_years: 2012
 url: http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 specific_url_base: http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf
 resource_type: online textbook
@@ -39,6 +43,7 @@ description: A textbook for a graudate machine learning course.
 key: murphy
 title: Machine Learning: a Probabilistic Perspective
 authors: Kevin P. Murphy
+edition_years: 2012
 url: http://www.cs.ubc.ca/~murphyk/MLbook/index.html
 resource_type: textbook
 free: 0
@@ -48,6 +53,7 @@ description: A very comprehensive graudate-level machine learning textbook.
 key: pgm
 title: Probabilistic Graphical Models: Principles and Techniques
 authors: Daphne Koller and Nir Friedman
+edition_years: 2009
 url: http://pgm.stanford.edu/
 resource_type: textbook
 free: 0
@@ -57,6 +63,7 @@ description: A very comprehensive textbook for a graduate-level course on probab
 key: esl
 title: The Elements of Statistical Learning
 authors: Trevor Hastie and Robert Tibshirani and Jerome Friedman
+edition_years: 2001, 2009
 url: http://www-stat.stanford.edu/~tibs/ElemStatLearn/
 specific_url_base: http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
 resource_type: online textbook
@@ -84,6 +91,7 @@ level: reference
 key: rice
 title: Mathematical Statistics and Data Analysis
 authors: John A. Rice
+edition_years: ???, 1994, 2006
 url: http://www.cengage.com/search/productOverview.do?Ntt=9780534399429&Ntk=P_Isbn13&Ns=P_CopyRight_Year|1&N=+16+4294922455+4294922413+4294966842
 resource_type: textbook
 free: 0
@@ -93,6 +101,7 @@ description: An undergraduate statistics textbook.
 key: aima
 title: Artificial Intelligence: a Modern Approach
 authors: Stuart Russell and Peter Norvig
+edition_years: 1995, 2002, 2010
 url: http://aima.cs.berkeley.edu/
 resource_type: textbook
 free: 0
@@ -102,6 +111,7 @@ description: A textbook giving a broad overview of all of AI.
 key: mackay
 title: Information Theory, Inference, and Learning Algorithms
 authors: David MacKay
+edition_years: 2003
 url: http://www.inference.phy.cam.ac.uk/itprnn/book.html
 specific_url_base: http://www.cs.toronto.edu/~mackay/itprnn/ps/
 resource_type: online textbook
@@ -112,6 +122,7 @@ description: A graudate-level textbook on machine learning and information theor
 key: coursera_ng
 title: Coursera: Machine Leaning
 authors: Andrew Y. Ng
+year: 2013
 url: http://class.coursera.org/ml-003/lecture/
 specific_url_base: http://class.coursera.org/ml-003/lecture/
 resource_type: online course
@@ -150,6 +161,7 @@ level: advanced undergraduate
 key: griffiths_ibp
 title: The Indian Buffet Process: An Introduction and Review
 authors: Thomas L. Griffiths and Zoubin Ghahramani
+year: 2011
 url: http://mlg.eng.cam.ac.uk/pub/pdf/GriGha11.pdf
 resource_type: paper
 free: 1
@@ -158,6 +170,7 @@ level: expert
 key: coursera_koller
 title: Coursera: Probabilistic Graphical Models
 authors: Daphne Koller
+year: 2013
 url: https://class.coursera.org/pgm/lecture/preview
 specific_url_base: https://class.coursera.org/pgm/lecture/preview_view?lecture_id=
 resource_type: online lectures
@@ -169,6 +182,7 @@ description: An online course on probabilistic graphical models.
 key: wainwright_jordan_tutorial
 authors: Martin J. Wainwright and Michael I. Jordan
 title: Graphical models, exponential families, and variational inference
+year: 2008
 resource_type: paper
 free: 1
 url: http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
@@ -179,6 +193,7 @@ description: An in-depth review of exact and approximate inference methods for g
 key: gpml
 title: Gaussian Processes for Machine Learning
 authors: Carl E. Rasmussen and Christopher K. I. Williams
+edition_years: 2006
 resource_type: textbook
 free: 1
 url: http://www.gaussianprocess.org/gpml/
@@ -189,6 +204,7 @@ description: A graduate-level machine learning textbook focusing on Gaussian pro
 key: motwani_randomized_algorithms
 title: Randomized Algorithms
 authors: Rajeev Motwani and Prabhakar Raghavan
+edition_years: 1995
 resource_type: textbook
 free: 0
 url: http://www.cambridge.org/gb/knowledge/isbn/item1146626/?site_locale=en_GB
@@ -198,6 +214,7 @@ description: A graduate-level textbook on randomized algorithms.
 key: probabilistic_robotics
 title: Probabilistic Robotics
 authors: Sebastian Thrun and Wolfram Burgard and Dieter Fox
+edition_years: 2005
 resource_type: textbook
 free: 0
 url: http://www.probabilistic-robotics.org/
@@ -206,6 +223,7 @@ level: graduate
 key: sudderth_thesis
 title: Graphical Models for Visual Object Recognition and Tracking
 authors: Erik Sudderth
+year: 2006
 resource_type: thesis
 free: 1
 url: http://cs.brown.edu/~sudderth/papers/sudderthPhD.pdf
@@ -216,6 +234,7 @@ description: Erik Sudderth's Ph.D. thesis, which includes readable overviews of 
 key: strang
 resource_type: textbook
 title: Introduction to Linear Algebra
+edition_years: ???, 1993, 2003, 2009
 authors: Gilbert Strang
 free: 0
 url: http://math.mit.edu/linearalgebra/
@@ -225,6 +244,7 @@ description: An introductory linear algebra textbook with an emphasis on numeric
 key: ocw_strang
 resource_type: online lectures
 title: MIT Open Courseware: Linear Algebra
+year: 2011
 authors: Gilbert Strang
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
@@ -242,6 +262,7 @@ key: beezer
 resource_type: textbook
 title: A First Course in Linear Algebra
 authors: Robert A. Beezer
+year: 2012
 free: 1
 url: http://linear.ups.edu/
 specific_url_base: http://linear.ups.edu/html/
@@ -251,6 +272,7 @@ description: A linear algebra textbook with proofs.
 key: shifrin
 resource_type: textbook
 title: Multivariable Mathematics
+edition_years: 2005
 authors: Theodore Shifrin
 free: 0
 url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000815.html
@@ -260,6 +282,7 @@ description: A textbook on linear algebra and multivariable calculus with proofs
 key: axler
 resource_type: textbook
 title: Linear Algebra Done Right
+edition_years: ???, 2004
 authors: Sheldon Axler
 free: 0
 url: http://linear.axler.net/
@@ -283,6 +306,7 @@ level: introductory
 key: road_to_reality
 resource_type: book
 title: The Road to Reality
+year: 2007
 authors: Roger Penrose
 free: 0
 url: http://www.amazon.com/The-Road-Reality-Complete-Universe/dp/0679776311
@@ -290,6 +314,7 @@ description: An overview of much of mathematical physics.
 
 key: bnp_tutorial_elsevier
 resource_type: paper
+year: 2012
 title: A tutorial on Bayesian nonparametric models
 free: 1
 url: http://web.mit.edu/sjgershm/www/GershmanBlei12.pdf
@@ -298,6 +323,7 @@ level: graduate
 key: edwards_penney
 resource_type: textbook
 title: Multivariable Calculus
+edition_years: ???, ???, ???, ???, ???, 2002
 authors: C. Henry Edwards and David E. Penney
 free: 0
 url: http://www.amazon.com/Multivariable-Calculus-Edition-Henry-Edwards/dp/0130339679
@@ -307,6 +333,7 @@ description: An introductory multivariable calculus textbook.
 key: ocw_auroux
 resource_type: online lectures
 title: MIT Open Courseware: Multivariable Caclulus
+year: 2010
 authors: Denis Auroux
 free: 1
 url: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
@@ -317,6 +344,7 @@ key: ross
 resource_type: textbook
 title: A First Course in Probability
 authors: Sheldon Ross
+edition_years: ???, 1984, 1988, 1994, 1997, 2001, 2005, 2011, 2012
 free: 0
 url: http://www.amazon.com/First-Course-Probability-8th-Edition/dp/013603313X
 level: introductory
@@ -326,6 +354,7 @@ key: feller
 resource_type: textbook
 title: An Introduction to Probability Theory and its Applications
 authors: William Feller
+edition_years: 1950, 1957, 1968
 free: 0
 url: http://www.amazon.com/Introduction-Probability-Theory-Applications-Edition/dp/0471257087
 level: advanced undergraduate
@@ -335,6 +364,7 @@ key: degroot
 resource_type: textbook
 title: Probability and Statistics
 free: 0
+edition_years: ???, 1986, 2002, 2011
 authors: Morris H. DeGroot and Mark J. Schervish
 url: http://www.amazon.com/Probability-Statistics-Edition-Morris-DeGroot/dp/0321500466
 level: advanced undergraduate
@@ -367,6 +397,7 @@ description: An online course on basic probability.
 key: teh_bnp_mlss
 resource_type: video lecture
 title: Nonparametric Bayesian Models
+year: 2009
 free: 1
 url: http://videolectures.net/mlss09uk_teh_nbm/
 authors: Yee Whye Teh
@@ -374,6 +405,7 @@ authors: Yee Whye Teh
 key: jordan_crm
 resource_type: survey paper
 title: Hierarchical Models, Nested Models and Completely Random Measures
+year: 2010
 free: 1
 url:http://www.cs.berkeley.edu/~jordan/papers/berger-festschrift.pdf
 authors: Michael I. Jordan
@@ -383,12 +415,15 @@ key: thibaux_tech_talk
 resource_type: video lecture
 title: Levy Processes and Applications to Machine Learning
 free: 1
+year: 2008
 url: http://www.youtube.com/watch?v=SIOYjfVEEFk
 authors: Romain Thibaux
+description: Video lecture
 
 key: boas_mm
 resource_type: textbook
 title: Mathematical Methods in the Physical Sciences
+edition_years: ???, 1983, 2005
 free: 0
 url: http://www.amazon.com/Mathematical-Methods-Physical-Sciences-Mary/dp/0471198269
 authors: Mary Boas
@@ -398,6 +433,7 @@ key: mathmonk_probability
 resource_type: online lectures
 title: Mathematical Monk: Probability Primer
 free: 1
+year: 2011
 url: http://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 level: advanced undergraduate
 description: Online videos on probability theory. 
@@ -406,6 +442,7 @@ key: mathmonk_ml
 resource_type: online lectures
 title: Mathematical Monk: Machine Learning
 free: 1
+year: 2011
 url: http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 level: advanced undergraduate
 description: Online videos on machine learning.
@@ -413,6 +450,7 @@ description: Online videos on machine learning.
 key: ywt_bnp_mlss
 resource_type: video lecture
 title: Bayesian Nonparametrics
+year: 2011
 free: 1
 authors: Yee Whye Teh
 url: http://videolectures.net/mlss2011_teh_nonparametrics/
@@ -420,6 +458,7 @@ url: http://videolectures.net/mlss2011_teh_nonparametrics/
 key: bnp_lecture_notes_597c
 resource_type: lecture notes
 authors: Min Sun and Mike Wawrzoniak
+year: 2007
 url: http://www.cs.princeton.edu/courses/archive/fall07/cos597C/scribe/20071105.pdf
 title: Princeton BNP Class: Lecture Notes 7
 free: 1
@@ -429,12 +468,14 @@ key: posada_model
 title: Model Selection and Model Averaging in Phylogenetics: Advantages of Akaike Information Criterion and Bayesian Approaches Over Likelihood Ratio Tests
 resource_type: paper
 authors: David Posada and Thomas Buckley
+year: 2004
 free: 1
 url: http://xyala2.bio.ed.ac.uk/teaching/tutorials/phylogenetics/Bayesian_Workshop/PDFs/Posada%20and%20Buckley%20Syst%20Biol%202004.pdf
 
 key: boyd_convex_optimization
 title: Convex Optimization
 authors: Stephen Boyd and Lieven Vandenberghe
+edition_years: 2004
 resource_type: textbook
 free: 1
 url: http://www.stanford.edu/~boyd/cvxbook/
@@ -446,6 +487,7 @@ key: princeton_companion
 title: The Princeton Companion to Mathematics
 authors: Timothy Gowers and June Barrow-Green and Imre Leader
 resource_type: reference
+year: 2008
 free: 0
 url: http://press.princeton.edu/titles/8350.html
 level: reference
@@ -454,6 +496,7 @@ description: A surprisingly readable and comprehensive reference on the major to
 key: intro_ir
 title: Introduction to Information Retrieval
 authors: Christopher D. Manning and Prabhakar Raghavan and Hinrich Schütze
+edition_years: 2008
 resource_type: online textbook
 free: 1
 url: http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
@@ -462,7 +505,7 @@ description: A textbook on information retrieval techniques.
 
 key: coursera_domingos
 title: Coursera: Machine Learning
-author: Pedro Domingos
+authors: Pedro Domingos
 resource_type: online lectures
 free: 1
 specific_url_base: https://class.coursera.org/machlearning-001/lecture/preview_view?lecture_id=
@@ -474,6 +517,7 @@ description: An online machine learning course aimed at advanced undergraduates.
 key: kearns_and_vazirani
 title: An Introduction to Computational Learning Theory
 authors: Michael J. Kearns and Umesh V. Vazirani
+year: 1994
 resource_type: textbook
 free: 0
 url: http://mitpress.mit.edu/books/introduction-computational-learning-theory
@@ -482,7 +526,8 @@ description: A graduate level textbook on computational learning theory.
 
 key: mlss_murray
 title: Machine learning summer school: Markov chain Monte Carlo
-author: Iain Murray
+authors: Iain Murray
+year: 2009
 url: http://videolectures.net/mlss09uk_murray_mcmc/
 resource_type: video lecture
 free: 1
@@ -492,6 +537,7 @@ description: A video tutorial on MCMC methods.
 key: cover_and_thomas
 title: Elements of Information Theory
 authors: Thomas M. Cover and Joy A. Thomas
+edition_years: 1991, 2006
 url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html
 resource_type: textbook
 free: 0
@@ -500,7 +546,7 @@ description: A graduate level textbook on information theory.
 
 key: mackay_lectures
 title: Course on Information Theory, Pattern Recognition, and Neural Networks
-author: David MacKay
+authors: David MacKay
 url: http://videolectures.net/course_information_theory_pattern_recognition/
 resource_type: video lecture
 free: 1
@@ -510,6 +556,7 @@ description: Video lectures on machine learning and information theory.
 key: blei_lda
 title: Latent Dirichlet Allocation
 free: 1
+year: 2003
 url: http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf
 authors: David Blei and Andrew Ng and Michael I Jordan
 resource_type: technical report
@@ -528,6 +575,7 @@ resource_type: video lecture
 
 key: robert_and_casella
 title: Monte Carlo Statistical Methods
+year: 2005
 url: http://www.amazon.com/Monte-Statistical-Methods-Springer-Statistics/dp/0387212396
 authors: Christian P. Robert and George Casella
 free: 0
@@ -537,6 +585,7 @@ description: A monograph on Monte Carlo methods.
 
 key: liu_monte_carlo
 title: Monte Carlo Strategies in Scientific Computing
+year: 2001
 url: http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-76369-9
 authors: Jun S. Liu
 free: 0
@@ -546,6 +595,7 @@ description: A monograph on Monte Carlo methods.
 
 key: bayesian_choice
 title: The Bayesian Choice
+edition_years: 1996, 2007
 url: http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-95231-4
 authors: Christian P. Robert
 free: 0
@@ -556,6 +606,7 @@ description: A graduate-level textbook on Bayesian statistics.
 key: all_of_statistics
 title: All of Statistics
 authors: Larry Wasserman
+edition_years: 2004
 url: http://www.stat.cmu.edu/~larry/all-of-statistics/
 free: 0
 level: advanced undergraduate
@@ -578,6 +629,7 @@ resource_type: forum
 
 key: cs188_berkeley
 title: Berkeley Artificial Intelligence CS188
+year: 2013
 free: 1
 url: http://www.youtube.com/user/CS188Spring2013?feature=watch
 level: advanced undergraduate
@@ -587,6 +639,7 @@ resource_type: video lectures
 key: cs188_edx
 title: EdX Artificial Intelligence
 free: 1
+requires_signup: 1
 url: https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579
 level: advanced undergraduate
 resource_type: online lectures
