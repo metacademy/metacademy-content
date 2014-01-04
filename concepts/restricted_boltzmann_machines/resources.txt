@@ -1,0 +1,19 @@
+source: coursera_hinton
+location: lecture "Boltzmann machine learning" [https://class.coursera.org/neuralnets-2012-001/lecture/131]
+location: lecture "restricted Boltzmann machines" [https://class.coursera.org/neuralnets-2012-001/lecture/133]
+location: lecture "RBMs for collaborative filtering" [https://class.coursera.org/neuralnets-2012-001/lecture/135]
+core: 1
+note: You may want to first skim the lectures on Boltzmann machines.
+
+source: esl
+edition: 2
+location: Section 17.4.4, pages 643-645 [#page=662]
+
+source: murphy
+edition: 1
+location: Section 27.7, "Restricted Boltzmann machines," pages 983-993
+
+source: bengio_foundations_and_trends
+location: Chapter 5, "Energy based models and Boltzmann machines," pages 48-68 [#page=51]
+note: Skim chapters 3 and 4 for motivation.
+core: 1

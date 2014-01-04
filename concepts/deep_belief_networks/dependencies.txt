@@ -1,0 +1,9 @@
+tag: markov_random_fields
+reason: Part of a deep belief net is an MRF.
+
+tag: bayesian_networks
+reason: Part of a deep belief net is a Bayes net.
+
+tag: restricted_boltzmann_machines
+reason: The top two layers of a DBN form an RBM, and DBNs can be trained by training a sequence of RBMs.
+

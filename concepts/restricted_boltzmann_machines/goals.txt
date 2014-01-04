@@ -1,0 +1,7 @@
+* Know what an RBM is and what distributions it can represent.
+* Understand why training an RBM is intractable. In particular,
+** why is it intractable to compute the gradient?
+** why does the likelihood function have local optima?
+* Know about the contrastive divergence training criterion and understand what approximation is being made.
+* Why does the structure of the model simplify the Gibbs sampling update?
+* Be able to implement an RBM training algorithm such as contrastive divergence.

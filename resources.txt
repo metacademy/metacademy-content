@@ -645,3 +645,14 @@ level: advanced undergraduate
 resource_type: online lectures
 authors: Pieter Abbeel and Dan Klein
 note: navigate between lecture material using the slider at the top
+
+key: bengio_foundations_and_trends
+title: Learning deep architectures for AI
+authors: Yoshua Bengio
+year: 2009
+free: 1
+url: http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf
+specific_url_base: http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf
+level: expert
+resource_type: review paper
+description: A review paper on deep learning techniques written by one of the leaders in the field.

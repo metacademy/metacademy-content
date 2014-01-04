@@ -1,0 +1,11 @@
+tag: markov_random_fields
+reason: RBMs are a kind of MRF.
+
+tag: mrf_parameter_learning
+reason: Training RBMs is an instance of MRF parameter learning.
+
+tag: stochastic_gradient_descent
+reason: RBMs are trained with (approximate) stochastic gradient descent.
+
+tag: gibbs_sampling
+reason: Gibbs sampling is part of RBM training.

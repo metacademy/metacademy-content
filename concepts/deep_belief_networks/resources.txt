@@ -1,0 +1,28 @@
+source: coursera_hinton
+location: lecture "Learning layers of features by stacking RBMs" [https://class.coursera.org/neuralnets-2012-001/lecture/151]
+location: lecture "RBMs are infinite sigmoid belief nets" (optional but neat) [https://class.coursera.org/neuralnets-2012-001/lecture/159]
+core: 1
+note: You may want to skim the lectures on learning sigmoid belief nets (Lecture13)
+
+source: murphy
+edition: 1
+location: Section 28.2, "Deep generative models," pages 995-998
+
+source: bengio_foundations_and_trends
+location: Section 4.4, "Deep generative architectures," pages 40-43 [#page=43]
+location: Section 6.1, "Layer-wise training of deep belief networks," pages 68-71 [#page=71]
+core: 1
+note: Skim chapters 3 and 4 for motivation
+
+resource_type: paper
+authors: Geoffrey E. Hinton and Simon Osindero and Yee-Whye Teh
+title: A fast learning algorithm for deep belief nets
+year: 2006
+url: http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
+specific_url_base: http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
+location: Section 2, "Complementary priors," pages 2-3 [#page=2]
+location: Section 4, "A greedy learning algorithm for transforming representations," pages 5-6 [#page=5]
+level: expert
+description: The research paper which introduced layerwise training of DBNs.
+core: 1
+

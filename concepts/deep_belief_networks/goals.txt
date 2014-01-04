@@ -1,0 +1,4 @@
+* Know the graphical model structure of a DBN and understand what the combination of directed and undirected edges represents.
+* Understand why the explaining away effect makes exact inference in a DBN intractable.
+* Know how to train a DBN in a layerwise fashion.
+* Optional: understand mathematically why layerwise training is guaranteed to improve the likelihood.
