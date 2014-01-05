@@ -1,0 +1,4 @@
+* Understand what a recurrent neural net is and how it can be used to model sequence data.
+* Know how to train an RNN using backpropagation through time.
+* Be aware of why training RNNs with backpropagation is unstable.
+

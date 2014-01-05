@@ -1,0 +1,3 @@
+* Other models of sequence data include:
+** "hidden Markov models":hidden_markov_models
+** "linear dynamical systems":linear_dynamical_systems

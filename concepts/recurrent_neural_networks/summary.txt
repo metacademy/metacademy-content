@@ -1,0 +1,1 @@
+Recurrent neural networks (RNNs) are a kind of neural net often used to model sequence data. They maintain a hidden state which can "remember" certain aspects of the sequence it has seen. RNNs can be trained using backpropagation through time, although efficient training remains an open problem.

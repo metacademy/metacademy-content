@@ -8,3 +8,4 @@
 * "Dynamic Bayes nets":dynamic_bayes_nets are a kind of time series model which has multiple variables at each time step which influence each other
 * The "particle filter":particle_filter is a way of performing inference in HMMs when the state space is too large to represent exactly.
 * "Kalman filters":kalman_filter are a widely used special case of HMMs where all of the variables are Gaussian.
+* "Recurrent neural networks":recurrent_neural_networks are another class of model often applied to sequence data.

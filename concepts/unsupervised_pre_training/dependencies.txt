@@ -5,3 +5,5 @@ tag: deep_belief_networks
 reason: DBNs are learned in the pre-training step.
 shortcut: 1
 
+tag: backpropagation
+reason: The fine-tuning step is done with backpropagation.

@@ -1,0 +1,8 @@
+source: coursera_hinton
+location: Lecture "Modeling sequences: a brief overview" [https://class.coursera.org/neuralnets-2012-001/lecture/77]
+location: Lecture "Training RNNs with back propagation" [https://class.coursera.org/neuralnets-2012-001/lecture/81]
+location: Lecture "A toy example of training an RNN" [https://class.coursera.org/neuralnets-2012-001/lecture/83]
+location: Lecture "Why it is difficult to train an RNN" [https://class.coursera.org/neuralnets-2012-001/lecture/85]
+location: Lecture "Long-term short-term memory" [https://class.coursera.org/neuralnets-2012-001/lecture/95]
+core: 1
+note: It may be helpful to first skim Lecture4, which covers sequence modeling.

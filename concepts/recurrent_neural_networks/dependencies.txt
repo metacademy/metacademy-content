@@ -1,0 +1,5 @@
+tag: feed_forward_neural_networks
+reason: RNNs can be viewed as feed-forward neural nets.
+
+tag: backpropagation
+reason: RNNs are trained using backpropagation.
