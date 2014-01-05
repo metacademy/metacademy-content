@@ -1,0 +1,7 @@
+tag: feed_forward_neural_nets
+reason: Unsupervised pre-training is a way of training feed-forward neural nets.
+
+tag: deep_belief_networks
+reason: DBNs are learned in the pre-training step.
+shortcut: 1
+

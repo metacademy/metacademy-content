@@ -1,0 +1,1 @@
+* The advantages of unsupervised pre-training relate to the distinction between "generative and discriminative models":generative_vs_discriminative

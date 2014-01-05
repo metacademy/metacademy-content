@@ -1,5 +1,5 @@
 * RBMs can be stacked to build deeper generative models, such as
 ** "deep belief networks":deep_belief_networks
 ** "deep Boltzmann machines":deep_boltzmann_machines
-* RBMs are often used in "generative pre-training":generative_pre_training, where one initializes a discriminative model from a generative one.
+* RBMs are often used in "unsupervised pre-training":unsupervised_pre_training, where one initializes a discriminative model from a generative one.
 * "Persistent contrastive divergence":persistent_contrastive_divergence is a variant on CD which tends to learn better generative models.

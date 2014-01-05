@@ -1,2 +1,2 @@
-* Deep belief nets are commonly used for "generative pre-training":generative_pre_training, where one first trains a generative model, and uses it to initialize a discriminative model.
+* Deep belief nets are commonly used for "unsupervised pre-training":unsupervised_pre_training, where one first trains a generative model, and uses it to initialize a discriminative model.
 * "Deep Boltzmann machines":deep_boltzmann_machines are another closely related deep architecture.

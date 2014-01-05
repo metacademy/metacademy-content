@@ -1,0 +1,4 @@
+* Understand why training a deep neural network discriminatively with backpropagation is difficult.
+* Know how a DBN (or a deep autoencoder) can be converted to a discriminative neural net.
+* Understand the justifications of generative pre-training: that it is supposed to find better local optima and prevent overfitting.
+** What evidence supports these claims?

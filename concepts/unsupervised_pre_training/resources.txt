@@ -1,0 +1,26 @@
+source: coursera_hinton
+location: lecture "The ups and downs of back propagation" [https://class.coursera.org/neuralnets-2012-001/lecture/141]
+location: lecture "Discriminative learning for DBNs" [https://class.coursera.org/neuralnets-2012-001/lecture/153]
+location: lecture "What happens during discriminative fine-tuning?" [https://class.coursera.org/neuralnets-2012-001/lecture/155]
+core: 1
+
+source: bengio_foundations_and_trends
+location: Section 4.2, "The challenge of training deep neural networks," pages 31-39 [#page=34]
+core: 1
+
+resource_type: paper
+title: Reducing the dimensionality of data with neural networks
+authors: Geoffrey Hinton and Ruslan Salakhutdinov
+year: 2006
+url: http://www.sciencemag.org/content/313/5786/504.short
+description: The Science paper that introduce generative pre-training of deep autoencoders.
+
+resource_type: paper
+title: To recognize shapes, first learn to generate images
+authors: Geoffrey Hinton
+year: 2006
+url: http://www.learning.cs.toronto.edu/~hinton/csc321/readings/montrealTR.pdf
+free: 1
+description: The research paper which introduced unsupervised pre-training.
+core: 1
+
