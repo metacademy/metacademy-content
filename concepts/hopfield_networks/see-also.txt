@@ -1,0 +1,2 @@
+* "Boltzmann machines":boltzmann_machines (and in particular, "restricted Boltzmann machines (RBMs)":restricted_boltzmann_machines), are a modern probabilistic analogue of Hopfield nets.
+* The "mean field approximation":mean_field updates in an Ising model have a similar form to Hopfield nets.

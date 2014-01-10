@@ -1,0 +1,1 @@
+* Mean field updates in an Ising model have a similar form to updates in a "Hopfield network":hopfield_networks

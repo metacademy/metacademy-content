@@ -3,3 +3,4 @@
 ** "deep Boltzmann machines":deep_boltzmann_machines
 * RBMs are often used in "unsupervised pre-training":unsupervised_pre_training, where one initializes a discriminative model from a generative one.
 * "Persistent contrastive divergence":persistent_contrastive_divergence is a variant on CD which tends to learn better generative models.
+* "Hopfield networks":hopfield_networks are a classic neural net model of associative memory closely related to RBMs.

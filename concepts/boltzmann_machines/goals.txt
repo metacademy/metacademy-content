@@ -1,0 +1,5 @@
+* Know the definition of a Boltzmann machine (i.e. what distribution it represents)
+* Be able to (approximately) sample from a Boltzmann machine using Gibbs sampling.
+* Derive the fact that the model correlations must match the data correlations at the maximum likelihood solution.
+* Why can it be beneficial to add hidden units to the network?
+* Be aware of the analogies between Boltzmann machine updates and Hopfield network updates.

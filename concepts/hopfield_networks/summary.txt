@@ -1,0 +1,1 @@
+Hopfield networks are a kind of recurrent neural network which implements an associative memory. The behavior of the network can be modeled in terms of minimizing an energy function. 

@@ -1,0 +1,10 @@
+source: mackay
+edition: 1
+location: Chapter 43, "Boltzmann machines," pages 522-526 [523.528.pdf]
+core: 1
+
+source: coursera_hinton
+location: Lecture "Using stochastic units to improve search" [https://class.coursera.org/neuralnets-2012-001/lecture/127]
+location: Lecture "How a Boltzmann machine models data" [https://class.coursera.org/neuralnets-2012-001/lecture/129]
+location: Lecture "Boltzmann machine learning" [https://class.coursera.org/neuralnets-2012-001/lecture/131]
+core: 1

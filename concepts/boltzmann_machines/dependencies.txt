@@ -1,0 +1,11 @@
+tag: hopfield_networks
+reason: Boltzmann machines are a probabilistic version of Hopfield networks.
+
+tag: maximum_likelihood
+reason: Boltzmann machines are trained using maximum likelihood.
+
+tag: gradient
+reason: The gradient is needed for the maximum likelihood update.
+
+tag: gibbs_sampling
+reason: Gibbs sampling can be used to approximately sample from the equilibrium distribution.

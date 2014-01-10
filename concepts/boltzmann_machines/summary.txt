@@ -1,0 +1,1 @@
+Boltzmann machines are a kind of probabilistic neural network used in density modeling. They can be viewed as an MRF with only pairwise connections between units, and where the units are typically binary-valued. Restricted Boltzmann machines (RBMs) are a widely used special case.

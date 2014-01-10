@@ -1,0 +1,6 @@
+* Know the rules for
+** learning the weights of a Hopfield net
+** finding a low energy configuration
+* Understand why the dynamics of the network can be described in terms of an energy function.
+* What happens if you try to store too many memories in a Hopfield net?
+* Know how Hopfield nets can be applied to optimization problems (e.g. image interpretation, Traveling Salesman)

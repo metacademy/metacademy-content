@@ -8,5 +8,6 @@
 * Some examples of MRFs include:
 ** "Undirected trees":tree_graphical_models
 ** "Ising models":ising_models
-** "restricted Boltzmann machines":restricted_boltzmann_machines
+** "Boltzmann machines":boltzmann_machines
+** "restricted Boltzmann machines (RBMs)":restricted_boltzmann_machines
 ** "field of experts":field_of_experts

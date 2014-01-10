@@ -1,0 +1,13 @@
+source: coursera_hinton
+location: Lecture "Hopfield nets" [https://class.coursera.org/neuralnets-2012-001/lecture/121]
+location: Lecture "Dealing with spurious minima" [https://class.coursera.org/neuralnets-2012-001/lecture/123]
+location: Lecture "Hopfield nets with hidden units" [https://class.coursera.org/neuralnets-2012-001/lecture/125]
+core: 1
+note: Skim the introductory networks for a general motivation of neural nets.
+
+source: mackay
+edition: 1
+location: Chapter 42, "Hopfield networks," pages 505-518 [506.522.pdf]
+core: 1
+note: The argument about variational energy and the mathematical analysis of Section 42.7 are optional.
+

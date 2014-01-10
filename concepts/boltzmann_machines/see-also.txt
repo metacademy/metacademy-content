@@ -1,0 +1,2 @@
+* "Restricted Boltzmann machines (RBMs)":restricted_boltzmann_machines are a special case of Boltzmann machines often used in practice.
+* The model distribution can also be approximated using the "mean field approximation":mean_field.
