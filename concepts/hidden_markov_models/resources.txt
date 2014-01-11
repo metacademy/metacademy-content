@@ -1,3 +1,4 @@
+resource_type: tutorial
 title: A Revealing Introduction to Hidden Markov Models
 authors: Mark Stamp
 url: http://www.cs.sjsu.edu/~stamp/RUA/HMM.pdf
@@ -24,6 +25,7 @@ source: aima
 edition: 2
 location: Sections 15.1-15.3, pages 537-551
 
+resource_type: tutorial
 title: A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition
 core: 1
 url: http://people.sabanciuniv.edu/berrin/cs512/reading/rabiner-tutorial-on-hmm.pdf

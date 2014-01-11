@@ -2,7 +2,7 @@ source: mathmonk_ml
 core: 1
 location: Video lecture: Cross-validation (part 1) [http://www.youtube.com/watch?v=m5StqDv-YlM]
 location: Video lecture: Cross-validation (part 2) [http://www.youtube.com/watch?v=OcJwdF8zBjM]
-location  Video lecture: Cross-validation (part 3)  [http://www.youtube.com/watch?v=mvbBycl8BNM]
+location:  Video lecture: Cross-validation (part 3)  [http://www.youtube.com/watch?v=mvbBycl8BNM]
 note: discusses cross validation from a decision-theoretic perspective
 
 source: wikipedia
@@ -11,9 +11,11 @@ location: Article: Cross-validation (statistics) [http://en.wikipedia.org/wiki/C
 core: 1
 
 title: djweissML Video Lectures
-author: David Weiss
+resource_type: video lectures
+authors: David Weiss
 level: introductory
 location: Machine Learning :: Model Selection & Cross Validation [http://www.youtube.com/watch?v=hihuMBCuSlU]
+url: http://www.youtube.com/watch?v=hihuMBCuSlU
 free: 1
 
 
