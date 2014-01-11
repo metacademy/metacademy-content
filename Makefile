@@ -11,7 +11,7 @@ APP_DIR = $(BASE_DIR)/metacademy-application
 
 
 test: | $(APP_DIR)
-	python $(APP_DIR)/content_server/utils.py test
+	cd $(APP_DIR); python content_server/utils.py test
 
 $(APP_DIR):
 	git clone https://github.com/metacademy/metacademy-application.git $(APP_DIR)
