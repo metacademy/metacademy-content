@@ -15,3 +15,4 @@ test: | $(APP_DIR)
 
 $(APP_DIR):
 	git clone https://github.com/metacademy/metacademy-application.git $(APP_DIR)
+	cd $(APP_DIR); cp config-template.py config.py; cp app_server/settings_local-template.py app_server/settings_local.py
