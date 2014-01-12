@@ -1,3 +1,0 @@
-* motivation in terms of selecting the dimensionality
-* model definition
-* tractable approximations to the marginal likelihood

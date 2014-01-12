@@ -1,5 +1,0 @@
-* definition of the model
-* visualization of the prior, evidence, and posterior
-* computing the predictive distribution
-* visualization of the posterior predictive distribution
-* inferring the variance parameters (with the evidence approximation or a conjugate prior)

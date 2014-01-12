@@ -1,0 +1,3 @@
+* Know the form of the Bayesian logistic regression model
+* Be able to estimate the parameters of the model computationally (e.g. with the Laplace approximation or EP)
+* Be able to approximate the predictive distribution computationally (e.g. with sampling or the probit approximation)

@@ -1,6 +1,0 @@
-* basic formulation: minimizing expected loss
-* examples
-** 0-1 loss
-** quadratic loss
-** absolute loss
-** risk aversion

@@ -1,0 +1,3 @@
+* Know the definition of the Bayesian PCA model
+* How can it be used to select the dimension of the latent space?
+* Know of a way to approximate the marginal likelihood (e.g. the evidence approximation)

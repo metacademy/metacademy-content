@@ -1,4 +1,0 @@
-* PMF of the binomial distribution
-* motivation in terms of i.i.d. Bernoullis
-* shape of the distribution (monotonically increases, then decreases)
-* expectation and variance of the distribution

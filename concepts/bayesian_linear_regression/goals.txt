@@ -1,0 +1,5 @@
+* Know the form of the Bayesian linear regression model
+* Visualize the prior, evidence, and posterior
+* Derive the predictive distribution
+* Visualize the posterior predictive distribution
+* Be able to infer the variance parameters (with the evidence approximation or a conjugate prior)

@@ -1,0 +1,5 @@
+* Derive the conjugate priors for three cases:
+** unknown mean, but known variance
+** known mean, but unknown variance
+** unknown mean and unknown variance
+* Derive the posterior distribution and the posterior predictive distribution for each of these cases.

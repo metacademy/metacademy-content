@@ -1,4 +1,0 @@
-* definition of marginal likelihood
-* motivation in terms of Bayes factors
-* Bayesian Occam's razor
-* simple examples (e.g. beta-Bernoulli)

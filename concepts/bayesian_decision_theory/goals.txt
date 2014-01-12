@@ -1,0 +1,5 @@
+* Know how the optimal decision is defined (in terms of minimizing expected loss with respect to the posterior)
+* Derive the form of the estimator for some particular loss functions:
+** 0-1 loss
+** quadratic loss
+** absolute loss

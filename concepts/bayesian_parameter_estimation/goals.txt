@@ -1,0 +1,6 @@
+* Know what the terms "prior" and "likelihood function" refer to
+* Be able to compute the posterior distribution using Bayes' Rule
+* Know what the posterior predictive distribution is and how to compute it analytically for a simple example (e.g. a beta-Bernoulli model)
+* What is a conjugate prior, and why is it useful?
+* Why can the posterior distribution be given in terms of pseudocounts when a conjugate prior is used?
+* What is the maximum a-posteriori (MAP) approximation?  Give an example where the predictions differ between the MAP parameters and the posterior predictive distribution.

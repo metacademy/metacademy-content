@@ -1,3 +1,0 @@
-* Dirichlet distribution
-* how the Dirichlet distribution is conjugate to the multinomial
-* derivation of posterior and posterior predictive distribution

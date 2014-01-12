@@ -1,2 +1,0 @@
-* formula for the criterion
-* derivation in terms of Laplace approximation

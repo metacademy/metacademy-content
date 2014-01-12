@@ -1,0 +1,5 @@
+* Know the statement of Bayes' Rule
+* Be able to use it to combine prior information with evidence
+* Derive Bayes' Rule from the definition of conditional probability
+* Know terminology: prior, posterior
+* Be able to reason intuitively about Bayes' Rule in terms of odds ratios

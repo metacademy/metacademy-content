@@ -1,0 +1,4 @@
+* Know the PMF of the binomial distribution
+* Interpret the distribution in terms of i.i.d. Bernoulli random variables
+* Describe the shape of the distribution
+* Derive the expectation and variance of a binomial random variable

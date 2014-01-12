@@ -1,0 +1,4 @@
+* Know what the marginal likelihood of a model refers to
+* Motivate the marginal likelihood in terms of Bayes factors
+* Understand the basis for the "Bayesian Occam's razor" effect (hint: it's not primarily a result of assigning lower prior probability to models with more parameters, as many people believe)
+* Derive the Bayes factor for a simple example (e.g. a beta-Bernoulli model)

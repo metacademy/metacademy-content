@@ -1,0 +1,1 @@
+* Derive the Baum-Welch algorithm as a special case of EM.

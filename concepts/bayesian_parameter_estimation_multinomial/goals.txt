@@ -1,0 +1,3 @@
+* Know how the Dirichlet distribution is defined and what the parameters represent
+* Know what the Dirichlet-multinomial model is
+* Derive the posterior distribution and posterior predictive distribution

@@ -1,0 +1,5 @@
+* Derive the conjugate priors for the multivariate distribution in three cases:
+** unknown mean, but known covariance
+** known mean, but unknown covariance
+** unknown mean and unknown covariance
+* Derive the posterior distributions for each of these cases.

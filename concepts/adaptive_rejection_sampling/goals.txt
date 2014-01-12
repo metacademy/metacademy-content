@@ -1,0 +1,2 @@
+* Be able to implement the adaptive rejection sampling algorithm.
+* What is the advantage compared to standard rejection sampling?

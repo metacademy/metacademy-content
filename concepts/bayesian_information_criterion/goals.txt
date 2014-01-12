@@ -1,0 +1,3 @@
+* Know the formula for the BIC
+* Derive the formula in terms of the Laplace approximation
+

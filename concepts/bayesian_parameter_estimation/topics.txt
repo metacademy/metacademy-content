@@ -1,8 +1,0 @@
-* notions of prior and likelihood function
-* obtaining the posterior using Bayes' rule
-* posterior predictive distribution
-* conjugacy
-* pseudocounts interpretation of hyperparameters
-* beta-Bernoulli example
-* comparison with MAP estimation
-
