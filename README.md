@@ -1,4 +1,6 @@
-metacademy-content
+[![Build Status](https://travis-ci.org/metacademy/metacademy-content.png)](https://travis-ci.org/metacademy/metacademy-content)
+
+Metacademy's Content Repository
 ============
 
 This repository hosts the learning content for metacademy.org. The content is licensed under the Creative Commons Attribution-ShareAlike 3.0 United States License (see LICENSE.txt). 
