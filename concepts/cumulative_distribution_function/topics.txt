@@ -1,4 +1,0 @@
-* definition of the CDF
-* basic properties (nondecreasing, limits of 0 and 1, right continuous)
-* determining the probability that a variable lies within some range from the CDF
-* recovering probability mass functions and probability density functions from the CDF

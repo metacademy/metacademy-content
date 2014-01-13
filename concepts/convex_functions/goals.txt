@@ -1,0 +1,6 @@
+* Know the definition of a convex function (in multiple dimensions)
+* Know and be able to apply alternative characterizations of convex functions
+** first-order condition (linear approximation lies below the function)
+** second-order condition (second derivative matrix is positive semidefinite)
+* Know some examples of convex functions
+* Why can the value of the function outside its domain be taken to be infinity?

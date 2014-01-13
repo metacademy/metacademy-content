@@ -1,0 +1,2 @@
+* Understand what it means to represent a linear transformation in a basis other than the standard one
+* Be able to convert matrices and vectors between bases algebraically

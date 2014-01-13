@@ -1,2 +1,0 @@
-* definition of a convex set (geometric, and in terms of linear combinations of vectors)
-* common examples of convex sets (e.g. hyperplanes, halfspaces, Euclidean balls)

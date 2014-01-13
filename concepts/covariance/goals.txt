@@ -1,0 +1,6 @@
+* Know the definitions of covariance and correlation
+* Write the covariance in terms of the moments of the distribution
+* Know the Cauchy-Schwartz inequality for covariance (which bounds the covariance in terms of the individual variances)
+* Be able to compute the variance of a linear combination of random variables in terms of their variances and covariances
+* Know that independent random variables have zero covariance
+* Show that variance of a sum of independent random variables is a sum of the variances 

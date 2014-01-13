@@ -1,0 +1,3 @@
+* Know the statement of the central limit theorem
+* Be able to use it to estimate the distribution of a sum of i.i.d. random variables
+* Prove the theorem

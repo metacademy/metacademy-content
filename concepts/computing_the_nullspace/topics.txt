@@ -1,1 +1,0 @@
-* Using Gaussian elimination to compute the basis for the nullspace.

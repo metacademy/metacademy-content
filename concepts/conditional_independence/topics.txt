@@ -1,5 +1,0 @@
-* definition of conditionally independent events and conditionally independent random variables
-* examples to show that conditional independence does not imply independence, and vice versa
-* basic properties
-** if X is independent of A and B, then X is independent of A
-** if X is independent of A and B, then X is conditionally independent of A given B

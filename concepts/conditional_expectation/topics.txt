@@ -1,2 +1,0 @@
-* definition of conditional expectation for discrete and continuous variables
-* law of iterated expectations: E[E[Y | X]] = E[Y]

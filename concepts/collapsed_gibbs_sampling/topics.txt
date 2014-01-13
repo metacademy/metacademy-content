@@ -1,2 +1,0 @@
-* motivation in terms of Rao-Blackwell theorem
-* motivation in terms of faster mixing

@@ -1,0 +1,1 @@
+* Be able to compute probabilities of events using the formulas for the numbers of permutations and combinations.

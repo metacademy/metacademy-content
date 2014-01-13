@@ -1,0 +1,4 @@
+* Know the definition and basic properties of the CDF
+* Be able to use the CDF of a distribution to:
+** determine the probability that a random variable lies in a given range
+** recover the probability mass function or the probability density function

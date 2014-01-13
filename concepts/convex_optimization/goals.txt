@@ -1,0 +1,3 @@
+* Know the definition of a convex optimization problem
+* Be aware that all local optima to a convex optimization problem are globally optimal
+* Know and be able to apply the first-order optimality condition for the unconstrained case (i.e. the gradient being zero)

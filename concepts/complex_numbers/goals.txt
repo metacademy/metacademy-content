@@ -1,0 +1,6 @@
+* Be able to add, multiply, and divide complex numbers, and raise them to powers
+* Know the definitions of
+** complex conjugate
+** norm (or absolute value) of a complex number
+* Why can't i and -i be distinguished?
+* Be able to work with the polar representation of complex numbers

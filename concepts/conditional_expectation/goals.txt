@@ -1,0 +1,2 @@
+* Know the definitions of conditional expectation for both discrete and continuous random variables
+* Know and be able to apply the law of iterated expectations

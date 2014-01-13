@@ -1,0 +1,4 @@
+* Know how convex sets are defined, both
+** geometrically (line segments lie within the set)
+** algebraically (in terms of linear combinations of vectors)
+* Know some common examples of convex sets (e.g. hyperplanes, halfspaces, Euclidean balls)

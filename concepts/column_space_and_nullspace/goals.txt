@@ -1,0 +1,3 @@
+* Know the definitions of column space and null space
+* Show that the column space and null space are subspaces
+* Show that Ax = b is solvable iff b is in the column space of A

@@ -1,0 +1,4 @@
+* Be able to derive the update rules for collapsed Gibbs sampling
+* Be aware of the motivations in terms of:
+** greater statistical efficiency (from the Rao-Blackwell theorem)
+** faster mixing

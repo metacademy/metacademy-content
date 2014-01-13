@@ -1,2 +1,0 @@
-* statement and proof of the Central Limit Theorem
-* using it to estimate the distribution of a sum of random variables

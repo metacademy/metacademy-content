@@ -1,0 +1,4 @@
+* Give the general statement of Chernoff bounds in terms of moment generating functions
+* Derive the bound using Markov's inequality
+* Be able to use it to bound probabilities of extreme values
+* When would you use the Chernoff bound vs. the Chebyshev bound?

@@ -1,2 +1,0 @@
-* definition of conditional probability
-* multiplication rule for conditional probability (i.e. expressing the joint probability as a product of conditional probabilities)

@@ -1,0 +1,3 @@
+* Know the definitions of the conditional distribution for both discrete and continuous random variables
+* For continuous random variables, why isn't it mathematically rigorous to condition on an event of probability zero?
+* Know how the joint distribution of a set of random variables decomposes as a product of conditional distributions

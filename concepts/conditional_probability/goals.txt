@@ -1,0 +1,3 @@
+* Know the definition of conditional probability
+* Know how the joint probability of a configuration of random variables decomposes as a product of the conditional probabilities
+

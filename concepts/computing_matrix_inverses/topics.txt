@@ -1,1 +1,0 @@
-* using Gaussian elimination to compute the inverse.

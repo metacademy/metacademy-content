@@ -1,0 +1,4 @@
+* Know the definition and basic properties of the cross product 
+* Know the "right-hand rule" for cross products
+* Know the formula for the cross product in terms of the lengths of two vectors and the angle between them.
+* Be able to compute the volume of a prism using the dot product and cross product

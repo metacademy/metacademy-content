@@ -1,5 +1,0 @@
-* definition of a convex optimization problem
-* that all local optima are globally optimal
-* first-order optimality criterion for unconstrained case (gradient is zero)
-
-

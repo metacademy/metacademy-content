@@ -1,5 +1,0 @@
-* adding, multiplying, dividing complex numbers, and raising them to powers
-* complex conjugate
-* why i and -i can't be distinguished
-* polar representation
-* absolute value of complex numbers
