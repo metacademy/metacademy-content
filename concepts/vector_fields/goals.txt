@@ -1,0 +1,3 @@
+* Understand what a vector field is
+* Know some common examples (gradients of functions, force fields, velocity fields)
+* Be able to visualize vector fields graphically

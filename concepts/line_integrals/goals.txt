@@ -1,0 +1,4 @@
+* Be able to compute line integrals of vector fields with respect to curves
+* Be able to express the line integral in terms of the arc length parameterization, or in terms of an arbitrary parameterization
+* Why does the line integral of a vector field depend on the orientation of a curve?
+* Be aware that the line integrals are independent of the parameterization of a path, for a given orientation

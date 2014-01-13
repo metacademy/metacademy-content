@@ -1,0 +1,18 @@
+source: edwards_penney
+edition: 6
+location: Section 15.2, "Line integrals," pages 1019-1028
+core: 1
+
+source: ocw_auroux
+location: Session 57, "Work and line integrals" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/]
+location: Session 58, "Geometric approach" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-58-geometric-approach/]
+location: Session 59, "Example: line integrals for work" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-59-example-line-integrals-for-work/]
+core: 1
+
+source: shifrin
+edition: 1
+location: Section 8.3, "Line integrals and Green's Theorem," not counting subsections, pages 348-351
+dependencies: differential_forms, exterior_derivative
+core: 1
+note: This gives a more rigorous treatment than the other resources.
+

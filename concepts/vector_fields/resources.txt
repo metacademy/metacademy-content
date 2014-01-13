@@ -1,0 +1,11 @@
+source: ocw_auroux
+location: Session 56, "Vector fields" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-56-vector-fields/]
+location: Session 79, "Vector fields in space" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-79-vector-fields-in-space/]
+core: 1
+
+source: edwards_penney
+edition: 6
+location: Section 15.1, "Vector fields," pages 1014-1018
+dependencies: partial_derivatives
+core: 1
+

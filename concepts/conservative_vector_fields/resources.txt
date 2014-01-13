@@ -1,0 +1,19 @@
+source: ocw_auroux
+location: Session 60, "Fundamental theorem for line integrals" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-60-fundamental-theorem-for-line-integrals/]
+location: Session 61, "Conservative fields, path independence, exact differentials" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-61-conservative-fields-path-independence-exact-differentials/]
+location: Session 62, "Gradient fields" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields/]
+location: Section 63, "Potential functions" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/]
+core: 1
+
+source: edwards_penney
+edition: 6
+location: Section 15.3, "The Fundamental Theorem and independence of path," pages 1030-1036
+core: 1
+
+source: shifrin
+edition: 1
+location: Section 8.3.1, "The Fundamental Theorem of Calculus for line integrals," pages 351-353
+location: Section 8.3.2, "Finding a potential function," pages 353-357
+dependencies: differential_forms, exterior_derivative
+core: 1
+note: This resource gives a more formal treatment than the others.

@@ -1,0 +1,1 @@
+A vector field is a function associating a vector with each point. Common examples include flow fields, force fields, and gradients of functions.

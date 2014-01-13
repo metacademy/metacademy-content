@@ -1,0 +1,8 @@
+* Know the Fundamental Theorem of Calculus for line integrals
+* Know what a conservative vector field is and why it is useful
+* Show the equivalence of two definitions of a conservative vector field:
+** can be expressed as the gradient of a function
+** line integrals are independent of the path
+* Know the definition of the curl of a vector field
+* Be able to tell if a vector field is conservative by determining if the curl is 0
+* Be able to determine the potential function for a conservative vector field

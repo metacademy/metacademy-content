@@ -1,0 +1,7 @@
+tag: vector_fields
+
+tag: line_integrals
+reason: Line integrals are independent of the path for a conservative vector field.
+
+tag: gradient
+reason: Conservative vector fields are gradients of functions.

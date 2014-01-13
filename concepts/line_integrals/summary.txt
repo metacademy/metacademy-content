@@ -1,0 +1,1 @@
+The line integral gives a notion of integrating a vector field along a curve. Common uses include computing work done by a force and finding potential functions corresponding to a gradient field.

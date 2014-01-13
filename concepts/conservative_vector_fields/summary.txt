@@ -1,0 +1,1 @@
+A vector field is conservative if it can be expressed as the gradient of a function (called the potential function), or equivalently, if all line integrals are path independent. The notion is useful because dynamical systems are easier to analyze if they can be described in terms of a potential function. 
