@@ -1,0 +1,5 @@
+source: shifrin
+edition: 1
+location: Section 2.2, "Differential forms on R^n and the exterior derivative," pages 339-341
+core: 1
+

@@ -1,0 +1,1 @@
+Pullback is a mathematical operator which represents functions or differential forms on one space in terms of the corresponding object on another space. They are used to define surface integrals of differential forms.

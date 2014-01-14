@@ -1,0 +1,1 @@
+Differential forms are multilinear functions on vector fields which satisfy certain properties analogous to determinants. They are used to define a notion of integration on manifolds.

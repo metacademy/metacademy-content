@@ -1,0 +1,3 @@
+* Define the exterior derivative of a function and of a differential form
+* Show that d(dw) = 0 for any differential form w
+* Be able to manipulate exterior derivatives algebraically

@@ -1,0 +1,4 @@
+source: shifrin
+edition: 1
+location: Section 8.2.3, "Pullback," pages 342-345
+core: 1

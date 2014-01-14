@@ -12,7 +12,7 @@ core: 1
 source: shifrin
 edition: 1
 location: Section 8.3, "Line integrals and Green's Theorem," not counting subsections, pages 348-351
-dependencies: differential_forms, exterior_derivative
+dependencies: differential_forms, exterior_derivative, pullback
 core: 1
 note: This gives a more rigorous treatment than the other resources.
 

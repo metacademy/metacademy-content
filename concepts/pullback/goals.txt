@@ -1,0 +1,4 @@
+* Define the pullback of a function and of a differential form
+* Show that the pullback commutes with the exterior derivative
+* Be able to manipulate pullback, wedge products, and the exterior derivative algebraically
+* Define the surface integral of a differential form in terms of pullback

@@ -1,0 +1,5 @@
+source: shifrin
+edition: 1
+location: Section 8.2.1, "The multilinear setup," pages 335-339
+location: Section 8.2.2, "Differential forms on R^n and the exterior derivative," up to Proposition 2.2, pages 339-340
+core: 1

@@ -1,0 +1,4 @@
+* Define differential forms in terms of multilinear functions on a vector space
+* Show that differential forms can be represented in terms of determinants of submatrices
+* Define the wedge product of differential forms
+* Be able to manipulate the wedge product algebraically

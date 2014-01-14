@@ -1,0 +1,11 @@
+tag: differential_forms
+reason: Pullback operates on differential forms.
+
+tag: exterior_derivative
+reason: Pullback commutes with the exterior derivative.
+
+tag: chain_rule
+reason: The pullback of a differential is given by the chain rule.
+
+tag: eval_multi_int_change_of_variables
+reason: When surface integrals are defined in terms of pullback, this is a generalization of the change of variables formula.

@@ -1,0 +1,1 @@
+The exterior function is a generalization of the differential of a function to differential forms. It appears in the statement of Stokes's Theorem for manifolds.
