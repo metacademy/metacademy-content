@@ -1,0 +1,19 @@
+source: edwards_penney
+edition: 6
+location: Section 15.1, "Vector fields," subsections "The divergence of a vector field" and "The curl of a vector field," pages 1016-1018
+location: Section 15.4, "Green's Theorem," pages 1037-1045
+core: 1
+
+source: ocw_auroux
+location: Session 65, "Green's Theorem" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem/]
+location: Session 66, "Curl(F) = 0 implies conservative" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-66-curl-f-equals-0-implies-conservative/]
+location: Session 67, "Proof of Green's Theorem" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-67-proof-of-greens-theorem/]
+location: Session 69, "Flux in 2D' [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-69-flux-in-2d/]
+location: Session 70, "Normal form of Green's theorem" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-70-normal-form-of-greens-theorem/]
+core: 1
+
+source: shifrin
+edition: 1
+location: Section 8.3.3, "Green's Theorem," pages 358-362
+core: 1
+dependencies: differential_forms, exterior_derivative

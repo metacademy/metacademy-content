@@ -1,0 +1,9 @@
+* Know the definitions of curl and divergence
+* Prove two versions of Green's Theorem:
+** relating line integrals to curl
+** relating flux to divergence
+* Be able to apply Green's Theorem to compute:
+** the area of a closed region
+** line integrals
+** flux across a curve
+* Use Green's Theorem to show that conservative vector fields have zero curl
