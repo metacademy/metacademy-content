@@ -1,0 +1,13 @@
+tag: surface_integrals
+reason: Stokes' Theorem is a theorem about surface integrals.
+
+tag: line_integrals
+reason: Stokes' Theorem is a theorem about line integrals.
+
+tag: greens_theorem
+reason: Stokes' Theorem is a generalization of Green's Theorem.
+shortcut: 1
+
+tag: determinant
+reason: The determinant is used as a mnemonic for the definition of curl.
+shortcut: 1

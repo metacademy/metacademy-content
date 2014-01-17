@@ -1,0 +1,1 @@
+A surface integral is the integral of a function over a surface. Important cases include surface area and flux, where the function is the dot product of the surface normal with a vector field.

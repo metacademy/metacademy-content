@@ -1,0 +1,12 @@
+source: ocw_auroux
+location: Session 89, "Gradient fields and potential functions" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-89-gradient-fields-and-potential-functions/]
+location: Session 91, "Stokes' Theorem" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-91-stokes-theorem/]
+location: Session 92, "Proof of Stokes' Theorem" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-92-proof-of-stokes-theorem/]
+location: Session 93, "Example" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-93-example/]
+core: 1
+
+source: edwards_penney
+edition: 6
+location: Section 15.7, "Stokes' Theorem," pages 1065-1070
+core: 1
+

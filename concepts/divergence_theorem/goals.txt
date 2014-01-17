@@ -1,0 +1,5 @@
+* Know the definition of divergence
+* Know the statement of the Divergence Theorem in three dimensions
+* Prove the Divergence Theorem in three dimensions
+* Be able to apply the Divergence Theorem to calculate flux across a surface
+

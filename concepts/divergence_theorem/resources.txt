@@ -1,0 +1,10 @@
+source: ocw_auroux
+location: Session 84, "Divergence Theorem" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/]
+location: Session 86, "Proof of the Divergence Theorem" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-86-proof-of-the-divergence-theorem/]
+core: 1
+
+source: edwards_penney
+edition: 6
+location: Section 15.6, "The Divergence Theorem," pages 1057-1063
+core: 1
+

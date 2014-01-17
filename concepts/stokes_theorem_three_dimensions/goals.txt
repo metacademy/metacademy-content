@@ -1,0 +1,4 @@
+* Know the definition of curl in three dimensions
+* Know the statement of Stokes' Theorem (in three dimensions)
+* Prove Stokes' Theorem (in three dimensions)
+* Be able to use Stokes' Theorem to compute line integrals and surface integrals

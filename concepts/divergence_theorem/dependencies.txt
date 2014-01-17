@@ -1,0 +1,8 @@
+tag: surface_integrals
+reason: The Divergence Theorem is a theorem about surface integrals.
+
+tag: partial_derivatives
+reason: The definition of divergence includes partial derivatives.
+
+tag: multiple_integrals
+reason: The Divergence Theorem includes a triple integral.

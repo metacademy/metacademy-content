@@ -1,0 +1,18 @@
+source: ocw_auroux
+location: Session 80, "Flux through a surface" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface/]
+location: Session 81, "Calculating flux; finding ndS" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds/]
+location: Session 82, "ndS for a surface z = f(x, y)" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-82-nds-for-a-surface-z-f-x-y/]
+location: Session 83, "Other ways to find ndS" [http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-83-other-ways-to-find-nds/]
+core: 1
+
+source: edwards_penney
+edition: 6
+location: Section 15.5, "Surface integrals," pages 1047-1055
+core: 1
+
+source: shifrin
+edition: 1
+location: Section 8.4, "Surface integrals and flux," pages 367-375
+dependencies: differential_forms, pullback, determinant
+note: This presents a more rigorous treatment than the other resources.
+

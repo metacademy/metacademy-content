@@ -1,0 +1,2 @@
+The Divergence Theorem is a theorem relating the flux across a surface to the integral of the divergence over the interior. It can be seen as a three-dimensional generalization of Green's Theorem.
+

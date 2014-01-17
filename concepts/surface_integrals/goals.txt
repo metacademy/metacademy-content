@@ -1,0 +1,5 @@
+* Know the definition of a surface integral in three dimensions.
+* Be able to integrate a function over a surface in three dimensions.
+* As a special case, be able to compute surface area.
+* Be able to compute the flux across a surface in three dimensions.
+* Derive the formula for a surface integral for a surface given as z = f(x, y).

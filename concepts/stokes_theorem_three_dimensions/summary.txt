@@ -1,0 +1,2 @@
+Stokes' Theorem is a theorem relating a line integral along the boundary of a surface to the integral of curl over the surface. It can be seen as a three-dimensional generalization of Green's Theorem.
+
