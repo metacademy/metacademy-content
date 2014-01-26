@@ -16,3 +16,16 @@ source: mackay
 edition: 1
 location: Chapter 20, "An example inference task: clustering," pages 284-290 [286.294.pdf]
 core: 1
+
+title: K-Means Clustering and Related Algorithms
+authors: Ryan P. Adams
+url: http://isites.harvard.edu/fs/docs/icb.topic1362125.files/kmeans.pdf
+core: 1
+free: 1
+level: advanced undergraduate
+
+title: Visualizing K-Means Clustering
+authors: Naftali Harris
+free: 1
+note: provides an interactive visualization of the k-means algorithm for various datasets
+level: reference

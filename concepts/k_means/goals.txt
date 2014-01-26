@@ -1,0 +1,7 @@
+* What objective function does the k-means algorithm minimize?
+* What happens during the two stages of each k-means iteration?
+* Is it possible that the k-means algorithm increases the objective function in a full iteration?
+* What are some scenarios in which k-means gets stuck in poor local optima?
+** What are some general techniques to overcome these scenarios?
+* What are some techniques for choosing the initial points of the clusters?
+* What are some techniques for choosing the number of clusters?

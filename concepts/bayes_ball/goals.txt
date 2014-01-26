@@ -1,3 +1,3 @@
-* Memorize the five Bayes ball "bouncing rules" for unobserved/unconditioned nodes and realize that the rules are exact oposites for observed/conditioned nodes (in total, there are ten rules).
-** You should be able to prove the bouncing rules using the definition of conditional probability.
-* Understand how "marking" the nodes depending on the direction the ball is traveling when visiting the node can lead to a linear-time algorithm for determining the [conditional] independencies in a Bayes net.
+* Memorize the ten Bayes' ball "bouncing rules" (noting symmetries makes this easy).
+* You should be able to prove the validity of the bouncing rules using the definition of conditional probability.
+* Understand how "marking" the nodes depending on the direction the ball is traveling when visiting the node leads to a linear-time algorithm for determining the [conditional] independencies in a Bayes net.
