@@ -1,15 +1,39 @@
+resource_type: lecture notes
+authors: Alexandra Laflamme
+level: advanced undergraduate
+year: 2006
+title: Scribe notes for "Computational Inference" course
+location: Sections 2: Bayes Ball algorithm [http://www.math.uwaterloo.ca/~aghodsib/courses/w05stat440/w05stat440-notes/jan11.pdf#page=4]
+core: 1
+free: 1
+note: these notes do not explicitly discuss the dynamic programming aspect of the algorithm
+
 source: pgm
 edition: 1
 location: Section 3.3.3, pages 74-76
 
 resource_type: paper
 authors: Ross Shachter
+level: advanced undergraduate
 title: Bayes-ball: rational pastime (for determining irrelevance and requisite information in belief networks and influence diagrams)
-url: http://arxiv.org/pdf/1301.7412.pdf
+url: http://mlg.eng.cam.ac.uk/zoubin/course03/BayesBall.pdf
 free: 1
 location: Sections 1-3
 core: 1
 
+resource_type: tutorial video
+title: Baye's Ball Rules: Tips for Remembering the Rules
+authors: Colorado Reed
+url: http://www.youtube.com/watch?v=jgt0G2PkWl0
+free: 1
+
 source: murphy
 edition: 1
 location: Section 10.5.1, pages 324-326
+
+resource_type: lecture slide
+authors: Mark Paskin
+location: slide 22 [http://ai.stanford.edu/~paskin/gm-short-course/lec2.pdf#page22]
+title: A Short Course on Graphical Models
+free: 1
+note: slide 22 provides a "cheat sheet" for the Bayes ball rules
