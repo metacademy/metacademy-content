@@ -1,3 +1,16 @@
+title: Visualizing K-Means Clustering
+authors: Naftali Harris
+free: 1
+note: provides an interactive visualization of the k-means algorithm for various datasets
+resource_type: interactive demonstration
+url: http://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+title: StackOverflow Question: Kmeans without knowing the number of clusters?
+resource_type: forum
+free: 1
+url: http://stackoverflow.com/questions/1793532/how-do-i-determine-k-when-using-k-means-clustering
+note: the top answer provides a good set of links that dig into the question "how many clusters should I use?" (NB: this question is a Pandora's box)
+
 source: bishop
 edition: 1
 location: Section 9.1, pages 424-430
@@ -23,9 +36,4 @@ url: http://isites.harvard.edu/fs/docs/icb.topic1362125.files/kmeans.pdf
 core: 1
 free: 1
 level: advanced undergraduate
-
-title: Visualizing K-Means Clustering
-authors: Naftali Harris
-free: 1
-note: provides an interactive visualization of the k-means algorithm for various datasets
-level: reference
+resource_type: tutorial paper
