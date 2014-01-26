@@ -3,7 +3,8 @@ authors: Alexandra Laflamme
 level: advanced undergraduate
 year: 2006
 title: Scribe notes for "Computational Inference" course
-location: Sections 2: Bayes Ball algorithm [http://www.math.uwaterloo.ca/~aghodsib/courses/w05stat440/w05stat440-notes/jan11.pdf#page=4]
+location: Sections 2: Bayes Ball algorithm
+url: http://www.math.uwaterloo.ca/~aghodsib/courses/w05stat440/w05stat440-notes/jan11.pdf#page=4
 core: 1
 free: 1
 note: these notes do not explicitly discuss the dynamic programming aspect of the algorithm
@@ -33,7 +34,8 @@ location: Section 10.5.1, pages 324-326
 
 resource_type: lecture slide
 authors: Mark Paskin
-location: slide 22 [http://ai.stanford.edu/~paskin/gm-short-course/lec2.pdf#page22]
+location: slide 22
+url: http://ai.stanford.edu/~paskin/gm-short-course/lec2.pdf#page22
 title: A Short Course on Graphical Models
 free: 1
 note: slide 22 provides a "cheat sheet" for the Bayes ball rules
