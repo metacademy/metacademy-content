@@ -23,6 +23,7 @@ specific_url_base: http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
 location: Section 2, "Complementary priors," pages 2-3 [#page=2]
 location: Section 4, "A greedy learning algorithm for transforming representations," pages 5-6 [#page=5]
 level: expert
+free: 1
 description: The research paper which introduced layerwise training of DBNs.
 core: 1
 
