@@ -1,3 +1,9 @@
+title: StatisticsFun YouTube Video
+location: Video: How to Calculate Conditional Probability [https://www.youtube.com/watch?v=H02B3aMNKzE]
+core: 1
+free: 1
+authors: David Longstreet
+
 source: feller
 edition: 2
 location: Section 5.1, "Conditional probability," pages 104-107
