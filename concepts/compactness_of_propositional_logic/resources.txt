@@ -1,0 +1,4 @@
+source: enderton
+edition: 2
+location: Section 1.7, "Compactness and effectiveness," subsection "Compactness," pages 59-60
+core: 1

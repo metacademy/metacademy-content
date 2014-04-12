@@ -1,0 +1,8 @@
+source: coursera_genesereth
+location: Lecture sequence "Propositional proofs" [https://class.coursera.org/intrologic-004/lecture/14]
+core: 1
+
+source: coursera_renstall_pt1
+location: Lecture sequence "Proofs for propositional logic" [https://class.coursera.org/logic1-001/lecture/37]
+core: 1
+

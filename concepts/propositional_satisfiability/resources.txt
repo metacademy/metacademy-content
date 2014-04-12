@@ -1,0 +1,4 @@
+source: coursera_genesereth
+location: Lecture "Propositional satisfiability" [https://class.coursera.org/intrologic-004/lecture/44]
+core: 1
+

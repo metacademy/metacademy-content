@@ -656,3 +656,35 @@ specific_url_base: http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf
 level: expert
 resource_type: review paper
 description: A review paper on deep learning techniques written by one of the leaders in the field.
+
+key: enderton
+resource_type: textbook
+title: A Mathematical Introduction to Logic
+authors: Herbert B. Enderton
+edition_years: 1972, 2001
+free: 0
+url: http://www.amazon.com/Mathematical-Introduction-Logic-Second-Edition/dp/0122384520
+description: An undergraduate textbook in mathematical logic, with proofs.
+
+key: coursera_genesereth
+resource_type: online course
+authors: Michael Genesereth
+title: Coursera: Introduction to Logic
+year: 2014
+url: https://www.coursera.org/course/intrologic
+specific_url_base: https://class.coursera.org/intrologic-004/lecture
+free: 1
+extra: Click on "Preview" to see the videos.
+description: An introductory logic course geared towards computer scientists.
+
+key: coursera_renstall_pt1
+resource_type: online course
+authors: Greg Restall and Jen Davoren
+title: Coursera: Logic: Language and Information
+year: 2014
+url: https://class.coursera.org/logic1-001
+free: 1
+requires_signup: 1
+description: An introductory logic course geared towards philosophers.
+
+

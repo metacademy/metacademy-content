@@ -1,0 +1,6 @@
+* understand the meanings of the propositional connectives AND, OR, NOT, and IMPLIES
+* be able to evaluate the truth value of a propositional formula given the truth values of the variables
+* be aware of ways in which IMPLIES does not correspond to our intuitive notions of implication
+* be able to manipulate propositional formulas (e.g. with distributive laws, de Morgan’s laws)
+* be able to define mathematically: a truth assignment, whether a formula is satisfied
+* define what it means for one set of formulas to tautologically imply another

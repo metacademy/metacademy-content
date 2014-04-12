@@ -1,0 +1,4 @@
+tag: propositional_logic
+
+tag: countable_sets
+reason: The proof of the Compactness Theorem makes use of countability.
