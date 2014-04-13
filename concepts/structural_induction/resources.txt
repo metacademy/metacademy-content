@@ -1,0 +1,9 @@
+source: enderton
+edition: 2
+location: Section 1.4, "Induction and recursion," subsection "Induction," pages 34-38
+core: 1
+
+source: coursera_genesereth
+location: Lecture sequence "Induction" [https://class.coursera.org/intrologic-004/lecture/58]
+core: 1
+

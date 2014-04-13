@@ -1,0 +1,4 @@
+* What does it mean for two sets to have the same cardinality, and why is this an equivalence relation?
+* Define countability.
+* Be able to prove that sets are countable.
+* Prove that the set of real numbers is not countable.
