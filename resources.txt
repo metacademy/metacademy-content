@@ -687,4 +687,21 @@ free: 1
 requires_signup: 1
 description: An introductory logic course geared towards philosophers.
 
+key: barwise_etchemendy_fol
+resource_type: textbook
+authors: Jon Barwise and John Etchemendy
+title: The Language of First-Order Logic
+edition_years: 1991, 1992, 1993
+url: http://www.amazon.com/The-Language-First-Order-Logic-IBM-compatible/dp/0937073903
+free: 0
+description: An undergraduate logic textbook aimed at philosophers, with an educational software package.
+
+key: brachman_levesque
+resource_type: textbook
+authors: Ronald J. Brachman and Hector J. Levesque
+title: Knowledge Representation and Reasoning
+edition_years: 2004
+url: http://www.amazon.com/Knowledge-Representation-Reasoning-Artificial-Intelligence/dp/1558609326
+free: 0
+description: An introductory textbook on knowledge representation.
 

@@ -1,0 +1,29 @@
+source: enderton
+edition: 2
+location: Section 2.0, "Preliminary remarks," pages 67-69
+location: Section 2.1, "First-order languages," pages 69-79
+core: 1
+
+source: barwise_etchemendy_fol
+edition: 3
+location: Chapter 5, "Introduction to quantification," up through Section 5.9, "Logical equivalences involving negation and quantifiers," pages 115-134
+location: Chapter 6, "Sentences with more than one quantifier," up through Section 6.2, "Mixed quantifiers," pages 154-159
+core: 1
+
+source: aima
+edition: 2
+location: Section 8.2, "Syntax and semantics of first-order logic," pages 245-253
+location: Section 8.3, "Using first-order logic," pages 253-260
+core: 1
+extra: See Section 7.2 for a description of the Wumpus World.
+
+source: coursera_genesereth
+location: Lecture sequence "Relational logic" [https://class.coursera.org/intrologic-004/lecture/24]
+core: 1
+extra: This actually covers relational logic, but at the level of this concept node, most of the ideas are the same.
+
+source: brachman_levesque
+edition: 1
+location: Chapter 2, "The language of first-order logic," pages 15-30
+core: 0
+# doesn't cover rules for manipulating expressions

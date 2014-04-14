@@ -1,0 +1,1 @@
+First-order logic refers to a class of formal languages which include the propositional connectives, quantifiers, functions, and predicates. It underlies many automated reasoning systems and can be used to define various formalizations of mathematics, such as Peano arithmetic, and Zermelo-Frankl set theory.

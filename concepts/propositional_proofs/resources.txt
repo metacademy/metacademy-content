@@ -6,3 +6,12 @@ source: coursera_renstall_pt1
 location: Lecture sequence "Proofs for propositional logic" [https://class.coursera.org/logic1-001/lecture/37]
 core: 1
 
+source: barwise_etchemendy_fol
+location: Section 3.8, "Methods of proof," pages 58-66
+location: Section 3.9, "Formal proofs," pages 66-82
+location: Section 4.4, "Methods of proof," pages 99-104
+location: Section 4.5, "Formal proofs," pages 104-108
+location: Section 4.6, "Speeding up proofs," pages 108-112
+core: 1
+
+

@@ -1,0 +1,2 @@
+tag: propositional_logic
+reason: First-order logic includes the propositional connectives.

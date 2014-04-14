@@ -1,0 +1,3 @@
+The semantics of a first-order language is defined in terms of mathematical structures which give the meanings of all the constants, functions, and predicates in the language. In particular, one can recursively define a function which evaluates, given a structure and a first-order sentence, whether the structure satisfies the sentence. If all structures satisfying a set A of sentences also satisfy another set B of sentences, then A logically implies B.
+
+

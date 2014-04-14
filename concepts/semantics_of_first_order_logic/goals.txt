@@ -1,0 +1,2 @@
+* define what it means for a mathematical structure to satisfy (or be a model of) a set of first-order sentences
+* define what it means for one set of first-order sentences to logically entail another
