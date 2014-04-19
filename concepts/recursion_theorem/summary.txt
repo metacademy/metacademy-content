@@ -1,0 +1,1 @@
+Many mathematical objects, such as natural numbers, lists, and trees, are defined recursively in terms of basic components and composition rules. The Recursion Theorem shows that functions defined recursively on such objects are well-defined.

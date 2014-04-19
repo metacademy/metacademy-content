@@ -1,0 +1,4 @@
+source: wikipedia
+location: Article "Countable set" [http://en.wikipedia.org/wiki/Countable_set]
+location: Article: "Cantor's diagonal argument" [http://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument]
+core: 1

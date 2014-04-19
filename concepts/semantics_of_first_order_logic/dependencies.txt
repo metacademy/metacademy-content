@@ -1,0 +1,7 @@
+tag: first_order_logic
+
+tag: propositional_logic
+reason: The semantics for FOL includes the semantics for propositional logic.
+
+tag: recursion_theorem
+reason: The Recursion Theorem is needed to define the semantics.

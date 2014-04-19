@@ -1,0 +1,5 @@
+* know the meanings of existential and universal quantifiers
+* be able to manipulate expressions containing quantifiers
+* be able to express simple statements of arithmetic and set theory in FOL
+* be able to determine if a variable occurs free in an expression
+* understand the semantics of FOL at an informal level

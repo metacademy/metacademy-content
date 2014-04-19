@@ -1,0 +1,1 @@
+The Compactness Theorem of propositional logic states that if a given set of propositional sentences is contradictory, then there is also some finite subset which is contradictory.

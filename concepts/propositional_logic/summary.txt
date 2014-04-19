@@ -1,0 +1,1 @@
+Propositional logic is a logical formalism where the variables correspond to atomic sentences which are either true or false. Formulas are constructed using the connectives AND, OR, NOT, and IMPLIES. The semantics can be defined in terms of "truth tables," or equivalently boolean functions. 

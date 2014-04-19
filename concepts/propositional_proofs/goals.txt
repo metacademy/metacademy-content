@@ -1,0 +1,5 @@
+* understand the difference between formal and informal proofs
+* be able to prove tautologies in a formal propositional proof system
+* know what it means for a proof system to be sound and complete
+* prove the soundness of a propositional proof system
+* prove the completeness of a propositional proof system

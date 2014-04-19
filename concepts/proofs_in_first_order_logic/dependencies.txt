@@ -1,0 +1,4 @@
+tag: first_order_logic
+
+tag: propositional_proofs
+reason: The reasoning steps for propositional logic are included in the reasoning steps for FOL.

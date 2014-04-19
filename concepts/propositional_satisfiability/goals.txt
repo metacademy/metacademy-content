@@ -1,0 +1,3 @@
+* define the propositional satisfiability (SAT) problem
+* give a brute force algorithm in terms of truth tables
+* show that it suffices to consider inputs in conjunctive normal form

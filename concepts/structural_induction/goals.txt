@@ -1,0 +1,3 @@
+* be able to define a mathematical structure (e.g. the natural numbers) in terms of initial elements and operators
+* know the Induction Principle, which lets us perform mathematical induction on such structures
+* prove the correctness of the Induction Principle

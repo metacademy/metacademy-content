@@ -656,3 +656,52 @@ specific_url_base: http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf
 level: expert
 resource_type: review paper
 description: A review paper on deep learning techniques written by one of the leaders in the field.
+
+key: enderton
+resource_type: textbook
+title: A Mathematical Introduction to Logic
+authors: Herbert B. Enderton
+edition_years: 1972, 2001
+free: 0
+url: http://www.amazon.com/Mathematical-Introduction-Logic-Second-Edition/dp/0122384520
+description: An undergraduate textbook in mathematical logic, with proofs.
+
+key: coursera_genesereth
+resource_type: online course
+authors: Michael Genesereth
+title: Coursera: Introduction to Logic
+year: 2014
+url: https://www.coursera.org/course/intrologic
+specific_url_base: https://class.coursera.org/intrologic-004/lecture
+free: 1
+extra: Click on "Preview" to see the videos.
+description: An introductory logic course geared towards computer scientists.
+
+key: coursera_renstall_pt1
+resource_type: online course
+authors: Greg Restall and Jen Davoren
+title: Coursera: Logic: Language and Information
+year: 2014
+url: https://class.coursera.org/logic1-001
+free: 1
+requires_signup: 1
+description: An introductory logic course geared towards philosophers.
+
+key: barwise_etchemendy_fol
+resource_type: textbook
+authors: Jon Barwise and John Etchemendy
+title: The Language of First-Order Logic
+edition_years: 1991, 1992, 1993
+url: http://www.amazon.com/The-Language-First-Order-Logic-IBM-compatible/dp/0937073903
+free: 0
+description: An undergraduate logic textbook aimed at philosophers, with an educational software package.
+
+key: brachman_levesque
+resource_type: textbook
+authors: Ronald J. Brachman and Hector J. Levesque
+title: Knowledge Representation and Reasoning
+edition_years: 2004
+url: http://www.amazon.com/Knowledge-Representation-Reasoning-Artificial-Intelligence/dp/1558609326
+free: 0
+description: An introductory textbook on knowledge representation.
+

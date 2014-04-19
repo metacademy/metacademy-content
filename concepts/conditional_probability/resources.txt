@@ -1,3 +1,18 @@
+title: Visual Conditional Probability Explanation
+location: http://setosa.io/conditional/ [http://setosa.io/conditional/]
+free: 1
+authors: Victor Powell
+resource_type: visualization and text
+url: http://setosa.io/conditional/
+
+title: StatisticsFun YouTube Video
+location: Video: How to Calculate Conditional Probability [https://www.youtube.com/watch?v=H02B3aMNKzE]
+core: 1
+free: 1
+authors: David Longstreet
+resource_type: video
+url: https://www.youtube.com/watch?v=H02B3aMNKzE
+
 source: feller
 edition: 2
 location: Section 5.1, "Conditional probability," pages 104-107

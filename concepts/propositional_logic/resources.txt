@@ -1,0 +1,27 @@
+source: enderton
+edition: 2
+location: Section 1.1, "The language of sentential logic," pages 13-19
+location: Section 1.2, "Truth assignments," pages 20-27
+core: 1
+
+source: coursera_genesereth
+location: Lecture sequence "Propositional logic" [https://class.coursera.org/intrologic-004/lecture/5]
+core: 1
+
+source: coursera_renstall_pt1
+location: Lecture sequence "Language and models of propositional logic" [https://class.coursera.org/logic1-001/lecture/3]
+core: 1
+
+source: barwise_etchemendy_fol
+edition: 3
+location: Chapter 3, "Conjunctions, disjunctions, and negations," up through Section 3.7, "Satisfiability and logical truth," pages 35-58
+location: Chapter 4, "Conditionals and biconditionals," up through Section 4.2, "Biconditional symbol," pages 91-97
+core: 1
+
+source: aima
+edition: 2
+location: Section 7.4, "Propositional logic: a very simple logic," pages 204-211
+core: 1
+extra: See Section 7.2 for a description of the Wumpus World.
+
+

@@ -1,0 +1,1 @@
+* Be able to prove statements in a formal first-order proof system.

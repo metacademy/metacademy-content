@@ -1,0 +1,1 @@
+One can prove statements in first-order logic using a formal deductive calculus. Such a formal proof system is a central tool in the foundations of mathematics, since it serves as a formal model of mathematical reasoning more generally.

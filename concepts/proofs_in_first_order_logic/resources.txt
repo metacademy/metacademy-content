@@ -1,0 +1,19 @@
+source: coursera_genesereth
+location: Lecture sequence "Relational logic proofs" [https://class.coursera.org/intrologic-004/lecture/39]
+core: 1
+extra: This actually covers relational logic, but the proof techniques are essentially the same.
+
+source: barwise_etchemendy_fol
+location: Section 5.10, "Methods of proof," pages 135-144
+location: Section 5.11, "Formal proofs," pages 144-150
+location: Section 6.7, "Methods of proof involving mixed quantifiers," pages 172-177
+location: Section 6.8, "Formal proofs," pages 177-181
+core: 1
+
+source: enderton
+edition: 2
+location: Section 2.4, "A deductive calculus," up through subsection "Tautologies," pages 109-116
+extra: This resource is more mathematically rigorous than the others. It's useful if you're already comfortable writing proofs in FOL and want to analyze the proofs themselves.
+dependencies: structural_induction
+
+
