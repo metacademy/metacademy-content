@@ -1,0 +1,2 @@
+* Does the order of elimination matter for directed graphical models? Undirected graphical models?
+* Is it usually necessary to keep track of the partition function when performing variable elimination in an undirected graphical model?

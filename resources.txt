@@ -172,7 +172,7 @@ title: Coursera: Probabilistic Graphical Models
 authors: Daphne Koller
 year: 2013
 url: https://class.coursera.org/pgm/lecture/preview
-specific_url_base: https://class.coursera.org/pgm/lecture/preview_view?lecture_id=
+specific_url_base: https://class.coursera.org/pgm/lecture/
 resource_type: online lectures
 free: 1
 extra: Click on "Preview" to see the videos.
@@ -436,7 +436,7 @@ free: 1
 year: 2011
 url: http://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 level: advanced undergraduate
-description: Online videos on probability theory. 
+description: Online videos on probability theory.
 
 key: mathmonk_ml
 resource_type: online lectures
@@ -508,7 +508,7 @@ title: Coursera: Machine Learning
 authors: Pedro Domingos
 resource_type: online lectures
 free: 1
-specific_url_base: https://class.coursera.org/machlearning-001/lecture/preview_view?lecture_id=
+specific_url_base: https://class.coursera.org/machlearning-001/lecture/
 url: https://class.coursera.org/machlearning-001/lecture/preview
 level: advanced undergraduate
 extra: Click on "Preview" to see the videos.

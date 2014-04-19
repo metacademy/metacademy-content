@@ -1,2 +1,5 @@
-tag: inference-in-mrfs
-reason: Variable elimination is an MRF inference algorithm.
+tag: markov_random_fields
+reason: variable elimination is an MRF inference algorithm.
+
+tag: bayesian_networks
+reason: variable elimination is an inference algorithm for Bayesian networks.
