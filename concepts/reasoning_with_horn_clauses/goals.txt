@@ -1,0 +1,4 @@
+* Define what a Horn clause is
+* Know the forward chaining algorithm, and be able to simulate it on simple examples
+* Know the backward chaining algorithm, and be able to simulate it on simple examples
+* Why can naive backward chaining get stuck in infinite loops, and how can that be dealt with?

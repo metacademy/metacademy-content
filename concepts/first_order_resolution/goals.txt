@@ -1,0 +1,4 @@
+* Be able to eliminate existential quantifiers using Skolemization.
+* Be able to reduce a set of first-order sentences to conjunctive normal form.
+* State the resolution rule and be able to apply it to simple examples.
+* Know how resolution can be used to give constructive proofs, where one desires a set of substitutions to variables which make the consequent true.

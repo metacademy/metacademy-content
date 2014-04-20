@@ -1,0 +1,4 @@
+* Know what the DPLL algorithm is
+* Be able to simulate the algorithm on simple examples
+* Understand the motivations for the unit clause and pure symbol heuristics
+* Understand why the algorithm is complete.

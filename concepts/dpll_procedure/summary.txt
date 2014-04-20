@@ -1,0 +1,2 @@
+The DPLL procedure is a backtracking-based algorithm for solving SAT instances. It is complete, in the sense that it will eventually return a satisfying assignment or prove that none exists.
+

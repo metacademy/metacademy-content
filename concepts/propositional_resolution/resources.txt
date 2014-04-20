@@ -1,0 +1,14 @@
+source: aima
+edition: 2
+location: Section 7.5, "Reasoning patterns in propositional logic," up through subsection "Completeness of resolution," pages 211-217
+core: 1
+
+source: brachman_levesque
+edition: 1
+location: Chapter 4, "Resolution," up through Section 4.1, "The propositional case," pages 49-55
+core: 1
+
+source: coursera_genesereth
+location: Lecture sequence "Propositional resolution" [https://class.coursera.org/intrologic-004/lecture/19]
+core: 1
+

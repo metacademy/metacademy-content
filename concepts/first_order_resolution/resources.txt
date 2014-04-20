@@ -1,0 +1,14 @@
+source: aima
+edition: 2
+location: Section 9.5, pages 295-309
+core: 1
+
+source: coursera_genesereth
+location: Lecture sequence "Resolution" [https://class.coursera.org/intrologic-004/lecture/50]
+core: 1
+extra: This actually covers relational logic, but at the level of this concept node, most of the ideas are the same. See the bonus lecture "First order logic (a very brief introduction)" for an explanation of the differences.
+
+source: brachman_levesque
+edition: 1
+location: Chapter 4, "Resolution," pages 49-74
+core: 1

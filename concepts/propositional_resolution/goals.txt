@@ -1,0 +1,4 @@
+* Be able to convert SAT instances to conjunctive normal form.
+* Know the resolution inference rule.
+* Show that resolution is sound.
+* Show that resolution is complete.

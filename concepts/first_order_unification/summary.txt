@@ -1,0 +1,1 @@
+Unification is a procedure which takes two symbolic expressions containing variables, and returns a substitution to the variables which makes the expressions identical. It is a key component of first-order theorem provers and type inference systems.

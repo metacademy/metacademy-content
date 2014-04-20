@@ -1,0 +1,7 @@
+tag: first_order_logic
+
+tag: propositional_resolution
+reason: First-order resolution is an extension of propositional resolution.
+
+tag: first_order_unification
+reason: Unification is part of the resolution procedure.

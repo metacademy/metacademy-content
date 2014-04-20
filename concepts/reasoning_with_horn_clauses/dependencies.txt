@@ -1,0 +1,8 @@
+tag: propositional_satisfiability
+reason: Horn clauses can be used for inference in propositional logic.
+
+tag: first_order_logic
+reason: Horn clauses are an important tool for inference in first-order logic.
+
+tag: first_order_unification
+reason: Unification is a part of reasoning algorithms for first-order Horn clauses.

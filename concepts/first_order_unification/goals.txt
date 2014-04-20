@@ -1,0 +1,5 @@
+* Know what the unification procedure is and what the output is.
+* Be able to simulate it on simple examples.
+* What is the occurs check, why is it needed, and why does it increase the complexity of the algorithm?
+* Why do variables sometimes need to be renamed before performing unification?
+* What does it mean for one unifier to be more general than another, and why does one desire the most general unifier?

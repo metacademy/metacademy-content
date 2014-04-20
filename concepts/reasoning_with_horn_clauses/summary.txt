@@ -1,0 +1,1 @@
+Horn clauses are a restricted kind of formula in propositional or first-order logic which are computationally tractable, yet highly expressive. They form the core of programs in Prolog, a popular logic programming language. One can reason efficiently with Horn clauses using a combination of forward and backward chaining.

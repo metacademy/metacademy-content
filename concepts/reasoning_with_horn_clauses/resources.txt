@@ -1,0 +1,12 @@
+source: aima
+edition: 2
+location: Section 7.5, "Reasoning patterns in propositional logic," subsection "Forward and backward chaining," pages 217-220
+location: Section 9.3, "Forward chaining," pages 280-287
+location: Section 9.4, "Backward chaining," pages 287-295
+core: 1
+
+source: brachman_levesque
+edition: 1
+location: Chapter 5, "Reasoning with Horn clauses," pages 85-95
+core: 1
+

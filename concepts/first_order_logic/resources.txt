@@ -20,7 +20,7 @@ extra: See Section 7.2 for a description of the Wumpus World.
 source: coursera_genesereth
 location: Lecture sequence "Relational logic" [https://class.coursera.org/intrologic-004/lecture/24]
 core: 1
-extra: This actually covers relational logic, but at the level of this concept node, most of the ideas are the same.
+extra: This actually covers relational logic, but at the level of this concept node, most of the ideas are the same. See the bonus lecture "First order logic (a very brief introduction)" for an explanation of the differences.
 
 source: brachman_levesque
 edition: 1

@@ -1,0 +1,1 @@
+Resolution is an inference rule for logical systems -- in this case, for propositional logic. It is complete, in that if a set of propositional sentences is unsatisfiable, one can prove that using resolution. It is the basis for many powerful automated theorem provers.

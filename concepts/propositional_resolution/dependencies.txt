@@ -1,0 +1,7 @@
+tag: propositional_logic
+
+tag: propositional_satisfiability
+reason: Resolution is a method for determining satisfiability of propositional sentences.
+
+tag: propositional_proofs
+reason: Resolution is a complete proof procedure.

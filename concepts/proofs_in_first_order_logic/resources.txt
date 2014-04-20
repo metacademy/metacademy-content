@@ -1,7 +1,7 @@
 source: coursera_genesereth
 location: Lecture sequence "Relational logic proofs" [https://class.coursera.org/intrologic-004/lecture/39]
 core: 1
-extra: This actually covers relational logic, but the proof techniques are essentially the same.
+extra: This actually covers relational logic, but at the level of this concept node, most of the ideas are the same. See the bonus lecture "First order logic (a very brief introduction)" for an explanation of the differences.
 
 source: barwise_etchemendy_fol
 location: Section 5.10, "Methods of proof," pages 135-144
