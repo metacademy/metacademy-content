@@ -705,3 +705,31 @@ url: http://www.amazon.com/Knowledge-Representation-Reasoning-Artificial-Intelli
 free: 0
 description: An introductory textbook on knowledge representation.
 
+key: hopcroft_motwani_ullman
+resource_type: textbook
+authors: John E. Hopcroft and Rajeev Motwani and Jeffrey D. Ullman
+title: Automata Theory, Languages, and Computation
+edition_years: 1979, 2000, 2006
+url: http://www.amazon.com/Introduction-Automata-Languages-Computation-Edition/dp/0321455363
+free: 0
+description: An undergraduate textbook on automata and the theory of computation.
+
+key: sipser
+resource_type: textbook
+authors: Michael Sipser
+title: Introduction to the Theory of Computation
+edition_years: 1996, 2005, 2012
+url: http://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/
+free: 0
+description: An undergraduate textbook on automata and the theory of computation.
+
+key: coursera_ullman
+resource_type: online course
+title: Coursera: Automata
+authors: Jeffrey D. Ullman
+free: 1
+url: https://class.coursera.org/automata/
+description: An introductory course on automata and the theory of computation.
+extra: Click on "Preview" to see the lecture videos.
+
+

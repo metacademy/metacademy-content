@@ -1,0 +1,5 @@
+* Define the sets of decidable and recursively enumerable languages.
+* Be able to show that some simple languages are decidable.
+* Prove, using a counting argument, that not all languages are decidable.
+* Prove that the halting problem is undecidable.
+* Prove that the universal language is recursively enumerable.

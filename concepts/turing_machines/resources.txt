@@ -1,0 +1,17 @@
+source: sipser
+edition: 2
+location: Section 3.1, "Turing machines," pages 137-147
+location: Section 3.3, "The definition of algorithm," pages 154-159
+core: 1
+
+source: hopcroft_motwani_ullman
+edition: 3
+location: Section 8.2, "The Turing machine," pages 324-335
+location: Section 8.3, "Programming techniques for Turing machines," pages 337-343
+core: 1
+extra: Read Section 8.1, "Problems that computers cannot solve," for some motivation.
+
+source: coursera_ullman
+location: Lecture "Turing machines" [https://class.coursera.org/automata/lecture/25]
+core: 1
+

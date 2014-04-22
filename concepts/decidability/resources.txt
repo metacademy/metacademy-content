@@ -1,0 +1,17 @@
+source: hopcroft_motwani_ullman
+edition: 3
+location: Section 8.1, "Problems that computers cannot solve," pages 315-324
+location: Section 9.1, "A language that is not recursively enumerable," pages 378-382
+location: Section 9.2, "An undecidable problem that is RE," pages 383-390
+core: 1
+
+source: sipser
+edition: 2
+location: Chapter 4, "Decidability," pages 165-182
+core: 1
+extra: The material about regular and context-free languages is optional (and depends on earlier chapters).
+
+source: coursera_ullman
+location: Lecture "Decidability" [https://class.coursera.org/automata/lecture/27]
+core: 1
+

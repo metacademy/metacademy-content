@@ -1,0 +1,1 @@
+Turing machines are a simple theoretical model of computation involving a head which reads and writes symbols on a tape. Despite its simplicity, if the Church-Turing Thesis is true, then anything which can be computed, can be computed by a Turing machine. They are a fundamental construct in reasoning about the limits of computation.

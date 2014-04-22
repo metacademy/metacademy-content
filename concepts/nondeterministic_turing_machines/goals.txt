@@ -1,0 +1,4 @@
+* Define a nondeterministic Turing machine
+* Show that a single-track Turing machine can simulate a multi-track Turing machine
+* Show that a multi-track Turing machine (and therefore also a single-track one) can simulate a nondeterministic Turing machine
+

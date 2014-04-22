@@ -1,0 +1,13 @@
+source: sipser
+edition: 2
+location: Section 3.2, "Variants of Turing machines," pages 148-154
+core: 1
+
+source: hopcroft_motwani_ullman
+edition: 3
+location: Section 8.4, "Extensions to the basic Turing machine," pages 343-349
+core: 1
+
+source: coursera_ullman
+location: Lecture "Extensions and properties of Turing machines" [https://class.coursera.org/automata/lecture/26]
+core: 1

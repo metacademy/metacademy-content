@@ -1,0 +1,5 @@
+tag: turing_machines
+reason: Turing machines are the canonical model of computation when reasoning about decidability.
+
+tag: countable_sets
+reason: A simple counting argument shows that not all languages are decidable.

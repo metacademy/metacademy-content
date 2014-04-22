@@ -1,0 +1,4 @@
+* Define a Turing machine
+* Be able to write Turing machines to solve simple problems
+* Be aware of universal Turing machines
+* Be aware of the Church-Turing thesis
