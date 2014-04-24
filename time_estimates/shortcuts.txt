@@ -1,6 +1,6 @@
-determinant 0.858465672117
-multivariate_gaussian_distribution 1.41785026548
-eigenvalues_and_eigenvectors 0.346354444609
-positive_definite_matrices 1.07710275173
-maximum_likelihood 1.20286411262
-lagrange_multipliers 0.970267454134
+determinant 0.720552853491
+multivariate_gaussian_distribution 1.43585514369
+eigenvalues_and_eigenvectors 0.357349252157
+positive_definite_matrices 1.21725107052
+maximum_likelihood 1.18251092564
+lagrange_multipliers 0.86559802373
