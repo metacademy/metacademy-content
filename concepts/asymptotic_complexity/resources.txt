@@ -1,0 +1,9 @@
+source: sipser
+edition: 2
+location: Section 7.1, "Measuring complexity," pages 247-256
+core: 1
+
+source: mit_16_070
+location: Notes for "Big-O notation" [http://web.mit.edu/16.070/www/lecture/big_o.pdf]
+core: 1
+

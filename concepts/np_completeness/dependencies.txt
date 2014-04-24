@@ -1,0 +1,8 @@
+tag: np_complexity_class
+reason: NP-complete problems are the hardest problems in NP.
+
+tag: propositional_satisfiability
+reason: SAT is the canonical NP-complete problem.
+
+tag: nondeterministic_turing_machines
+reason: Cook's Theorem is proved by defining nondeterministic Turing machines through SAT clauses.

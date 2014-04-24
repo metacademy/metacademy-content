@@ -1,0 +1,5 @@
+tag: asymptotic_complexity
+reason: NP is defined in terms of asymptotic complexity.
+
+tag: nondeterministic_turing_machines
+reason: NP is defined in terms of nondeterministic Turing machines.

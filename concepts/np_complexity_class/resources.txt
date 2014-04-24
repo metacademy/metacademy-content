@@ -1,0 +1,15 @@
+source: sipser
+edition: 2
+location: Section 7.2, "The class P," pages 256-263
+location: Section 7.3, "The class NP," pages 264-270
+core: 1
+extra: The material about context-free languages is optional, and has additional prerequisites.
+
+source: hopcroft_motwani_ullman
+edition: 3
+location: Section 10.1, "The classes P and NP," pages 426-435
+core: 1
+
+source: coursera_ullman
+location: Lecture "P and NP" [https://class.coursera.org/automata/lecture/28]
+core: 1

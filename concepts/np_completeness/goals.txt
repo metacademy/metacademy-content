@@ -1,0 +1,5 @@
+* Know what is meant by a polynomial time reduction
+* Know the distinction between the terms "in NP," "NP-hard," and "NP-complete"
+* Know the statement of Cook's Theorem (that SAT is NP-complete)
+* Prove Cook's theorem
+* Be able to prove problems NP-complete

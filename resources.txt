@@ -732,4 +732,10 @@ url: https://class.coursera.org/automata/
 description: An introductory course on automata and the theory of computation.
 extra: Click on "Preview" to see the lecture videos.
 
-
+key: mit_16_070
+resource_type: lecture notes
+title: MIT 16.070: Introduction to Computers and Programming
+authors: Kristina Lundqvist
+free: 1
+url: http://web.mit.edu/16.070/www/
+description: Lecture notes for an introductory computer science course

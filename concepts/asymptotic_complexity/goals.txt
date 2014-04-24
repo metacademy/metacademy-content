@@ -1,0 +1,2 @@
+* Know the precise definition of big-O notation
+* Be able to analyze the asymptotic complexity of simple algorithms

@@ -1,0 +1,2 @@
+The asymptotic (time) complexity of an algorithm refers to the scaling of the running time of an algorithm as a function of the input size. The time complexity is typically given in terms of big-O notation, where the running time is bounded up to a multiplicative constant. 
+
