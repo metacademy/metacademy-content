@@ -1,0 +1,5 @@
+tag: set_operations
+reason: Russell's paradox is an inconsistency in naive set theory.
+
+tag: first_order_logic
+reason: The Axiom of Comprehension is expressed in first-order logic.

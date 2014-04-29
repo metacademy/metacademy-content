@@ -1,0 +1,10 @@
+source: stanford_cs103_notes
+location: Section 5.2, "Equivalence relations," pages 261-271 [#page=261]
+core: 1
+
+source: enderton_set_theory
+edition: 1
+location: Chapter 3, "Relations and functions," subsection "Equivalence relations," pages 55-62
+core: 1
+
+

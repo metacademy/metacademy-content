@@ -1,0 +1,1 @@
+Ordered pairs, relations, and functions can all be defined in terms of sets. This is part of why set theory is such a powerful framework in the foundations of mathematics.

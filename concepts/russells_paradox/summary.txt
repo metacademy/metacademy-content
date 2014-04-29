@@ -1,0 +1,1 @@
+Consider the set S of all sets which are not members of themselves: is S a member of itself?  Either answer leads to a contradiction. Russell's Paradox, as this is called, showed that Cantor's original formulation of set theory was inconsistent and led to more precise axiomatizations of set theory, such as the Zermelo-Frankl axioms.

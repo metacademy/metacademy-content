@@ -739,3 +739,23 @@ authors: Kristina Lundqvist
 free: 1
 url: http://web.mit.edu/16.070/www/
 description: Lecture notes for an introductory computer science course
+
+key: stanford_cs103_notes
+resource_type: lecture notes
+title: Stanford CS103: Mathematical Foundations of Computing
+authors: Keith Schwarz
+free: 1
+year: 2013
+url: http://www.stanford.edu/class/cs103/keith.pdf
+specific_url_base: http://www.stanford.edu/class/cs103/keith.pdf
+description: Lecture notes for Stanford's introductory computer science theory course.
+
+key: enderton_set_theory
+resource_type: textbook
+title: Elements of Set Theory
+authors: Herbert B. Enderton
+edition_years: 1977
+free: 0
+url: http://www.amazon.com/Elements-Set-Theory-Herbert-Enderton/dp/0122384407
+description: An introductory textbook on axiomatic set theory.
+

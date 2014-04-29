@@ -1,0 +1,2 @@
+* Know what Russell's Paradox refers to and why it is a contradiction in naive set theory
+* Know what is meant by the (unrestricted) Axiom of Comprehension and why it is responsible for the paradox

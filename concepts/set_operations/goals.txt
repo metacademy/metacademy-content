@@ -1,0 +1,4 @@
+* Know what it means for two sets to be equal
+* Know how set union, intersection, and difference are defined mathematically
+* Know what the power set is
+* Be able to prove simple statements involving all of these concepts

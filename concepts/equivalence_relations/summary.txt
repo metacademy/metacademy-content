@@ -1,0 +1,1 @@
+A relation is an equivalence relation if it is reflexive, symmetric, and transitive. Equivalence relations can be used to partition a set into equivalence classes. Examples include equality, isomorphism, and graph connectivity.

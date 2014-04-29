@@ -1,0 +1,8 @@
+source: wikipedia
+location: Article "Russell's Paradox" [http://en.wikipedia.org/wiki/Russell's_paradox]
+core: 1
+
+source: barwise_etchemendy_fol
+location: Section 8.1, "Cantor's set theory," pages 208-211
+location: Section 8.7, "Russell's Paradox," pages 220-222
+core: 1

@@ -1,0 +1,10 @@
+source: stanford_cs103_notes
+location: Section 5.1.2, "A formal definition of relations," pages 251-253 [#page=251]
+location: Chapter 6, "Functions and cardinality," Section 1, "Functions," pages 319-325 [#page=319]
+core: 1
+
+source: enderton_set_theory
+edition: 1
+location: Chapter 3, "Relations and functions," up through subsection "Functions," pages 35-54
+core: 1
+

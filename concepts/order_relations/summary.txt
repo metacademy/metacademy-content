@@ -1,0 +1,1 @@
+A relation is an order relation if it is irreflexive, asymmetric, and transitive. An order relation < is a total order if for any A and B, either A < B, B < A, or A = B; otherwise it is a partial order. 

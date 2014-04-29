@@ -1,0 +1,21 @@
+source: stanford_cs103_notes
+location: Section 1.1, "What is a set?," pages 11-13 [#page=11]
+location: Section 1.2, "Operations on sets," pages 13-16 [#page=13]
+location: Section 1.3, "Special sets," pages 16-18 [#page=16]
+location: Section 1.4, "Set builder notation," pages 18-21 [#page=18]
+location: Section 1.5, "Relations on sets," pages 21-24 [#page=21]
+location: Section 1.6, "The power set," pages 24-25 [#page=24]
+core: 1
+
+source: enderton_set_theory
+edition: 1
+location: Chapter 2, "Axioms and operations," pages 17-32
+core: 1
+dependencies: first_order_logic
+
+source: barwise_etchemendy_fol
+edition: 3
+location: Chapter 8, "First-order set theory," up through 8.6, "The powerset of a set," pages 207-220
+core: 1
+dependencies: first_order_logic
+
