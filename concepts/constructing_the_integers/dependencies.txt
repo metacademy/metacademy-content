@@ -1,0 +1,5 @@
+tag: equivalence_relations
+reason: The integers can be defined using an equivalence relation.
+
+tag: order_relations
+reason: One needs to define an ordering on the integers.

@@ -1,0 +1,5 @@
+* Construct the natural numbers in terms of sets.
+* Show that the constructed number system satisfies the Peano postulates.
+* Define equality and comparison operators, and show that these are an equivalence relation and order relations, respectively.
+* Define the addition and multiplication operators.
+* Show that these operators are commutative and associative.

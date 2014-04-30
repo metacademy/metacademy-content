@@ -1,0 +1,4 @@
+* Define the real numbers using the Dedekind cut construction.
+* Show that this construction satisfies the least upper bound property.
+* Define the basic arithmetic operations and comparison operators
+* Show that these satisfy the field axioms

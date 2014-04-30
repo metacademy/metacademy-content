@@ -1,0 +1,10 @@
+tag: set_operations
+
+tag: equivalence_relations
+reason: One needs to define equality.
+
+tag: order_relations
+reason: One needs to define the comparison operators.
+
+tag: peano_axioms
+reason: One must show that the construction satisfies the Peano axioms.

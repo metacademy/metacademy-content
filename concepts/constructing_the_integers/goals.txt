@@ -1,0 +1,3 @@
+* Construct the integers from the natural numbers
+* Define addition and multiplication, negation, and the comparison operators
+* Show that all of these have the properties we would expect

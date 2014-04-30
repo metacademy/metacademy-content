@@ -1,0 +1,6 @@
+tag: first_order_logic
+reason: The axioms can be stated in first-order logic.
+
+tag: mathematical_induction
+reason: One of the axioms concerns induction.
+

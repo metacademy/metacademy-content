@@ -1,0 +1,1 @@
+The natural numbers can be explicitly constructed as sets. Zero is defined to be the empty set, and each n > 0 is defined to be the set of natural numbers less than n. This is an example of how set theory serves as a powerful foundation for much of mathematics.

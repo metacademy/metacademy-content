@@ -1,0 +1,5 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 4, "Natural numbers," pages 66-88
+core: 1
+

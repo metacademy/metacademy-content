@@ -1,0 +1,3 @@
+* Motivate the need for the reals by showing that the square root of 2 is irrational
+* Know what the least upper bound property refers to
+* Using the least upper bound property, show that there exists a real number x such that x^2 = 2

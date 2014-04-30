@@ -1,0 +1,11 @@
+tag: equivalence_relations
+reason: The rational numbers are defined as equivalence relations.
+
+tag: order_relations
+reason: One needs to define an ordering on the rationals.
+
+tag: constructing_the_integers
+reason: The rationals are constructed from the integers.
+
+tag: fields
+reason: One must show the rational satisfy the field axioms.

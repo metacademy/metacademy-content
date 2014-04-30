@@ -1,0 +1,10 @@
+tag: real_numbers
+
+tag: set_operations
+reason: The Dedekind cut construction defines real numbers as sets.
+
+tag: order_relations
+reason: One must define an order relation on the reals.
+
+tag: fields
+reason: One must show that the construction satisfies the field axioms.

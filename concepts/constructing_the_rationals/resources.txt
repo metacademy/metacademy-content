@@ -1,0 +1,5 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 5, "Construction of the real numbers," subsection "Rational numbers," pages 101-111
+core: 1
+

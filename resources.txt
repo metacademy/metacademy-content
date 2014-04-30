@@ -759,3 +759,11 @@ free: 0
 url: http://www.amazon.com/Elements-Set-Theory-Herbert-Enderton/dp/0122384407
 description: An introductory textbook on axiomatic set theory.
 
+key: rudin_mathematical_analysis
+resource_type: textbook
+title: Principles of Mathematical Analysis
+authors: Walter Rudin
+edition_years: 1953, 1964, 1976
+free: 0
+url: http://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/007054235X
+description: A classical undergraduate analysis textbook.
