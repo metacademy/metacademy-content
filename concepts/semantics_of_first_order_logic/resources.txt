@@ -7,3 +7,8 @@ source: barwise_etchemendy_fol
 edition: 3
 location: Chapter 11, "Advanced topics in FOL," up through subsection 11.3, "Truth and satisfaction, revisited," pages 258-268
 core: 1
+
+source: cohn_logic
+location: Section 8, "First-order semantics," pages 20-22 [#page=20]
+core: 1
+

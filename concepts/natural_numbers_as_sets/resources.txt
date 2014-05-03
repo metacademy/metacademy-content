@@ -3,3 +3,13 @@ edition: 1
 location: Chapter 4, "Natural numbers," pages 66-88
 core: 1
 
+source: cohn_set_theory
+location: Section 2, "The natural numbers," pages 7-9 [#page=7]
+core: 0
+# does not cover all goals
+
+source: weiss_set_theory
+location: Chapter 4, "The natural numbers," pages 31-39 [#page=31]
+core: 0
+dependencies: zermelo_frankl_axioms
+

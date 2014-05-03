@@ -24,4 +24,9 @@ location: Section 7.4, "Propositional logic: a very simple logic," pages 204-211
 core: 1
 extra: See Section 7.2 for a description of the Wumpus World.
 
+source: cohn_logic
+location: Section 1, "Syntax," pages 1-3 [#page=1]
+location: Section 2, "Semantics," pages 3-5 [#page=3]
+core: 1
+
 

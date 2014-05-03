@@ -767,3 +767,34 @@ edition_years: 1953, 1964, 1976
 free: 0
 url: http://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/007054235X
 description: A classical undergraduate analysis textbook.
+
+key: cohn_set_theory
+resource_type: lecture notes
+title: Notes on Set Theory
+authors: Henry Cohn
+year: 2013
+free: 1
+url: http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/settheory.pdf
+specific_url_base: http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/settheory.pdf
+description: Lecture notes for a course on axiomatic set theory.
+
+key: cohn_logic
+resource_type: lecture notes
+title: Notes on Logic
+authors: Henry Cohn
+year: 2013
+free: 1
+url: http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/logic.pdf
+specific_url_base: http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/logic.pdf
+description: Lecture notes for a course on first order logic.
+
+key: weiss_set_theory
+resource_type: lecture notes
+title: An Introduction to Set Theory
+authors: William A. R. Weiss
+year: 2008
+free: 1
+url: http://www.math.toronto.edu/weiss/set_theory.pdf
+specific_url_base: http://www.math.toronto.edu/weiss/set_theory.pdf
+description: Lecture notes on axiomatic set theory.
+

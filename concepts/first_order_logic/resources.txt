@@ -27,3 +27,9 @@ edition: 1
 location: Chapter 2, "The language of first-order logic," pages 15-30
 core: 0
 # doesn't cover rules for manipulating expressions
+
+source: cohn_logic
+location: Section 7, "First-order languages and syntax," pages 17-20 [#page=17]
+core: 0
+# doesn't cover rules for manipulating expressions
+

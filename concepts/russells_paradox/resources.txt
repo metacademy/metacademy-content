@@ -6,3 +6,7 @@ source: barwise_etchemendy_fol
 location: Section 8.1, "Cantor's set theory," pages 208-211
 location: Section 8.7, "Russell's Paradox," pages 220-222
 core: 1
+
+source: weiss_set_theory
+location: Section "FOUND," subsection "Russell's Paradox," pages 21-22 [#page=21]
+core: 1
