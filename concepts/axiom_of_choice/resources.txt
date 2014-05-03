@@ -1,0 +1,10 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 6, "Cardinal numbers and the Axiom of Choice," subsection "Axiom of Choice," pages 151-157
+core: 1
+extra: The material about cardinal numbers is optional (and has additional prerequisites).
+
+source: wikipedia
+location: Article "Axiom of Choice" [http://en.wikipedia.org/wiki/Axiom_of_choice]
+core: 1
+

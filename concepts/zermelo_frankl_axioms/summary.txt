@@ -1,0 +1,1 @@
+The Zermelo-Frankl axioms are the standard formalization of set theory in mathematics. They include the Axiom of Extensionality (two sets are equal if they have the same elements), various comprehension axioms (which enable one to construct sets), and the Axiom of Regularity (which rules out certain pathological sets). Most of mathematics can be derived from these axioms.

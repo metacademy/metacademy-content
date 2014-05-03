@@ -1,0 +1,3 @@
+* Know the statement of the Axiom of Choice
+* Be aware that it is controversial (e.g. because of the Banach-Tarski paradox), and it is often noted specifically when a theorem depends on it
+* Be aware that it is independent of the Zermelo-Frankl axioms

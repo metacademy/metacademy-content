@@ -1,0 +1,11 @@
+tag: set_operations
+reason: The Z-F axioms are a formalism for set theory.
+
+tag: russells_paradox
+reason: Russell's Paradox motivates the need for axiomatic set theory.
+
+tag: first_order_logic
+reason: The Z-F axioms are typically defined in first-order logic.
+
+tag: natural_numbers_as_sets
+reason: The interpretation of natural numbers as sets is needed to motivate the Axiom of Infinity.

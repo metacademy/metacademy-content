@@ -1,0 +1,1 @@
+The Axiom of Choice states that for any set A of sets, there exists a choice function which picks a single element of each x in A. While intuitive, it has some surprising consequences, such as the Banach-Tarski Paradox. It is logically independent of the Zermelo-Frankl axioms, so one may choose whether or not to include it.

@@ -1,0 +1,17 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 2, "Axioms and operations," pages 17-33
+location: Chapter 4, "Natural numbers," subsection "Inductive sets," pages 67-70
+extra: These sections don't cover the Axioms of Replacement and Regularity; you need to look those up in the index.
+core: 1
+
+source: cohn_set_theory
+location: Section 1, "First axioms of set theory," pages 1-7
+extra: Skim Section 4, "Ordinals and their basic properties," for the Axiom of Foundation.
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 10.1, "Basic developments," pages 459-468
+core: 1
+

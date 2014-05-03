@@ -1,0 +1,5 @@
+* Know the Axiom of Extensionality
+* Know the various comprehension axioms (e.g. pairing, union, power set, subset, replacement, infinity; specific presentations will differ)
+* Know the Axiom of Foundation (or Axiom of Regularity) and what pathological sets it is meant to rule out
+* Be able to derive simple consequences of the axioms
+* What is the difference between a set and a class?

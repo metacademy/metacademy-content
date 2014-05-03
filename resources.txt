@@ -798,3 +798,13 @@ url: http://www.math.toronto.edu/weiss/set_theory.pdf
 specific_url_base: http://www.math.toronto.edu/weiss/set_theory.pdf
 description: Lecture notes on axiomatic set theory.
 
+key: bell_machover
+resource_type: textbook
+title: A Course in Mathematical Logic
+authors: J. L. Bell and M. Machover
+edition_years: 1977
+free: 0
+url: http://www.amazon.com/A-Course-In-Mathematical-Logic/dp/0720428440/
+description: A graduate textbook in mathematical logic.
+
+
