@@ -1,0 +1,9 @@
+source: cohn_logic
+location: Section 11, "Consequences of compactness," pages 25-28 [#page=25]
+core: 1
+extra: See Section 10 for the statement and proof of the Compactness Theorem
+
+source: enderton
+location: Section 2.5, "Soundness and completeness theorems," statement and proof of Compactness Theorem on page 142
+location: Section 2.6, "Models of theories," subsection "Finite models," pages 147-151
+core: 1

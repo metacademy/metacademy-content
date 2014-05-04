@@ -1,0 +1,6 @@
+tag: semantics_of_first_order_logic
+reason: Compactness is a property of the semantics of first-order logic.
+
+tag: completeness_of_first_order_logic
+reason: The Compactness Theorem follows from the Completeness Theorem.
+

@@ -1,0 +1,20 @@
+tag: semantics_of_first_order_logic
+reason: The L-S theorems are about the semantics of first-order logic.
+
+tag: cardinality
+reason: The statements of the L-S theorems involve cardinality.
+
+tag: completeness_of_first_order_logic
+reason: The downward L-S theorem follows from the proof of the Completeness Theorem.
+
+tag: compactness_of_first_order_logic
+reason: The upward L-S theorem follows from the Compactness Theorem.
+
+tag: zermelo_frank_axioms
+reason: Skolem's Paradox is about Zermelo-Frankl set theory.
+
+tag: countable_sets
+reason: Skolem's Paradox involves the diagonalization argument.
+
+tag: peano_axioms
+reason: One application of the L-S theorems is to show there are nonstandard models of the Peano axioms.

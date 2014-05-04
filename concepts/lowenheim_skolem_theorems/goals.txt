@@ -1,0 +1,4 @@
+* Know the statements of the upward and downward L-S theorems.
+* Prove the upward and downward L-S theorems.
+* Know what Skolem's Paradox refers to and why it is paradoxical.
+* Know why the L-S theorems imply nonstandard models of the Peano Axioms.

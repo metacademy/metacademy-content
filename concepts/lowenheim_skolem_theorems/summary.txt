@@ -1,0 +1,1 @@
+The Lowenheim-Skolem theorems state that if a first-order theory has an infinite model, then it has models of every infinite cardinality. It implies that certain foundational theories in mathematics, such as Peano arithmetic and Zermelo-Frankl set theory, must have nonstandard models.

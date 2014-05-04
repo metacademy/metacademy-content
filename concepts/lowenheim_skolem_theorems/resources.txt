@@ -1,0 +1,15 @@
+source: enderton
+edition: 2
+location: Section 2.6, "Models of theories," subsection "Size of models," pages 151-155
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 5.1, "Basic ideas of model theory," pages 161-168
+location: Section 5.2, "The Lowenheim-Skolem Theorems," pages 168-173
+core: 1
+
+source: cohn_logic
+location: Section 11, "Consequences of compactness," pages 25-28 [#page=25]
+location: Section 12, "Downwards Lowenheim-Skolem," pages 28-30 [#page=28]
+core: 1

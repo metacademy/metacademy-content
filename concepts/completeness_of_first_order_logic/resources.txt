@@ -12,3 +12,7 @@ location: Section 3.3, "Completeness of the first-order predicate calculus," pag
 location: Section 3.5, "What have we achieved?", pages 122-124
 core: 1
 
+source: cohn_logic
+location: Section 10, "Completeness and compactness," pages 23-25 [#page=23]
+location: Section 16, "Formal proofs in first-order logic," pages 39-43 [#page=39]
+core: 1

@@ -1,0 +1,3 @@
+* Prove the Compactness Theorem of first-order logic, assuming the Completeness Theorem
+* Using the Compactness Theorem, show that any first-order theory with an arbitrarily large finite model has an infinite model as well
+
