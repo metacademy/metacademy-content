@@ -1,0 +1,10 @@
+tag: first_order_logic
+
+tag: semantics_of_first_order_logic
+reason: Defining completeness requires defining the semantics.
+
+tag: proofs_in_first_order_logic
+reason: One must show a particular predicate calculus to be complete.
+
+tag: countable_sets
+reason: The proof of the Completeness Theorem involves countable sets.

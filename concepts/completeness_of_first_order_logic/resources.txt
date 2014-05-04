@@ -1,0 +1,14 @@
+source: enderton
+edition: 2
+location: Section 2.2, "Truth and models," subsection "Homomorphisms," pages 94-99
+location: Section 2.5, "Soundness and completeness theorems," pages 131-145
+extra: Refer to Section 2.4 for the specific deductive calculus.
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 2.7, "Hintikka sets," pages 83-88
+location: Section 3.3, "Completeness of the first-order predicate calculus," pages 117-122
+location: Section 3.5, "What have we achieved?", pages 122-124
+core: 1
+

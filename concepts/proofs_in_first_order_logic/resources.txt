@@ -16,4 +16,7 @@ location: Section 2.4, "A deductive calculus," up through subsection "Tautologie
 extra: This resource is more mathematically rigorous than the others. It's useful if you're already comfortable writing proofs in FOL and want to analyze the proofs themselves.
 dependencies: structural_induction
 
+source: bell_machover
+edition: 1
+location: Section 3.1, "The first-order predicate calculus," pages 108-115
 

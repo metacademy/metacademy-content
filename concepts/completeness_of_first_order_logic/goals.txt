@@ -1,0 +1,4 @@
+* Know what it means for a first-order deductive calculus to be complete
+* Know the statement of Godel's Completeness Theorem
+* Prove Godel's Completeness Theorem (Henkin's proof in particular)
+* Using the Completeness Theorem, prove the Compactness Theorem for first-order logic.

@@ -12,3 +12,7 @@ source: cohn_logic
 location: Section 8, "First-order semantics," pages 20-22 [#page=20]
 core: 1
 
+source: bell_machover
+edition: 1
+location: Section 2.1, "First-order semantics," pages 49-54
+core: 1

@@ -18,4 +18,3 @@ source: cohn_logic
 location: Section 6, "Formal proofs," pages 13-17 [#page=13]
 core: 1
 
-
