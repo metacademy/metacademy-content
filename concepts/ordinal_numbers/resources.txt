@@ -1,0 +1,15 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 7, "Orderings and ordinals," subsections "Epsilon-images" through "Ordinal numbers," pages 182-194
+core: 1
+
+source: cohn_set_theory
+location: Section 4, "Ordinals and their basic properties," pages 13-19 [#page=13]
+location: Section 5, "Ordinals and well-ordered sets," pages 19-25 [#page=19]
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 10.2, "Ordinals," pages 468-477
+core: 1
+

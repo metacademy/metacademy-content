@@ -1,0 +1,1 @@
+A total ordering R on a set S is a well ordering if every subset of S has a smallest element. Well orderings are important because one can use a generalization of mathematical induction known as transfinite induction. The canonical example is the ordinal numbers.

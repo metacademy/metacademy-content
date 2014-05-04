@@ -1,0 +1,6 @@
+* Define what it means for a set to be an ordinal
+* Know that the ordinals can be divided into limit and successor ordinals
+* Show that the subset relation is a well ordering on the ordinals
+* Define what it means for two well-ordered sets to be isomorphic
+* Show that every well-ordered set is isomorphic to a unique ordinal
+* Show that for every ordinal, there is a larger ordinal

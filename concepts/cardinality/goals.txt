@@ -1,0 +1,6 @@
+* Define the relations of equinumerosity and dominance, and show that these are equivalence and order relations, respectively
+* Prove the Schroeder-Bernstein Theorem: that if two sets each dominate each other, then they are equinumerous.
+* Show that no set is equinumerous with its power set.
+* Be able to manipulate cardinal numbers algebraically
+* Be aware of the Continuum Hypothesis
+

@@ -1,0 +1,11 @@
+tag: order_relations
+reason: Well orderings are a subclass of order relations.
+
+tag: set_operations
+
+tag: mathematical_induction
+reason: Mathematical induction can be extended to well-ordered sets.
+
+tag: natural_numbers_as_sets
+reason: One must view natural numbers as sets to treat ordinary mathematical induction as a special case of transfinite induction.
+

@@ -1,0 +1,2 @@
+Cardinality is a way of measuring the size of a set. Two sets have the same cardinality if they are equinumerous, i.e. if there is a bijective mapping between them. A has a larger cardinality than B if there is an injective mapping from B to A. Cardinality gives a precise way to talk about different sizes of infinity.
+

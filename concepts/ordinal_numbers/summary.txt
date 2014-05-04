@@ -1,0 +1,1 @@
+The ordinal numbers are a way of measuring the size of well-ordered sets. They give a way of talking about different sizes of infinity. They are needed to construct the cardinal numbers, which measure the sizes of sets more generally.

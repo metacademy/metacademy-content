@@ -1,0 +1,15 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 6, "Cardinal numbers and the Axiom of Choice," subsection "Axiom of Choice," pages 151-158
+location: Chapter 7, "Orderings and ordinals," subsection "Debts paid," pages 195-199
+core: 1
+
+source: cohn_set_theory
+location: Section 6, "The Axiom of Choice," only the parts dealing with the "Well-Ordering Theorem," pages 25-28
+location: Section 7, "Cardinals," pages 30-34 [#page=30]
+location: Section 8, "Cardinal arithmetic," pages 34-40
+
+source: bell_machover
+edition: 1
+location: Section 10.4, "Cardinality and the Axiom of Choice," pages 487-491
+core: 1

@@ -1,0 +1,3 @@
+* Show that the Well-Ordering Theorem is equivalent to the Axiom of Choice
+* Show that the trichotomy of the dominance relation is equivalent to the Well-Ordering Theorem
+* Construct the cardinal numbers in terms of the ordinals

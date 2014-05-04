@@ -1,0 +1,6 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 6, "Cardinal numbers and the Axiom of Choice," up through subsection "Ordering cardinal numbers," pages 128-150
+location: Chapter 6, subsections "Arithmetic of infinite cardinals" and "Continuum Hypothesis," pages 162-166
+core: 1
+

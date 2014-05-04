@@ -1,0 +1,8 @@
+tag: natural_numbers_as_sets
+reason: We must treat natural numbers as sets to use them as ordinal numbers.
+
+tag: well_orderings
+reason: The ordinal numbers are well ordered, and defined using transfinite recursion.
+
+tag: set_operations
+reason: The ordinal numbers are constructed with set union.

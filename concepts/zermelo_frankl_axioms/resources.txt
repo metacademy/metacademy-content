@@ -13,5 +13,6 @@ core: 1
 source: bell_machover
 edition: 1
 location: Section 10.1, "Basic developments," pages 459-468
+extra: Skim Section 10.3 for the Axiom of Regularity.
 core: 1
 

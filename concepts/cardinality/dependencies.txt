@@ -1,0 +1,15 @@
+tag: countable_sets
+reason: Cardinality generalizes the notion of countable and uncoutable sets.
+
+tag: equivalence_relations
+reason: Cardinality is defined in terms of equinumerosity, an equivalence relation.
+
+tag: order_relations
+reason: One must show that the dominance relation is a total ordering.
+
+tag: set_operations
+reason: Sets of different cardinalities are constructed using various set operations.
+
+tag: natural_numbers_as_sets
+reason: Defining cardinality for finite sets requires viewing natural numbers as sets.
+

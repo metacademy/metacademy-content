@@ -1,0 +1,9 @@
+source: enderton_set_theory
+edition: 1
+location: Chapter 7, "Orderings and ordinals," subsection "Well orderings," pages 172-178
+core: 1
+
+source: cohn_set_theory
+location: Section 3, "Partially, totally, and well ordered sets," pages 9-13 [#page=9]
+core: 1
+

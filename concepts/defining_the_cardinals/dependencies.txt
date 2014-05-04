@@ -1,0 +1,14 @@
+tag: cardinality
+
+tag: functions_and_relations_as_sets
+reason: One must view relations as sets to see why you can't define cardinal numbers as equivalence classes.
+
+tag: russells_paradox
+reason: One cannot simply define cardinal numbers as equivalence classes because of the need to avoid Russell's Paradox.
+
+tag: ordinal_numbers
+reason: The cardinal numbers are constructed from the ordinal numbers.
+
+tag: axiom_of_choice
+reason: Identifying the cardinals with ordinals requires the Axiom of Choice.
+

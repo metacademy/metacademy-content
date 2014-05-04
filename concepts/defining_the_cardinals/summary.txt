@@ -1,0 +1,1 @@
+Intuitively, one would like to define cardinal numbers as equivalence classes of sets, but unfortunately, these equivalence classes are too large to be sets. Instead, the cardinal numbers can be defined from the ordinal numbers. This construction requires the Axiom of Choice.
