@@ -10,7 +10,7 @@ reason: The downward L-S theorem follows from the proof of the Completeness Theo
 tag: compactness_of_first_order_logic
 reason: The upward L-S theorem follows from the Compactness Theorem.
 
-tag: zermelo_frank_axioms
+tag: zermelo_frankl_axioms
 reason: Skolem's Paradox is about Zermelo-Frankl set theory.
 
 tag: countable_sets
