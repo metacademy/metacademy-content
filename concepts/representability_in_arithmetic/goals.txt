@@ -1,0 +1,7 @@
+* Define a system of axioms for basic arithmetic in first-order logic
+* Define what it means for functions and relations to be representable in a logical theory
+* Be able to show that simple arithmetic functions are representable in arithmetic (using a suitable set of axioms)
+* Show that the set of functions representable in arithmetic is closed under composition
+* Show that there is a representable encoding of tuples of numbers into single numbers
+
+

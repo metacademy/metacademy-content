@@ -1,0 +1,5 @@
+source: enderton
+edition: 2
+location: Section 3.3, "A subtheory of number theory," pages 202-223
+core: 1
+

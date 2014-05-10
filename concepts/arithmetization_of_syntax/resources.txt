@@ -1,0 +1,9 @@
+source: enderton
+edition: 2
+location: Section 3.4, "Arithmetization of syntax," pages 224-234
+extra: The definition of recursive functions (i.e. those representable in axiomatic number theory) is different from (but equivalent to) the usual one.
+core: 1
+
+source: wikipedia
+location: Article "Godel numbering" [http://en.wikipedia.org/wiki/Godel_numbering]
+# doesn't go through the details

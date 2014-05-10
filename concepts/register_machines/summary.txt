@@ -1,0 +1,1 @@
+Register machines are a model of computation involving a set of registers which can hold arbitrarily large positive integers. Despite the model's simplicity, it is Turing complete. The simplicity of the definition is helpful in computability theory, because reductions from counter machines can be easier than reductions from Turing machines.

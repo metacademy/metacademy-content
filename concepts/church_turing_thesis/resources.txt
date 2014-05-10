@@ -1,0 +1,20 @@
+source: enderton
+edition: 2
+location: Section 3.3. "A subtheory of number theory," subsection "Church's Thesis," pages 206-210
+core: 1
+extra: The definition of recursive functions (i.e. those representable in axiomatic number theory) is different from (but equivalent to) the usual one.
+dependencies: representability_in_arithmetic
+# doesn't cover lambda calculus
+
+source: bell_machover
+edition: 1
+location: Section 6.5, "Recursive functionals and functions," starting with Theorem 5.5, pages 242-247
+location: Section 6.7, "Church's Thesis," pages 257-259
+location: Section 6.8, "Recursiveness of computable functionals," pages 259-265
+dependencies: register_machines
+core: 1
+
+source: stanford_encyclopedia_of_philosophy
+location: Article "The Church-Turing thesis" [http://plato.stanford.edu/entries/church-turing/]
+# doesn't give the math
+

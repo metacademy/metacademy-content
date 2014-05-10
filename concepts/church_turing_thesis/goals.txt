@@ -1,0 +1,4 @@
+* Know the statement of the Church-Turing thesis
+* Know why it is not a precise mathematical statement
+* Show that Turing machines and lambda calculus are equivalent
+* Show that a function is recursive iff it is computable (by some Turing-complete formalism)

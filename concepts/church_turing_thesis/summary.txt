@@ -1,0 +1,1 @@
+The Church-Turing thesis is the hypothesis that any function which can be computed (by any deterministic procedure) can be computed by a Turing machine. Equivalently, it holds that a function is recursive if and only if it is computable. While this thesis is not a precise mathematical statement, and therefore cannot be proved, it is almost universally held to be true.

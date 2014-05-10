@@ -1,0 +1,3 @@
+tag: turing_machines
+reason: To show counter machines are a universal computer, one shows they can simulate Turing machines.
+
