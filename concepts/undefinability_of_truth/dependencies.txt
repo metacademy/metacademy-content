@@ -1,0 +1,9 @@
+tag: semantics_of_first_order_logic
+reason: Tarski's Theorem is about the semantics of first-order logic.
+
+tag: godel_numbering
+reason: Tarski's Theorem is stated in terms of Godel numbering.
+
+tag: representability_in_arithmetic
+reason: The proof of Tarski's Theorem involves representability in arithmetic.
+

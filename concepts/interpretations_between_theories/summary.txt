@@ -1,0 +1,1 @@
+Somtimes one mathematical theory T1 (e.g. set theory) is powerful enough to define the objects in and derive all the theorems of another theory T0 (e.g. Peano arithmetic). An interpretation from T0 into T1 is a systematic way of translating statements in T0 into the corresponding statements in T1. 

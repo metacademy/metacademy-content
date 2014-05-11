@@ -1,0 +1,1 @@
+Godel's Incompleteness Theorems apply to any formal deductive system which includes arithmetic. Since the natural numbers can be defined using set theory, the theorems apply to set theory as well.

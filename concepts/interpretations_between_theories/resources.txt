@@ -1,0 +1,4 @@
+source: enderton
+edition: 2
+location: Section 2.7, "Interpretations between theories," pages 164-172
+core: 1

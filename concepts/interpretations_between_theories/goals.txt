@@ -1,0 +1,2 @@
+* Define the notion of an interpretation function from one first-order theory to another
+* Be able to show that an interpretation function preserves the semantics of a theory

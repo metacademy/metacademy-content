@@ -1,0 +1,4 @@
+source: enderton
+edition: 1
+location: Section 3.7, "Second Incompleteness Theorem," starting with "Applications to set theory," pages 270-275
+core: 1

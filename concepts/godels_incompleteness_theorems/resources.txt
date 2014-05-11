@@ -1,0 +1,20 @@
+source: enderton
+edition: 2
+location: Section 3.5, "Incompleteness and undecidability," up through subsection "Recursive enumerability," pages 234-241
+location: Section 3.7, "Second Incompleteness Theorem," up to "Applications to set theory," pages 266-270
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 7.10, "Undecidability," pages 347-350
+location: Section 7.11, "Incompleteness," pages 353-359
+core: 1
+extra: Refer to Sections 6.1 and 7.1 for basic definitions and notation
+
+source: cohn_logic
+location: Section 17, "Introduction to incompleteness," pages 43-44 [#page=43]
+location: Section 18, "Intuitive background," pages 44-47[#page=44]
+location: Section 19, "Proofs of the Incompleteness Theorems," pages 47-51 [#page=47]
+location: Section 20, "Constructing a Godel sentence," page 51 [#page=51]
+core: 1
+

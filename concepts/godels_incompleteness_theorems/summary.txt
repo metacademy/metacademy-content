@@ -1,0 +1,2 @@
+Godel's Incompleteness Theorems are fundamental results showing the limitations of formal mathematics. The First Incompleteness Theorem shows that in any consistent logical system which includes arithmetic, some statements cannot be proved or disproved. Equivalently, the set of true statements about the natural numbers is undecidable. The Second Incompleteness Theorem states that no formal system which includes arithmetic can prove its own consistency, or that of a more powerful theory.
+

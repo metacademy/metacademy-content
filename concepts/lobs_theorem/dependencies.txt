@@ -1,0 +1,12 @@
+tag: semantics_of_first_order_logic
+reason: Lob's Theorem is a statement about the semantics of first-order logic.
+
+tag: proofs_in_first_order_logic
+reason: Lob's Theorem is a statement about proofs in first-order logic.
+
+tag: godel_numbering
+reason: Stating Lob's Theorem requires Godel numbering.
+
+tag: godels_incompleteness_theorems
+reason: Lob's Theorem is a generalization of Godel's Second Incompleteness Theorem, and the proof is analogous.
+

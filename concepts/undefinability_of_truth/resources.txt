@@ -1,0 +1,9 @@
+source: enderton
+edition: 2
+location: Start of Section 3.5, "Incompleteness and undecidability," pages 234-236
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 7.4, "Tarski's Theorem," pages 327-331
+core: 1
