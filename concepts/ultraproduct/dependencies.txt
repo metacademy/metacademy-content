@@ -1,0 +1,14 @@
+tag: semantics_of_first_order_logic
+reason: The ultraproduct is a way of combining structures in first-order logic.
+
+tag: equivalence_relations
+reason: The ultraproduct is defined using an equivalence relation.
+
+tag: ultrafilters
+reason: The ultraproduct is defined in terms of ultrafilters.
+
+tag: structural_induction
+reason: The proof of the Fundamental Theorem of Ultraproducts requires structural induction.
+
+tag: countable_sets
+reason: The Compactness Theorem is stated in terms of finite sets.

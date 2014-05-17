@@ -1,0 +1,8 @@
+source: cohn_logic
+location: Section 13, "Filters and ultrafilters," pages 30-33
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 4.3, "Filters and homomorphisms," pages 133-141
+core: 1

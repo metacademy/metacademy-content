@@ -1,0 +1,9 @@
+source: cohn_set_theory
+location: Part of Section 6, "The Axiom of Choice," pages 28-30 [#page=28]
+core: 1
+
+source: enderton_set_theory
+location: Part of Chapter 6, "Cardinal numbers and the Axiom of Choice," subsection "Axiom of Choice," pages 151-154
+location: Chapter 7, "Orderings and ordinals," subsection "Debts paid," pages 195-199
+core: 1
+dependencies: cardinality

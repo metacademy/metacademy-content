@@ -1,0 +1,6 @@
+* Define filter
+* Define ultrafilter
+* Define principal ultrafilter
+* Give an example of a non-principal ultrafilter
+* Using Zorn's Lemma, show that every filter is contained in an ultrafilter
+* Show that in the case of Boolean algebras, ultrafilters are equivalent to homomorphisms to {0, 1}.

@@ -1,0 +1,1 @@
+Boolean algebras are a mathematical structure which shares the algebraic properties of propositional formulas. Canonical examples include propositional formulas and the power set of a set (with set union, intersection, and complement playing the roles of the propositional connectives). Boolean algebras are used in topology, model theory, and social choice theory.

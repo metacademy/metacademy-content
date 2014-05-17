@@ -1,0 +1,10 @@
+source: cohn_logic
+location: Section 15, "Ultrafilters," pages 36-39 [#page=36]
+core: 1
+dependencies: peano_axioms
+
+source: bell_machover
+edition: 1
+location: Section 5.3, "Ultraproducts," pages 174-184
+core: 1
+extra: Refer to Section 5.1 for basic definitions and notation.

@@ -1,0 +1,2 @@
+The ultraproduct is an operation which combines a set of first-order structures into a single structure, in a way that respects the semantics of the individuals structures. This construction is used to give a purely semantic proof of the Compactness Theorem for first-order logic. It also gives a method for constructing non-standard models of first-order theories such as Peano arithmetic.
+
