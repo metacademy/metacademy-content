@@ -1,0 +1,14 @@
+tag: semantics_of_first_order_logic
+reason: Godel's Incompleteness Theorems are statements about the semantics of first-order logic
+
+tag: proofs_in_first_order_logic
+reason: Godel's Incompleteness Theorems are statements about proofs in first-order logic.
+
+tag: godel_numbering
+reason: Godel numbering is needed to construct the self-referential sentence in the proof.
+
+tag: decidability
+reason: The First Incompleteness Theorem can be viewed as a statement about decidability.
+
+tag: church_turing_thesis
+reason: Expressing Godel's Incompleteness Theorem in terms of computability requires the Church-Turing thesis.

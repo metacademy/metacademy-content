@@ -1,0 +1,13 @@
+source: enderton
+edition: 2
+location: Part of Section 3.7, "Second Incompleteness Theorem," from pages 268-270
+core: 1
+
+source: cohn_logic
+location: End of Section 19, "Proofs of the Incompleteness Theorems," from pages 50-51 [#page=50]
+core: 1
+
+source: wikipedia
+location: Article "Lob's Theorem" [http://en.wikipedia.org/wiki/Lob%27s_theorem]
+core: 1
+

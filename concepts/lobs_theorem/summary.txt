@@ -1,0 +1,1 @@
+Lob's Theorem asserts that no formal system T can prove statements of the form "If A is provable in T, then A is true" unless it is also capable of proving A directly. It can be seen as a generalization of Godel's Second Incompleteness Theorem.

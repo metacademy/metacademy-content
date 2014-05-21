@@ -1,0 +1,15 @@
+source: hopcroft_motwani_ullman
+edition: 3
+location: Section 8.5.3, "Counter machines," pages 358-359
+location: Section 8.5.4, "The power of counter machines," pages 359-361
+core: 1
+extra: Earlier parts of Section 8.5 discuss constructions used in the Turing equivalence proof.
+
+source: bell_machover
+edition: 1
+location: Section 6.2, "Algorithmic functions and functionals," pages 230-232
+location: Section 6.3, "The computer URIM," pages 232-237
+location: Section 6.4, "Computable functionals and functions," pages 237-239
+core: 1
+extra: See Section 6.1 for basic definitions and notation.
+

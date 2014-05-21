@@ -1,0 +1,8 @@
+tag: set_operations
+reason: Ultrafilters are defined on power sets.
+
+tag: zorns_lemma
+reason: Zorn's Lemma is needed to show that every filter is contained in an ultrafilter.
+
+tag: boolean_algebras
+reason: Ultrafilters can be defined on Boolean algebras.

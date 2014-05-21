@@ -1,0 +1,3 @@
+* Know the statement of Lob's Theorem and why it is significant
+* Show how to derive Godel's Second Incompleteness Theorem as a special case of Lob's Theorem
+* Prove Lob's Theorem

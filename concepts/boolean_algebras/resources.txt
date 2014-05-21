@@ -1,0 +1,11 @@
+source: cohn_logic
+location: Section 3, "Boolean algebra," pages 5-9 [#page=5]
+location: Section 4, "Classification," pages 9-12 [#page=9]
+core: 1
+
+source: bell_machover
+edition: 1
+location: Section 4.1, "Lattices," pages 125-129
+location: Section 4.2, "Boolean algebras," pages 129-132
+core: 1
+dependencies: topology_of_rn, first_order_logic

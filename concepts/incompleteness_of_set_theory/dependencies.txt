@@ -1,0 +1,11 @@
+tag: zermelo_frankl_axioms
+reason: One must choose a set of axioms to show the incompleteness of.
+
+tag: godels_incompleteness_theorems
+reason: The result is derived as a consequence of Godel's Incompleteness Theorems.
+
+tag: natural_numbers_as_sets
+reason: The interpretation from arithmetic into set theory requires defining natural numbers as sets.
+
+tag: interpretations_between_theories
+reason: Extending Godel's incompleteness results to set theory requires an interpretation of arithmetic into set theory.

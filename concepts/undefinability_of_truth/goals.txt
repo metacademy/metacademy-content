@@ -1,0 +1,3 @@
+* Know the statement of Tarski's Theorem and why this implies a formal language can't define its own truth predicate
+* Prove Tarski's Theorem
+

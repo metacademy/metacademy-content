@@ -1,0 +1,10 @@
+source: bell_machover
+edition: 1
+location: Section 6.5, "Recursive functionals and functions," pages 239-247
+location: Section 6.6, "A stockpile of examples," pages 247-256
+extra: The parts concerning computability (starting with Theorem 5.5) are optional, and depend on Sections 6.3-6.4
+
+source: stanford_encyclopedia_of_philosophy
+location: Article "Recursive functions," Section 1, "Types of recursion" [http://plato.stanford.edu/entries/recursive-functions/]
+core: 1
+

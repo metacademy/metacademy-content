@@ -1,0 +1,8 @@
+tag: first_order_logic
+reason: The axioms for arithmetic are typically defined in first-order logic.
+
+tag: proofs_in_first_order_logic
+reason: Defining representability requires a deductive calculus.
+
+tag: functions_and_relations_as_sets
+reason: Defining representable functions requires viewing functions as relations.

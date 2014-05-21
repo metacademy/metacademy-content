@@ -1,0 +1,4 @@
+* Know the statement of Zorn's Lemma
+* Prove Zorn's Lemma, assuming the Axiom of Choice
+* Prove the Axiom of Choice using Zorn's Lemma
+* Use Zorn's Lemma to show that every vector space has a basis

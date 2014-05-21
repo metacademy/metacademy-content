@@ -1,0 +1,8 @@
+tag: first_order_logic
+reason: One wants to arithmetize expressions in first order logic.
+
+tag: proofs_in_first_order_logic
+reason: One needs to show a deductive calculus for a logical system can be arithmetized.
+
+tag: representability_in_arithmetic
+reason: Arithmetization requires showing that things are representable in arithmetic.

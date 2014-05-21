@@ -1,0 +1,7 @@
+* Define a lattice
+* Define a Boolean algebra (as a complemented distributed lattice)
+* Be able to prove simple facts about Boolean algebras
+* Show that the power set of a set, with the standard set operations, forms a Boolean algebra
+* Give an example of a Boolean algebra which is not a power set
+* Define an atom
+* Be aware of the principle of duality (that Boolean algebras are symmetric with respect to meet and join)

@@ -1,0 +1,5 @@
+* State Godel's First Incompleteness Theorem (in terms of some statements not being provable one way or the other)
+* State the theorem in terms of the theory of natural numbers being undecidable
+* State Godel's Second Incompleteness Theorem
+* Be aware of Hilbert's program and why the second Incompleteness Theorem showed it to be impossible
+* Prove the theorems

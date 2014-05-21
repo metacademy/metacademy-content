@@ -1,0 +1,4 @@
+* Define the set of primitive recursive functions
+* Be able to show that simple functions are primitive recursive
+* Know what the minimization operator is and what additional power it adds
+* Know why definitions in terms of minimization can give only partial, not total, functions

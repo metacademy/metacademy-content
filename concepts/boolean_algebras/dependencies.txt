@@ -1,0 +1,11 @@
+tag: propositional_logic
+reason: Boolean algebras are a generalization of propositional logic.
+
+tag: order_relations
+reason: Boolean algebras are defined in terms of order relations.
+
+tag: set_operations
+reason: Power sets, with the standard set operations, are a canonical example of a Boolean algebra.
+
+tag: countable_sets
+reason: Some of the basic constructions of Boolean algebras involve countable sets.

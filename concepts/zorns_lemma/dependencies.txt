@@ -1,0 +1,14 @@
+tag: order_relations
+reason: Zorn's Lemma is stated in terms of partial orderings.
+
+tag: axiom_of_choice
+reason: Zorn's Lemma is equivalent to the Axiom of Choice.
+
+tag: functions_and_relations_as_sets
+reason: Proving Zorn's Lemma requires viewing relations as sets.
+
+tag: well_ordering
+reason: Zorn's Lemma is proved using transfinite recursion.
+
+tag: bases
+reason: A canonical application of Zorn's Lemma is to show that every vector space has a basis.

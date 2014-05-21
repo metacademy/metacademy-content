@@ -806,3 +806,11 @@ edition_years: 1977
 free: 0
 url: http://www.amazon.com/A-Course-In-Mathematical-Logic/dp/0720428440/
 description: A graduate textbook in mathematical logic.
+
+key: stanford_encyclopedia_of_philosophy
+resource_type: reference
+title: Stanford Encyclopedia of Philosophy
+free: 1
+url: http://plato.stanford.edu/index.html
+description: A philosophy reference.
+

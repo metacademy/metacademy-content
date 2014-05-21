@@ -1,0 +1,5 @@
+* Define the ultraproduct of a set of first-order structures
+* Know the Fundamental Theorem of Ultraproducts, which shows that the ultraproduct construction is consistent
+* Prove the Fundamental Theorem of Ultraproducts
+* Using the ultraproduct construction, prove the Compactness Theorem of first-order logic.
+
