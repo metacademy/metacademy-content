@@ -120,7 +120,7 @@ level: graduate
 description: A graudate-level textbook on machine learning and information theory.
 
 key: coursera_ng
-title: Coursera: Machine Leaning
+title: Coursera: Machine Learning
 authors: Andrew Y. Ng
 year: 2013
 url: http://class.coursera.org/ml-003/lecture/
@@ -806,5 +806,3 @@ edition_years: 1977
 free: 0
 url: http://www.amazon.com/A-Course-In-Mathematical-Logic/dp/0720428440/
 description: A graduate textbook in mathematical logic.
-
-

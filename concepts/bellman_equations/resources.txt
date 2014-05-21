@@ -3,5 +3,4 @@ location: Lecture 9 Segment 2: The Bellman Equations [http://www.youtube.com/wat
 note: This short video segment focuses on the Bellman equations in the context of Markov decision processes.
 
 source: wikipedia
-url: http://en.wikipedia.org/wiki/Bellman_equation
-title: Wikipedia article: Bellman equation
+location: Article: Bellman Equation [http://en.wikipedia.org/wiki/Bellman_equation]

@@ -13,5 +13,4 @@ location: Section 17.1 p. 645-651
 core: 1
 
 source: wikipedia
-title: Wikipedia Article: Markov decision process
-url: http://en.wikipedia.org/wiki/Markov_decision_process
+location: Article: Markov decision process [http://en.wikipedia.org/wiki/Markov_decision_process]

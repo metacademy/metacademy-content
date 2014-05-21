@@ -6,7 +6,6 @@ dependencies: linear_regression
 core: 1
 
 source: wikipedia
-title: Wikipedia: Stochastic Gradient Descent
 location: Article: Stochastic Gradient Descent [http://en.wikipedia.org/wiki/Stochastic_gradient_descent]
 
 source: coursera_domingos

@@ -13,5 +13,4 @@ url: http://stackoverflow.com/questions/5466323/how-exactly-does-k-means-work
 extra: accepted answer provides a solid definition and python implementation
 
 source: wikipedia
-title: Wikipedia: K-means++
-url: http://en.wikipedia.org/wiki/K-means%2B%2B
+location: Article: K-means++ [http://en.wikipedia.org/wiki/K-means%2B%2B]
