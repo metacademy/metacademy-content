@@ -1,3 +1,5 @@
+This content repository is deprecated. We now use a relational database for Metacademy's content.
+
 [![Build Status](https://travis-ci.org/metacademy/metacademy-content.png)](https://travis-ci.org/metacademy/metacademy-content)
 
 Metacademy's Content Repository
